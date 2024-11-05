@@ -1,0 +1,3181 @@
+{
+  "distinct": [
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "rank": 70,
+          "name": "SEGRITY LLC",
+          "logo": [
+            "https://lh5.googleusercontent.com/-zlhxRWOFcYU/AAAAAAAAAAI/AAAAAAAAAAA/tevvKGX9OHo/s400-p-k-no-ns-nd/photo.jpg",
+            "https://lh5.googleusercontent.com/-zlhxRWOFcYU/AAAAAAAAAAI/AAAAAAAAAAA/tevvKGX9OHo/s60-p-k-no-ns-nd/photo.jpg"
+          ],
+          "description": null,
+          "address": {
+            "street": "2650 E 40th Ave",
+            "postcode": "80205",
+            "city": "Denver",
+            "adm1": "Colorado",
+            "country": "US"
+          },
+          "location": {
+            "lat": 39.7717951,
+            "lng": -104.95523999999999
+          },
+          "reviews": null,
+          "category": {
+            "items": [
+              "Manufacturer",
+              "Engineering consultant"
+            ],
+            "primary": null
+          },
+          "timezone": "America/Denver",
+          "price_range": NaN,
+          "language": null,
+          "is_claimed": true,
+          "extra": {
+            "from_the_business": [
+              "Identifies as women-owned"
+            ],
+            "accessibility": [
+              "Wheelchair-accessible car park"
+            ]
+          },
+          "identity": [
+            "Identifies as women-owned"
+          ],
+          "opening_hours": null,
+          "status": 1,
+          "media": {
+            "items": [],
+            "count": 0,
+            "types": []
+          },
+          "activity": {
+            "min": null,
+            "max": null
+          },
+          "devices": [],
+          "external_id": "ChIJQ6rCFm55bIcRnekTFzdKesM",
+          "feature_id": "0x876c796e16c2aa43:0xc37a4a371713e99d",
+          "gkg_id": "/g/11f3scnglk",
+          "owner": {
+            "external_id": "110722384396492666454",
+            "url": "https://www.google.com/maps/contrib/110722384396492666454"
+          },
+          "phone": [
+            {
+              "raw": "+1 303-293-5939",
+              "area_code": "303",
+              "type": "FIXED_LINE_OR_MOBILE",
+              "country": "US",
+              "country_code": "1",
+              "number": "+13032935939",
+              "local": "(303) 293-5939",
+              "location": "Denver, CO",
+              "carrier": null,
+              "exchange": "DENVER",
+              "company": "QWEST CORPORATION",
+              "adm1": "CO"
+            }
+          ],
+          "url": "https://www.google.com/maps/place/SEGRITY+LLC/@39.7717951,-104.95523999999999,17z/data=!3m1!4b1!4m5!3m4!1s0x876c796e16c2aa43:0xc37a4a371713e99d!8m2!3d39.7717951!4d-104.95523999999999",
+          "appointment": null,
+          "website": {
+            "domain": "segrity.com",
+            "platform": null,
+            "url": "https://www.segrity.com/"
+          },
+          "business_name": "SEGRITY LLC",
+          "address_clean": "2650 E 40th Ave",
+          "city_clean": "Denver",
+          "state_clean": "Colorado",
+          "zip": "80205"
+        },
+        {
+          "loan_amount": "34942.0",
+          "business_name": "DAY LUMBER COMPANY, LLC",
+          "address": "3690 E Hwy 160",
+          "city": "Pagosa Springs",
+          "state": "CO",
+          "zip": "81147",
+          "naics_code": "444190.0",
+          "business_type": "Limited  Liability Company(LLC)",
+          "race_ethnicity": "Unanswered",
+          "gender": "Unanswered",
+          "veteran": "Unanswered",
+          "non_profit": "False",
+          "jobs_reported": "5.0",
+          "date_approved": "2020-04-30",
+          "lender": "Glacier Bank",
+          "cd": "CO-03",
+          "source_file": "01 PPP sub 150k through 112420.csv",
+          "na_flag": "False",
+          "dupe_flag": "False",
+          "year_approved": "2020",
+          "address_clean": "3690 E HWY 160",
+          "state_clean": "CO",
+          "city_clean": "PAGOSA SPRINGS"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "rank": 63,
+          "name": "ZCD STUDIO",
+          "logo": [
+            "https://lh4.googleusercontent.com/-MWCO5MZ_ak4/AAAAAAAAAAI/AAAAAAAAAAA/bwtnOk37rJg/s400-p-k-no-ns-nd/photo.jpg",
+            "https://lh4.googleusercontent.com/-MWCO5MZ_ak4/AAAAAAAAAAI/AAAAAAAAAAA/bwtnOk37rJg/s60-p-k-no-ns-nd/photo.jpg"
+          ],
+          "description": null,
+          "address": {
+            "street": "250 Fillmore St",
+            "postcode": "80206",
+            "city": "Denver",
+            "adm1": "Colorado",
+            "country": "US"
+          },
+          "location": {
+            "lat": 39.7203254,
+            "lng": -104.9531882
+          },
+          "reviews": null,
+          "category": {
+            "items": [
+              "Industrial design company",
+              "Electrical engineer",
+              "Engineer",
+              "Mechanical engineer",
+              "Research and product development"
+            ],
+            "primary": null
+          },
+          "timezone": "America/Denver",
+          "price_range": NaN,
+          "language": null,
+          "is_claimed": true,
+          "extra": {
+            "accessibility": [
+              "Wheelchair-accessible car park",
+              "Wheelchair-accessible entrance",
+              "Wheelchair-accessible seating",
+              "Wheelchair-accessible toilet"
+            ]
+          },
+          "identity": null,
+          "opening_hours": null,
+          "status": 1,
+          "media": {
+            "items": [
+              {
+                "url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FLOW8XXurSphVG1nVQJoDg&cb_client=search.gws-prod.gps&w=1024&h=768&yaw=88.48451&pitch=0&thumbfov=100",
+                "type": "street_view",
+                "created_at": "2024-11-01 09:00:00",
+                "caption": "ZCD STUDIO"
+              }
+            ],
+            "count": 0,
+            "types": [
+              "street_view"
+            ]
+          },
+          "activity": {
+            "min": null,
+            "max": null
+          },
+          "devices": [
+            "launch"
+          ],
+          "external_id": "ChIJM5CllZd-bIcRbKg7rwElWOs",
+          "feature_id": "0x876c7e9795a59033:0xeb582501af3ba86c",
+          "gkg_id": "/g/11b7xpnfhk",
+          "owner": {
+            "external_id": "101916156248545794910",
+            "url": "https://www.google.com/maps/contrib/101916156248545794910"
+          },
+          "phone": [
+            {
+              "raw": "+1 720-365-1800",
+              "area_code": "720",
+              "type": "FIXED_LINE_OR_MOBILE",
+              "country": "US",
+              "country_code": "1",
+              "number": "+17203651800",
+              "local": "(720) 365-1800",
+              "location": "Colorado",
+              "carrier": null,
+              "exchange": "DENVER",
+              "company": "NEW CINGULAR WIRELESS PCS, LLC",
+              "adm1": "CO"
+            }
+          ],
+          "url": "https://www.google.com/maps/place/ZCD+STUDIO/@39.7203254,-104.9531882,17z/data=!3m1!4b1!4m5!3m4!1s0x876c7e9795a59033:0xeb582501af3ba86c!8m2!3d39.7203254!4d-104.9531882",
+          "appointment": null,
+          "website": {
+            "domain": "zcdstudio.com",
+            "platform": null,
+            "url": "http://www.zcdstudio.com/"
+          },
+          "business_name": "ZCD STUDIO",
+          "address_clean": "250 Fillmore St",
+          "city_clean": "Denver",
+          "state_clean": "Colorado",
+          "zip": "80206"
+        },
+        {
+          "loan_amount": "25600.0",
+          "business_name": "KURT & GLEN CORPORATION",
+          "address": "13391 COUNTY ROAD 250",
+          "city": "DURANGO",
+          "state": "CO",
+          "zip": "81301",
+          "naics_code": "721211.0",
+          "business_type": "Subchapter S Corporation",
+          "race_ethnicity": "Unanswered",
+          "gender": "Male Owned",
+          "veteran": "Non-Veteran",
+          "non_profit": "False",
+          "jobs_reported": "2.0",
+          "date_approved": "2020-04-15",
+          "lender": "Community Banks of Colorado, A Division of",
+          "cd": "CO-03",
+          "source_file": "01 PPP sub 150k through 112420.csv",
+          "na_flag": "False",
+          "dupe_flag": "False",
+          "year_approved": "2020",
+          "address_clean": "13391 COUNTY RD 250",
+          "state_clean": "CO",
+          "city_clean": "DURANGO"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "rank": 3,
+          "name": "DYNOX OF COLORADO",
+          "logo": [
+            "https://lh4.googleusercontent.com/-9qDcVSYJ6-I/AAAAAAAAAAI/AAAAAAAAAAA/xLFOTwkmHwE/s400-p-k-no-ns-nd/photo.jpg",
+            "https://lh4.googleusercontent.com/-9qDcVSYJ6-I/AAAAAAAAAAI/AAAAAAAAAAA/xLFOTwkmHwE/s60-p-k-no-ns-nd/photo.jpg"
+          ],
+          "description": null,
+          "address": null,
+          "location": {
+            "lat": 39.7643389,
+            "lng": -104.8551114
+          },
+          "reviews": null,
+          "category": {
+            "items": [
+              "Electronics manufacturer",
+              "Service establishment"
+            ],
+            "primary": null
+          },
+          "timezone": "America/Denver",
+          "price_range": NaN,
+          "language": null,
+          "is_claimed": true,
+          "extra": null,
+          "identity": null,
+          "opening_hours": null,
+          "status": 1,
+          "media": {
+            "items": [
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipPQyKHeNXFiZ-53SXfUV7DWIVi8Ei42CAm0ZfEk=w1024-h768-k-no",
+                "type": "photo",
+                "created_at": "2020-09-25 02:00:00",
+                "caption": null
+              }
+            ],
+            "count": 0,
+            "types": [
+              "photo"
+            ]
+          },
+          "activity": {
+            "min": "2020-09-25 02:00:00",
+            "max": "2020-09-25 02:00:00"
+          },
+          "devices": [
+            "bizbuilder:gmb_web"
+          ],
+          "external_id": "ChIJTcFKQ0l_bIcRSKx9wGy4ssQ",
+          "feature_id": "0x876c7f49434ac14d:0xc4b2b86cc07dac48",
+          "gkg_id": "/g/11m323cvkq",
+          "owner": {
+            "external_id": "111249254986066700184",
+            "url": "https://www.google.com/maps/contrib/111249254986066700184"
+          },
+          "phone": null,
+          "url": "https://www.google.com/maps/place/DYNOX+OF+COLORADO/@39.7643389,-104.8551114,17z/data=!3m1!4b1!4m5!3m4!1s0x876c7f49434ac14d:0xc4b2b86cc07dac48!8m2!3d39.7643389!4d-104.8551114",
+          "appointment": null,
+          "website": {
+            "domain": "bigcartel.com",
+            "platform": null,
+            "url": "http://dynoxofcolorado.bigcartel.com/"
+          },
+          "business_name": "DYNOX OF COLORADO",
+          "address_clean": null,
+          "city_clean": null,
+          "state_clean": null,
+          "zip": null
+        },
+        {
+          "loan_amount": "88500.0",
+          "business_name": "COLORADO CONSERVATORY OF DANCE",
+          "address": "3001 INDUSTRIAL LN",
+          "city": "BROOMFIELD",
+          "state": "CO",
+          "zip": "80020",
+          "naics_code": "711190.0",
+          "business_type": "Non-Profit Organization",
+          "race_ethnicity": "Unanswered",
+          "gender": "Unanswered",
+          "veteran": "Unanswered",
+          "non_profit": "True",
+          "jobs_reported": "24.0",
+          "date_approved": "2020-04-10",
+          "lender": "FirstBank",
+          "cd": "CO-02",
+          "source_file": "01 PPP sub 150k through 112420.csv",
+          "na_flag": "False",
+          "dupe_flag": "False",
+          "year_approved": "2020",
+          "address_clean": "3001 INDUSTRIAL LN",
+          "state_clean": "CO",
+          "city_clean": "BROOMFIELD"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "rank": 87,
+          "name": "3rd Bird Kombucha",
+          "logo": [
+            "https://lh3.googleusercontent.com/-OsuhBE8v57M/AAAAAAAAAAI/AAAAAAAAAAA/Ru11OWJvglU/s400-p-k-no-ns-nd/photo.jpg",
+            "https://lh3.googleusercontent.com/-OsuhBE8v57M/AAAAAAAAAAI/AAAAAAAAAAA/Ru11OWJvglU/s60-p-k-no-ns-nd/photo.jpg"
+          ],
+          "description": null,
+          "address": null,
+          "location": {
+            "lat": 39.7643389,
+            "lng": -104.8551114
+          },
+          "reviews": {
+            "rating": 5,
+            "count": 2,
+            "spread": [
+              0,
+              0,
+              0,
+              0,
+              2
+            ]
+          },
+          "category": {
+            "items": [
+              "Food manufacturer",
+              "Service establishment"
+            ],
+            "primary": null
+          },
+          "timezone": "America/Denver",
+          "price_range": 0.0,
+          "language": null,
+          "is_claimed": true,
+          "extra": null,
+          "identity": null,
+          "opening_hours": null,
+          "status": 1,
+          "media": {
+            "items": [
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipO2QKIa-RiDkrOFgYehZyYa5GAZwPSJ1QllR2p9=w619-h640-k-no",
+                "type": "photo",
+                "created_at": "2023-01-22 23:00:00",
+                "caption": null
+              },
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipOV4rhCsdxS37ABL2VYnIKai_OYKf5WrxVyQTRD=w750-h531-k-no",
+                "type": "photo",
+                "created_at": "2023-01-22 23:00:00",
+                "caption": null
+              },
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipPLzGv9upi_mPYn_XWsi0ivbWxmDCkPIf9pRlZj=w1024-h1406-k-no",
+                "type": "photo",
+                "created_at": "2023-01-22 23:00:00",
+                "caption": null
+              }
+            ],
+            "count": 3,
+            "types": [
+              "photo"
+            ]
+          },
+          "activity": {
+            "min": "2023-01-22 23:00:00",
+            "max": "2023-01-22 23:00:00"
+          },
+          "devices": [
+            "bizbuilder:gmb_onboarding_web"
+          ],
+          "external_id": "ChIJoX5GFshhyUkRLI48Otu8fsY",
+          "feature_id": "0x49c961c816467ea1:0xc67ebcdb3a3c8e2c",
+          "gkg_id": "/g/11shfp50xd",
+          "owner": {
+            "external_id": "116899380465173014157",
+            "url": "https://www.google.com/maps/contrib/116899380465173014157"
+          },
+          "phone": null,
+          "url": "https://www.google.com/maps/place/3rd+Bird+Kombucha/@39.7643389,-104.8551114,17z/data=!3m1!4b1!4m5!3m4!1s0x49c961c816467ea1:0xc67ebcdb3a3c8e2c!8m2!3d39.7643389!4d-104.8551114",
+          "appointment": null,
+          "website": {
+            "domain": "3rdbirdcollective.com",
+            "platform": null,
+            "url": "http://www.3rdbirdcollective.com/"
+          },
+          "business_name": "3rd Bird Kombucha",
+          "address_clean": null,
+          "city_clean": null,
+          "state_clean": null,
+          "zip": null
+        },
+        {
+          "loan_amount": "18100.0",
+          "business_name": "3P LLC",
+          "address": "3480 S Logan St",
+          "city": "Englewood",
+          "state": "CO",
+          "zip": "80113",
+          "naics_code": "447110.0",
+          "business_type": "Corporation",
+          "race_ethnicity": "Unanswered",
+          "gender": "Unanswered",
+          "veteran": "Unanswered",
+          "non_profit": "False",
+          "jobs_reported": "3.0",
+          "date_approved": "2020-04-14",
+          "lender": "Independent Bank",
+          "cd": "CO-01",
+          "source_file": "01 PPP sub 150k through 112420.csv",
+          "na_flag": "False",
+          "dupe_flag": "False",
+          "year_approved": "2020",
+          "address_clean": "3480 S LOGAN ST",
+          "state_clean": "CO",
+          "city_clean": "ENGLEWOOD"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "rank": 36,
+          "name": "BROTHERS PRECISION .INC",
+          "logo": [
+            "https://lh6.googleusercontent.com/-x--nSE-lV6A/AAAAAAAAAAI/AAAAAAAAAAA/u-SXxNIW4dw/s400-p-k-no-ns-nd/photo.jpg",
+            "https://lh6.googleusercontent.com/-x--nSE-lV6A/AAAAAAAAAAI/AAAAAAAAAAA/u-SXxNIW4dw/s60-p-k-no-ns-nd/photo.jpg"
+          ],
+          "description": null,
+          "address": null,
+          "location": {
+            "lat": 39.9667397,
+            "lng": -105.063417
+          },
+          "reviews": null,
+          "category": {
+            "items": [
+              "Machine shop",
+              "Service establishment"
+            ],
+            "primary": null
+          },
+          "timezone": "America/Denver",
+          "price_range": NaN,
+          "language": null,
+          "is_claimed": true,
+          "extra": null,
+          "identity": null,
+          "opening_hours": null,
+          "status": 1,
+          "media": {
+            "items": [],
+            "count": 0,
+            "types": []
+          },
+          "activity": {
+            "min": null,
+            "max": null
+          },
+          "devices": [],
+          "external_id": "ChIJmaQedxaBa4cRRszIKoT6PLU",
+          "feature_id": "0x876b8116771ea499:0xb53cfa842ac8cc46",
+          "gkg_id": "/g/11fn2xzzkv",
+          "owner": {
+            "external_id": "105391180593649686347",
+            "url": "https://www.google.com/maps/contrib/105391180593649686347"
+          },
+          "phone": [
+            {
+              "raw": "+1 720-369-1074",
+              "area_code": "720",
+              "type": "FIXED_LINE_OR_MOBILE",
+              "country": "US",
+              "country_code": "1",
+              "number": "+17203691074",
+              "local": "(720) 369-1074",
+              "location": "Colorado",
+              "carrier": null,
+              "exchange": "DENVER",
+              "company": "NEW CINGULAR WIRELESS PCS, LLC",
+              "adm1": "CO"
+            }
+          ],
+          "url": "https://www.google.com/maps/place/BROTHERS+PRECISION+.INC/@39.9667397,-105.063417,17z/data=!3m1!4b1!4m5!3m4!1s0x876b8116771ea499:0xb53cfa842ac8cc46!8m2!3d39.9667397!4d-105.063417",
+          "appointment": null,
+          "website": null,
+          "business_name": "BROTHERS PRECISION .INC",
+          "address_clean": null,
+          "city_clean": null,
+          "state_clean": null,
+          "zip": null
+        },
+        {
+          "loan_amount": "220766.0",
+          "business_name": "SCHAEFER'S PRECISION BODY & FRAME, INC.",
+          "address": "440 E Chestnut",
+          "city": "STERLING",
+          "state": "CO",
+          "zip": "80751",
+          "naics_code": "811121.0",
+          "business_type": "Corporation",
+          "race_ethnicity": "Unanswered",
+          "gender": "Male Owned",
+          "veteran": "Non-Veteran",
+          "non_profit": "False",
+          "jobs_reported": "27.0",
+          "date_approved": "2020-04-06",
+          "lender": "Bank of Colorado",
+          "cd": "CO-04",
+          "source_file": "150k plus PPP through 112420.csv",
+          "na_flag": "False",
+          "dupe_flag": "False",
+          "year_approved": "2020",
+          "address_clean": "440 E CHESTNUT",
+          "state_clean": "CO",
+          "city_clean": "STERLING"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "rank": 85,
+          "name": "Aspen Valley Custom Cabinetry and Furniture",
+          "logo": [
+            "https://lh6.googleusercontent.com/-iEx0yg_PW5E/AAAAAAAAAAI/AAAAAAAAAAA/RUp_xEI6DiM/s400-p-k-no-ns-nd/photo.jpg",
+            "https://lh6.googleusercontent.com/-iEx0yg_PW5E/AAAAAAAAAAI/AAAAAAAAAAA/RUp_xEI6DiM/s60-p-k-no-ns-nd/photo.jpg"
+          ],
+          "description": null,
+          "address": null,
+          "location": {
+            "lat": 39.706571499999995,
+            "lng": -104.8844594
+          },
+          "reviews": {
+            "rating": 5,
+            "count": 2,
+            "spread": [
+              0,
+              0,
+              0,
+              0,
+              2
+            ]
+          },
+          "category": {
+            "items": [
+              "Contractor",
+              "Cabinet maker",
+              "Service establishment"
+            ],
+            "primary": null
+          },
+          "timezone": "America/Denver",
+          "price_range": 0.0,
+          "language": null,
+          "is_claimed": true,
+          "extra": {
+            "planning": [
+              "Appointment required"
+            ]
+          },
+          "identity": null,
+          "opening_hours": null,
+          "status": 1,
+          "media": {
+            "items": [
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipM0VwsKHz4flgO74R1u5DnJE6E9CFKlQNgKrKAQ=w960-h720-k-no",
+                "type": "photo",
+                "created_at": "2022-08-19 20:00:00",
+                "caption": null
+              },
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipNPFqZFYrDwExyEzfd9s-bdgfkBC7-ybm1RE0T6=w960-h720-k-no",
+                "type": "photo",
+                "created_at": "2022-08-19 20:00:00",
+                "caption": null
+              },
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipPn1c1m3MNvtVIehNRqEnS4knTs6cgfnO60XZkd=w1024-h768-k-no",
+                "type": "photo",
+                "created_at": "2022-08-19 20:00:00",
+                "caption": null
+              },
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipOCSlqGfAw8pY-S05aYdW0cv0AMf_n_ZylCpuuQ=w960-h720-k-no",
+                "type": "photo",
+                "created_at": "2022-08-19 20:00:00",
+                "caption": null
+              }
+            ],
+            "count": 4,
+            "types": [
+              "photo"
+            ]
+          },
+          "activity": {
+            "min": "2022-08-19 20:00:00",
+            "max": "2022-08-19 20:00:00"
+          },
+          "devices": [
+            "bizbuilder:gmb_api"
+          ],
+          "external_id": "ChIJGzBNSWiHbIcRX5sZSiwqrFI",
+          "feature_id": "0x876c8768494d301b:0x52ac2a2c4a199b5f",
+          "gkg_id": "/g/11r91t85yc",
+          "owner": {
+            "external_id": "110805706592049199048",
+            "url": "https://www.google.com/maps/contrib/110805706592049199048"
+          },
+          "phone": [
+            {
+              "raw": "+1 303-990-0324",
+              "area_code": "303",
+              "type": "FIXED_LINE_OR_MOBILE",
+              "country": "US",
+              "country_code": "1",
+              "number": "+13039900324",
+              "local": "(303) 990-0324",
+              "location": "Colorado",
+              "carrier": null,
+              "exchange": "FORTLUPTON",
+              "company": "T-MOBILE USA, INC.",
+              "adm1": "CO"
+            }
+          ],
+          "url": "https://www.google.com/maps/place/Aspen+Valley+Custom+Cabinetry+and+Furniture/@39.706571499999995,-104.8844594,17z/data=!3m1!4b1!4m5!3m4!1s0x876c8768494d301b:0x52ac2a2c4a199b5f!8m2!3d39.706571499999995!4d-104.8844594",
+          "appointment": null,
+          "website": {
+            "domain": "aspenvalleyccf.com",
+            "platform": null,
+            "url": "https://aspenvalleyccf.com/"
+          },
+          "business_name": "Aspen Valley Custom Cabinetry and Furniture",
+          "address_clean": null,
+          "city_clean": null,
+          "state_clean": null,
+          "zip": null
+        },
+        {
+          "loan_amount": "15868.0",
+          "business_name": "ANH VU",
+          "address": "19474 W 85TH BLUFF",
+          "city": "ARAVAD",
+          "state": "CO",
+          "zip": "80007",
+          "naics_code": "531210.0",
+          "business_type": "Independent Contractors",
+          "race_ethnicity": "Unanswered",
+          "gender": "Unanswered",
+          "veteran": "Unanswered",
+          "non_profit": "False",
+          "jobs_reported": "1.0",
+          "date_approved": "2020-06-27",
+          "lender": "Kabbage, Inc.",
+          "cd": "CO-07",
+          "source_file": "01 PPP sub 150k through 112420.csv",
+          "na_flag": "False",
+          "dupe_flag": "False",
+          "year_approved": "2020",
+          "address_clean": "19474 W 85 TH BLF",
+          "state_clean": "CO",
+          "city_clean": "ARVADA"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "rank": 36,
+          "name": "BROTHERS PRECISION .INC",
+          "logo": [
+            "https://lh6.googleusercontent.com/-x--nSE-lV6A/AAAAAAAAAAI/AAAAAAAAAAA/u-SXxNIW4dw/s400-p-k-no-ns-nd/photo.jpg",
+            "https://lh6.googleusercontent.com/-x--nSE-lV6A/AAAAAAAAAAI/AAAAAAAAAAA/u-SXxNIW4dw/s60-p-k-no-ns-nd/photo.jpg"
+          ],
+          "description": null,
+          "address": null,
+          "location": {
+            "lat": 39.9667397,
+            "lng": -105.063417
+          },
+          "reviews": null,
+          "category": {
+            "items": [
+              "Machine shop",
+              "Service establishment"
+            ],
+            "primary": null
+          },
+          "timezone": "America/Denver",
+          "price_range": NaN,
+          "language": null,
+          "is_claimed": true,
+          "extra": null,
+          "identity": null,
+          "opening_hours": null,
+          "status": 1,
+          "media": {
+            "items": [],
+            "count": 0,
+            "types": []
+          },
+          "activity": {
+            "min": null,
+            "max": null
+          },
+          "devices": [],
+          "external_id": "ChIJmaQedxaBa4cRRszIKoT6PLU",
+          "feature_id": "0x876b8116771ea499:0xb53cfa842ac8cc46",
+          "gkg_id": "/g/11fn2xzzkv",
+          "owner": {
+            "external_id": "105391180593649686347",
+            "url": "https://www.google.com/maps/contrib/105391180593649686347"
+          },
+          "phone": [
+            {
+              "raw": "+1 720-369-1074",
+              "area_code": "720",
+              "type": "FIXED_LINE_OR_MOBILE",
+              "country": "US",
+              "country_code": "1",
+              "number": "+17203691074",
+              "local": "(720) 369-1074",
+              "location": "Colorado",
+              "carrier": null,
+              "exchange": "DENVER",
+              "company": "NEW CINGULAR WIRELESS PCS, LLC",
+              "adm1": "CO"
+            }
+          ],
+          "url": "https://www.google.com/maps/place/BROTHERS+PRECISION+.INC/@39.9667397,-105.063417,17z/data=!3m1!4b1!4m5!3m4!1s0x876b8116771ea499:0xb53cfa842ac8cc46!8m2!3d39.9667397!4d-105.063417",
+          "appointment": null,
+          "website": null,
+          "business_name": "BROTHERS PRECISION .INC",
+          "address_clean": null,
+          "city_clean": null,
+          "state_clean": null,
+          "zip": null
+        },
+        {
+          "loan_amount": "324600.0",
+          "business_name": "BROTHERS REDEVELOPMENT INC",
+          "address": "2250 EATON ST",
+          "city": "EDGEWATER",
+          "state": "CO",
+          "zip": "80214",
+          "naics_code": "624229.0",
+          "business_type": "Non-Profit Organization",
+          "race_ethnicity": "Unanswered",
+          "gender": "Unanswered",
+          "veteran": "Unanswered",
+          "non_profit": "True",
+          "jobs_reported": "29.0",
+          "date_approved": "2020-04-08",
+          "lender": "FirstBank",
+          "cd": "CO-07",
+          "source_file": "150k plus PPP through 112420.csv",
+          "na_flag": "False",
+          "dupe_flag": "False",
+          "year_approved": "2020",
+          "address_clean": "2250 EATON ST",
+          "state_clean": "CO",
+          "city_clean": "EDGEWATER"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "rank": 123,
+          "name": "MARGARITA BRAVO - Denver Interior Designer",
+          "logo": [
+            "https://lh3.googleusercontent.com/-PTa3uLO6qg0/AAAAAAAAAAI/AAAAAAAAAAA/HK2DIEPLjx8/s400-p-k-no-ns-nd/photo.jpg",
+            "https://lh3.googleusercontent.com/-PTa3uLO6qg0/AAAAAAAAAAI/AAAAAAAAAAA/HK2DIEPLjx8/s60-p-k-no-ns-nd/photo.jpg"
+          ],
+          "description": null,
+          "address": {
+            "street": "601 S Broadway G",
+            "postcode": "80209",
+            "city": "Denver",
+            "adm1": "Colorado",
+            "country": "US"
+          },
+          "location": {
+            "lat": 39.705624,
+            "lng": -104.9877992
+          },
+          "reviews": {
+            "rating": 4.8,
+            "count": 39,
+            "spread": [
+              2,
+              0,
+              0,
+              0,
+              37
+            ]
+          },
+          "category": {
+            "items": [
+              "Interior designer",
+              "Bathroom remodeler",
+              "Design agency",
+              "Design engineer",
+              "Furniture manufacturer",
+              "Interior Decorator",
+              "Remodeler"
+            ],
+            "primary": null
+          },
+          "timezone": "America/Denver",
+          "price_range": 0.0,
+          "language": null,
+          "is_claimed": true,
+          "extra": {
+            "from_the_business": [
+              "Identifies as Latino-owned",
+              "Identifies as women-owned"
+            ],
+            "service_options": [
+              "Online estimates",
+              "On-site services"
+            ],
+            "crowd": [
+              "LGBTQ+ friendly"
+            ],
+            "planning": [
+              "Appointment required"
+            ]
+          },
+          "identity": [
+            "LGBTQ+ friendly",
+            "Identifies as women-owned",
+            "Identifies as Latino-owned"
+          ],
+          "opening_hours": null,
+          "status": 1,
+          "media": {
+            "items": [
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipMYH3YBK65_Q9WmrDmfYZA_BGrbj6kXRj5iJ_vL=w1024-h1818-k-no",
+                "type": "video",
+                "created_at": "2024-09-23 21:00:00",
+                "caption": "MARGARITA BRAVO - Denver Interior Designer"
+              },
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipNhSZ3OH8AdYR1hbj1E3vQQGlTMTVLBIRJZykSs=w1024-h682-k-no",
+                "type": "photo",
+                "created_at": "2022-03-30 15:00:00",
+                "caption": null
+              },
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipOSJgwNNU4X1rukv88vGESNn2HAWIO5V19frCZf=w1024-h682-k-no",
+                "type": "photo",
+                "created_at": "2021-09-14 15:00:00",
+                "caption": null
+              },
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipP53FnD-ZEKHPBR54FW4sGv7TXKk4BpNCWLuiTb=w1024-h679-k-no",
+                "type": "photo",
+                "created_at": "2018-02-01 11:00:00",
+                "caption": null
+              }
+            ],
+            "count": 669,
+            "types": [
+              "photo",
+              "video"
+            ]
+          },
+          "activity": {
+            "min": "2018-02-01 11:00:00",
+            "max": "2024-09-23 21:00:00"
+          },
+          "devices": [
+            "bizbuilder:gmb_api",
+            "bizbuilder:gmb_web"
+          ],
+          "external_id": "ChIJS_Udnpl-bIcR3o8xSb18vm4",
+          "feature_id": "0x876c7e999e1df54b:0x6ebe7cbd49318fde",
+          "gkg_id": "/g/11f2wpg3_s",
+          "owner": {
+            "external_id": "111356764217776466605",
+            "url": "https://www.google.com/maps/contrib/111356764217776466605"
+          },
+          "phone": [
+            {
+              "raw": "+1 720-735-7533",
+              "area_code": "720",
+              "type": "FIXED_LINE_OR_MOBILE",
+              "country": "US",
+              "country_code": "1",
+              "number": "+17207357533",
+              "local": "(720) 735-7533",
+              "location": "Colorado",
+              "carrier": null,
+              "exchange": "KEENESBURG",
+              "company": "ONVOY, LLC - CO",
+              "adm1": "CO"
+            }
+          ],
+          "url": "https://www.google.com/maps/place/MARGARITA+BRAVO+-+Denver+Interior+Designer/@39.705624,-104.9877992,17z/data=!3m1!4b1!4m5!3m4!1s0x876c7e999e1df54b:0x6ebe7cbd49318fde!8m2!3d39.705624!4d-104.9877992",
+          "appointment": null,
+          "website": {
+            "domain": "margaritabravo.com",
+            "platform": null,
+            "url": "https://www.margaritabravo.com/"
+          },
+          "business_name": "MARGARITA BRAVO - Denver Interior Designer",
+          "address_clean": "601 S Broadway G",
+          "city_clean": "Denver",
+          "state_clean": "Colorado",
+          "zip": "80209"
+        },
+        {
+          "loan_amount": "213700.0",
+          "business_name": "MARGARITAVILLE INC",
+          "address": "228 Bridge St",
+          "city": "VAIL",
+          "state": "CO",
+          "zip": "81657",
+          "naics_code": "722511.0",
+          "business_type": "Corporation",
+          "race_ethnicity": "Unanswered",
+          "gender": "Unanswered",
+          "veteran": "Unanswered",
+          "non_profit": "False",
+          "jobs_reported": "18.0",
+          "date_approved": "2020-04-09",
+          "lender": "FirstBank",
+          "cd": "CO-02",
+          "source_file": "150k plus PPP through 112420.csv",
+          "na_flag": "False",
+          "dupe_flag": "False",
+          "year_approved": "2020",
+          "address_clean": "228 BRG ST",
+          "state_clean": "CO",
+          "city_clean": "VAIL"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "rank": 131,
+          "name": "Brackitz",
+          "logo": [
+            "https://lh4.googleusercontent.com/-C2rNXZ4QplI/AAAAAAAAAAI/AAAAAAAAAAA/r_ypV8Aup6g/s400-p-k-no-ns-nd/photo.jpg",
+            "https://lh4.googleusercontent.com/-C2rNXZ4QplI/AAAAAAAAAAI/AAAAAAAAAAA/r_ypV8Aup6g/s60-p-k-no-ns-nd/photo.jpg"
+          ],
+          "description": null,
+          "address": {
+            "street": "Corporate Office: 1685, S Colorado Blvd",
+            "postcode": "80222",
+            "city": "Denver",
+            "adm1": "CO",
+            "country": "US"
+          },
+          "location": {
+            "lat": 39.685921199999996,
+            "lng": -104.9424674
+          },
+          "reviews": {
+            "rating": 4.8,
+            "count": 4,
+            "spread": [
+              0,
+              0,
+              0,
+              1,
+              3
+            ]
+          },
+          "category": {
+            "items": [
+              "Toy manufacturer",
+              "Toy store"
+            ],
+            "primary": null
+          },
+          "timezone": "America/Denver",
+          "price_range": 0.0,
+          "language": null,
+          "is_claimed": true,
+          "extra": {
+            "from_the_business": [
+              "Identifies as women-owned"
+            ],
+            "accessibility": [
+              "Wheelchair-accessible car park",
+              "Wheelchair-accessible entrance"
+            ],
+            "payments": [
+              "Debit cards",
+              "Credit cards"
+            ]
+          },
+          "identity": [
+            "Identifies as women-owned"
+          ],
+          "opening_hours": null,
+          "status": 0,
+          "media": {
+            "items": [
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipMkORGWN6FedkRFTEC2a5TnCMupmTm-IEQx4fsc=w640-h360-k-no",
+                "type": "video",
+                "created_at": "2019-06-10 22:00:00",
+                "caption": "Brackitz"
+              },
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipOsVstGEBF1Bf9DZFWZBLMdOUTd4ZI0C_BDh2vt=w1024-h1024-k-no",
+                "type": "photo",
+                "created_at": "2019-06-10 22:00:00",
+                "caption": null
+              },
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipNcBx3UkJsoVNmo-uVmTzeZxeyyZGvteoLe9FdH=w1024-h1536-k-no",
+                "type": "photo",
+                "created_at": "2019-06-10 22:00:00",
+                "caption": null
+              },
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipPg-Ds0upRYunqfSVTE13yB3OHeGfqXTJlvztqp=w1024-h1024-k-no",
+                "type": "photo",
+                "created_at": "2019-05-20 20:00:00",
+                "caption": null
+              }
+            ],
+            "count": 3,
+            "types": [
+              "photo",
+              "video"
+            ]
+          },
+          "activity": {
+            "min": "2019-05-20 20:00:00",
+            "max": "2019-06-10 22:00:00"
+          },
+          "devices": [
+            "bizbuilder:gmb_web"
+          ],
+          "external_id": "ChIJzci8BnV-bIcR0p8iG5Mr4nI",
+          "feature_id": "0x876c7e7506bcc8cd:0x72e22b931b229fd2",
+          "gkg_id": "/g/11c1vkw6mx",
+          "owner": {
+            "external_id": "112757171561256829614",
+            "url": "https://www.google.com/maps/contrib/112757171561256829614"
+          },
+          "phone": [
+            {
+              "raw": "+1 720-446-5558",
+              "area_code": "720",
+              "type": "FIXED_LINE_OR_MOBILE",
+              "country": "US",
+              "country_code": "1",
+              "number": "+17204465558",
+              "local": "(720) 446-5558",
+              "location": "Colorado",
+              "carrier": null,
+              "exchange": "DENVER",
+              "company": "XO COLORADO, LLC",
+              "adm1": "CO"
+            }
+          ],
+          "url": "https://www.google.com/maps/place/Brackitz/@39.685921199999996,-104.9424674,17z/data=!3m1!4b1!4m5!3m4!1s0x876c7e7506bcc8cd:0x72e22b931b229fd2!8m2!3d39.685921199999996!4d-104.9424674",
+          "appointment": null,
+          "website": null,
+          "business_name": "Brackitz",
+          "address_clean": "Corporate Office: 1685, S Colorado Blvd",
+          "city_clean": "Denver",
+          "state_clean": "CO",
+          "zip": "80222"
+        },
+        {
+          "loan_amount": "7500.0",
+          "business_name": "ROCKY MOUNTAIN BEETLE BUSTERS INC",
+          "address": "250 Conifer Dr",
+          "city": "SOUTH FORK",
+          "state": "CO",
+          "zip": "81154",
+          "naics_code": "561710.0",
+          "business_type": "Corporation",
+          "race_ethnicity": "Unanswered",
+          "gender": "Male Owned",
+          "veteran": "Unanswered",
+          "non_profit": "False",
+          "jobs_reported": "1.0",
+          "date_approved": "2020-04-28",
+          "lender": "Community Banks of Colorado, A Division of",
+          "cd": "CO-03",
+          "source_file": "01 PPP sub 150k through 112420.csv",
+          "na_flag": "False",
+          "dupe_flag": "False",
+          "year_approved": "2020",
+          "address_clean": "250 CONIFER DR",
+          "state_clean": "CO",
+          "city_clean": "SOUTH FORK"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "rank": 65,
+          "name": "Midnight Visuals",
+          "logo": [
+            "https://lh3.googleusercontent.com/-SBGFcdhbAy4/AAAAAAAAAAI/AAAAAAAAAAA/MxeulG9A1mg/s400-p-k-no-ns-nd/photo.jpg",
+            "https://lh3.googleusercontent.com/-SBGFcdhbAy4/AAAAAAAAAAI/AAAAAAAAAAA/MxeulG9A1mg/s60-p-k-no-ns-nd/photo.jpg"
+          ],
+          "description": null,
+          "address": {
+            "street": "Entrance in alley, 3537 Delgany St",
+            "postcode": "80216",
+            "city": "Denver",
+            "adm1": "CO",
+            "country": "US"
+          },
+          "location": {
+            "lat": 39.7718006,
+            "lng": -104.97937379999999
+          },
+          "reviews": null,
+          "category": {
+            "items": [
+              "Sticker manufacturer",
+              "Vinyl sign shop"
+            ],
+            "primary": null
+          },
+          "timezone": "America/Denver",
+          "price_range": NaN,
+          "language": null,
+          "is_claimed": true,
+          "extra": {
+            "accessibility": [
+              "Wheelchair-accessible car park"
+            ],
+            "payments": [
+              "Debit cards",
+              "Credit cards"
+            ]
+          },
+          "identity": null,
+          "opening_hours": null,
+          "status": 1,
+          "media": {
+            "items": [
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipOnDFUfofIjx12RPxQlHItMDlSwWnZ9aaFICmbr=w1024-h768-k-no",
+                "type": "photo",
+                "created_at": "2021-08-24 20:00:00",
+                "caption": null
+              }
+            ],
+            "count": 0,
+            "types": [
+              "photo"
+            ]
+          },
+          "activity": {
+            "min": "2021-08-24 20:00:00",
+            "max": "2021-08-24 20:00:00"
+          },
+          "devices": [
+            "bizbuilder:gmb_web"
+          ],
+          "external_id": "ChIJvXiCxRh5bIcR53rVdoRPmZo",
+          "feature_id": "0x876c7918c58278bd:0x9a994f8476d57ae7",
+          "gkg_id": "/g/11q98m5v3s",
+          "owner": {
+            "external_id": "109555282094596964015",
+            "url": "https://www.google.com/maps/contrib/109555282094596964015"
+          },
+          "phone": [
+            {
+              "raw": "+1 303-218-0494",
+              "area_code": "303",
+              "type": "FIXED_LINE_OR_MOBILE",
+              "country": "US",
+              "country_code": "1",
+              "number": "+13032180494",
+              "local": "(303) 218-0494",
+              "location": "Colorado",
+              "carrier": null,
+              "exchange": "DENVER",
+              "company": "MCIMETRO ACCESS TRANSMISSION SERVICES LLC",
+              "adm1": "CO"
+            }
+          ],
+          "url": "https://www.google.com/maps/place/Midnight+Visuals/@39.7718006,-104.97937379999999,17z/data=!3m1!4b1!4m5!3m4!1s0x876c7918c58278bd:0x9a994f8476d57ae7!8m2!3d39.7718006!4d-104.97937379999999",
+          "appointment": null,
+          "website": {
+            "domain": "midnightvisuals.co",
+            "platform": null,
+            "url": "http://www.midnightvisuals.co/"
+          },
+          "business_name": "Midnight Visuals",
+          "address_clean": "Entrance in alley, 3537 Delgany St",
+          "city_clean": "Denver",
+          "state_clean": "CO",
+          "zip": "80216"
+        },
+        {
+          "loan_amount": "274400.0",
+          "business_name": "THE GATHERING PLACE: A REFUGE FOR REBUILDING LIVES",
+          "address": "1535 High St.",
+          "city": "DENVER",
+          "state": "CO",
+          "zip": "80218",
+          "naics_code": "624221.0",
+          "business_type": "Non-Profit Organization",
+          "race_ethnicity": "Unanswered",
+          "gender": "Unanswered",
+          "veteran": "Unanswered",
+          "non_profit": "True",
+          "jobs_reported": "27.0",
+          "date_approved": "2020-04-15",
+          "lender": "Zions Bank, A Division of",
+          "cd": "CO-01",
+          "source_file": "150k plus PPP through 112420.csv",
+          "na_flag": "False",
+          "dupe_flag": "False",
+          "year_approved": "2020",
+          "address_clean": "1535 HIGH ST",
+          "state_clean": "CO",
+          "city_clean": "DENVER"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "rank": 32,
+          "name": "Five Star Chemicals & Supply LLC",
+          "logo": [
+            "https://lh4.googleusercontent.com/-rEVCsCK-_6M/AAAAAAAAAAI/AAAAAAAAAAA/19Cyfm6k9ZM/s400-p-k-no-ns-nd/photo.jpg",
+            "https://lh4.googleusercontent.com/-rEVCsCK-_6M/AAAAAAAAAAI/AAAAAAAAAAA/19Cyfm6k9ZM/s60-p-k-no-ns-nd/photo.jpg"
+          ],
+          "description": null,
+          "address": {
+            "street": "6870 W 52nd Pl Suite #205",
+            "postcode": "80002",
+            "city": "Arvada",
+            "adm1": "Colorado",
+            "country": "US"
+          },
+          "location": {
+            "lat": 39.788698499999995,
+            "lng": -105.0726114
+          },
+          "reviews": {
+            "rating": 4.5,
+            "count": 17,
+            "spread": [
+              1,
+              0,
+              2,
+              1,
+              13
+            ]
+          },
+          "category": {
+            "items": [
+              "Chemical manufacturer",
+              "Cleaning products supplier",
+              "Cleaning service"
+            ],
+            "primary": null
+          },
+          "timezone": "America/Denver",
+          "price_range": 0.0,
+          "language": null,
+          "is_claimed": true,
+          "extra": {
+            "accessibility": [
+              "Wheelchair-accessible car park",
+              "Wheelchair-accessible entrance"
+            ]
+          },
+          "identity": null,
+          "opening_hours": null,
+          "status": 1,
+          "media": {
+            "items": [
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipMS8ndVZZR922zMkJEWkd-O25vaa2JoNXX5wwSK=w1024-h682-k-no",
+                "type": "photo",
+                "created_at": "2020-10-13 15:00:00",
+                "caption": null
+              },
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipORpkPQ5VmcwOUZB-g-u2auVmxTPodzr11YFF32=w1024-h682-k-no",
+                "type": "photo",
+                "created_at": "2020-10-13 15:00:00",
+                "caption": null
+              },
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipP0Vhc_jwqUIS9_Wbs9J9yA7hwW6dVbO4lTCVR9=w1024-h682-k-no",
+                "type": "photo",
+                "created_at": "2020-10-13 15:00:00",
+                "caption": null
+              },
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipP2HivsOBaitrDjx9TU9znBp7NgKxh_Oto3OiCf=w1024-h1365-k-no",
+                "type": "photo",
+                "created_at": "2017-02-03 02:00:00",
+                "caption": null
+              }
+            ],
+            "count": 4,
+            "types": [
+              "photo"
+            ]
+          },
+          "activity": {
+            "min": "2017-02-03 02:00:00",
+            "max": "2020-10-13 15:00:00"
+          },
+          "devices": [
+            "bizbuilder:gmb_onboarding_web",
+            "photos:gmm_android"
+          ],
+          "external_id": "ChIJVfg6kC56bIcRlB-OokZEALo",
+          "feature_id": "0x876c7a2e903af855:0xba004446a28e1f94",
+          "gkg_id": "/g/1263lh3_d",
+          "owner": {
+            "external_id": "110444803425754722696",
+            "url": "https://www.google.com/maps/contrib/110444803425754722696"
+          },
+          "phone": [
+            {
+              "raw": "+1 800-782-7019",
+              "area_code": null,
+              "type": "TOLL_FREE",
+              "country": "US",
+              "country_code": "1",
+              "number": "+18007827019",
+              "local": "(800) 782-7019",
+              "location": null,
+              "carrier": null,
+              "exchange": null,
+              "company": null,
+              "adm1": null
+            }
+          ],
+          "url": "https://www.google.com/maps/place/Five+Star+Chemicals+%26+Supply+LLC/@39.788698499999995,-105.0726114,17z/data=!3m1!4b1!4m5!3m4!1s0x876c7a2e903af855:0xba004446a28e1f94!8m2!3d39.788698499999995!4d-105.0726114",
+          "appointment": null,
+          "website": {
+            "domain": "fivestarchemicals.com",
+            "platform": null,
+            "url": "http://www.fivestarchemicals.com/"
+          },
+          "business_name": "Five Star Chemicals & Supply LLC",
+          "address_clean": "6870 W 52nd Pl Suite #205",
+          "city_clean": "Arvada",
+          "state_clean": "Colorado",
+          "zip": "80002"
+        },
+        {
+          "loan_amount": "22885.0",
+          "business_name": "DESIGNING GIG LLC",
+          "address": "10146 YAMPA CT",
+          "city": "COMMERCE CITY",
+          "state": "CO",
+          "zip": "80022",
+          "naics_code": "541430.0",
+          "business_type": "Limited  Liability Company(LLC)",
+          "race_ethnicity": "Unanswered",
+          "gender": "Unanswered",
+          "veteran": "Unanswered",
+          "non_profit": "False",
+          "jobs_reported": "2.0",
+          "date_approved": "2020-07-31",
+          "lender": "JPMorgan Chase Bank, National Association",
+          "cd": "CO-07",
+          "source_file": "01 PPP sub 150k through 112420.csv",
+          "na_flag": "False",
+          "dupe_flag": "False",
+          "year_approved": "2020",
+          "address_clean": "10146 YAMPA CT",
+          "state_clean": "CO",
+          "city_clean": "COMMERCE CITY"
+        }
+      ]
+    }
+  ],
+  "match": [
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "rank": 123,
+          "name": "Shell Dredging and Manufacturing",
+          "logo": [
+            "https://lh5.googleusercontent.com/-un9blP5GHlI/AAAAAAAAAAI/AAAAAAAAAAA/guDYq5lCR08/s400-p-k-no-ns-nd/photo.jpg",
+            "https://lh5.googleusercontent.com/-un9blP5GHlI/AAAAAAAAAAI/AAAAAAAAAAA/guDYq5lCR08/s60-p-k-no-ns-nd/photo.jpg"
+          ],
+          "description": null,
+          "address": {
+            "street": "3333 S. Wadsworth Blvd Suite D110d",
+            "postcode": "80227",
+            "city": "Lakewood",
+            "adm1": "CO",
+            "country": "US"
+          },
+          "location": {
+            "lat": 39.6559963,
+            "lng": -105.08296419999999
+          },
+          "reviews": null,
+          "category": {
+            "items": [
+              "Mining equipment"
+            ],
+            "primary": null
+          },
+          "timezone": "America/Denver",
+          "price_range": NaN,
+          "language": null,
+          "is_claimed": true,
+          "extra": {
+            "accessibility": [
+              "Wheelchair-accessible car park"
+            ],
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          },
+          "identity": null,
+          "opening_hours": null,
+          "status": 1,
+          "media": {
+            "items": [
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipOqy1SRr4zaF2nb4HW4d9TwEY_fZLWyFNINo2rK=w1024-h768-k-no",
+                "type": "photo",
+                "created_at": "2019-01-01 19:00:00",
+                "caption": null
+              },
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipOHNP2SoXg8PO8Ai1Zu35V2uwKWWeZVXA63t-mG=w1024-h768-k-no",
+                "type": "photo",
+                "created_at": "2019-01-01 19:00:00",
+                "caption": null
+              },
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipNONRqQ3afxtTB4uhfP-n7gXCJdh_i4E4X8iDKJ=w1024-h768-k-no",
+                "type": "photo",
+                "created_at": "2019-01-01 19:00:00",
+                "caption": null
+              },
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipOMfjR-TjS3DG-dtwES4MAqIxVB2cCA_Y2R0rNz=w1024-h768-k-no",
+                "type": "photo",
+                "created_at": "2019-01-01 19:00:00",
+                "caption": null
+              }
+            ],
+            "count": 4,
+            "types": [
+              "photo"
+            ]
+          },
+          "activity": {
+            "min": "2019-01-01 19:00:00",
+            "max": "2019-01-01 19:00:00"
+          },
+          "devices": [
+            "bizbuilder:gmb_web"
+          ],
+          "external_id": "ChIJc_31KgmBa4cRDv9njE19Yhs",
+          "feature_id": "0x876b81092af5fd73:0x1b627d4d8c67ff0e",
+          "gkg_id": "/g/11fj5hrg0q",
+          "owner": {
+            "external_id": "108376259265373112674",
+            "url": "https://www.google.com/maps/contrib/108376259265373112674"
+          },
+          "phone": [
+            {
+              "raw": "+1 303-949-0505",
+              "area_code": "303",
+              "type": "FIXED_LINE_OR_MOBILE",
+              "country": "US",
+              "country_code": "1",
+              "number": "+13039490505",
+              "local": "(303) 949-0505",
+              "location": "Colorado",
+              "carrier": null,
+              "exchange": "DENVER",
+              "company": "T-MOBILE USA, INC.",
+              "adm1": "CO"
+            }
+          ],
+          "url": "https://www.google.com/maps/place/Shell+Dredging+and+Manufacturing/@39.6559963,-105.08296419999999,17z/data=!3m1!4b1!4m5!3m4!1s0x876b81092af5fd73:0x1b627d4d8c67ff0e!8m2!3d39.6559963!4d-105.08296419999999",
+          "appointment": null,
+          "website": {
+            "domain": "shelldredging.com",
+            "platform": null,
+            "url": "https://www.shelldredging.com/"
+          },
+          "business_name": "Shell Dredging and Manufacturing",
+          "address_clean": "3333 S. Wadsworth Blvd Suite D110d",
+          "city_clean": "Lakewood",
+          "state_clean": "CO",
+          "zip": "80227"
+        },
+        {
+          "loan_amount": "21387.5",
+          "business_name": "ROD'S ITALIAN PASTA LLC",
+          "address": "6980 Quinn St, Building 2355",
+          "city": "Fort Carson",
+          "state": "CO",
+          "zip": "80913",
+          "naics_code": "722511.0",
+          "business_type": "Limited  Liability Company(LLC)",
+          "race_ethnicity": "Unanswered",
+          "gender": "Unanswered",
+          "veteran": "Unanswered",
+          "non_profit": "False",
+          "jobs_reported": "2.0",
+          "date_approved": "2020-04-27",
+          "lender": "Security Service FCU",
+          "cd": "CO-05",
+          "source_file": "01 PPP sub 150k through 112420.csv",
+          "na_flag": "False",
+          "dupe_flag": "False",
+          "year_approved": "2020",
+          "address_clean": "6980 QUINN ST BLDG 2355",
+          "state_clean": "CO",
+          "city_clean": "FORT CARSON"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "rank": 34,
+          "name": "ORIC CORPORATION",
+          "logo": null,
+          "description": null,
+          "address": {
+            "street": "1600 Broadway #1600",
+            "postcode": "80202",
+            "city": "Denver",
+            "adm1": "Colorado",
+            "country": "US"
+          },
+          "location": {
+            "lat": 39.742222999999996,
+            "lng": -104.986987
+          },
+          "reviews": null,
+          "category": {
+            "items": [
+              "Fabric wholesaler"
+            ],
+            "primary": null
+          },
+          "timezone": "America/Denver",
+          "price_range": NaN,
+          "language": null,
+          "is_claimed": false,
+          "extra": null,
+          "identity": null,
+          "opening_hours": null,
+          "status": 1,
+          "media": {
+            "items": [
+              {
+                "url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=B5jlg7z8xMmNCSZSnWM-fg&cb_client=search.gws-prod.gps&w=1024&h=768&yaw=78.9254&pitch=0&thumbfov=100",
+                "type": "street_view",
+                "created_at": "2024-11-01 22:00:00",
+                "caption": "ORIC CORPORATION"
+              }
+            ],
+            "count": 0,
+            "types": [
+              "street_view"
+            ]
+          },
+          "activity": {
+            "min": null,
+            "max": null
+          },
+          "devices": [
+            "launch"
+          ],
+          "external_id": "ChIJd2ft6tV4bIcRCy-7lFrznhY",
+          "feature_id": "0x876c78d5eaed6777:0x169ef35a94bb2f0b",
+          "gkg_id": "/g/11dzdcb0nv",
+          "owner": null,
+          "phone": [
+            {
+              "raw": "+1 720-739-0122",
+              "area_code": "720",
+              "type": "FIXED_LINE_OR_MOBILE",
+              "country": "US",
+              "country_code": "1",
+              "number": "+17207390122",
+              "local": "(720) 739-0122",
+              "location": "Colorado",
+              "carrier": null,
+              "exchange": "DENVER",
+              "company": "BANDWIDTH.COM CLEC, LLC - CO",
+              "adm1": "CO"
+            }
+          ],
+          "url": "https://www.google.com/maps/place/ORIC+CORPORATION/@39.742222999999996,-104.986987,17z/data=!3m1!4b1!4m5!3m4!1s0x876c78d5eaed6777:0x169ef35a94bb2f0b!8m2!3d39.742222999999996!4d-104.986987",
+          "appointment": null,
+          "website": null,
+          "business_name": "ORIC CORPORATION",
+          "address_clean": "1600 Broadway #1600",
+          "city_clean": "Denver",
+          "state_clean": "Colorado",
+          "zip": "80202"
+        },
+        {
+          "loan_amount": "271500.0",
+          "business_name": "LCS FINANCIAL SERVICES CORPORATION",
+          "address": "6782 S. POTOMAC STREET",
+          "city": "ENGLEWOOD",
+          "state": "CO",
+          "zip": "80112",
+          "naics_code": "561440.0",
+          "business_type": "Corporation",
+          "race_ethnicity": "Unanswered",
+          "gender": "Unanswered",
+          "veteran": "Unanswered",
+          "non_profit": "False",
+          "jobs_reported": "25.0",
+          "date_approved": "2020-04-15",
+          "lender": "Zions Bank, A Division of",
+          "cd": "CO-06",
+          "source_file": "150k plus PPP through 112420.csv",
+          "na_flag": "False",
+          "dupe_flag": "False",
+          "year_approved": "2020",
+          "address_clean": "6782 S POTOMAC ST",
+          "state_clean": "CO",
+          "city_clean": "ENGLEWOOD"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "rank": 69,
+          "name": "REI",
+          "logo": [
+            "https://lh4.googleusercontent.com/-0JVFicOg3-E/AAAAAAAAAAI/AAAAAAAAAAA/YyUmqvB9saQ/s400-p-k-no-ns-nd/photo.jpg",
+            "https://lh4.googleusercontent.com/-0JVFicOg3-E/AAAAAAAAAAI/AAAAAAAAAAA/YyUmqvB9saQ/s60-p-k-no-ns-nd/photo.jpg"
+          ],
+          "description": "Retail chain carrying gear, apparel & footwear for a wide range of outdoor & fitness activities.",
+          "address": {
+            "street": "1416 Platte St",
+            "postcode": "80202",
+            "city": "Denver",
+            "adm1": "Colorado",
+            "country": "US"
+          },
+          "location": {
+            "lat": 39.755621999999995,
+            "lng": -105.00985299999999
+          },
+          "reviews": {
+            "rating": 4.5,
+            "count": 3078,
+            "spread": [
+              205,
+              70,
+              106,
+              371,
+              2326
+            ]
+          },
+          "category": {
+            "items": [
+              "Camping store",
+              "Bicycle repair shop",
+              "Bicycle store",
+              "Canoe u0026 kayak store",
+              "Children's clothing store",
+              "Clothing store",
+              "Outdoor activity organiser",
+              "Outdoor sports store",
+              "Shoe store",
+              "Ski shop"
+            ],
+            "primary": null
+          },
+          "timezone": "America/Denver",
+          "price_range": 0.0,
+          "language": null,
+          "is_claimed": true,
+          "extra": {
+            "service_options": [
+              "Kerbside pickup",
+              "In-store pick-up",
+              "In-store shopping",
+              "On-site services",
+              "Delivery",
+              "Same-day delivery"
+            ],
+            "accessibility": [
+              "Wheelchair-accessible car park",
+              "Wheelchair-accessible entrance"
+            ],
+            "amenities": [
+              "Wi-Fi"
+            ],
+            "crowd": [
+              "LGBTQ+ friendly"
+            ],
+            "planning": [
+              "Quick visit"
+            ],
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          },
+          "identity": [
+            "LGBTQ+ friendly"
+          ],
+          "opening_hours": [
+            {
+              "day": 1,
+              "hours": [
+                9,
+                21
+              ]
+            },
+            {
+              "day": 2,
+              "hours": [
+                9,
+                21
+              ]
+            },
+            {
+              "day": 3,
+              "hours": [
+                9,
+                21
+              ]
+            },
+            {
+              "day": 4,
+              "hours": [
+                9,
+                21
+              ]
+            },
+            {
+              "day": 5,
+              "hours": [
+                9,
+                21
+              ]
+            },
+            {
+              "day": 6,
+              "hours": [
+                9,
+                21
+              ]
+            },
+            {
+              "day": 7,
+              "hours": [
+                9,
+                19
+              ]
+            }
+          ],
+          "status": 1,
+          "media": {
+            "items": [
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipOEhEOOK2Q8ba1QucjOhMcrvYEWq5vUP63jtzk2=w1024-h1365-k-no",
+                "type": "photo",
+                "created_at": "2024-10-24 22:00:00",
+                "caption": null
+              },
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipPMHLLT_atjjSp359wHWjcWzpmDTKjcV-sD_thl=w1024-h576-k-no",
+                "type": "photo",
+                "created_at": "2021-07-01 16:00:00",
+                "caption": null
+              },
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipMRMEnkZYHQm8xpfaz0dKvTS0knNeCGeN1OoAY=w800-h533-k-no",
+                "type": "photo",
+                "created_at": "2018-08-01 23:00:00",
+                "caption": null
+              },
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipNU6juXSVi56u2NUPiOvFSJJP6cY-ax3T2KfsDD=w1024-h1368-k-no",
+                "type": "photo",
+                "created_at": "2016-11-05 04:00:00",
+                "caption": null
+              }
+            ],
+            "count": 2081,
+            "types": [
+              "photo"
+            ]
+          },
+          "activity": {
+            "min": "2016-11-05 04:00:00",
+            "max": "2024-10-24 22:00:00"
+          },
+          "devices": [
+            "photos:gmm_android",
+            "photos:gmm_ios",
+            "photos:local_universal_mobile"
+          ],
+          "external_id": "ChIJs4RUWJV4bIcR2oiRxru1jVc",
+          "feature_id": "0x876c7895585484b3:0x578db5bbc69188da",
+          "gkg_id": "/g/1tdvknzp",
+          "owner": {
+            "external_id": "107063827469934707347",
+            "url": "https://www.google.com/maps/contrib/107063827469934707347"
+          },
+          "phone": [
+            {
+              "raw": "+1 303-756-3100",
+              "area_code": "303",
+              "type": "FIXED_LINE_OR_MOBILE",
+              "country": "US",
+              "country_code": "1",
+              "number": "+13037563100",
+              "local": "(303) 756-3100",
+              "location": "Denver, CO",
+              "carrier": null,
+              "exchange": "DENVER",
+              "company": "QWEST CORPORATION",
+              "adm1": "CO"
+            }
+          ],
+          "url": "https://www.google.com/maps/place/REI/@39.755621999999995,-105.00985299999999,17z/data=!3m1!4b1!4m5!3m4!1s0x876c7895585484b3:0x578db5bbc69188da!8m2!3d39.755621999999995!4d-105.00985299999999",
+          "appointment": null,
+          "website": {
+            "domain": "rei.com",
+            "platform": null,
+            "url": "https://www.rei.com/stores/denver?y_source=1_MTQ1MzM4My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+          },
+          "business_name": "REI",
+          "address_clean": "1416 Platte St",
+          "city_clean": "Denver",
+          "state_clean": "Colorado",
+          "zip": "80202"
+        },
+        {
+          "loan_amount": "167374.0",
+          "business_name": "REITZ ROOFING, INC",
+          "address": "11925 QUAY ST",
+          "city": "BROOMFIELD",
+          "state": "CO",
+          "zip": "80020",
+          "naics_code": "238160.0",
+          "business_type": "Corporation",
+          "race_ethnicity": "Unanswered",
+          "gender": "Unanswered",
+          "veteran": "Unanswered",
+          "non_profit": "False",
+          "jobs_reported": "8.0",
+          "date_approved": "2020-05-01",
+          "lender": "U.S. Bank, National Association",
+          "cd": "CO-02",
+          "source_file": "150k plus PPP through 112420.csv",
+          "na_flag": "False",
+          "dupe_flag": "False",
+          "year_approved": "2020",
+          "address_clean": "11925 QUAY ST",
+          "state_clean": "CO",
+          "city_clean": "BROOMFIELD"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "rank": 119,
+          "name": "Cushing Terrell - Architecture, Engineering, and Design Firm in Denver, CO",
+          "logo": [
+            "https://lh4.googleusercontent.com/-6HiooYKHgTU/AAAAAAAAAAI/AAAAAAAAAAA/kCtproPwHw4/s400-p-k-no-ns-nd/photo.jpg",
+            "https://lh4.googleusercontent.com/-6HiooYKHgTU/AAAAAAAAAAI/AAAAAAAAAAA/kCtproPwHw4/s60-p-k-no-ns-nd/photo.jpg"
+          ],
+          "description": null,
+          "address": {
+            "street": "1700 Broadway #1200",
+            "postcode": "80290",
+            "city": "Denver",
+            "adm1": "Colorado",
+            "country": "US"
+          },
+          "location": {
+            "lat": 39.7435847,
+            "lng": -104.986921
+          },
+          "reviews": null,
+          "category": {
+            "items": [
+              "Architect",
+              "Civil engineer",
+              "Electrical engineer",
+              "Graphic designer",
+              "Interior designer",
+              "Land surveyor",
+              "Landscape architect",
+              "Mechanical engineer",
+              "Structural engineer"
+            ],
+            "primary": null
+          },
+          "timezone": "America/Denver",
+          "price_range": NaN,
+          "language": null,
+          "is_claimed": true,
+          "extra": {
+            "accessibility": [
+              "Wheelchair-accessible car park",
+              "Wheelchair-accessible entrance"
+            ]
+          },
+          "identity": null,
+          "opening_hours": null,
+          "status": 1,
+          "media": {
+            "items": [
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipMLsFz4j1P8IwEKtZ77RC1uduAzbxd5WMRV_cAh=w1024-h682-k-no",
+                "type": "photo",
+                "created_at": "2024-05-28 22:00:00",
+                "caption": null
+              },
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipMVC1oJW4d0DniIChMzXddjSEng8G3ZFRQ-RKjs=w1024-h682-k-no",
+                "type": "photo",
+                "created_at": "2024-05-28 22:00:00",
+                "caption": null
+              },
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipNsetXCi1YmDX2l70md1vK-q4CU7jss4JUMaMR7=w1024-h682-k-no",
+                "type": "photo",
+                "created_at": "2024-05-28 22:00:00",
+                "caption": null
+              },
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipOjMMtlBSxC1yL4w9InHvzfnXv_jbb4a3xa9TJ3=w1024-h1365-k-no",
+                "type": "photo",
+                "created_at": "2015-10-07 15:00:00",
+                "caption": null
+              }
+            ],
+            "count": 4,
+            "types": [
+              "photo"
+            ]
+          },
+          "activity": {
+            "min": "2015-10-07 15:00:00",
+            "max": "2024-05-28 22:00:00"
+          },
+          "devices": [
+            "bizbuilder:gmb_on_local_universal_desktop",
+            "photos:dragonfly_tactile"
+          ],
+          "external_id": "ChIJq9bpwDF_bIcR7jDIA1AuiA0",
+          "feature_id": "0x876c7f31c0e9d6ab:0xd882e5003c830ee",
+          "gkg_id": "/g/1hc1tlg9p",
+          "owner": {
+            "external_id": "107932943271299113500",
+            "url": "https://www.google.com/maps/contrib/107932943271299113500"
+          },
+          "phone": [
+            {
+              "raw": "+1 720-359-1416",
+              "area_code": "720",
+              "type": "FIXED_LINE_OR_MOBILE",
+              "country": "US",
+              "country_code": "1",
+              "number": "+17203591416",
+              "local": "(720) 359-1416",
+              "location": "Colorado",
+              "carrier": null,
+              "exchange": "DENVER",
+              "company": "QWEST CORPORATION",
+              "adm1": "CO"
+            }
+          ],
+          "url": "https://www.google.com/maps/place/Cushing+Terrell+-+Architecture%2C+Engineering%2C+and+Design+Firm+in+Denver%2C+CO/@39.7435847,-104.986921,17z/data=!3m1!4b1!4m5!3m4!1s0x876c7f31c0e9d6ab:0xd882e5003c830ee!8m2!3d39.7435847!4d-104.986921",
+          "appointment": null,
+          "website": {
+            "domain": "cushingterrell.com",
+            "platform": null,
+            "url": "https://www.cushingterrell.com/"
+          },
+          "business_name": "Cushing Terrell - Architecture, Engineering, and Design Firm in Denver, CO",
+          "address_clean": "1700 Broadway #1200",
+          "city_clean": "Denver",
+          "state_clean": "Colorado",
+          "zip": "80290"
+        },
+        {
+          "loan_amount": "9700.0",
+          "business_name": "MOOMOOS CO LLC",
+          "address": "14200 E ALAMEDA AVE",
+          "city": "AURORA",
+          "state": "CO",
+          "zip": "80012",
+          "naics_code": "445299.0",
+          "business_type": "Limited  Liability Company(LLC)",
+          "race_ethnicity": "Unanswered",
+          "gender": "Unanswered",
+          "veteran": "Unanswered",
+          "non_profit": "False",
+          "jobs_reported": "3.0",
+          "date_approved": "2020-06-03",
+          "lender": "Colorado Enterprise Fund",
+          "cd": "CO-06",
+          "source_file": "01 PPP sub 150k through 112420.csv",
+          "na_flag": "False",
+          "dupe_flag": "False",
+          "year_approved": "2020",
+          "address_clean": "14200 E ALAMEDA AVE",
+          "state_clean": "CO",
+          "city_clean": "AURORA"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "rank": 105,
+          "name": "Chewy G3",
+          "logo": null,
+          "description": null,
+          "address": {
+            "street": "1550 W Evans Ave",
+            "postcode": "80223",
+            "city": "Denver",
+            "adm1": "Colorado",
+            "country": "US"
+          },
+          "location": {
+            "lat": 39.677317599999995,
+            "lng": -105.00597599999999
+          },
+          "reviews": null,
+          "category": {
+            "items": [
+              "Electronics manufacturer"
+            ],
+            "primary": null
+          },
+          "timezone": "America/Denver",
+          "price_range": NaN,
+          "language": null,
+          "is_claimed": false,
+          "extra": {
+            "accessibility": [
+              "Wheelchair-accessible car park"
+            ]
+          },
+          "identity": null,
+          "opening_hours": null,
+          "status": 1,
+          "media": {
+            "items": [
+              {
+                "url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_nrTVgi495SRiYWKwS7FTA&cb_client=search.gws-prod.gps&w=1024&h=768&yaw=273.99133&pitch=0&thumbfov=100",
+                "type": "street_view",
+                "created_at": "2024-10-31 11:00:00",
+                "caption": "Chewy G3"
+              }
+            ],
+            "count": 0,
+            "types": [
+              "street_view"
+            ]
+          },
+          "activity": {
+            "min": null,
+            "max": null
+          },
+          "devices": [
+            "launch"
+          ],
+          "external_id": "ChIJq6pqB79_bIcRctAqLd_G_co",
+          "feature_id": "0x876c7fbf076aaaab:0xcafdc6df2d2ad072",
+          "gkg_id": "/g/11vwjw4g1t",
+          "owner": null,
+          "phone": null,
+          "url": "https://www.google.com/maps/place/Chewy+G3/@39.677317599999995,-105.00597599999999,17z/data=!3m1!4b1!4m5!3m4!1s0x876c7fbf076aaaab:0xcafdc6df2d2ad072!8m2!3d39.677317599999995!4d-105.00597599999999",
+          "appointment": null,
+          "website": {
+            "domain": "chewyg3.com",
+            "platform": null,
+            "url": "http://chewyg3.com/"
+          },
+          "business_name": "Chewy G3",
+          "address_clean": "1550 W Evans Ave",
+          "city_clean": "Denver",
+          "state_clean": "Colorado",
+          "zip": "80223"
+        },
+        {
+          "loan_amount": "24395.0",
+          "business_name": "CATAFFO VENTURES, INC. DBA 4TH AVENUE CL",
+          "address": "601 SOUTH 4TH AVENUE",
+          "city": "BRIGHTON",
+          "state": "CO",
+          "zip": "80601",
+          "naics_code": "812320.0",
+          "business_type": "Corporation",
+          "race_ethnicity": "Unanswered",
+          "gender": "Unanswered",
+          "veteran": "Unanswered",
+          "non_profit": "False",
+          "jobs_reported": "5.0",
+          "date_approved": "2020-04-30",
+          "lender": "JPMorgan Chase Bank, National Association",
+          "cd": "CO-06",
+          "source_file": "01 PPP sub 150k through 112420.csv",
+          "na_flag": "False",
+          "dupe_flag": "False",
+          "year_approved": "2020",
+          "address_clean": "601 S 4 TH AVE",
+          "state_clean": "CO",
+          "city_clean": "BRIGHTON"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "rank": 123,
+          "name": "MARGARITA BRAVO - Denver Interior Designer",
+          "logo": [
+            "https://lh3.googleusercontent.com/-PTa3uLO6qg0/AAAAAAAAAAI/AAAAAAAAAAA/HK2DIEPLjx8/s400-p-k-no-ns-nd/photo.jpg",
+            "https://lh3.googleusercontent.com/-PTa3uLO6qg0/AAAAAAAAAAI/AAAAAAAAAAA/HK2DIEPLjx8/s60-p-k-no-ns-nd/photo.jpg"
+          ],
+          "description": null,
+          "address": {
+            "street": "601 S Broadway G",
+            "postcode": "80209",
+            "city": "Denver",
+            "adm1": "Colorado",
+            "country": "US"
+          },
+          "location": {
+            "lat": 39.705624,
+            "lng": -104.9877992
+          },
+          "reviews": {
+            "rating": 4.8,
+            "count": 39,
+            "spread": [
+              2,
+              0,
+              0,
+              0,
+              37
+            ]
+          },
+          "category": {
+            "items": [
+              "Interior designer",
+              "Bathroom remodeler",
+              "Design agency",
+              "Design engineer",
+              "Furniture manufacturer",
+              "Interior Decorator",
+              "Remodeler"
+            ],
+            "primary": null
+          },
+          "timezone": "America/Denver",
+          "price_range": 0.0,
+          "language": null,
+          "is_claimed": true,
+          "extra": {
+            "from_the_business": [
+              "Identifies as Latino-owned",
+              "Identifies as women-owned"
+            ],
+            "service_options": [
+              "Online estimates",
+              "On-site services"
+            ],
+            "crowd": [
+              "LGBTQ+ friendly"
+            ],
+            "planning": [
+              "Appointment required"
+            ]
+          },
+          "identity": [
+            "LGBTQ+ friendly",
+            "Identifies as women-owned",
+            "Identifies as Latino-owned"
+          ],
+          "opening_hours": null,
+          "status": 1,
+          "media": {
+            "items": [
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipMYH3YBK65_Q9WmrDmfYZA_BGrbj6kXRj5iJ_vL=w1024-h1818-k-no",
+                "type": "video",
+                "created_at": "2024-09-23 21:00:00",
+                "caption": "MARGARITA BRAVO - Denver Interior Designer"
+              },
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipNhSZ3OH8AdYR1hbj1E3vQQGlTMTVLBIRJZykSs=w1024-h682-k-no",
+                "type": "photo",
+                "created_at": "2022-03-30 15:00:00",
+                "caption": null
+              },
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipOSJgwNNU4X1rukv88vGESNn2HAWIO5V19frCZf=w1024-h682-k-no",
+                "type": "photo",
+                "created_at": "2021-09-14 15:00:00",
+                "caption": null
+              },
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipP53FnD-ZEKHPBR54FW4sGv7TXKk4BpNCWLuiTb=w1024-h679-k-no",
+                "type": "photo",
+                "created_at": "2018-02-01 11:00:00",
+                "caption": null
+              }
+            ],
+            "count": 669,
+            "types": [
+              "photo",
+              "video"
+            ]
+          },
+          "activity": {
+            "min": "2018-02-01 11:00:00",
+            "max": "2024-09-23 21:00:00"
+          },
+          "devices": [
+            "bizbuilder:gmb_api",
+            "bizbuilder:gmb_web"
+          ],
+          "external_id": "ChIJS_Udnpl-bIcR3o8xSb18vm4",
+          "feature_id": "0x876c7e999e1df54b:0x6ebe7cbd49318fde",
+          "gkg_id": "/g/11f2wpg3_s",
+          "owner": {
+            "external_id": "111356764217776466605",
+            "url": "https://www.google.com/maps/contrib/111356764217776466605"
+          },
+          "phone": [
+            {
+              "raw": "+1 720-735-7533",
+              "area_code": "720",
+              "type": "FIXED_LINE_OR_MOBILE",
+              "country": "US",
+              "country_code": "1",
+              "number": "+17207357533",
+              "local": "(720) 735-7533",
+              "location": "Colorado",
+              "carrier": null,
+              "exchange": "KEENESBURG",
+              "company": "ONVOY, LLC - CO",
+              "adm1": "CO"
+            }
+          ],
+          "url": "https://www.google.com/maps/place/MARGARITA+BRAVO+-+Denver+Interior+Designer/@39.705624,-104.9877992,17z/data=!3m1!4b1!4m5!3m4!1s0x876c7e999e1df54b:0x6ebe7cbd49318fde!8m2!3d39.705624!4d-104.9877992",
+          "appointment": null,
+          "website": {
+            "domain": "margaritabravo.com",
+            "platform": null,
+            "url": "https://www.margaritabravo.com/"
+          },
+          "business_name": "MARGARITA BRAVO - Denver Interior Designer",
+          "address_clean": "601 S Broadway G",
+          "city_clean": "Denver",
+          "state_clean": "Colorado",
+          "zip": "80209"
+        },
+        {
+          "loan_amount": "298100.0",
+          "business_name": "PARK CHURCH",
+          "address": "3025 W  37TH AVE",
+          "city": "DENVER",
+          "state": "CO",
+          "zip": "80211",
+          "naics_code": "813110.0",
+          "business_type": "Non-Profit Organization",
+          "race_ethnicity": "Unanswered",
+          "gender": "Unanswered",
+          "veteran": "Unanswered",
+          "non_profit": "True",
+          "jobs_reported": "31.0",
+          "date_approved": "2020-04-07",
+          "lender": "Cass Commercial Bank",
+          "cd": "CO-01",
+          "source_file": "150k plus PPP through 112420.csv",
+          "na_flag": "False",
+          "dupe_flag": "False",
+          "year_approved": "2020",
+          "address_clean": "3025 W 37 TH AVE",
+          "state_clean": "CO",
+          "city_clean": "DENVER"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "rank": 66,
+          "name": "PrintWithMe Print Kiosk at Bardo Coffeehouse - Wheat Ridge",
+          "logo": [
+            "https://lh5.googleusercontent.com/-zSQUxR8bSx8/AAAAAAAAAAI/AAAAAAAAAAA/2eCybJek9vU/s400-p-k-no-ns-nd/photo.jpg",
+            "https://lh5.googleusercontent.com/-zSQUxR8bSx8/AAAAAAAAAAI/AAAAAAAAAAA/2eCybJek9vU/s60-p-k-no-ns-nd/photo.jpg"
+          ],
+          "description": null,
+          "address": {
+            "street": "6150 W 38th Ave",
+            "postcode": "80033",
+            "city": "Wheat Ridge",
+            "adm1": "Colorado",
+            "country": "US"
+          },
+          "location": {
+            "lat": 39.7691497,
+            "lng": -105.0641326
+          },
+          "reviews": {
+            "rating": 4.4,
+            "count": 43,
+            "spread": [
+              5,
+              0,
+              2,
+              1,
+              35
+            ]
+          },
+          "category": {
+            "items": [
+              "Print shop",
+              "Copy shop",
+              "Fax service"
+            ],
+            "primary": null
+          },
+          "timezone": "America/Denver",
+          "price_range": 0.0,
+          "language": null,
+          "is_claimed": true,
+          "extra": {
+            "service_options": [
+              "In-store pick-up",
+              "In-store shopping",
+              "On-site services",
+              "Delivery",
+              "Same-day delivery"
+            ],
+            "accessibility": [
+              "Wheelchair-accessible car park",
+              "Wheelchair-accessible entrance"
+            ],
+            "planning": [
+              "Quick visit"
+            ],
+            "payments": [
+              "Credit cards"
+            ]
+          },
+          "identity": null,
+          "opening_hours": null,
+          "status": 1,
+          "media": {
+            "items": [
+              {
+                "url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yujGCenxGXQlIQx3lkbipQ&cb_client=search.gws-prod.gps&w=1024&h=768&yaw=207.61494&pitch=0&thumbfov=100",
+                "type": "street_view",
+                "created_at": "2024-11-01 06:00:00",
+                "caption": "PrintWithMe Print Kiosk at Bardo Coffeehouse - Wheat Ridge"
+              },
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipNPXo_pjkNmEoBF4RdxxeG9DmhBhIhWCjN4PfQY=w1024-h1365-k-no",
+                "type": "photo",
+                "created_at": "2018-09-05 14:00:00",
+                "caption": null
+              }
+            ],
+            "count": 2,
+            "types": [
+              "photo",
+              "street_view"
+            ]
+          },
+          "activity": {
+            "min": "2018-09-05 14:00:00",
+            "max": "2018-09-05 14:00:00"
+          },
+          "devices": [
+            "launch",
+            "photos:gmm_android"
+          ],
+          "external_id": "ChIJAaKT1LmHa4cRPh8nFpc_qe0",
+          "feature_id": "0x876b87b9d493a201:0xeda93f9716271f3e",
+          "gkg_id": "/g/11f7pv0x96",
+          "owner": {
+            "external_id": "103195468028891491710",
+            "url": "https://www.google.com/maps/contrib/103195468028891491710"
+          },
+          "phone": [
+            {
+              "raw": "+1 773-797-2118",
+              "area_code": "773",
+              "type": "FIXED_LINE_OR_MOBILE",
+              "country": "US",
+              "country_code": "1",
+              "number": "+17737972118",
+              "local": "(773) 797-2118",
+              "location": "Chicago, IL",
+              "carrier": null,
+              "exchange": "CHICGOZN05",
+              "company": "LEVEL 3 COMMUNICATIONS, LLC - IL",
+              "adm1": "IL"
+            }
+          ],
+          "url": "https://www.google.com/maps/place/PrintWithMe+Print+Kiosk+at+Bardo+Coffeehouse+-+Wheat+Ridge/@39.7691497,-105.0641326,17z/data=!3m1!4b1!4m5!3m4!1s0x876b87b9d493a201:0xeda93f9716271f3e!8m2!3d39.7691497!4d-105.0641326",
+          "appointment": null,
+          "website": {
+            "domain": "printwithme.com",
+            "platform": null,
+            "url": "http://www.printwithme.com/location/38thbardo/"
+          },
+          "business_name": "PrintWithMe Print Kiosk at Bardo Coffeehouse - Wheat Ridge",
+          "address_clean": "6150 W 38th Ave",
+          "city_clean": "Wheat Ridge",
+          "state_clean": "Colorado",
+          "zip": "80033"
+        },
+        {
+          "loan_amount": "17700.0",
+          "business_name": "MOMS WITH MOPS LLC",
+          "address": "760 ELLSWORTH CT",
+          "city": "CASTLE ROCK",
+          "state": "CO",
+          "zip": "80104",
+          "naics_code": "561740.0",
+          "business_type": "Limited  Liability Company(LLC)",
+          "race_ethnicity": "Unanswered",
+          "gender": "Unanswered",
+          "veteran": "Unanswered",
+          "non_profit": "False",
+          "jobs_reported": "2.0",
+          "date_approved": "2020-04-11",
+          "lender": "FirstBank",
+          "cd": "CO-04",
+          "source_file": "01 PPP sub 150k through 112420.csv",
+          "na_flag": "False",
+          "dupe_flag": "False",
+          "year_approved": "2020",
+          "address_clean": "760 ELLSWORTH CT",
+          "state_clean": "CO",
+          "city_clean": "CASTLE ROCK"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "rank": 11,
+          "name": "Stryker",
+          "logo": null,
+          "description": null,
+          "address": {
+            "street": "3017 E 2nd Ave",
+            "postcode": "80206",
+            "city": "Denver",
+            "adm1": "Colorado",
+            "country": "US"
+          },
+          "location": {
+            "lat": 39.7195208,
+            "lng": -104.95170209999999
+          },
+          "reviews": null,
+          "category": {
+            "items": [
+              "Medical technology manufacturer"
+            ],
+            "primary": null
+          },
+          "timezone": "America/Denver",
+          "price_range": NaN,
+          "language": null,
+          "is_claimed": false,
+          "extra": {
+            "accessibility": [
+              "Wheelchair-accessible car park",
+              "Wheelchair-accessible entrance"
+            ]
+          },
+          "identity": null,
+          "opening_hours": null,
+          "status": 1,
+          "media": {
+            "items": [
+              {
+                "url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Xk7_8MjC7Cc_P4A_7J9F0Q&cb_client=search.gws-prod.gps&w=1024&h=768&yaw=23.060976&pitch=0&thumbfov=100",
+                "type": "street_view",
+                "created_at": "2024-11-01 09:00:00",
+                "caption": "Stryker"
+              }
+            ],
+            "count": 0,
+            "types": [
+              "street_view"
+            ]
+          },
+          "activity": {
+            "min": null,
+            "max": null
+          },
+          "devices": [
+            "launch"
+          ],
+          "external_id": "ChIJ8SBbwgN_bIcRmdlQFf7XmTY",
+          "feature_id": "0x876c7f03c25b20f1:0x3699d7fe1550d999",
+          "gkg_id": "/g/11j4m75c0k",
+          "owner": null,
+          "phone": [
+            {
+              "raw": "+1 720-708-2949",
+              "area_code": "720",
+              "type": "FIXED_LINE_OR_MOBILE",
+              "country": "US",
+              "country_code": "1",
+              "number": "+17207082949",
+              "local": "(720) 708-2949",
+              "location": "Colorado",
+              "carrier": null,
+              "exchange": "DENVER",
+              "company": "TELIAX, INC. - CO",
+              "adm1": "CO"
+            }
+          ],
+          "url": "https://www.google.com/maps/place/Stryker/@39.7195208,-104.95170209999999,17z/data=!3m1!4b1!4m5!3m4!1s0x876c7f03c25b20f1:0x3699d7fe1550d999!8m2!3d39.7195208!4d-104.95170209999999",
+          "appointment": null,
+          "website": {
+            "domain": "stryker.com",
+            "platform": null,
+            "url": "http://stryker.com/"
+          },
+          "business_name": "Stryker",
+          "address_clean": "3017 E 2nd Ave",
+          "city_clean": "Denver",
+          "state_clean": "Colorado",
+          "zip": "80206"
+        },
+        {
+          "loan_amount": "7600.0",
+          "business_name": "ABC MURPHY PROPERTIES, LLC",
+          "address": "4 CLIFFROSE",
+          "city": "LITTLETON",
+          "state": "CO",
+          "zip": "80127",
+          "naics_code": "531210.0",
+          "business_type": "Limited  Liability Company(LLC)",
+          "race_ethnicity": "Unanswered",
+          "gender": "Unanswered",
+          "veteran": "Unanswered",
+          "non_profit": "False",
+          "jobs_reported": "1.0",
+          "date_approved": "2020-04-13",
+          "lender": "FirstBank",
+          "cd": "CO-02",
+          "source_file": "01 PPP sub 150k through 112420.csv",
+          "na_flag": "False",
+          "dupe_flag": "False",
+          "year_approved": "2020",
+          "address_clean": "4 CLIFFROSE",
+          "state_clean": "CO",
+          "city_clean": "LITTLETON"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "rank": 22,
+          "name": "Evo-Lite",
+          "logo": [
+            "https://lh5.googleusercontent.com/-vnvac1dHqBU/AAAAAAAAAAI/AAAAAAAAAAA/9tw-qxh2CWQ/s400-p-k-no-ns-nd/photo.jpg",
+            "https://lh5.googleusercontent.com/-vnvac1dHqBU/AAAAAAAAAAI/AAAAAAAAAAA/9tw-qxh2CWQ/s60-p-k-no-ns-nd/photo.jpg"
+          ],
+          "description": null,
+          "address": {
+            "street": "6240 W 54th Ave",
+            "postcode": "80002",
+            "city": "Arvada",
+            "adm1": "Colorado",
+            "country": "US"
+          },
+          "location": {
+            "lat": 39.7938877,
+            "lng": -105.0662876
+          },
+          "reviews": {
+            "rating": 5,
+            "count": 4,
+            "spread": [
+              0,
+              0,
+              0,
+              0,
+              4
+            ]
+          },
+          "category": {
+            "items": [
+              "Lighting manufacturer",
+              "Lighting consultant",
+              "Lighting contractor",
+              "Lighting products wholesaler"
+            ],
+            "primary": null
+          },
+          "timezone": "America/Denver",
+          "price_range": 0.0,
+          "language": null,
+          "is_claimed": true,
+          "extra": {
+            "accessibility": [
+              "Wheelchair-accessible car park",
+              "Wheelchair-accessible entrance"
+            ],
+            "payments": [
+              "Debit cards",
+              "Credit cards"
+            ]
+          },
+          "identity": null,
+          "opening_hours": null,
+          "status": 1,
+          "media": {
+            "items": [
+              {
+                "url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Nw505V-MyuDLJtS_GTwxhQ&cb_client=search.gws-prod.gps&w=1024&h=768&yaw=210.29501&pitch=0&thumbfov=100",
+                "type": "street_view",
+                "created_at": "2024-11-01 04:00:00",
+                "caption": "Evo-Lite"
+              },
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipMF8Fo5JQCnjiU0j0DKOJYXnXZlPZsys0s6_CBc=w1000-h740-k-no",
+                "type": "photo",
+                "created_at": "2023-06-16 13:00:00",
+                "caption": null
+              },
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipMuuC6VrGfLGlWy8lakSWn5vhMk6YjtSemoG0j5=w1024-h575-k-no",
+                "type": "photo",
+                "created_at": "2020-10-14 08:00:00",
+                "caption": null
+              },
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipN0IdMN_bPoAYNUOhPJ818CMeipMsK3MEqdS-x-=w1024-h682-k-no",
+                "type": "photo",
+                "created_at": "2020-10-14 08:00:00",
+                "caption": null
+              }
+            ],
+            "count": 4,
+            "types": [
+              "photo",
+              "street_view"
+            ]
+          },
+          "activity": {
+            "min": "2020-10-14 08:00:00",
+            "max": "2023-06-16 13:00:00"
+          },
+          "devices": [
+            "bizbuilder:gmb_api",
+            "bizbuilder:gmb_on_local_universal_desktop",
+            "launch"
+          ],
+          "external_id": "ChIJ94fEy65_bIcRWIYWE28lFr4",
+          "feature_id": "0x876c7faecbc487f7:0xbe16256f13168658",
+          "gkg_id": "/g/11_t2ggj2",
+          "owner": {
+            "external_id": "102156108113318599461",
+            "url": "https://www.google.com/maps/contrib/102156108113318599461"
+          },
+          "phone": [
+            {
+              "raw": "+1 303-996-2980",
+              "area_code": "303",
+              "type": "FIXED_LINE_OR_MOBILE",
+              "country": "US",
+              "country_code": "1",
+              "number": "+13039962980",
+              "local": "(303) 996-2980",
+              "location": "Colorado",
+              "carrier": null,
+              "exchange": "DENVER",
+              "company": "ELECTRIC LIGHTWAVE LLC DBA ALLSTREAM",
+              "adm1": "CO"
+            }
+          ],
+          "url": "https://www.google.com/maps/place/Evo-Lite/@39.7938877,-105.0662876,17z/data=!3m1!4b1!4m5!3m4!1s0x876c7faecbc487f7:0xbe16256f13168658!8m2!3d39.7938877!4d-105.0662876",
+          "appointment": null,
+          "website": {
+            "domain": "evo-lite.com",
+            "platform": null,
+            "url": "https://www.evo-lite.com/"
+          },
+          "business_name": "Evo-Lite",
+          "address_clean": "6240 W 54th Ave",
+          "city_clean": "Arvada",
+          "state_clean": "Colorado",
+          "zip": "80002"
+        },
+        {
+          "loan_amount": "4337844.0",
+          "business_name": "HONNEN ENTERPRISES INC",
+          "address": "505 E 72nd Ave",
+          "city": "COMMERCE CITY",
+          "state": "CO",
+          "zip": "80022",
+          "naics_code": "423810.0",
+          "business_type": "Subchapter S Corporation",
+          "race_ethnicity": "Unanswered",
+          "gender": "Unanswered",
+          "veteran": "Unanswered",
+          "non_profit": "False",
+          "jobs_reported": "277.0",
+          "date_approved": "2020-04-15",
+          "lender": "U.S. Bank, National Association",
+          "cd": "CO-07",
+          "source_file": "150k plus PPP through 112420.csv",
+          "na_flag": "False",
+          "dupe_flag": "False",
+          "year_approved": "2020",
+          "address_clean": "505 E 72 ND AVE",
+          "state_clean": "CO",
+          "city_clean": "COMMERCE CITY"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "rank": 116,
+          "name": "HARLAN AUTOMOTIVE / I70 and Harlan Service",
+          "logo": [
+            "https://lh6.googleusercontent.com/-n7X9HTOrD0Q/AAAAAAAAAAI/AAAAAAAAAAA/18iCA0dmeRg/s400-p-k-no-ns-nd/photo.jpg",
+            "https://lh6.googleusercontent.com/-n7X9HTOrD0Q/AAAAAAAAAAI/AAAAAAAAAAA/18iCA0dmeRg/s60-p-k-no-ns-nd/photo.jpg"
+          ],
+          "description": null,
+          "address": {
+            "street": "6065 W 48th Ave",
+            "postcode": "80033",
+            "city": "Wheat Ridge",
+            "adm1": "Colorado",
+            "country": "US"
+          },
+          "location": {
+            "lat": 39.784169,
+            "lng": -105.063378
+          },
+          "reviews": {
+            "rating": 4,
+            "count": 65,
+            "spread": [
+              13,
+              1,
+              3,
+              2,
+              46
+            ]
+          },
+          "category": {
+            "items": [
+              "Used car dealer",
+              "Auto machine shop",
+              "Convenience store",
+              "Gas station",
+              "Propane supplier",
+              "Truck rental agency"
+            ],
+            "primary": null
+          },
+          "timezone": "America/Denver",
+          "price_range": 0.0,
+          "language": null,
+          "is_claimed": true,
+          "extra": {
+            "service_options": [
+              "In-store shopping",
+              "Delivery"
+            ],
+            "accessibility": [
+              "Wheelchair-accessible car park",
+              "Wheelchair-accessible entrance"
+            ],
+            "offerings": [
+              "Buys used goods",
+              "Oil change",
+              "Repair services"
+            ],
+            "amenities": [
+              "Gender-neutral toilets"
+            ],
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ],
+            "parking": [
+              "On-site parking"
+            ]
+          },
+          "identity": null,
+          "opening_hours": [
+            {
+              "day": 1,
+              "hours": [
+                6,
+                20
+              ]
+            },
+            {
+              "day": 2,
+              "hours": [
+                6,
+                20
+              ]
+            },
+            {
+              "day": 3,
+              "hours": [
+                6,
+                20
+              ]
+            },
+            {
+              "day": 4,
+              "hours": [
+                6,
+                20
+              ]
+            },
+            {
+              "day": 5,
+              "hours": [
+                6,
+                20
+              ]
+            },
+            {
+              "day": 6,
+              "hours": [
+                8,
+                18
+              ]
+            },
+            {
+              "day": 7,
+              "hours": [
+                9,
+                17
+              ]
+            }
+          ],
+          "status": 1,
+          "media": {
+            "items": [
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipMlw14YyqvaxIU0G_m3HzL_r0XGwSl3bV5aXp4m=w1024-h768-k-no",
+                "type": "photo",
+                "created_at": "2023-06-02 08:00:00",
+                "caption": null
+              },
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipNLJNXCoaFNuzx8YbE9UC4c2CrFZlyDOk4xmQuu=w1024-h768-k-no",
+                "type": "photo",
+                "created_at": "2023-06-02 08:00:00",
+                "caption": null
+              },
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipOHg2xdZhze19NvMAcXpUXUwXl_dyc1v5vSZt0D=w1024-h768-k-no",
+                "type": "photo",
+                "created_at": "2023-05-31 20:00:00",
+                "caption": null
+              },
+              {
+                "url": "https://lh5.googleusercontent.com/p/AF1QipOW3qKnuSvBKWL6_vpdtwsNe2nDdkw526KiSjxe=w1024-h768-k-no",
+                "type": "photo",
+                "created_at": "2020-12-17 01:00:00",
+                "caption": null
+              }
+            ],
+            "count": 4,
+            "types": [
+              "photo"
+            ]
+          },
+          "activity": {
+            "min": "2020-12-17 01:00:00",
+            "max": "2023-06-02 08:00:00"
+          },
+          "devices": [
+            "bizbuilder:gmb_ios",
+            "photos:local_universal_mobile"
+          ],
+          "external_id": "ChIJUfQCZrmHa4cRXOqu2O5a4FE",
+          "feature_id": "0x876b87b96602f451:0x51e05aeed8aeea5c",
+          "gkg_id": "/g/11c58ph012",
+          "owner": {
+            "external_id": "100823041200010211602",
+            "url": "https://www.google.com/maps/contrib/100823041200010211602"
+          },
+          "phone": [
+            {
+              "raw": "+1 303-424-9150",
+              "area_code": "303",
+              "type": "FIXED_LINE_OR_MOBILE",
+              "country": "US",
+              "country_code": "1",
+              "number": "+13034249150",
+              "local": "(303) 424-9150",
+              "location": "Colorado",
+              "carrier": null,
+              "exchange": "DENVER",
+              "company": "QWEST CORPORATION",
+              "adm1": "CO"
+            }
+          ],
+          "url": "https://www.google.com/maps/place/HARLAN+AUTOMOTIVE+%2F+I70+and+Harlan+Service/@39.784169,-105.063378,17z/data=!3m1!4b1!4m5!3m4!1s0x876b87b96602f451:0x51e05aeed8aeea5c!8m2!3d39.784169!4d-105.063378",
+          "appointment": null,
+          "website": {
+            "domain": "harlancars.com",
+            "platform": null,
+            "url": "http://www.harlancars.com/"
+          },
+          "business_name": "HARLAN AUTOMOTIVE / I70 and Harlan Service",
+          "address_clean": "6065 W 48th Ave",
+          "city_clean": "Wheat Ridge",
+          "state_clean": "Colorado",
+          "zip": "80033"
+        },
+        {
+          "loan_amount": "29700.0",
+          "business_name": "CONCENTRICS, INC.",
+          "address": "5 Scotch Heather",
+          "city": "LITTLETON",
+          "state": "CO",
+          "zip": "80127",
+          "naics_code": "518210.0",
+          "business_type": "Corporation",
+          "race_ethnicity": "Unanswered",
+          "gender": "Unanswered",
+          "veteran": "Unanswered",
+          "non_profit": "False",
+          "jobs_reported": "4.0",
+          "date_approved": "2020-04-10",
+          "lender": "KeyBank National Association",
+          "cd": "CO-02",
+          "source_file": "01 PPP sub 150k through 112420.csv",
+          "na_flag": "False",
+          "dupe_flag": "False",
+          "year_approved": "2020",
+          "address_clean": "5 SCOTCH HEATHER",
+          "state_clean": "CO",
+          "city_clean": "LITTLETON"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "rank": 70,
+          "name": "SEGRITY LLC",
+          "logo": [
+            "https://lh5.googleusercontent.com/-zlhxRWOFcYU/AAAAAAAAAAI/AAAAAAAAAAA/tevvKGX9OHo/s400-p-k-no-ns-nd/photo.jpg",
+            "https://lh5.googleusercontent.com/-zlhxRWOFcYU/AAAAAAAAAAI/AAAAAAAAAAA/tevvKGX9OHo/s60-p-k-no-ns-nd/photo.jpg"
+          ],
+          "description": null,
+          "address": {
+            "street": "2650 E 40th Ave",
+            "postcode": "80205",
+            "city": "Denver",
+            "adm1": "Colorado",
+            "country": "US"
+          },
+          "location": {
+            "lat": 39.7717951,
+            "lng": -104.95523999999999
+          },
+          "reviews": null,
+          "category": {
+            "items": [
+              "Manufacturer",
+              "Engineering consultant"
+            ],
+            "primary": null
+          },
+          "timezone": "America/Denver",
+          "price_range": NaN,
+          "language": null,
+          "is_claimed": true,
+          "extra": {
+            "from_the_business": [
+              "Identifies as women-owned"
+            ],
+            "accessibility": [
+              "Wheelchair-accessible car park"
+            ]
+          },
+          "identity": [
+            "Identifies as women-owned"
+          ],
+          "opening_hours": null,
+          "status": 1,
+          "media": {
+            "items": [],
+            "count": 0,
+            "types": []
+          },
+          "activity": {
+            "min": null,
+            "max": null
+          },
+          "devices": [],
+          "external_id": "ChIJQ6rCFm55bIcRnekTFzdKesM",
+          "feature_id": "0x876c796e16c2aa43:0xc37a4a371713e99d",
+          "gkg_id": "/g/11f3scnglk",
+          "owner": {
+            "external_id": "110722384396492666454",
+            "url": "https://www.google.com/maps/contrib/110722384396492666454"
+          },
+          "phone": [
+            {
+              "raw": "+1 303-293-5939",
+              "area_code": "303",
+              "type": "FIXED_LINE_OR_MOBILE",
+              "country": "US",
+              "country_code": "1",
+              "number": "+13032935939",
+              "local": "(303) 293-5939",
+              "location": "Denver, CO",
+              "carrier": null,
+              "exchange": "DENVER",
+              "company": "QWEST CORPORATION",
+              "adm1": "CO"
+            }
+          ],
+          "url": "https://www.google.com/maps/place/SEGRITY+LLC/@39.7717951,-104.95523999999999,17z/data=!3m1!4b1!4m5!3m4!1s0x876c796e16c2aa43:0xc37a4a371713e99d!8m2!3d39.7717951!4d-104.95523999999999",
+          "appointment": null,
+          "website": {
+            "domain": "segrity.com",
+            "platform": null,
+            "url": "https://www.segrity.com/"
+          },
+          "business_name": "SEGRITY LLC",
+          "address_clean": "2650 E 40th Ave",
+          "city_clean": "Denver",
+          "state_clean": "Colorado",
+          "zip": "80205"
+        },
+        {
+          "loan_amount": "1338200.0",
+          "business_name": "MARS HOSPITALITY, LLC",
+          "address": "19284 COTTONWOOD DR",
+          "city": "PARKER",
+          "state": "CO",
+          "zip": "80138",
+          "naics_code": "721110.0",
+          "business_type": "Limited  Liability Company(LLC)",
+          "race_ethnicity": "White",
+          "gender": "Male Owned",
+          "veteran": "Non-Veteran",
+          "non_profit": "False",
+          "jobs_reported": "246.0",
+          "date_approved": "2020-04-09",
+          "lender": "The Central Trust Bank",
+          "cd": "CO-04",
+          "source_file": "150k plus PPP through 112420.csv",
+          "na_flag": "False",
+          "dupe_flag": "False",
+          "year_approved": "2020",
+          "address_clean": "19284 COTTONWOOD DR",
+          "state_clean": "CO",
+          "city_clean": "PARKER"
+        }
+      ]
+    }
+  ]
+}
