@@ -131,7 +131,7 @@ if __name__ == "__main__":
             linker.write_settings(sf)
 
     print("clustering...")
-    linked_records = linker.join(data_1, data_2, 0.6)
+    linked_records = linker.join(data_1, data_2, threshold=0.8, constraint="one-to-one")
 
     print("# duplicate sets", len(linked_records))
     # ## Writing Results
@@ -144,7 +144,7 @@ if __name__ == "__main__":
         for record_id in cluster:
             cluster_membership[record_id] = {
                 "cluster_id": cluster_id,
-                "link_score": score,
+                "link_score": str(score),
             }
     left_file = places_data_file_name
     right_file = loans_data_file_name
@@ -160,7 +160,7 @@ if __name__ == "__main__":
         writer = csv.DictWriter(output_csv, fieldnames=fieldnames)
 
         writer.writeheader()
-
+        matching_rows = {}
         for record_id, record_data in data_1.items():
             output_row = {
                 field: record_data.get(field, "") for field in to_write_field_names
@@ -169,6 +169,10 @@ if __name__ == "__main__":
             if record_id in cluster_membership:
                 output_row.update(cluster_membership[record_id])
                 output_row.update({"source_file": 0})
+                matching_rows[cluster_membership[record_id]["cluster_id"]] = (
+                    matching_rows.get(cluster_membership[record_id]["cluster_id"], []) + [output_row]
+                )
+
             else:
                 continue
             writer.writerow(output_row)
@@ -181,6 +185,14 @@ if __name__ == "__main__":
             if record_id in cluster_membership:
                 output_row.update(cluster_membership[record_id])
                 output_row.update({"source_file": 1})
+
+                matching_rows[cluster_membership[record_id]["cluster_id"]] = (
+                    matching_rows.get(cluster_membership[record_id]["cluster_id"], []) + [output_row]
+                )
             else:
                 continue
+
             writer.writerow(output_row)
+
+            with open("matching_rows.json", "w") as mr:
+                mr.write(json.dumps(matching_rows, indent=2))

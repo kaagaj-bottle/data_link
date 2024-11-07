@@ -1,1081 +1,362 @@
 business_name,zip,address_clean,city_clean,state_clean,cluster_id,link_score,source_file
 Monarch Metal Manufacturing,80216,550 W 53rd Pl,Denver,Colorado,77,0.8278817,0
-T & H Manufacturing LLC,80219,581 S Federal Blvd,Denver,Colorado,283,0.6687842,0
-Ready Foods Inc,80204,2705 W Colfax Ave,Denver,Colorado,323,0.6308904,0
-Alfred Manufacturing Co Inc,80216,4398 Elati St,Denver,Colorado,156,0.77686155,0
 Vella Manufacturing,80223,2665 S Santa Fe Dr # 5H,Denver,Colorado,55,0.8526372,0
-WestFax Brewing Company,80214,6733 W Colfax Ave,Lakewood,Colorado,174,0.7640051,0
-sansusa,80219,2505 W 2nd Ave #2,Denver,Colorado,217,0.72857445,0
-Mile High Infusions,80219,1212 S Federal Blvd #709,Denver,Colorado,293,0.6549688,0
-Cohesion Brewing,80205,3851 Steele St Unit 1388,Denver,Colorado,297,0.6510823,0
-National Plastics Trading Company Inc.,80202,1551 Larimer St,Denver,Colorado,204,0.73926145,0
-Coolerado Manufacturing Facility,80216,4430 Glencoe St #4510,Denver,Colorado,221,0.72616094,0
-Lakewood Manufacturing Co,80465,3000 S Rooney Rd,Morrison,Colorado,336,0.62350154,0
 Whipchek Manufacturing Corporation,80002,4935 Allison St # 7,Arvada,Colorado,74,0.8319655,0
 Budz Butter,80223,1280 S Jason St,Denver,Colorado,85,0.82341605,0
-Cobitco Inc,80216,5301 Bannock St,Denver,Colorado,308,0.64239424,0
-Donapops,80246,5300 E Cherry Creek S Dr,Denver,Colorado,314,0.6363326,0
 Focused Light LLC,80002,5533 Gray St,Arvada,Colorado,22,0.87590885,0
 Atkins Nutritionals Inc,80202,1225 17th St #1000,Denver,Colorado,111,0.8057545,0
-Challenger Manufacturing Consultants Inc,80401,15740 W 6th Ave,Golden,Colorado,191,0.7526964,0
-Mile High Custom Food Trucks,80216,955 E 58th Ave # E,Denver,Colorado,343,0.62032545,0
-Deftmark,80204,909 Bannock St #609,Denver,Colorado,170,0.7678254,0
-Colorado Machining and Manufacturing,80216,250 E E 54th Ave # E,Denver,Colorado,234,0.7141767,0
 "AAAA Specialties, Inc. - Custom Spring Manufacturing",80202,3030 Huron St,Denver,Colorado,40,0.8631309,0
-Holmboe Manufacturing Co Inc,80020,7051 W 117th Ave,Broomfield,Colorado,143,0.78324693,0
 "AMP Manufacturing, LLC.",80229,6535 York St #108,Denver,Colorado,23,0.875675,0
 Lowtemp Industries,80002,6395 W 56th Ave,Arvada,Colorado,102,0.8119359,0
-"English Manufacturing, Inc.",80229,601 E 64th Ave,Denver,Colorado,184,0.7569796,0
 Mastertech Manufacturing,80228,12450 W Cedar Dr,Denver,Colorado,60,0.8471855,0
 Amen Packaging Inc,80216,5285 Fox St,Denver,Colorado,8,0.90608144,0
-Welhub,80002,6100 W 55th Ave,Arvada,Colorado,131,0.79020435,0
-Acme Manufacturing Company,80216,4661 Monaco St,Denver,Colorado,214,0.7305607,0
 Lane Manufacturing Inc,80231,8200 E Pacific Pl Suite 107,Denver,Colorado,72,0.8334386,0
 Designtex Inc.,80205,2501 Blake St,Denver,Colorado,79,0.827701,0
 "RPC Manufacturing Solutions, LLC",80020,11811 Upham St #5,Broomfield,Colorado,7,0.90693265,0
-Ready Foods Inc,80204,2645 W 7th Ave,Denver,Colorado,138,0.787041,0
-Dawn Industries,80002,5055 W 58th Ave,Arvada,Colorado,276,0.67276555,0
 "ILONA, INC.",80206,3201 E 2nd Ave Unit 300,Denver,Colorado,48,0.85806906,0
 Eaton Metal Products Co,80216,4800 York St,Denver,Colorado,43,0.86115783,0
 The Flag Makers LLC,80202,600 17th St Suite 2800,Denver,Colorado,21,0.87639844,0
-Industrialex Manufacturing,80403,6250 Joyce Dr,Arvada,Colorado,150,0.7791529,0
-Stryker,80206,3017 E 2nd Ave,Denver,Colorado,196,0.7463714,0
-Rex Overland,80002,6104 W 55th Ave,Arvada,Colorado,318,0.63493866,0
-Acro Manufacturing Corporation,80110,3999 S Mariposa St,Englewood,Colorado,175,0.7628886,0
-Elevation Foods,80206,250 Fillmore St #500,Denver,Colorado,321,0.63156277,0
-Joaquin Manufacturing,80022,6900 Elm Dr,Commerce City,Colorado,149,0.7797469,0
 Innovations Manufacturing,80216,4555 Grape St #6441,Denver,Colorado,66,0.84198725,0
 Ouroboros Fabrication LLC,80214,5815 W 6th Ave,Lakewood,Colorado,31,0.8682442,0
 Industrial Specialties Mfg. & IS Med Specialties (ISM),80110,4091 S Eliot St,Englewood,Colorado,9,0.905078,0
 Plastic Creations Ltd,80223,1360 S Lipan St,Denver,Colorado,71,0.8334898,0
-Choice Manufacturing,80022,5598 Monaco St Unit C,Commerce City,Colorado,277,0.67181504,0
 JK Concepts,80216,3333 E 52nd Ave,Denver,Colorado,65,0.84224355,0
-Ready Foods,80216,5270 Fox St,Denver,Colorado,127,0.7931375,0
-Wanco Inc.,80003,5870 Tennyson St,Arvada,Colorado,322,0.6312936,0
 Shortgirlstickerz,80232,1130 S Reed St,Lakewood,Colorado,108,0.80755925,0
 Nova Engineering,80211,1011 W 45th Ave,Denver,Colorado,73,0.8330557,0
 Control Design & Manufacturing,80110,2626 S Zuni St,Englewood,Colorado,64,0.8450227,0
-Odyssey Beerwerks Brewery & Taproom,80002,5535 W 56th Ave #107,Arvada,Colorado,154,0.7783032,0
-PHM Brands,80202,730 17th St #600,Denver,Colorado,132,0.7899334,0
 NuLine Manufacturing Inc.,80239,11333 E 55th Ave Unit C,Denver,Colorado,80,0.82767946,0
-Thermal Solutions Manufacturing,80216,6750 E 46th Ave Dr #400,Denver,Colorado,158,0.77584696,0
-Berridge Manufacturing Distribution Center,80216,7505 E 41st Ave,Denver,Colorado,180,0.7603791,0
 "Geotech Environmental Equipment, Inc.",80205,2650 E 40th Ave,Denver,Colorado,83,0.82483315,0
-Mace Manufacturing,80110,3975 S Kalamath St,Englewood,Colorado,341,0.6219152,0
-CPI (Compressor Products International),80002,5405 W 56th Ave unit e,Arvada,Colorado,250,0.698318,0
-Alpine Precision Manufacturing,80216,6885 E 48th Ave,Denver,Colorado,296,0.6520751,0
-WM Devices,80223,1145A W Custer Pl,Denver,Colorado,304,0.6457991,0
-Colorado Serum Co,80216,4950 York St,Denver,Colorado,334,0.6251292,0
 Bri-Chem Supply Corp,80211,2921 W 38th Ave,Denver,Colorado,86,0.82244235,0
-LOOPY cncptâ¢dsgnâ¢mfg,80204,747 Santa Fe Dr,Denver,Colorado,299,0.64974934,0
 Summit Brick Company - Lakewood Plant,80214,1325 Jay St,Lakewood,Colorado,12,0.8990179,0
-Luckyleo Dancewear Warehouse,80223,90 S Santa Fe Dr,Denver,Colorado,263,0.6832666,0
-Electro Mechanical Products,80401,897 Tabor St,Lakewood,Colorado,166,0.7716756,0
 Evo-Lite,80002,6240 W 54th Ave,Arvada,Colorado,30,0.8691891,0
-Tools For Bending Inc.,80223,194 W Dakota Ave,Denver,Colorado,219,0.72683156,0
-Electraeon Manufacturing Services,80640,8777 Brighton Rd,Henderson,Colorado,211,0.7309873,0
-Harrelson Trumpets,80221,5650 Lowell Blvd Units B u0026 F,Denver,Colorado,332,0.62627375,0
-Metalcraft Industries Inc.,80234,1250 W 124th Ave,Westminster,Colorado,176,0.76256305,0
 Chemical Specialties Inc,80216,4920 Fox St,Denver,Colorado,95,0.81513566,0
 The UPS Store,80211,2921 W 38th Ave,Denver,Colorado,56,0.8517248,0
-Barone Inc,80002,5879 W 58th Ave,Arvada,Colorado,144,0.78320736,0
-Red Arrow Manufacturing,80229,1761 E 64th Ave,Denver,Colorado,231,0.7179901,0
-Spinster Sisters Co. - Microsoapery (Manufacturing & Order Fulfillment),80401,516 Violet St,Golden,Colorado,195,0.746651,0
 Bison Innovative Products,80204,701 Osage St Ste 120,Denver,Colorado,89,0.8198291,0
-Rocky Mountain Commissary,80002,5604 Kendall Ct,Arvada,Colorado,291,0.6610976,0
-US Mix Co.,80223,112 S Santa Fe Dr,Denver,Colorado,253,0.69685155,0
-R & M Manufacturing Inc,80022,6025 E 76th Ave A,Commerce City,Colorado,229,0.718654,0
-Featherbuilt,80212,5371 Tennyson St #10,Denver,Colorado,256,0.69384146,0
-Gregory Bloom,80203,789 Sherman St,Denver,Colorado,282,0.66960996,0
-Aspen Electronics Manufacturing Inc.,80031,8975 Marshall Ct #100,Westminster,Colorado,335,0.6238849,0
-Synergy Core Manufacturing,80239,4880 Ironton St H,Denver,Colorado,302,0.646496,0
-"Custom Tableting, LLC.",80002,6260 W 52nd Ave #104,Arvada,Colorado,198,0.744454,0
 3Aclean,80214,6006 W 16th Ave,Lakewood,Colorado,15,0.89529437,0
-Bierstadt Lagerhaus,80205,2875 Blake St,Denver,Colorado,169,0.7707861,0
-Henriksen Amplifiers,80002,5545 W 56th Ave UNIT F,Arvada,Colorado,238,0.7119838,0
-LTM Plastics,80211,1100 W 45th Ave,Denver,Colorado,329,0.6282459,0
-Schafer Metals,80223,1245 S Inca St,Denver,Colorado,199,0.74391395,0
-Five Star Chemicals & Supply LLC,80002,6870 W 52nd Pl Suite #205,Arvada,Colorado,218,0.7281275,0
 Seader Custom Metal Works,80216,401 W 43rd Ave,Denver,Colorado,113,0.80516887,0
-Bron Tapes,80223,875 W Ellsworth Ave,Denver,Colorado,309,0.6421338,0
 Karl Schmidt Mfg,80022,3900 E 68th Ave,Commerce City,Colorado,82,0.82596594,0
-ORIC CORPORATION,80202,1600 Broadway #1600,Denver,Colorado,243,0.7050503,0
-FMC Technologies Surface Wellhead,80202,475 17th St UNIT 850,Denver,Colorado,244,0.70472425,0
-Harrow Sports,80223,600 W Bayaud Ave,Denver,Colorado,240,0.7074209,0
 Heilan Coo,80210,1551 S Pearl St,Denver,Colorado,98,0.8140981,0
-Fabrications Unlimited,80002,5440 Marshall St Ste 4,Arvada,Colorado,255,0.69487554,0
-Burns Family Artisan Ales Production Facility,80219,2505 W 2nd Ave #13,Denver,Colorado,163,0.7737301,0
-Oribi Composites,80022,5850 E 56th Ave,Commerce City,Colorado,124,0.79393214,0
-Victrola,80205,3350 Walnut St,Denver,Colorado,287,0.6660962,0
 Molitron,80214,1457 Ammons St,Lakewood,Colorado,78,0.8278459,0
-Cains Creative Cakes,80219,194 S Federal Blvd,Denver,Colorado,346,0.61739004,0
 Denver Beverage,80216,353 W 56th Ave,Denver,Colorado,93,0.81623816,0
-"Ruger Trailers, LLC",80003,5415 W 59th Ave e,Arvada,Colorado,162,0.7740812,0
-Busick Insulated Glass Inc,80204,585 Osage St,Denver,Colorado,202,0.7404006,0
-Office Depot Print & Copy Services,80209,343 S Broadway,Denver,Colorado,289,0.66368145,0
-Liberty Home Products,80223,358 S Navajo St,Denver,Colorado,193,0.75174934,0
-EFI Polymers,80216,4600 Holly St,Denver,Colorado,261,0.6860386,0
 Livingston Systems,80221,2613 W 64th Ave,Denver,Colorado,36,0.86427003,0
-"Zimmerman Metals, Inc.",80216,201 E 58th Ave,Denver,Colorado,120,0.7990769,0
 Bon-nare,80220,4600 Hale Pkwy # 450,Denver,Colorado,35,0.8657441,0
-Ready Foods,80216,4000 Dahlia St,Denver,Colorado,306,0.6449364,0
 Regional Sales Co,80002,5545 W 56th Ave,Arvada,Colorado,114,0.8045356,0
-Rocky Mountain Food Factory,80110,2825 S Raritan St,Englewood,Colorado,271,0.6742891,0
-Ready Foods,80216,5905 E 42nd Ave,Denver,Colorado,284,0.667958,0
 Green Sol Chemical Corporation,80216,4770 Fox St #13,Denver,Colorado,6,0.9089958,0
-Vartega,80221,5675 N Pecos St #203,Denver,Colorado,330,0.6273032,0
-Heeger Materials Inc,80206,230 Steele St,Denver,Colorado,328,0.6284508,0
-A & P Machine Work & Design,80002,5585 Gray St,Arvada,Colorado,249,0.6985222,0
-"Rylind Manufacturing, Inc",80401,2801 Youngfield St,Golden,Colorado,300,0.64886385,0
 "American Made Apparel Manufacturing., Inc.",80011,15607 E 17th Ave,Aurora,Colorado,29,0.8692175,0
 "Pre Action Fire, Inc",80211,2921 W 38th Ave,Denver,Colorado,28,0.8711126,0
 Boykin Pearce Associates,80205,1875 E 27th Ave,Denver,Colorado,58,0.8494979,0
 Gates & Sons Inc,80223,90 S Fox St,Denver,Colorado,11,0.89902216,0
 "Aveno Antiguo, Inc",80216,5140 Race Ct STE 3,Denver,Colorado,32,0.86779696,0
-"Proximo Distillers, Llc",80223,200 S Kalamath St,Denver,Colorado,246,0.7009654,0
-Milgard Windows & Doors,80216,400 W 48th Ave,Denver,Colorado,298,0.6504235,0
 Thera Cane Company,80223,1147 S Huron St,Denver,Colorado,59,0.8490316,0
 RKR,80216,4600 Grape St,Denver,Colorado,76,0.8294053,0
-303 Bike Shop - eBike Dealer Too,80033,6190 W 38th Ave,Wheat Ridge,Colorado,237,0.71240485,0
 American Tech Support,80206,2500 E 1st Ave,Denver,Colorado,107,0.80799407,0
-Crazy Mountain Brewery,80218,1505 N Ogden St,Denver,Colorado,267,0.67692506,0
-Naviswiss US,80216,3513 Brighton Blvd suite 422,Denver,Colorado,312,0.63862365,0
 Paramount Fabrics Inc,80003,5570 W 60th Ave,Arvada,Colorado,97,0.8143154,0
-Senvion USA Corporation,80202,1600 Stout St UNIT 2000,Denver,Colorado,140,0.7863439,0
-Wheat Ridge Poultry and Meats,80214,5650 W 29th Ave,Wheat Ridge,Colorado,209,0.73234856,0
-Glue Bunny Games,80204,3015 W 9th Ave,Denver,Colorado,355,0.6077356,0
-Millie Rose Ceramics,80211,4172 Irving St,Denver,Colorado,326,0.62854534,0
-Denver Digital Imaging Center,80223,145 W Alameda Ave,Denver,Colorado,286,0.6670652,0
-Mars Steel Corporation,80022,3400 E 56th Ave,Commerce City,Colorado,317,0.63496107,0
-"Nestle Purina - Denver, CO",80216,4555 York St,Denver,Colorado,333,0.62610614,0
-"RECOM Power, Inc.",80216,3575 Ringsby Ct #426,Denver,Colorado,157,0.77671075,0
-Electronica,80206,2828 E Colfax Ave,Denver,Colorado,262,0.6847693,0
 "Boker USA, Inc.",80214,1550 Balsam St,Lakewood,Colorado,118,0.8035181,0
-praxis guitars LLC,80223,1190 S Cherokee St Unit #3,Denver,Colorado,307,0.6448574,0
-"Mallinda, Inc.",80229,7270 Gilpin Way #180,Denver,Colorado,151,0.7791007,0
 ABM Fabrication & Machining,80003,5880 W 59th Ave Unit D,Arvada,Colorado,100,0.8130897,0
 Neocom Promo LLC,80206,1633 Fillmore St Suite 404,Denver,Colorado,115,0.8044395,0
 The Real Dill,80223,33 S Fox St,Denver,Colorado,2,0.9247185,0
-Aviva Inc,80209,3200 Cherry Creek S Dr # 210,Denver,Colorado,182,0.7579059,0
-Ram Grinding,80002,5635 Newland Way,Arvada,Colorado,331,0.627106,0
 Ralph's Industrial Sewing Machine Co,80211,2030 Clay St,Denver,Colorado,42,0.8618282,0
 Precision Metal Manufacturing Inc,80233,11060 Irma Dr,Northglenn,Colorado,105,0.81076086,0
-SomePlace Else Brewery,80002,6425 W 52nd Ave #6,Arvada,Colorado,185,0.75622207,0
-Child Safe Childproofing,80209,225 S Broadway #9204,Denver,Colorado,129,0.7916019,0
 Mount Sopris Instruments Inc.,80216,4975 E 41st Ave,Denver,Colorado,112,0.8053612,0
 Update International,80226,1075 S Yukon St,Lakewood,Colorado,20,0.87958807,0
-Safeway,80209,323 S Broadway,Denver,Colorado,186,0.75606173,0
 Silver Engineering Works,80229,6565 Vine Ct,Denver,Colorado,51,0.8546646,0
-HeartHero,80216,3513 Brighton Blvd Ste. 560,Denver,Colorado,340,0.62223417,0
-Intoxalock Ignition Interlock,80214,6275 W 16th Ave,Lakewood,Colorado,327,0.62852865,0
 Aztec Rug Binding,80204,1957 W 14th Ave,Denver,Colorado,68,0.8349292,0
-Rocky Mountain Laserwork,80219,645 S Bryant St,Denver,Colorado,349,0.6110866,0
-Bag Factory Lofts HOA,80205,2715 Blake St,Denver,Colorado,266,0.6769387,0
-Gray Solutions,80205,3851 Steele St #1379,Denver,Colorado,181,0.7589011,0
-Pints Pub,80204,221 W 13th Ave,Denver,Colorado,168,0.77105707,0
 Hydraflex,80204,1330 Zuni St H,Denver,Colorado,17,0.8902671,0
-Industrial Arts LLC,80110,2165 S Raritan St,Englewood,Colorado,294,0.6533779,0
-Site Pieces,80205,3000 Lawrence St #57,Denver,Colorado,206,0.7371234,0
-Cedar Hills Screenprinting & Embroidery,80206,3225 E Colfax Ave,Denver,Colorado,189,0.75385153,0
 Ink Monstr Graphics and Wraps,80204,2721 W Holden Pl,Denver,Colorado,37,0.86424416,0
 Greens Gone Wild,80246,501 S Cherry St Ste 1100,Denver,Colorado,49,0.8579921,0
-"ViewRay, Inc.",80202,1099 18th St UNIT 3000,Denver,Colorado,301,0.64655894,0
-Flink Supply Co,80223,58 S Galapago St,Denver,Colorado,285,0.66784513,0
-Owens Corning Denver Roofing Plant,80216,5201 Fox St,Denver,Colorado,226,0.71914,0
 The Duck Company,80002,5601 Gray St Unit A,Arvada,Colorado,10,0.9028085,0
-Ingenious Moves,80209,40 S Broadway #204,Denver,Colorado,354,0.60820436,0
 Secure All Security Doors,80212,4300 W 38th Ave,Denver,Colorado,109,0.8067153,0
 "Aspen Laser Systems, LLC",80202,600 17th St Suite 2800,Denver,Colorado,25,0.8727322,0
-Sleeping Giant Brewing Company,80204,2500 W 5th Ave,Denver,Colorado,135,0.7894129,0
-Republic Manufacturing (formerly Joost Industrial),80239,5500 Joliet St,Denver,Colorado,183,0.7578685,0
-Arthroventions,80204,621 Kalamath St #40,Denver,Colorado,275,0.6733086,0
 Wibtech Outdoors,80216,321 W 45th Ave,Denver,Colorado,101,0.812113,0
 Dahl Design Denver - Showroom by Appt. Only,80223,280 S Santa Fe Dr,Denver,Colorado,99,0.81367296,0
-Never Summer Industries,80207,3838 Eudora Way,Denver,Colorado,295,0.6528002,0
-Solutions Machining,80003,6060 W 59th Ave,Arvada,Colorado,171,0.7672195,0
 Cipher Skin,80202,1331 17th St,Denver,Colorado,41,0.861925,0
-Unowned By Bear,80219,2620 W 2nd Ave # 2,Denver,Colorado,273,0.67373836,0
-Dá¾¹LYTE Skylights,80216,290 E 56th Ave,Denver,Colorado,215,0.72925955,0
 Direct Polymers,80216,3601 E 44th Ave,Denver,Colorado,87,0.82201564,0
-Colorado Wine Tours,80202,1660 Champa St,Denver,Colorado,252,0.69722825,0
 Navajo Incorporated,80216,5330 Fox St,Denver,Colorado,13,0.898832,0
-Maglin Corporation,80202,999 18th St UNIT 3000,Denver,Colorado,121,0.79888076,0
-PrintWithMe Print Kiosk at Bardo Coffeehouse - Wheat Ridge,80033,6150 W 38th Ave,Wheat Ridge,Colorado,351,0.6102978,0
-Barber-Nichols,80002,6350 W 56th Ave,Arvada,Colorado,259,0.6880733,0
 "YellowDog Design, Print and Marketing",80205,3881 Steele St Ste 1242,Denver,Colorado,62,0.8455561,0
 Kustomized,80226,7251 W Alaska Dr,Lakewood,Colorado,70,0.8335863,0
-Integrity Fire Safety Services,80219,2695 W 3rd Ave,Denver,Colorado,130,0.7915723,0
-V16 Guitars,80212,4209 W 38th Ave,Denver,Colorado,236,0.713013,0
 Brekhus Tile & Stone,80223,860 S Jason St,Denver,Colorado,57,0.85111815,0
-Talnua Distillery,80002,5405 W 56th Ave Unit C,Arvada,Colorado,126,0.79375434,0
-iKrusher | Wholesale Vape Hardware Manufacturer,80120,791 Southpark Dr STE 600,Littleton,Colorado,136,0.7878596,0
-Denver Portable Toilet Rental PotPoint,80203,1645 Grant St,Denver,Colorado,239,0.7089495,0
-Columbine Paper & Maintenance,80214,1300 N Lamar St,Lakewood,Colorado,245,0.7046228,0
 "Copeland Precast, Inc.",80223,904 S Lipan St,Denver,Colorado,45,0.8592273,0
-Kohler Signature Store,80206,3310 E 1st Ave,Denver,Colorado,207,0.73573434,0
 ClearView Water - Denver Water Cooler Service Office,80206,1627 Vine St,Denver,Colorado,14,0.8970897,0
-REI,80202,1416 Platte St,Denver,Colorado,352,0.6096636,0
-Hook Fish,80211,4400 Lipan St,Denver,Colorado,251,0.6973557,0
-Whisk it Here,80211,2832 W 44th Ave,Denver,Colorado,161,0.7744778,0
-The Blind Tiger Lounge,80205,3040 Blake St #131,Denver,Colorado,167,0.77146256,0
-K1C Consulting LLC,80204,621 Kalamath St #67,Denver,Colorado,347,0.6167047,0
 Advanced Cylinders Manufacturing & Repair Inc.,80110,3295 S Zuni St,Sheridan,Colorado,1,0.93180263,0
-Sportique Scooters,80209,160 S Broadway,Denver,Colorado,358,0.60111344,0
-Zodiac Event Displays,80211,4400 Lipan St,Denver,Colorado,320,0.63200986,0
-Salco Global Precision Machining,80003,5955 Sheridan Boulevard,Arvada,Colorado,247,0.7005338,0
 SEGRITY LLC,80205,2650 E 40th Ave,Denver,Colorado,3,0.9218771,0
 "Denver Print Company - Banner Printing, Signs and Trade Show Printing",80204,1045 W 8th Ave,Denver,Colorado,84,0.8239972,0
-Uinta Development Company,80202,1099 18th St #1800,Denver,Colorado,248,0.6992554,0
-Component Distributors Inc. (CDI),80216,4770 Forest St # C,Denver,Colorado,148,0.7799803,0
-"Hydraquip, Inc.",80216,4160 Fox St,Denver,Colorado,280,0.6703328,0
-Chris Meinert Carpentry,80033,6700 W 44th Ave,Denver,Colorado,274,0.67348117,0
 Foothills Custom Cabinet,80002,6262 W 55th Ave,Arvada,Colorado,106,0.80839777,0
 FedEx Office Print & Ship Center,80202,1550 Court Pl,Denver,Colorado,69,0.8341283,0
-Bonacquisti Wine Company,80211,4640 N Pecos St Unit I,Denver,Colorado,356,0.60550785,0
 RSG OFFROAD,80215,9680 W Colfax Ave,Lakewood,Colorado,91,0.8175232,0
-Carniceria La Sierra,80219,3170 W Alameda Ave,Denver,Colorado,338,0.62305474,0
-Kendo,80022,5700 Fairfax St,Commerce City,Colorado,257,0.6936878,0
 The G Wagon,80229,800 E 73rd Ave,Denver,Colorado,38,0.8641069,0
 S & H Products,80003,5891 Nolan St # A,Arvada,Colorado,116,0.80440795,0
-Accent Fence and Design,80214,1150 N Harlan St,Lakewood,Colorado,228,0.7187221,0
-Summit Brick Company- Showroom,80226,7576 W 5th Ave,Lakewood,Colorado,339,0.62256247,0
 "Accurate Powder Coating, LLC",80003,5891 Nolan St #2,Arvada,Colorado,94,0.8160527,0
-Actall Corporation,80205,2017 Curtis Street,Denver,Colorado,178,0.76194364,0
 Garb Inc,80223,730 S Jason St,Denver,Colorado,16,0.893352,0
 Knotty Tie Co.,80204,926 W 10th Ave,Denver,Colorado,88,0.82111907,0
-King Soopers,80212,5301 W 38th Ave,Wheat Ridge,Colorado,292,0.6574523,0
-Deep Roots Winery & Bistro,80205,2875 Blake St,Denver,Colorado,264,0.6792661,0
 Alyve Medical,80246,600 S Cherry St #115,Denver,Colorado,27,0.87163895,0
-Gates Corporation,80202,1144 15th St #1400,Denver,Colorado,350,0.6109765,0
-WestRock,80216,5050 E 50th Ave,Denver,Colorado,133,0.78990275,0
-Metal Roofing Solutions,80033,6225 W 48th Ave,Wheat Ridge,Colorado,227,0.71875787,0
 enlightenVue,80206,1111 Race St #6A,Denver,Colorado,34,0.8662253,0
-Meier Skis,80210,1775 S Broadway,Denver,Colorado,290,0.661191,0
-IDEAL PRINT Co.,80214,747 Sheridan Boulevard Unit 3B,Lakewood,Colorado,201,0.7410929,0
-Brewer Digital,80216,3513 Brighton Blvd,Denver,Colorado,311,0.6398476,0
-Vortex Doors,80216,6610 E 47th Ave Dr,Denver,Colorado,146,0.78114927,0
 Cinegration LLC,80002,6425 W 52nd Ave #1,Arvada,Colorado,52,0.85367405,0
 R & M Sales Co Inc,80219,2737 W 2nd Ave,Denver,Colorado,53,0.8533467,0
-Hemp Corp,80221,6820 Broadway,Denver,Colorado,173,0.7649383,0
-Oliver's Meat Market,80218,1718 E 6th Ave,Denver,Colorado,260,0.68675953,0
 Hunter Company - American Made Leather Holsters & Accessories,80030,3300 W 71st Ave,Westminster,Colorado,4,0.9188736,0
-Tops of Rockies,80212,5777 W 52nd Ave #7502,Denver,Colorado,269,0.6746018,0
-Old Western Paint Co Inc,80204,2001 W Barberry Pl,Denver,Colorado,222,0.72604984,0
-Denver Modern Showroom,80205,3857 Steele St #1287,Denver,Colorado,342,0.6216829,0
 Fixture Lab,80223,1550 S Acoma St #100,Denver,Colorado,19,0.8804425,0
 5 Star Energy,80214,1125 Depew Ct,Lakewood,Colorado,81,0.8260743,0
-Artemis Vision,80205,3857 Steele St #1186,Denver,Colorado,213,0.73056984,0
-Lakeside Heating & Air Conditioning,80002,6260 W 52nd Ave unit 116,Arvada,Colorado,194,0.7491,0
-"Signarama Denver (Downtown), CO",80203,1660 Grant St,Denver,Colorado,337,0.6233495,0
 "Rocket Seals, Inc.",80223,1297 S Lipan St,Denver,Colorado,26,0.87264234,0
-Simple Interlock,80214,5208 W 26th Ave,Denver,Colorado,254,0.69521314,0
-Pro Desk at The Home Depot,80226,6701 W Alameda Ave,Lakewood,Colorado,316,0.6355364,0
-Heart Heating Cooling Plumbing & Electric,80204,646 Bryant St,Denver,Colorado,324,0.62981373,0
-Sincerely Yours,80206,3113 E 3rd Ave #206,Denver,Colorado,225,0.7226405,0
-Advanced Vision Technologies,80226,969 S Kipling Pkwy,Lakewood,Colorado,319,0.6326971,0
+Simple Interlock,80214,5208 W 26th Ave,Denver,Colorado,75,0.83001834,0
 DEKOR Lighting,80223,2655 S Santa Fe Dr #4a,Denver,Colorado,63,0.84519297,0
-Sherwin-Williams Paint Store,80212,5315 W 38th Ave,Denver,Colorado,325,0.62854683,0
-LifeSafer Ignition Interlock,80002,5545 Harlan St,Arvada,Colorado,278,0.6711714,0
-High Plateau Truss Inc,80022,5465 Quebec St,Commerce City,Colorado,216,0.728822,0
 Pyramid Promotions INC. (DBA) AAA Wholesale Services,80216,4150 Fox St # A5,Denver,Colorado,0,0.9464162,0
-Element 79 Contemporary Jewelry,80206,2703 E 3rd Ave,Denver,Colorado,313,0.636586,0
-"Lange Containment Systems, LLC",80216,5150 Race Ct,Denver,Colorado,145,0.78293496,0
 Sherwin-Williams Commercial Paint Store,80204,543 Santa Fe Dr A,Denver,Colorado,96,0.81473863,0
 Renaissance Leather,80223,1474 S Acoma St,Denver,Colorado,47,0.85812056,0
-King Soopers,80204,1331 Speer Blvd,Denver,Colorado,265,0.67725587,0
-Hoff Miller Ltd,80209,595 S Broadway # 106E,Denver,Colorado,160,0.77459645,0
-"TruStile Doors, LLC",80229,1111 E 71st Ave,Denver,Colorado,233,0.7165981,0
 Seattle Fish Co.,80216,6211 E 42nd Ave,Denver,Colorado,67,0.8394786,0
 Smart Start Ignition Interlock,80214,5208 W 26th Ave,Denver,Colorado,46,0.85821545,0
 Envision Automation,80206,44 Cook St #100,Denver,Colorado,61,0.8463312,0
-Unique Millwork Cabinetry & Countertops,80002,6100 W 55th Ave,Arvada,Colorado,190,0.7534997,0
-Green Vine Marketing,80202,600 17th St #2810,Denver,Colorado,212,0.73079896,0
-Reinhardt Studios,80204,1950 W 13th Ave #1,Denver,Colorado,279,0.6711216,0
 "ABC Custom Iron & Locksmith, Inc",80204,550 Santa Fe Dr,Denver,Colorado,104,0.8111116,0
-Smart Start Ignition Interlock,80211,2930 W 38th Ave,Denver,Colorado,203,0.73970133,0
-Your Memory Stix,80204,290 W 12th Ave UNIT 605,Denver,Colorado,187,0.7557712,0
-Cloud 9 Weddings & Papers,80204,821 Santa Fe Dr,Denver,Colorado,188,0.7550833,0
 Marcone Supply - Wholesale Only,80216,5100 Fox St # A,Denver,Colorado,54,0.85309625,0
 Peak Stone Solutions LLC,80002,6390 W 56th Ave,Arvada,Colorado,103,0.8111645,0
-Steven Parks Master Goldsmith,80212,5870 W 38th Ave,Wheat Ridge,Colorado,348,0.6150346,0
-The Infinite Monkey Theorem,80205,3200 Larimer St,Denver,Colorado,288,0.66502386,0
-NightRider Jewelry,80206,3000 E 1st Ave,Denver,Colorado,122,0.79841244,0
-The Painted Pixel,80214,7070 W 16th Ave,Lakewood,Colorado,125,0.7938785,0
 Da Vinci Designs,80223,1264 S Jason St,Denver,Colorado,24,0.8746134,0
-"Golden West Plumbing, Heating, Air Conditioning, and Electrical",80216,4217 Delaware St,Denver,Colorado,357,0.6039199,0
-"Freshlook Fireplaces | Gas Fireplace Cleaning Services, Inspection, Installation & Repair Denver, CO",80246,720 S Colorado Blvd,Denver,Colorado,141,0.7856343,0
-In Your Space,80211,3186 W 36th Ave,Denver,Colorado,258,0.6900739,0
-DC Power starters and alternators,80219,2577 W Wesley Ave,Denver,Colorado,270,0.6743132,0
-Garden Center at The Home Depot,80223,500 S Santa Fe Dr,Denver,Colorado,210,0.73212534,0
-Queen Bee Brews,80229,800 E 64th Ave #6,Denver,Colorado,272,0.67418754,0
 "VIST Labs Colorado, LLC",80209,155 S Madison St,Denver,Colorado,119,0.80332834,0
 Paramount Audio Video Corp.,80219,2505 W 2nd Ave #10,Denver,Colorado,117,0.8037195,0
-New Deal Deicing,80216,6883 E 47th Ave Dr,Denver,Colorado,152,0.77889097,0
-Record Nations,80212,3845 Tennyson St,Denver,Colorado,303,0.6458893,0
 Spinelli's Market,80207,4621 E 23rd Ave,Denver,Colorado,92,0.81674606,0
-Talon Manufacturing LLC,80110,2750 S Raritan St,Englewood,Colorado,179,0.76138,0
 TH!S,80214,7055 W 16th Ave,Lakewood,Colorado,5,0.91075015,0
-"CranioMandibular Rehab, Inc.",80211,2600 W 29th Ave #102g,Denver,Colorado,155,0.77690417,0
 Technicraft Manufacturing Inc,80223,901 S Jason St Unit A,Denver,Colorado,39,0.86386937,0
-"Silver Bullet Water Treatment Company, LLC",80033,9500 W 49th Ave,Wheat Ridge,Colorado,197,0.74502873,0
 Blanchard Family Wines,80202,1855 Blake St #120,Denver,Colorado,110,0.80593044,0
-Earthship Overland - Offroad Adventure Trailers,80110,1900 W Yale Ave,Englewood,Colorado,137,0.7875294,0
 Paramount Press,80002,6440 W 56th Pl,Arvada,Colorado,75,0.83001834,0
-"Gas Detection Services, LLC",80202,1675 Broadway,Denver,Colorado,208,0.73438025,0
-Chewy G3,80223,1550 W Evans Ave,Denver,Colorado,232,0.7175203,0
 Oriental Rug and Carpet Clinic,80216,5090 Acoma St suite b,Denver,Colorado,33,0.8675951,0
-Western Daughters Butcher Shoppe,80211,3326 Tejon St,Denver,Colorado,177,0.76218617,0
 "Liquidyne Process Technologies, Inc.",80033,11925 W Interstate 70 Frontage Rd N #700,Wheat Ridge,Colorado,18,0.88660544,0
-A1 Equipment,80033,7080 W 38th Ave,Wheat Ridge,Colorado,359,0.6003135,0
-G & S Vending,80002,5665 Gray St,Arvada,Colorado,147,0.78001505,0
-Carniceria La Guadalajara,80219,5185 W 1st Ave,Denver,Colorado,164,0.77329284,0
-Sherwin-Williams Paint Store,80214,7105 W Colfax Ave,Lakewood,Colorado,268,0.6762275,0
-Garden Center at The Home Depot,80226,6701 W Alameda Ave,Lakewood,Colorado,310,0.6403515,0
-Blackbelly Market & Restaurant,80212,4324 W 41st Ave,Denver,Colorado,238,0.7119838,0
-Carter Country Meats,80216,620 E 52nd Ave,Denver,Colorado,159,0.77525777,0
-Intoxalock Ignition Interlock,80202,3100 Inca St,Denver,Colorado,345,0.6179146,0
-Logic HVAC/R,80229,565 E 70th Ave Unit 8E,Denver,Colorado,224,0.72543186,0
-Lab Seven Screen Printing Denver,80212,5265 W 48th Ave,Denver,Colorado,223,0.72553843,0
-"Mile High Laser Engraving, LLC",80221,7100 N Broadway Suite 3-F,Denver,Colorado,153,0.77864957,0
-Ojs Manufacturing Inc,80219,2505 W 2nd Ave #32,Denver,Colorado,242,0.70666987,0
-Replica Wine,80221,7000 Broadway Suite 307,Denver,Colorado,200,0.7418701,0
-Apikol Performance Automotive,80003,5880 W 59th Ave UNIT G,Arvada,Colorado,331,0.627106,0
-Olive & Olde's,80216,4800 Dahlia St,Denver,Colorado,172,0.76680255,0
-Idea ChÃ­c,80246,4340 E Kentucky Ave ste 121,Glendale,Colorado,353,0.60849684,0
 Colorado Saddlery,80030,3300 W 71st Ave,Westminster,Colorado,44,0.86037374,0
-Hook & Hock Butchershop,80211,2630 W 38th Ave,Denver,Colorado,235,0.7130702,0
-Intoxalock Ignition Interlock,80204,3200 W Colfax Ave #282,Denver,Colorado,230,0.7180364,0
-Lucky Onion,80211,2501 15th St #1b,Denver,Colorado,128,0.7921538,0
-Safeway,80215,9160 W Colfax Ave,Denver,Colorado,241,0.70741516,0
-Vollmer's Bakery,80216,4004 Grape St,Denver,Colorado,165,0.7717355,0
 Genghis Kern Letterpress & Design,80211,2626 W 32nd Ave,Denver,Colorado,50,0.8570959,0
-HARLAN AUTOMOTIVE / I70 and Harlan Service,80033,6065 W 48th Ave,Wheat Ridge,Colorado,139,0.78703666,0
-Ann Sacks,80206,2940 E 2nd Ave,Denver,Colorado,344,0.6186542,0
-"Cushing Terrell - Architecture, Engineering, and Design Firm in Denver, CO",80290,1700 Broadway #1200,Denver,Colorado,123,0.79750216,0
-LifeSafer Ignition Interlock,80214,6275 W 16th Ave,Denver,Colorado,305,0.6450638,0
-Blake Street Manufacturing,80205,2660 Walnut St,Denver,Colorado,205,0.73742455,0
-Object Design Studio,80206,290 Fillmore St Suite #3,Denver,Colorado,154,0.7783032,0
-Rugby Scott Ranch Provisions,80209,731 S University Blvd,Denver,Colorado,147,0.78001505,0
-Redline Heating and Cooling,80003,5415 W 59th Ave # A,Arvada,Colorado,319,0.6326971,0
-Altman Lighting,80229,1400 E 66th Ave,Denver,Colorado,192,0.75220466,0
-comfortzone security storm doors,80003,6733 W 58th Pl,Arvada,Colorado,278,0.6711714,0
 A One Stop Print Shop,80002,6260 W 52nd Ave # 121,Arvada,Colorado,90,0.81872946,0
-B & R Manufacturing,80022,5750 E 58th Ave,Commerce City,Colorado,142,0.7849392,0
-Jim Hohn Machining,80002,6260 W 52nd Ave #104,Arvada,Colorado,233,0.7165981,0
-Denver Heating & Cooling,80002,5440 Marshall St STE 3,Arvada,Colorado,220,0.72619003,0
 KARLI J GOLLIHER-BEUCK,80101,35756 CR 153,AGATE,CO,77,0.8278817,1
-JOHN KEVEN TURECEK,80101,36843 COUNTY RD 170,AGATE,CO,283,0.6687842,1
-"G & C TRUCKING, INC.",81020,PO BOX 456,AGUILAR,CO,323,0.6308904,1
-SPANISH PEAKS INN LLC,81020,22590 COUNTY RD 41 6,AGUILAR,CO,156,0.77686155,1
 SUNBEAR CAFE LLC,81020,217 E MAIN ST,AGUILAR,CO,55,0.8526372,1
-HUFFMAN TAXIDERMY LLC,81020,129 E MAIN ST,AGUILAR,CO,174,0.7640051,1
-DANIEL BORREGO,81020,21710 COUNTY RD 50 9,AGUILAR,CO,217,0.72857445,1
-MICHELE EICHLER,81020,22250 COUNTY RD 44,AGUILAR,CO,293,0.6549688,1
-ADELITAS COCINA Y CANTINA COMPANY LITTLETON,80120,2609 W MAIN ST,AGUILAR,CO,297,0.6510823,1
-"AKRON AUTO, LLC",80720,202 W 1 ST ST,AKRON,CO,204,0.73926145,1
-FIVE STAR DINING & GRILL LLC,80720,85 MAIN AVE,AKRON,CO,221,0.72616094,1
-WASHINGTON COUNTY TITLE COMPANY,80720,158 MAIN AVE,AKRON,CO,336,0.62350154,1
 JD'S QUIK STOP LLC,80720,352 W 1 ST ST,AKRON,CO,74,0.8319655,1
 GLOSSON CONSTRUCTION COMPANY INC,80720,801 E 4 TH,AKRON,CO,85,0.82341605,1
-"HOLTORF, INC.",80720,28548 COUNTY RD 55,AKRON,CO,308,0.64239424,1
-"THARP ENTERPRISES,INC.",80720,726 E 1 ST ST,AKRON,CO,314,0.6363326,1
 AKRON DENTAL CLINIC LLC,80720,482 ADAMS AVE,AKRON,CO,22,0.87590885,1
 "MELANIE K. KRENING, PUBLIC ACCOUNTANT",80720,150 BENT AVE,AKRON,CO,111,0.8057545,1
-REDLINE AVIATION INC.,80720,1201 N CEDAR AVE BLDG 4,AKRON,CO,191,0.7526964,1
-AKRON BALANCED CHILD DEVELOPMENT CENTER,80720,481 ASH AVE,AKRON,CO,343,0.62032545,1
-PACHNER AGRI-ENTERPRISES,80720,20998 COUNTY RD 19,AKRON,CO,170,0.7678254,1
-"SHR LOGISTICS, INC",80720,26721 CO RD 41,AKRON,CO,234,0.7141767,1
 J AND H AUTO LLC,80720,301 E 1 ST ST,AKRON,CO,40,0.8631309,1
-KESSINGER LIVESTOCK LLC,80720,21250 COUNTY RD 50,AKRON,CO,143,0.78324693,1
 ENTRU LLC,80720,27662 COUNTY RD 31,AKRON,CO,23,0.875675,1
 3 D RANCH INC.,80720,12001 US HWY 34,AKRON,CO,102,0.8119359,1
-LUKE CRUMLEY PUMPING SERVICE LLC,80720,28612 COUNTY RD 43,AKRON,CO,184,0.7569796,1
 BASLER BROTHERS,80720,33508 COUNTY RD U,AKRON,CO,60,0.8471855,1
 FRANK'S AUTO SERVICE INC.,80720,401 W 1 ST ST,AKRON,CO,8,0.90608144,1
-"ANDREW J. BURNS, PUBLIC ACCOUNTANT LLC",80720,182 MAIN AVE,AKRON,CO,131,0.79020435,1
-DASHABOUT TOWN TAXI LLC,80720,28548 COUNTY RD 55,AKRON,CO,214,0.7305607,1
 COREY TRAXLER,80720,37005 COUNTY RD V,AKRON,CO,72,0.8334386,1
 "MASTERS EXCAVATING, LLC",80720,38534 COUNTY RD DD,AKRON,CO,79,0.827701,1
 SHOOK FARMS PARTNERSHIP,80720,30500 COUNTY RD BB,AKRON,CO,7,0.90693265,1
-REDLINE PROPELLER INC,80720,1201 N CEDAR AVE BLDG 7,AKRON,CO,138,0.787041,1
-WILLIAM J. STAFFORD DBA W J STAFFORD TRUCKING,80720,24941 US HWY 34,AKRON,CO,276,0.67276555,1
 SHAWN BRANDON,80720,32091 CO RD 23,AKRON,CO,48,0.85806906,1
 WASHINGTON COUNTY GOLF CLUB,80720,39469 HWY 63,AKRON,CO,43,0.86115783,1
 GOODMAN REALTY COMPANY INC,80720,142 MAIN ST,AKRON,CO,21,0.87639844,1
-EARL F. JESSE,80720,29034 COUNTY RD 23,AKRON,CO,150,0.7791529,1
-L&M FARMS INC.,80720,51931 COUNTY RD MM,AKRON,CO,196,0.7463714,1
-AKRON HARDWARE LLC,80720,170 MAIN AVE,AKRON,CO,318,0.63493866,1
-FILLA FARMS LLC,80720,25524 COUNTY RD 39,AKRON,CO,175,0.7628886,1
-MARTA WELLS,80720,281 ADAMS AVE,AKRON,CO,321,0.63156277,1
-AJ'S APPRAISAL SERVICE LLC,80720,601 MAIN AVE,AKRON,CO,149,0.7797469,1
 COLORADO COMPOST LLC,80720,36683 HWY 63,AKRON,CO,66,0.84198725,1
 JONEAL YOUNG,80720,15778 COUNTY RD RR,AKRON,CO,31,0.8682442,1
 STRETCH'S AUTOBODY & RESTORATION LLC,80720,840 MAIN AVE,AKRON,CO,9,0.905078,1
 KITCHENS SPECIALTIES & DESIGN INC,80720,575 E 1 ST ST,AKRON,CO,71,0.8334898,1
-LEWIS J MAZOTTI III,80720,601 ADAMS AVE,AKRON,CO,277,0.67181504,1
 KYLE D ZIMMERMAN DBA KVK UNLIMITED SERVICES,80720,25722 COUNTY RD 40,AKRON,CO,65,0.84224355,1
-HENRIETTA UHLENHOPP,80720,575 E 7 TH ST,AKRON,CO,127,0.7931375,1
-DANIEL J GEBAUER,80720,801 FREMONT AVE,AKRON,CO,322,0.6312936,1
 MEHRING FARMS LLC,80720,46940 COUNTY RD DD,AKRON,CO,108,0.80755925,1
 DOUBLE SLASH N INC.,80720,24381 COUNTY RD 55,AKRON,CO,73,0.8330557,1
 GLOSSON DEVELOPMENT SERVICES LLC,80720,565 ASH AVE,AKRON,CO,64,0.8450227,1
-VIC D. VONDY,80720,482 DELTA AVE,AKRON,CO,154,0.7783032,1
-"VOLBERDING FARMS, INC",80720,28138 COUNTY RD 23,AKRON,CO,132,0.7899334,1
 KATHRYN BLAKE,80720,15656 CO RD 40,AKRON,CO,80,0.82767946,1
-SMART TMS,80720,43115 COUNTY RD V,AKRON,CO,158,0.77584696,1
-DELL COWAN,80720,721 BENT AVE,AKRON,CO,180,0.7603791,1
 LB HOLDINGS,80720,222 E 1 ST ST,AKRON,CO,83,0.82483315,1
-HUSMANN PLUMBING INC,81101,18 CONEJOS AVE,ALAMOSA,CO,341,0.6219152,1
-"CALLVILLO'S, INC.",81101,400 MAIN ST,ALAMOSA,CO,250,0.698318,1
-"SLEEP SANCTUARY, INC.",81101,630 MAIN ST,ALAMOSA,CO,296,0.6520751,1
-SAN LUIS VALLEY DEVELOPMENT RESOURCES GROUP,81101,610 STATE STE 200,ALAMOSA,CO,304,0.6457991,1
-STEFFENS QUALITY PLUMBING & HEATING INCORPORATED,81101,171 CURTIS LN,ALAMOSA,CO,334,0.6251292,1
 SAND DUNES RECREATION LLC,81101,4 SHADOW WOOD PL,ALAMOSA,CO,86,0.82244235,1
-"HIGHLAND CABINETS, INC.",81101,2414 STOCKTON ST,ALAMOSA,CO,299,0.64974934,1
 "SOUTH-CENTRAL COLORADO SENIORS, INCORPORATED",81101,1116 3 RD ST,ALAMOSA,CO,12,0.8990179,1
-"HAYNIE'S, INC.",81101,2807 ADCOCK BLVD,ALAMOSA,CO,263,0.6832666,1
-"KENTUCKY FRIED CHICKEN OF ALAMOSA, INC",81101,2007 MAIN ST,ALAMOSA,CO,166,0.7716756,1
 "ALLPINE TITLE, INC.",81101,225 E 6 TH ST,ALAMOSA,CO,30,0.8691891,1
-PRINCE PREFERRED HOTELS ALAMOSA LLC,81101,3418 MARIPOSA ST,ALAMOSA,CO,219,0.72683156,1
-DIAMOND HOSPITALITY LLC,81101,710 MARIPOSA,ALAMOSA,CO,211,0.7309873,1
-"AGRO ENGINEERING, INC.",81101,0210 COUNTY RD 2 S,ALAMOSA,CO,332,0.62627375,1
-"DEPOT AVIONICS, INC.",81101,2550 STATE AVE UNIT A,ALAMOSA,CO,176,0.76256305,1
 "ALAMOSA NEWSPAPER, INC.",81101,2205 STATE AVE,ALAMOSA,CO,95,0.81513566,1
 "ALAMOSA FAMILY DENTAL, LLC",81101,2415 MULLINS AVE 5,ALAMOSA,CO,56,0.8517248,1
-SOUL FOODS LLC,81101,1705 MAIN ST,ALAMOSA,CO,144,0.78320736,1
-"NORTH RIVER GREENHOUSE & LANDSCAPING, INC",81101,8544 CR 4 S,ALAMOSA,CO,231,0.7179901,1
-"NINO'S DEL SOL, LLC",81101,326 MAIN ST,ALAMOSA,CO,195,0.746651,1
 LA PUENTE ENTERPRISE,81101,911 STATE AVE,ALAMOSA,CO,89,0.8198291,1
-"AUTOMOTIVE CONCEPTS, INC.",81101,6778 S STATE HWY 17,ALAMOSA,CO,291,0.6610976,1
-BLANCA PEAK DENTAL CENTER,81101,100 EDISON AVE,ALAMOSA,CO,253,0.69685155,1
-"O & V PRINTING, INC.",81101,342 SANTA FE AVE,ALAMOSA,CO,229,0.718654,1
-"ROCK CREEK FAMILY MEDICINE, P.C.",81101,77 ADCOCK DR,ALAMOSA,CO,256,0.69384146,1
-"SOUTHWEST READY MIX, INC",81101,117 WHITE PNE DR,ALAMOSA,CO,282,0.66960996,1
-"ROCKY MOUNTAIN SOILS, INC.",81101,4903 STATE HWY 17,ALAMOSA,CO,335,0.6238849,1
-"VALLEY MEAT & FOOD, LLC",81101,808 W AVE,ALAMOSA,CO,302,0.646496,1
-"FULL THROTTLE CAR WASH, LLC",81101,51 CRAFT DR,ALAMOSA,CO,198,0.744454,1
 "PRO SHED, LLC",81101,0573 W US HWY 160,ALAMOSA,CO,15,0.89529437,1
-"RUSTIC LIVING, LLC",81101,5800 RUSTIC WAY,ALAMOSA,CO,169,0.7707861,1
-CATON'S SUPER LUBE LIMITED LIABILITY COMPANY,81101,725 MAIN ST,ALAMOSA,CO,238,0.7119838,1
-ROCKY MOUNTAIN HOSPITALITY LLC,81101,2505 W MAIN ST,ALAMOSA,CO,329,0.6282459,1
-ACE HARDWARE OF ALAMOSA LLC,81101,157 CRAFT DR,ALAMOSA,CO,199,0.74391395,1
-FERNANDEZ CHILI CO. INC.,81101,8267 COUNTY RD 10,ALAMOSA,CO,218,0.7281275,1
 "ALAMOSA TOWN 'N' COUNTRY, INC.",81101,3221 MAIN ST,ALAMOSA,CO,113,0.80516887,1
-"MDR HOSPITALITY, INC.",81101,2005 MAIN ST,ALAMOSA,CO,309,0.6421338,1
 PORTER REALTY INC,81101,503 MAIN ST,ALAMOSA,CO,82,0.82596594,1
-"RUSSELL SURVEYORS & ASSOCIATES, INC",81101,6820 S STATE HWY 17,ALAMOSA,CO,243,0.7050503,1
-CHAPARRAL INC,81101,517 BELL AVE,ALAMOSA,CO,244,0.70472425,1
-"ROGERS AUTO SPECIALISTS, LLC",81101,2520 1 ST ST,ALAMOSA,CO,240,0.7074209,1
 JDT PURPLE PIG PUB LLC,81101,624 MAIN ST,ALAMOSA,CO,98,0.8140981,1
-COLORADO MALTING COMPANY,81101,2064 COUNTY RD 12 S,ALAMOSA,CO,255,0.69487554,1
-NORCON FERTILIZER LLC,81101,2930 RD 100 S,ALAMOSA,CO,163,0.7737301,1
-"L & M AUTO, INC",81101,1002 W AVE,ALAMOSA,CO,124,0.79393214,1
-TIMOTHY HASLETT,81101,502 LA DUE AVE,ALAMOSA,CO,287,0.6660962,1
 WOODY'S Q SHACK LLC,81101,703 MAIN ST,ALAMOSA,CO,78,0.8278459,1
-"MARTINEZ AND ASSOCIATES, INC.",81101,514 2 ND ST,ALAMOSA,CO,346,0.61739004,1
 "GARRISON FENCE, INC",81101,6655 W US HWY 160,ALAMOSA,CO,93,0.81623816,1
-JADE COMMUNICATIONS,81101,129 SANTA FE AVE,ALAMOSA,CO,162,0.7740812,1
-ALL 4 PAWS LLC,81101,2207 STATE AVE,ALAMOSA,CO,202,0.7404006,1
-"ALAMOSA CAR CARE CENTER, INC.",81101,1110 6 TH ST,ALAMOSA,CO,289,0.66368145,1
-SEGER HOLDINGS LLC,81101,2209 MAIN ST,ALAMOSA,CO,193,0.75174934,1
-"VAN-OLSON, INC.",81101,1501 STATE AVE,ALAMOSA,CO,261,0.6860386,1
 MCCARROLL ACCOUNTING & CONSULTING INC.,81101,409 MAIN ST,ALAMOSA,CO,36,0.86427003,1
-"HSU, INC.",81101,419 MAIN ST,ALAMOSA,CO,120,0.7990769,1
 "SILVER FOX JEWWLRY, INC.",81101,12649 S US HWY 285,ALAMOSA,CO,35,0.8657441,1
-"CREDECO, INC.",81101,1310 W 8 TH ST,ALAMOSA,CO,306,0.6449364,1
 "SANGRE DE CRISTO LABORATORY, INC.",81101,2329 LAVA LN,ALAMOSA,CO,114,0.8045356,1
-WEISS DRY CLEANING LLC,81101,627 MAIN ST,ALAMOSA,CO,271,0.6742891,1
-SOUTHSIDE RENTALS LLC,81101,237 BROADWAY AVE,ALAMOSA,CO,284,0.667958,1
 "VALLEY COLLISION & KUSTOM PAINTING, INC",81101,429 6 TH ST,ALAMOSA,CO,6,0.9089958,1
-MAJESTIC VALLEY PELLETS LLC,81101,11406 COUNTY RD 103 S,ALAMOSA,CO,330,0.6273032,1
-"DYLAN BROWN AGENCY, INC.",81101,2415 MULLINS AVE,ALAMOSA,CO,328,0.6284508,1
-"J & J SUBWAY #37450, INC",81101,3333 CLARK ST,ALAMOSA,CO,249,0.6985222,1
-LARSON LAW FIRM PC,81101,319 ROSS AVE,ALAMOSA,CO,300,0.64886385,1
 NETELLIGENCE LLC,81101,602 W AVE,ALAMOSA,CO,29,0.8692175,1
 JUANITO'S MEXICAN KITCHEN LLC,81101,1019 6 TH ST,ALAMOSA,CO,28,0.8711126,1
 "MURPHY THEATERS, LLC",81101,3507 CARROLL ST,ALAMOSA,CO,58,0.8494979,1
 LPL FINANCIAL,81101,609 MAIN ST,ALAMOSA,CO,11,0.89902216,1
 DAREN BOLT AGENCY,81101,127 SANTA FE AVE,ALAMOSA,CO,32,0.86779696,1
-GERALD ZIEGLER,81101,5348 COUNTY RD 103 S,ALAMOSA,CO,246,0.7009654,1
-PS LIQUOR LLC,81101,603 DEL SOL DR,ALAMOSA,CO,298,0.6504235,1
 "JOCELYN RUSSELL, LLC",81101,6820 S STATE HWY 17,ALAMOSA,CO,59,0.8490316,1
 "SCHULZ REALTY, LLC",81101,1123 W AVE,ALAMOSA,CO,76,0.8294053,1
-"SCHRADER'S GLASS SHOP, LLC",81101,1424 21 ST ST UNIT B,ALAMOSA,CO,237,0.71240485,1
 "HORTICULTURAL ILLUMINATIONS, LLC",81101,0711 W US HWY 160,ALAMOSA,CO,107,0.80799407,1
-SLV BUILDING COMPONENTS,81101,5975 GRIEGO RD,ALAMOSA,CO,267,0.67692506,1
-SAN LUIS VALLEY HABITAT FOR HUMANITY,81101,507 MAIN ST,ALAMOSA,CO,312,0.63862365,1
 GUSTAVO VALDEZ GONZALEZ,81101,7306 ADAMS LN 1,ALAMOSA,CO,97,0.8143154,1
-YELLOW LINE TOWING AND RECOVER LLC,81101,7378 HARMONY RD,ALAMOSA,CO,140,0.7863439,1
-MITCHELL NORRIS,81101,7001 BASE CP RD,ALAMOSA,CO,209,0.73234856,1
-"LISHA ROGERS, LLC",81101,2414 STOCKTON ST UNIT B,ALAMOSA,CO,355,0.6077356,1
-HP ADVENTURES INC.,81101,6900 JUNIPER LN,ALAMOSA,CO,326,0.62854534,1
-EXTREMEM GRAPHICS,81101,175 1 2 BROADWAY AVE,ALAMOSA,CO,286,0.6670652,1
-"SAGE APARTMENTS, LLC",81101,2710 1 ST ST,ALAMOSA,CO,317,0.63496107,1
-NANCY CUTTER,81101,223 6 TH ST STE E,ALAMOSA,CO,333,0.62610614,1
-TERRI HUSMANN,81101,22 CONEJOS AVE,ALAMOSA,CO,157,0.77671075,1
-K&K DISPATCH LLC,81101,7097 BRUSH LN,ALAMOSA,CO,262,0.6847693,1
 "EME HOLDINGS LIMITED, LLC",81101,504 W AVE,ALAMOSA,CO,118,0.8035181,1
-"ELAVATION MAINTENANCE, LLC",81101,2916 CHESTER PL,ALAMOSA,CO,307,0.6448574,1
-"WH LESTER RANCHES, INC",81101,164 STANLEY RD,ALAMOSA,CO,151,0.7791007,1
 "JOHNNY'S AUTO TRIM & ROD SHOP, INC.",81101,1429 ROSS AVE,ALAMOSA,CO,100,0.8130897,1
 WAYNE BROWN LLC,81101,1132 COUNTY RD 104 N,ALAMOSA,CO,115,0.8044395,1
 "SLV WINE AND SPIRITS, LLC",81101,408 DENVER AVE,ALAMOSA,CO,2,0.9247185,1
-MARTINEZ CUSTOM CARPENTRY LLC,81101,514 2 ND ST,ALAMOSA,CO,182,0.7579059,1
-THE COLORADO FARM BREWERY LLC,81101,2070 COUNTY RD 12 S,ALAMOSA,CO,331,0.627106,1
 GLYNN'S PROCESSING,81101,5195 COUNTY RD 14 S,ALAMOSA,CO,42,0.8618282,1
 AUDREY COWAN,81101,3164 COUNTY RD 103,ALAMOSA,CO,105,0.81076086,1
-ALAMOSA FIRST ASSEMBLY OF GOD,81101,2602 CLARK ST,ALAMOSA,CO,185,0.75622207,1
-"ATENCIO'S ENTERPRISES, INC",81101,802 STATE AVE,ALAMOSA,CO,129,0.7916019,1
 "KEY BUSINESS SOLUTIONS, INC.",81101,3143 COUNTY RD 112,ALAMOSA,CO,112,0.8053612,1
 JOSEPH DICKERSON,81101,4670 DEL VIENTO RD,ALAMOSA,CO,20,0.87958807,1
-CHRISTOPHER T OFFUTT DPM,81101,2415 MULLINS AVE,ALAMOSA,CO,186,0.75606173,1
 "CHRISTOPHER T OFFUTT, D.P.M.",81101,2415 MULLINS AVE,ALAMOSA,CO,51,0.8546646,1
-ACCENT ON FLOWERS,81101,1114 MAIN ST,ALAMOSA,CO,340,0.62223417,1
-"AIR EM UP, LLC",81101,2515 CHICO ST,ALAMOSA,CO,327,0.62852865,1
 MPS MANAGEMENT LLC,81101,906 WEBER CT,ALAMOSA,CO,68,0.8349292,1
-"SPLASHLAND, LLC",81101,5975 GRIEGO RD,ALAMOSA,CO,349,0.6110866,1
-QUALITY HOME INSPECTION AND ELECTRIC,81101,613 3 RD ST,ALAMOSA,CO,266,0.6769387,1
-DENTON INSURANCE AGENCY,81101,201 PIKE AVE,ALAMOSA,CO,181,0.7589011,1
-ESSENTIAL RADIANCE SKIN CARE SERVICES,81101,1102 MAIN ST,ALAMOSA,CO,168,0.77105707,1
 COOL SUNSHINE REALTY,81101,8346 COOL SUNSHINE CIR,ALAMOSA,CO,17,0.8902671,1
-RONALD CHRISTOPHER CLARK,81101,1817 TREMONT ST,ALAMOSA,CO,294,0.6533779,1
-"COLORADO TOWING, LLC",81101,7171 CACTUS RD,ALAMOSA,CO,206,0.7371234,1
-BIG VALLEY HOBBIES LLC,81101,711 BERKELEY AVE,ALAMOSA,CO,189,0.75385153,1
 "COOL SUNSHINE RV PARK, LLC",81101,1055 7 TH ST,ALAMOSA,CO,37,0.86424416,1
 SARAH YODER,81101,5290 SIERRA VIS RD,ALAMOSA,CO,49,0.8579921,1
-MOUNTAIN VALLEY DANCE STUDIOS,81101,226 STATE AVE,ALAMOSA,CO,301,0.64655894,1
-"IAC PERFORMANCE, LLC",81101,508 WHITE PNE DR,ALAMOSA,CO,285,0.66784513,1
-MTZ CONCRETE CONSTRUCTION,81101,6640 REDWING LN,ALAMOSA,CO,226,0.71914,1
 "3-2-1 MAINTENANCE, LLC",81101,823 MAIN ST,ALAMOSA,CO,10,0.9028085,1
-"WILDERNESS ADVENTURES, INC",81101,3320 COUNTY RD 103 S,ALAMOSA,CO,354,0.60820436,1
 LISA LUCERO,81101,614 11 TH ST,ALAMOSA,CO,109,0.8067153,1
 SAN LUIS VALLEY MUSEUM,81101,401 HUNT AVE,ALAMOSA,CO,25,0.8727322,1
-INDEPENDENT CONTRACTOR- SONNY YOHN,81101,6450 TRINCHERA LN,ALAMOSA,CO,135,0.7894129,1
-VINROCK MEDIA,81101,8 MTN VW,ALAMOSA,CO,183,0.7578685,1
-MARILYN STOLTZFUS,81101,516 SAN JUAN AVE,ALAMOSA,CO,275,0.6733086,1
 ANGELINA RODRIGUEZ,81101,12230 COUNTY RD 5 S,ALAMOSA,CO,101,0.812113,1
 SUNSHINE VALLEY WELLNESS CENTER,81101,1105 3 RD ST 2,ALAMOSA,CO,99,0.81367296,1
-"PAINTERS PRO, LLC",81101,2303 VIGIL WAY,ALAMOSA,CO,295,0.6528002,1
-"BLUE PEAKS DEVELOPMENTAL SERVICES, INC.",81101,703 4 TH ST,ALAMOSA,CO,171,0.7672195,1
 "WALL, SMITH, BATEMAN INC.",81101,3001 ADCOCK CIR,ALAMOSA,CO,41,0.861925,1
-"ALCON CONSTRUCTION, INC.",81101,12233 CR 5 S,ALAMOSA,CO,273,0.67373836,1
-ARLAN'S PRO SERVICES,81101,6609 COUNTY RD 114 S,ALAMOSA,CO,215,0.72925955,1
 "EXPO, LLC",81101,25199 HWY 371,ALAMOSA,CO,87,0.82201564,1
-"ASPHALT CONSTRUCTORS, INC.",81101,7040 W US HWY 160,ALAMOSA,CO,252,0.69722825,1
 RED WILLOWS INC.,81101,1110 W AVE,ALAMOSA,CO,13,0.898832,1
-"BILL CLARK TRUCK LINE, INC.",81101,311 6 TH ST,ALAMOSA,CO,121,0.79888076,1
-OKS ENTERPRISES LLC,81101,100 CRAFT DR,ALAMOSA,CO,351,0.6102978,1
-"LA PUENTE HOME, INCORPORATED",81101,911 STATE AVE,ALAMOSA,CO,259,0.6880733,1
 "VENDOLA PLUMBING & HEATING, INC",81101,185 BROADWAY AVE,ALAMOSA,CO,62,0.8455561,1
 ALPINE ELECTRIC INC,81101,82 CONEJOS AVE,ALAMOSA,CO,70,0.8335863,1
-MILE & HALF FOODS LLC,81101,2025 MAIN ST,ALAMOSA,CO,130,0.7915723,1
-"ABSMEIER LANDSCAPING & CONSTRUCTION, LLC",81101,1424 21 ST ST,ALAMOSA,CO,236,0.713013,1
 "SAN LUIS VALLEY BREWING COMPANY, LLC",81101,631 MAIN ST,ALAMOSA,CO,57,0.85111815,1
-THE BIG DAY LLC,80510,1130 COUNTY RD 84 W,ALLENSPARK,CO,126,0.79375434,1
-ALLENSPARK COMMUNITY CULTURES COUNCIL,80510,14863 HWY 7,ALLENSPARK,CO,136,0.7878596,1
-ROCK CREEK GROUP LLC,80510,6 SKI RD,ALLENSPARK,CO,239,0.7089495,1
-VERIDITAS LLC,80510,9972 STATE HWY 7,ALLENSPARK,CO,245,0.7046228,1
 THE ALLENSPARK COMMUNITY CHURCH,80510,16 WASHINGTON ST,ALLENSPARK,CO,45,0.8592273,1
-SJN CORP,80510,555 DL DR,ALLENSPARK,CO,207,0.73573434,1
 "CARING HANDS, INC.",80510,105 WAGENER RD,ALLENSPARK,CO,14,0.8970897,1
-"ALMA CHEFS, LLC",80420,24 N MAIN ST,ALMA,CO,352,0.6096636,1
-FB'S INC.,80420,PO BOX 11,ALMA,CO,251,0.6973557,1
-APPLIANCE ARTISAN LLC,80420,316 NUTHATCH DR,ALMA,CO,161,0.7744778,1
-ALMART LLC,80420,11 S MAIN ST,ALMA,CO,167,0.77146256,1
-ROCKY TOP LANDSCAPE MAINTENANCE INC.,80420,136 W BUCKSKIN RD,ALMA,CO,347,0.6167047,1
 HIGH COUNTRY MECHANICAL SERVICES LLC,80420,PO BOX 279,ALMA,CO,1,0.93180263,1
-TWO HANDS MECHANICAL & MAINTENANCE,80420,401 N ASPEN,ALMA,CO,358,0.60111344,1
-BLUE SKY GLOBAL,80420,nan,ALMA,CO,320,0.63200986,1
-BLP ENTERPRISES INC,80420,740 ADVENTURE RD,ALMA,CO,247,0.7005338,1
 MOUNTAIN QUALITY CONSTRUCTION INC,80424,387 QUARTZVILLE RD,ALMA,CO,3,0.9218771,1
 NUMBER WRANGLER INC,80420,PO BOX 102,ALMA,CO,84,0.8239972,1
-K9 ADVENTURE FITNESS,80420,49 EDGEWOOD DR,ALMA,CO,248,0.6992554,1
-BACKCOUNTRY BOOKKEEPING,80420,688 COUNTY RD 12 A,ALMA,CO,148,0.7799803,1
-THREE RIVERS SMOKEHOUSE,81210,130 COUNTY RD 742,ALMONT,CO,280,0.6703328,1
-"SKYHIGHCOLORADO, LLC",81210,23044 COUNTY RD 742,ALMONT,CO,274,0.67348117,1
 THREE RIVERS OUTFITTERS,81210,130 COUNTY RD 742 PO BOX 339,ALMONT,CO,106,0.80839777,1
 ROBERTS CORPORATION,81210,PO BOX 399,ALMONT,CO,69,0.8341283,1
-MAYFLY,81210,10825 COUNTY RD 742,ALMONT,CO,356,0.60550785,1
 ROARING JUDY MECHANICAL LLC,81210,PO BOX 523,ALMONT,CO,91,0.8175232,1
-ST PAULS LUTHERAN CHURCH,80721,300 MONMOUTH AVE ATTENSION NORB BADDING,AMHERST,CO,338,0.62305474,1
-V & P VIESELMEYER INC,80721,53615 COUNTY RD 38,AMHERST,CO,257,0.6936878,1
 MENTAL HEALTH COUNCELING,80721,55113 CR 26,AMHERST,CO,38,0.8641069,1
 ET PUMPING SERVICE LLC,80801,34900 COUNTY RD 12,ANTON,CO,116,0.80440795,1
-ANTON EXCAVATING,80801,25901 US HWY 36 BOX 47,ANTON,CO,228,0.7187221,1
-HERRON FARMS INC,80801,35571 RD 11,ANTON,CO,339,0.62256247,1
 "TOLTEC GORGE CATERING, INC.",81120,162 PO BOX,ANTONITO,CO,94,0.8160527,1
-"TORRES BUILDERS, LLC",81120,11905 COUNTY RD J,ANTONITO,CO,178,0.76194364,1
 CONEJOS CLEAN WATER,81120,304 RIV ST,ANTONITO,CO,16,0.893352,1
 CONEJOS ANGLERS LLC,81120,34591 HWY 17,ANTONITO,CO,88,0.82111907,1
-TURKEY CREEK LLC,81120,402 MAIN ST,ANTONITO,CO,292,0.6574523,1
-CUMBRES TOLTEC OPERATING LLC,81120,5250 STATE HWY 285,ANTONITO,CO,264,0.6792661,1
 "ROBINS CONSTRUCTION, LLLP",81120,38767 STATE HWY 17,ANTONITO,CO,27,0.87163895,1
-RAINBOW TROUT RANCH INC.,81120,1484 FDR 250,ANTONITO,CO,350,0.6109765,1
-TODD A BEEK,80802,10484 COUNTY RD 51,ARAPAHOE,CO,133,0.78990275,1
-PIEDRA PEAK GENERAL STORE LLC,81121,53 COUNTY RD 982,ARBOLES,CO,227,0.71875787,1
 BONNY COMPANY INC,80804,221 PNE ST,ARRIBA,CO,34,0.8662253,1
-FRIE ARNDT DANBORN &AMP; THIESSEN PC,80003,7400 WADSWORTH BLVD,ARVADA,CO,290,0.661191,1
-EL AGAVE AZUL INC,80004,12391 W 64 TH AVE,ARVADA,CO,201,0.7410929,1
-"SHEFFIELD HOMES FINISHED BASEMENTS &AMP; MORE, LLC",80003,6777 WADSWORTH BLVD STE 301,ARVADA,CO,311,0.6398476,1
-"ALLEGIANT RECEIVABLES SOLUTIONS, INC.",80004,12191 W 64 TH AVE STE 210,ARVADA,CO,146,0.78114927,1
 DAWN INDUSTRIES  INC.,80002,5055 58 TH AVE,ARVADA,CO,52,0.85367405,1
 "ELLICE K GOLDBERG, D.O., P.C.",80004,12001 W 63 RD PL,ARVADA,CO,53,0.8533467,1
-KSJ CORPORATION,80002,5440 WARD RD,ARVADA,CO,173,0.7649383,1
-"JAMES R HOLMES D.D.S., P.C.",80004,6355 WARD RD UNIT 410,ARVADA,CO,260,0.68675953,1
 BREAD WINNERS CAFE & CATERING,80002,7311 GRANDVIEW AVE,ARVADA,CO,4,0.9188736,1
-MOUNTAIN ORAL SURGERY,80003,7991 VANCE DR,ARVADA,CO,269,0.6746018,1
-"NAMIKO'S, INC.",80002,7310 W 52 ND AVE UNIT R,ARVADA,CO,222,0.72604984,1
-"HORIZON US&S, LLC",80002,8011 N I 70 FRONTAGE RD,ARVADA,CO,342,0.6216829,1
 BFP ENTERPRISES LLC,80002,7425 W 52 ND AVE,ARVADA,CO,19,0.8804425,1
 "AKSAN IA FC, LLC",80002,6850 W 52 ND AVE 200,ARVADA,CO,81,0.8260743,1
-"AJG HOLDINGS AND WHOLESALE, LLC",80006,PO BOX 746086,ARVADA,CO,213,0.73056984,1
-PROPERTY PARAMEDICS DBA PROPERTY DOCTORS INC,80004,14700 W 66 TH PL,ARVADA,CO,194,0.7491,1
-"EMPIRE CRUSHING, LLC",80007,6995 PIKE CT,ARVADA,CO,337,0.6233495,1
 "ROCKY MOUNTAIN CONCRETE CONSTRUCTION, INC.",80005,11963 W 83 RD LN,ARVADA,CO,26,0.87264234,1
-"N&E HOLDINGS, INC",80002,6440 W 56 TH PL,ARVADA,CO,254,0.69521314,1
-"TEAM SPORTS SALES, LLC",80003,6510 WADSWORTH BYP,ARVADA,CO,316,0.6355364,1
-TOTAL DISPOSAL LLC,80002,12500 W 58 TH AVE,ARVADA,CO,324,0.62981373,1
-SPECIALTY CONSTRUCTION PRODUCTS LLC,80005,14434 W 88 TH DR UNIT D,ARVADA,CO,225,0.7226405,1
-"THE BASE GROUP, INC.",80003,5455 W 59 TH AVE,ARVADA,CO,319,0.6326971,1
+"N&E HOLDINGS, INC",80002,6440 W 56 TH PL,ARVADA,CO,75,0.83001834,1
 "SO RADISH ARVADA, LLC",80002,5711 OLDE WADSWORTH BLVD,ARVADA,CO,63,0.84519297,1
-360 DEGREES OF PERFECTION,80002,6105 W 55 TH AVE STE C,ARVADA,CO,325,0.62854683,1
-"BFN INDUSTRIES, LLC",80003,6727 W 58 TH PL,ARVADA,CO,278,0.6711714,1
-MILE HIGH OTOLARYNGOLOGY LLC PLLC,80002,6870 W 52 ND AVE STE 207,ARVADA,CO,216,0.728822,1
 DETAILED HOME INSPECTIONS INC,80005,8414 PARFET CT,ARVADA,CO,0,0.9464162,1
-AKSAN IA UNITED FORTUNE INC,80002,6850 W 52 ND AVE,ARVADA,CO,313,0.636586,1
-LAKESIDE INSURANCE CENTER LLC,80003,7728 VANCE DR,ARVADA,CO,145,0.78293496,1
 STANDARD MECHANICAL INC.,80005,7339 CARR ST,ARVADA,CO,96,0.81473863,1
 MEDIUM VOLTAGE ACCESSORY SUPPLY INC.,80002,5758 LAMAR ST,ARVADA,CO,47,0.85812056,1
-"ELEGANT NAILS QUY, LLC",80002,7450 W 52 ND AVE R,ARVADA,CO,265,0.67725587,1
-"COLCHIN AUTOMOTIVE & DISEL, INC.",80002,5740 LAMAR ST,ARVADA,CO,160,0.77459645,1
-"EDGEWATER ELECTRIC, INC.",80002,6260 W 52 ND AVE 107,ARVADA,CO,233,0.7165981,1
 "T2 CONSTRUCTION, INC.",80003,5435 W 59 TH AVE,ARVADA,CO,67,0.8394786,1
 "WEST BROTHERS CONSTRUCTION, INC.",80002,5400 WARD RD,ARVADA,CO,46,0.85821545,1
 BURNS &AMP; BURNS VENTURES INC,80004,12367 64 TH AVE W,ARVADA,CO,61,0.8463312,1
-JO & JO CO LLC,80004,11752 W 64 TH AVE,ARVADA,CO,190,0.7534997,1
-"THE DIGITAL FRONTIER, INC.",80003,5910 INGALLS ST,ARVADA,CO,212,0.73079896,1
-KLINES LLC DBA KLINE'S BEER HALL,80002,7519 GRANDVIEW AVE,ARVADA,CO,279,0.6711216,1
 "OPPMINER, LLC",80006,PO BOX 745242,ARVADA,CO,104,0.8111116,1
-CORNERSTONE FABRICATION CORP.,80004,14613 W 69 TH PL,ARVADA,CO,203,0.73970133,1
-"THE NOVAK AGENCY, INC",80005,7985 ALLISON WAY UNIT B,ARVADA,CO,187,0.7557712,1
-UNIQUE MANUFACTURING AND MARKETING INC,80002,5752 LAMAR ST,ARVADA,CO,188,0.7550833,1
 RGCS LLC,80002,7501 GRANDVIEW AVE,ARVADA,CO,54,0.85309625,1
 ARI CORP,80007,7762 QUAKER ST,ARVADA,CO,103,0.8111645,1
-"POTRANCAS, INC",80004,11651 W 64 TH AVE,ARVADA,CO,348,0.6150346,1
-HGLK INC DBA WOODY'S LAWN SPRINKLER AND LANDSCAPE,80003,6626 WADSWORTH BLVD,ARVADA,CO,288,0.66502386,1
-EVELO FRANCHISE CONCEPTS LLC,80003,8770 WADSWORTH BLVD UNIT T,ARVADA,CO,122,0.79841244,1
-WESTERN TOOL COMPANY,80002,7279 W 52 ND AVE,ARVADA,CO,125,0.7938785,1
 GABES BURRITO GRILL AND FRESH BLENDERS LLC,80005,13149 W 88 TH AVE,ARVADA,CO,24,0.8746134,1
-"GOLDEN ACUPUNCTURE, INC.",80004,11890 W 64 TH AVE STE 1,ARVADA,CO,357,0.6039199,1
-"SECHLER ELECTRIC CO., INC.",80002,5785 SHERIDAN BLVD,ARVADA,CO,141,0.7856343,1
-DYNAMIC PAINTING CO. INC,80005,8585 FLD CT,ARVADA,CO,258,0.6900739,1
-ANIMAL ASSISTED THERAPY PROGRAMS OF COLO,80005,7275 KIPLING ST,ARVADA,CO,270,0.6743132,1
-"GOOD BUY GEAR, INC",80002,6561 W 56 TH AVE,ARVADA,CO,210,0.73212534,1
-STATION DENTAL AT ARVADA LLC,80004,12191 64 TH AVE,ARVADA,CO,272,0.67418754,1
 "STWC HOLDINGS, INC",80005,8468 LEWIS CT,ARVADA,CO,119,0.80332834,1
 "SCOTT FARLEY ENTERPRISES, INC.",80002,6295 55 TH AVE W,ARVADA,CO,117,0.8037195,1
-"CONUNDRUM, INC",80003,4752 W 60 TH AVE UNIT A,ARVADA,CO,152,0.77889097,1
-HAWLEY CORING INC,80007,7644 QUARTZ ST,ARVADA,CO,303,0.6458893,1
 ESSENTIAL FINANCIAL MANAGEMENT LLC,80003,6777 WADSWORTH BLVD,ARVADA,CO,92,0.81674606,1
-THE GLO COMPANY LLC,80003,6315 SHERIDAN BLVD,ARVADA,CO,179,0.76138,1
 CASA DE ADULT DAY CARE INC,80002,12500 W 58 TH AVE STE 103,ARVADA,CO,5,0.91075015,1
-KSM ENTERPRISES INC,80003,6812 WADSWORTH BLVD,ARVADA,CO,155,0.77690417,1
 COMMUNICATION DESIGN INTEGRATION INC,80002,6425 W 52 ND AVE,ARVADA,CO,39,0.86386937,1
-"TAYLOR DENTAL ARTS, P.C.",80005,7913 ALLISON WAY STE 101,ARVADA,CO,197,0.74502873,1
 NICHOLS GLASS SERVICE LLC,80004,9602 RALSTON RD,ARVADA,CO,110,0.80593044,1
-JESSE LYNN MARRON DDS PC,80005,13739 W 85 TH DR STE 113,ARVADA,CO,137,0.7875294,1
 ULLRICH INSURANCE AGENCY,80002,5310 WARD RD STE G 3,ARVADA,CO,75,0.83001834,1
-GONZALES CUSTOM PAINTING INC,80002,8710 49 TH CIR W,ARVADA,CO,208,0.73438025,1
-GOLDEN HEATING & AIR INC.,80002,5720 LAMAR ST UNIT 1,ARVADA,CO,232,0.7175203,1
 TOM HANSEN INC,80004,8386 W 69 TH DR,ARVADA,CO,33,0.8675951,1
-K & W ON SITE SERVICES LLC,80003,5800 W 60 TH AVE,ARVADA,CO,177,0.76218617,1
 LEAN SIX SIGMA EXPERTS CORP,80005,98 WADSWORTH BLVD 127 234,ARVADA,CO,18,0.88660544,1
-"FACTORY TRAINED AUTO REPAIR, LLC",80003,8050 CHASE DR,ARVADA,CO,359,0.6003135,1
-"CERIA-NA, LLC",80005,10600 W 73 RD PLACE,ARVADA,CO,147,0.78001505,1
-"MESSINGHAM ORTHODONTICS, PC",80003,7991 VANCE DR,ARVADA,CO,164,0.77329284,1
-GREAT EVENTS OF COLORADO LLC,80007,7234 NILE ST,ARVADA,CO,268,0.6762275,1
-"GIAMBROCCO & SONS, INC.",80005,7670 ALKIRE ST,ARVADA,CO,310,0.6403515,1
-TOM J. BEHUNIN CONSTRUCTION LLC,80002,4475 W 58 TH AVE UNIT F,ARVADA,CO,238,0.7119838,1
-AME INC,80003,5783 POMONA DR,ARVADA,CO,159,0.77525777,1
-MERCURIAL LLC,80002,5610 WARD RD,ARVADA,CO,345,0.6179146,1
-WHITEWATER PLUMBING INC,80004,7186 HOLLAND CT,ARVADA,CO,224,0.72543186,1
-"FOUR BROTHERS SUSHI, INC.",80004,12650 W 64 TH AVE UNIT B 2,ARVADA,CO,223,0.72553843,1
-RENTAL SERVICES INC,80004,10050 RALSON RD UNIT 7,ARVADA,CO,153,0.77864957,1
-MICHAEL W WOODS DDS PC,80007,14950 W 64 TH AVE STE A,ARVADA,CO,242,0.70666987,1
-PEAK TO PEAK FAMILY PRACTICE PC,80003,7768 VANCE DR STE B,ARVADA,CO,200,0.7418701,1
-RAM GRINDING INC,80002,5635 NEWLAND WAY,ARVADA,CO,331,0.627106,1
-"BALL FOUR, INC",80005,11338 W 74 TH PL,ARVADA,CO,172,0.76680255,1
-GB FISH & CHIPS 4 INC.,80002,7401 RALSTON RD,ARVADA,CO,353,0.60849684,1
 NO LIMIT LOGISTICS LLC,80002,7905 RALSTON RD,ARVADA,CO,44,0.86037374,1
-"SKY POINTE 2, CORP.",80002,7330 W 52 ND AVE,ARVADA,CO,235,0.7130702,1
-LEN'S EXCAVATING INC,80007,18710 HWY 72,ARVADA,CO,230,0.7180364,1
-ALL SECURE LOCK SERVICE LLC,80002,5701 INDEPENDENCE ST,ARVADA,CO,128,0.7921538,1
-ROYAL GARDEN ASIAN GRILL INC,80007,16255 W 64 TH AVE,ARVADA,CO,241,0.70741516,1
-"AMPTEK ELECTRICAL SERVICES, INC.",80005,8091 QUEEN ST,ARVADA,CO,165,0.7717355,1
 BENDING WRENCHES AUTOMOTIVE INC,80005,8130 W 80 TH AVE,ARVADA,CO,50,0.8570959,1
-"DR. SHAWN COTTRELL, OD, PC",80005,7913 ALLISON WAY,ARVADA,CO,139,0.78703666,1
-DSF MANAGEMENT LLC,80002,12990 W 58 TH AVE,ARVADA,CO,344,0.6186542,1
-"TLC LAND CARE, INC.",80002,5239 BALSAM ST,ARVADA,CO,123,0.79750216,1
-GRAPHIC DIRECTIONS AND ADVERTISING,80002,6385 W 52 ND AVE STE 2 A,ARVADA,CO,305,0.6450638,1
-"ARVADA DENTISTRY & ORTHODONTICS, PLLC",80002,5656 WARD WAY,ARVADA,CO,205,0.73742455,1
-"ODYSSEY BEERWERKS, LLC",80002,5535 W 56 TH AVE,ARVADA,CO,154,0.7783032,1
-"WESTERN ARCHITECTURAL METALS, LLC",80002,5685 GRAY ST,ARVADA,CO,147,0.78001505,1
-WOODSIDE REALTY COMPANY - CENTRAL,80002,5440 WARD RD,ARVADA,CO,319,0.6326971,1
-BRILLO CLEANING LLC,80003,6529 W 84 TH PL,ARVADA,CO,192,0.75220466,1
-MILE HI TRUCK TRANSMISSION INC,80002,5300 W 56 TH AVE,ARVADA,CO,278,0.6711714,1
 "MALARA GARDENS, INC.",80004,7190 KIPLING ST,ARVADA,CO,90,0.81872946,1
-QUALITY STEEL RULE & DIE INC,80003,6701 W 58 TH PLACE,ARVADA,CO,142,0.7849392,1
-CLEAR CREEK ENDODONTICS,80002,7375 52 ND AVE W,ARVADA,CO,233,0.7165981,1
-TJC LIMITED,80005,8305 MOORE ST,ARVADA,CO,220,0.72619003,1
-FABRICATIONS UNLIMITED INC,80002,5440 MARSHALL ST,ARVADA,CO,255,0.69487554,1
-WILLIAMSON COMPANY,80003,6060 W 59 TH AVE,ARVADA,CO,171,0.7672195,1
-LAKESIDE HEATING & AIR CONDITIONING INC.,80002,6260 W 52 ND AVE 116,ARVADA,CO,194,0.7491,1
-"HENRIKSEN, INC.",80002,6260 W 52 ND AVE,ARVADA,CO,198,0.744454,1
-SPECTRUM CLEANING AND RESTORATION NETWORK DENVER CO LLC,80003,5415 W 59 TH AVE,ARVADA,CO,162,0.7740812,1
 ABM FABRICATION & MACHINING LLC,80003,5880 W 59 TH AVE,ARVADA,CO,100,0.8130897,1
 FOCUSED LIGHT LLC,80002,5533 GRAY ST,ARVADA,CO,22,0.87590885,1
-UNION SPORT GROUP INC.,80002,6120 W 55 TH AVE,ARVADA,CO,131,0.79020435,1
-"RIESTRA'S KITCHEN & BATH, INC",80002,5440 MARSHALL ST STE 6,ARVADA,CO,220,0.72619003,1
 "SLYTEK, LLC",80003,5891 NOLAN ST 2,ARVADA,CO,94,0.8160527,1
-"TALNUA, LLC",80002,5405 W 56 TH AVE UNIT C,ARVADA,CO,126,0.79375434,1
 A ONE STOP PRINT SHOP INC,80002,6260 W 52 ND AVE STE 121,ARVADA,CO,90,0.81872946,1
-SOMEPLACE ELSE LLC,80002,6425 W 52 ND AVE,ARVADA,CO,185,0.75622207,1
-BA-NOM-A-NOM LLC,80002,5604 KENDALL CT,ARVADA,CO,291,0.6610976,1
 BEAUTY MARK,80002,5545 W 56 TH AVE,ARVADA,CO,114,0.8045356,1
 INDUSTRIAL COOLANT SYSTEMS LLC,80003,5891 NOLAN ST 2,ARVADA,CO,116,0.80440795,1
-DIMA SHABANYAN,80003,5265 W 66 TH AVE UNIT G,ARVADA,CO,281,0.66975534,1
-RAMSAY ENGINEERING LLC,80002,6600 W 55 TH AVE,ARVADA,CO,318,0.63493866,1
-WANCO INC,80003,5870 TENNYSON ST,ARVADA,CO,322,0.6312936,1
-"PDSINC, LLC",80002,6870 W 52 ND AVE 107,ARVADA,CO,218,0.7281275,1
-AEC INC.,80002,5879 W 58 TH AVE,ARVADA,CO,144,0.78320736,1
-"DUCTS UNLIMITED MECHANICAL SYSTEMS, INC.",80002,5156 W 58 TH AVE,ARVADA,CO,276,0.67276555,1
-JIM MICHAEL GRAY,80002,5405 W 56 TH AVE UNIT E,ARVADA,CO,250,0.698318,1
-"INCIDENTCLEAR, LLC",80002,6340 W 56 TH AVE,ARVADA,CO,259,0.6880733,1
 THE DUCK COMPANY,80002,5601 GRAY ST,ARVADA,CO,10,0.9028085,1
 "CEAVCO AUDIO-VISUAL COMPANY, INC.",80002,6240 W 54 TH AVE,ARVADA,CO,30,0.8691891,1
-LALLIER CONSTRUCTION INC.,80002,5685 GRAY ST,ARVADA,CO,249,0.6985222,1
-INDUSTRIALEX MANUFACTURING CORP.,80403,6250 JOYCE DR,ARVADA,CO,150,0.7791529,1
-EURO CABINET CORP,80002,6110 W 55 TH AVE,ARVADA,CO,190,0.7534997,1
 "PEAK PLASTERING, LLC",80002,6390 W 56 TH AVE,ARVADA,CO,103,0.8111645,1
 FOOTHILLS CUSTOM CABINET,80002,6262 W 55 TH AVE,ARVADA,CO,106,0.80839777,1
-SALCO INC,80003,5955 SHERIDAN BLVD,ARVADA,CO,247,0.7005338,1
 PARAMOUNT FABRICS INC,80003,5570 W 60 TH AVE,ARVADA,CO,97,0.8143154,1
 CINEGRATION LLC,80002,6425 W 52 ND AVE STE 1,ARVADA,CO,52,0.85367405,1
 "TOURNAMENT KINGS, INCORPORATED",80002,6395 W 56 TH AVE,ARVADA,CO,102,0.8119359,1
 REMOTE TELCOM LLC,80011,15607 E 17 TH AVE,AURORA,CO,29,0.8692175,1
 RPS SERVICES LLC,80020,11811 UPHAM ST,BROOMFIELD,CO,7,0.90693265,1
-"A PRECIOUS CHILD, INC.",80020,7051 W 118 TH AVE,BROOMFIELD,CO,143,0.78324693,1
 "KARL SCHMIDT MANUFACTURING, INC.",80022,3900 E 68 TH AVE,COMMERCE CITY,CO,82,0.82596594,1
-DAVE DEWEY'S STEP HILLS TRANSFER INC,80022,5850 E 56 TH AVE,COMMERCE CITY,CO,124,0.79393214,1
-HPT INCORPORATED,80022,5465 QUEBEC ST 102,COMMERCE CITY,CO,216,0.728822,1
-MERRICK WOODWORKING INC,80216,6885 E 48 TH AVE,COMMERCE CITY,CO,296,0.6520751,1
-BLACK BELT MOVERS DES MOINES LLC,80022,5750 E 58 TH AVE,COMMERCE CITY,CO,142,0.7849392,1
-DKMM LLC,80022,6025 E 76 TH AVE,COMMERCE CITY,CO,229,0.718654,1
-"CHOICE CHEMICAL COMPANY, A COL",80022,5598 MONACO ST UNIT C,COMMERCE CITY,CO,277,0.67181504,1
-"COLORADO ASPHALT SERVICES, LLC",80022,3700 E 56 TH AVE,COMMERCE CITY,CO,317,0.63496107,1
-JOAQUIN MFG CORP,80022,6900 ELM ST,COMMERCE CITY,CO,149,0.7797469,1
-"DMS ACQUISITIONS, INC.",80022,5700 FAIRFAX ST,COMMERCE CITY,CO,257,0.6936878,1
-"SEELEY INTERNATIONAL ACQUISITION CO., LTD.",80216,4430 GLENCOE ST,DENVER,CO,221,0.72616094,1
 KNOTTY TIE CO.,80204,926 W 10 TH AVE,DENVER,CO,88,0.82111907,1
-THINGS THAT GLOW LLC,80212,5275 W 48 TH AVE,DENVER,CO,223,0.72553843,1
-REEL CANVAS INC,80223,1145 W CUSTER PL,DENVER,CO,304,0.6457991,1
-"KEEP SMOKING WOOD, LLC",80202,1644 PLATTE ST 100,DENVER,CO,352,0.6096636,1
 "THE REAL DILL, LLC",80223,33 S FOX ST,DENVER,CO,2,0.9247185,1
 A&W ENTERPRISES,80223,1360 S LIPAN ST,DENVER,CO,71,0.8334898,1
 NULINE MANUFACTURING INCORPORATED,80239,11333 E 55 TH AVE UNIT C,DENVER,CO,80,0.82767946,1
 RALPH'S INDUSTRIAL SEWING MACHINE COMPANY,80211,2030 CLAY ST,DENVER,CO,42,0.8618282,1
 STAR TECH INC,80223,480 S SANTA FE DR,DENVER,CO,99,0.81367296,1
-"LITTLE COLORADO, LLC",80211,4450 LIPAN ST,DENVER,CO,251,0.6973557,1
-MUDDY RIVER MANUFACTURING,80212,5371 TENNYSON ST,DENVER,CO,256,0.69384146,1
-VSB LLC,80206,3300 E 1 ST AVE,DENVER,CO,207,0.73573434,1
-"OLD WESTERN PAINTS, INC.",80204,2001 W BARBERRY PLACE,DENVER,CO,222,0.72604984,1
-"CONTEMPORARY METAL FURNISHINGS, INC.",80223,80 S SANTA FE DR,DENVER,CO,263,0.6832666,1
 AZTEC CUSTOM RUG & CARPET SRVCS,80204,1957 W 14 TH AVE,DENVER,CO,68,0.8349292,1
-"DESIGN AND IMAGE COMMUNICATIONS, INC.",80216,3575 RINGSBY CT,DENVER,CO,157,0.77671075,1
 "SILVER ENGINEERING WORKS, LLC",80229,6565 VINE CT,DENVER,CO,51,0.8546646,1
-SIMON BROS ROOFING AND RESTORATION LLC,80216,6803 E 47 TH AVE DR,DENVER,CO,152,0.77889097,1
 PEAK SALES GROUP LLC,80216,5160 FOX ST,DENVER,CO,54,0.85309625,1
-"DAY & NIGHT EMERGENCY SERVICE REPAIR, INC.",80219,3270 W ALAMEDA AVE,DENVER,CO,338,0.62305474,1
 "ROCKET SEALS, INC.",80223,1297 S LIPAN ST,DENVER,CO,26,0.87264234,1
-"CABINET WAREHOUSE, LLC",80229,601 E 64 TH AVE,DENVER,CO,184,0.7569796,1
-SNARF'S AT HIGHLANDS LLC,80212,5001 W 38 TH AVE,DENVER,CO,292,0.6574523,1
-"JAMES M. JOHNSTON & ASSOCIATES, INC.",80246,4500 E CHERRY CRK S DR,DENVER,CO,314,0.6363326,1
 LEMON POWERS INC DBA ABACUS CABINETRY,80223,1474 S ACOMA ST,DENVER,CO,47,0.85812056,1
-TRAFALGAR INC.,80204,221 W 13 TH AVE,DENVER,CO,168,0.77105707,1
-"REDPOINT FINANCIAL SERVICES, LLC",80212,3845 TENNYSON ST,DENVER,CO,303,0.6458893,1
-A SMALL PRINT SHOP LLC,80205,3851 STEELE ST UNIT E,DENVER,CO,297,0.6510823,1
-SONDERMIND WELLNESS CENTERS LLC,80205,3000 LAWRENCE ST,DENVER,CO,206,0.7371234,1
-CARNICERIA LA GUADALAJARA,80219,5185 W 1 ST AVE,DENVER,CO,164,0.77329284,1
-"SPORTIQUE SCOOTERS, LLC",80209,160 S BROADWAY,DENVER,CO,358,0.60111344,1
 PARAMOUNT AUDIO VIDEO CORPORATION,80219,2505 W 2 ND AVE UNIT 10,DENVER,CO,117,0.8037195,1
-"ACCUTROL HEATING &AMP; COOLING, INC.",80229,565 E 70 TH AVE UNIT 2 W,DENVER,CO,224,0.72543186,1
-COLLABORATIVE NETWORK 4 CLINICAL DBA CN4CE OR CLIEXA,80216,3513 BRIGHTON BLVD STE 520,DENVER,CO,340,0.62223417,1
-MILLS EQUIPMENT COMPANY INC,80216,2901 E 42 ND AVE,DENVER,CO,284,0.667958,1
-HYDRO PHYSICS PIPE INSPECTION,80223,1230 S INCA ST,DENVER,CO,199,0.74391395,1
 DENVER INDEPENDANT GROCERS LLC,80207,4621 E 23 RD AVE,DENVER,CO,92,0.81674606,1
 SEADER CUSTOM METAL,80216,401 W 43 RD AVE,DENVER,CO,113,0.80516887,1
-F&JV INC,80204,4700 W COLFAX AVE,DENVER,CO,230,0.7180364,1
-"PLAN WEST, INC.",80204,767 SANTA FE DR,DENVER,CO,299,0.64974934,1
-"ROCKY MOUNTAIN CONFERENCE, UNITED CHURCH OF CHRIST",80204,1140 W 5 TH AVE,DENVER,CO,279,0.6711216,1
 PRE ACTION FIRE,80211,2921 W 38 TH AVE 453,DENVER,CO,28,0.8711126,1
-CASALINI LLC,80218,1710 E 6 TH AVE,DENVER,CO,260,0.68675953,1
 AAS PRINTING,80204,2721 W HOLDEN PLACE,DENVER,CO,37,0.86424416,1
 SEGRITY LLC,80205,2650 E 40 TH AVE,DENVER,CO,3,0.9218771,1
-RED ARROW CORPORATION,80229,1761 3 64 TH AVE,DENVER,CO,231,0.7179901,1
 BLUE DOG DESIGNS LLC,80223,1550 S ACOMA ST,DENVER,CO,19,0.8804425,1
-GREEN SOL CHEMICAL CORPORATION,80216,4770 FOX ST 13,DENVER,CO,127,0.7931375,1
-"ZAMORA QUICK LUBE #92, INC.",80221,7181 N PECOS ST,DENVER,CO,330,0.6273032,1
 LIVINGSTON SYSTEMS LLC,80221,2613 W 64 TH AVE UNIT A,DENVER,CO,36,0.86427003,1
-MEIER LLC,80210,1775 S BROADWAY,DENVER,CO,290,0.661191,1
-COLORADO BUSINESS COMMITTEE FOR THE ARTS,80203,789 SHERMAN ST,DENVER,CO,282,0.66960996,1
 "SECURE-ALL COMPANY, INC",80212,4300 W 38 TH AVE,DENVER,CO,109,0.8067153,1
-COLORADO OSTEOPATHIC & INTEGRATIVE MEDICINE ASSOC PC,80212,4901 W 38 TH AVE,DENVER,CO,236,0.713013,1
-"TOPS OF ROCKIES MARKETING, INC.",80212,5777 52 ND AVE W,DENVER,CO,269,0.6746018,1
 PARKHILL GOLF APARTMENTS LLC,80209,155 S MADISON ST STE 326,DENVER,CO,119,0.80332834,1
-GUARANTEE CONSTRUCTION GROUP CORP,80221,6820 BROADWAY UNIT D,DENVER,CO,173,0.7649383,1
-"AUDIOFILE,INC.",80216,4200 FOX ST,DENVER,CO,226,0.71914,1
 "AVENO ANTIGUO, INC",80216,5140 RACE CT 3,DENVER,CO,32,0.86779696,1
-"CENTENNIAL BOLT, INC.",80216,4930 FOX ST,DENVER,CO,280,0.6703328,1
-"CRANIO MANDIBULAR REHAB, INC.",80211,2600 W 29 TH AVE 102 G,DENVER,CO,155,0.77690417,1
-PARIVAAR INC,80202,621 17 TH ST UNIT 100,DENVER,CO,244,0.70472425,1
-"FLINK SUPPLY COMPANY, LLC",80223,58 S GALAPAGO ST,DENVER,CO,285,0.66784513,1
 FOCUS 4 DESIGN LLC,80205,3881 STEELE ST,DENVER,CO,62,0.8455561,1
 UNITED SPORTING GOODS WHOLESALE INC.,80223,2645 S SANTA FE DR,DENVER,CO,63,0.84519297,1
-DGB LLC,80221,7100 BROADWAY,DENVER,CO,153,0.77864957,1
-IL PORCELLINO WHOLESALE,80212,4324 W 41 ST AVE,DENVER,CO,134,0.789442,1
-COLORADO HEALTY FOOD INC,80206,2702 E 3 RD AVE,DENVER,CO,313,0.636586,1
-DENVER ART GALLERIES INC.,80206,3019 E 2 ND AVE,DENVER,CO,196,0.7463714,1
-LIFE AI LLC,80205,2840 BLAKE ST 521,DENVER,CO,264,0.6792661,1
 R&R WINDOW SERVICE LLC,80216,4770 FOX ST,DENVER,CO,6,0.9089958,1
 "ABC CUSTOM IRON & LOCKSMITH, INC.",80204,550 SANTA FE DR,DENVER,CO,104,0.8111116,1
 STRANGE BREWING COMPANY LLC,80204,1330 ZUNI ST,DENVER,CO,17,0.8902671,1
-"OHIO SENIOR HOUSING PROPERTIES, LLC DBA FIRELANDS RETIREMENT",80214,6201 W 26 TH AVE,DENVER,CO,254,0.69521314,1
-AMERICAN INDUSTRIAL AND CONSTRUCTION SUPPLY INC,80216,975 E 58 TH AVE,DENVER,CO,343,0.62032545,1
 "LIL'S EMBROIDERY & SILKSCREENING, INC.",80229,800 E 73 RD AVE 18,DENVER,CO,38,0.8641069,1
 IZAJULE LLC,80202,600 17 TH ST,DENVER,CO,25,0.8727322,1
 "DA VINCI DESIGNS, INC.",80223,1264 S JASON ST,DENVER,CO,24,0.8746134,1
-PRIME BREWING COMPANY,80214,6733 W COLFAX AVE,DENVER,CO,174,0.7640051,1
 "AAAA SPECIALTIES, INC.",80202,3030 HURON ST,DENVER,CO,40,0.8631309,1
-"MURPHY CONSTRUCTION COMPANY, LLC",80229,7270 GILPIN WAY,DENVER,CO,151,0.7791007,1
-SINCERELY YOURS,80206,3113 E 3 RD AVE STE 206,DENVER,CO,225,0.7226405,1
 DIRECT POLYMERS LLC,80216,3601 E 44 TH AVE,DENVER,CO,87,0.82201564,1
 R & M SALES CO INC,80219,2737 W 2 ND AVE,DENVER,CO,53,0.8533467,1
 R & R LANDSCAPE MANAGEMENT CO INC.,80231,8200 E PACIFIC PL,DENVER,CO,72,0.8334386,1
 SOUP 4 HIM LLC,80202,1550 CT PL,DENVER,CO,69,0.8341283,1
-COLORADO DIGITAL HEALTH,80216,3513 BRIGHTON BLVD STE 484,DENVER,CO,311,0.6398476,1
 GENGHIS KERN INC,80211,2626 W 32 ND AVE,DENVER,CO,50,0.8570959,1
-"LAW OFFICE OF MARK A. GOULD, P.C.",80203,1665 GRANT ST,DENVER,CO,337,0.6233495,1
 AK SALES & ASSOCIATES LTD,80002,4935 ALLISON ST,DENVER,CO,74,0.8319655,1
 "B & R SCREEN GRAPHICS, INC.",80204,1045 W 8 TH AVE,DENVER,CO,84,0.8239972,1
 CARDIOVASCULAR INNOVATIONS FOUNDATION,80206,44 COOK ST,DENVER,CO,61,0.8463312,1
-VULCAN ENGINEERING LLC,80216,6660 E 47 TH AVE DR,DENVER,CO,146,0.78114927,1
-JESSIKA F AERNI INSURANCE AGENCY INC,80211,2530 W 38 TH AVE,DENVER,CO,235,0.7130702,1
-HARRELSON LLC,80221,5650 LOWELL BLVD UNIT C,DENVER,CO,332,0.62627375,1
-"CUSTOM EMBROIDERY SERVICES, INC.",80219,2620 2 ND AVE W,DENVER,CO,273,0.67373836,1
-SPECTRA TONE INC,80223,145 W ALAMEDA AVE,DENVER,CO,286,0.6670652,1
 "PAIA, INC",80202,1225 17 TH ST,DENVER,CO,111,0.8057545,1
-PAN'S CORPORATION,80204,990 W 6 TH AVE UNIT 3,DENVER,CO,187,0.7557712,1
 FRANKS HEATING LLC DBA AIR FLOW HEATING,80216,321 W 45 TH AVE,DENVER,CO,101,0.812113,1
-KIN WOODCRAFT LLC,80216,3505 E 41 ST AVE,DENVER,CO,180,0.7603791,1
 KREMER INC,80205,1875 E 27 TH AVE,DENVER,CO,58,0.8494979,1
-MELINDA CROSS COMMUNICATIONS,80204,909 BANNOCK ST,DENVER,CO,170,0.7678254,1
 "PUBLIC REALTY COMPANY, INC.",80205,2501 BRUCE RANDOLPH AVE,DENVER,CO,79,0.827701,1
-M TRENZ INC,80219,1012 S FEDERAL BLVD,DENVER,CO,293,0.6549688,1
-SHOMPTON LLC,80204,621 KALAMATH ST,DENVER,CO,347,0.6167047,1
 ORIENTAL RUG AND CARPET CLINIC,80216,5090 ACOMA ST,DENVER,CO,33,0.8675951,1
-QAISAR M KHAN PLLC,80202,891 14 TH ST UNIT 3002,DENVER,CO,301,0.64655894,1
-ERIC DUNCAN,80218,1551 N OGDEN ST,DENVER,CO,267,0.67692506,1
-AS HARROP LLC,80216,3513 BRIGHTON BLVD,DENVER,CO,312,0.63862365,1
-GUSTAVO GRODNITZKY PLLC,80202,1551 LARIMER ST 2103,DENVER,CO,204,0.73926145,1
 "THE LAW OFFICES OF STEVEN J. PISANI, LLC",80202,600 17 TH ST,DENVER,CO,21,0.87639844,1
-"JESSICA ZALKIN GROUP, INC",80246,4340 E KENTUCKY AVE STE 319,DENVER,CO,353,0.60849684,1
 "COGNITIVE BEHAVIOR THERAPY ASSOCIATES OF DENVER, LLC",80246,600 S CHERRY ST,DENVER,CO,27,0.87163895,1
-BONACQUISTI WINE COMPANY,80211,4640 PECOS ST UNIT I,DENVER,CO,356,0.60550785,1
-"ALT ETHOS, LTD",80219,2505 W 2 ND AVE,DENVER,CO,242,0.70666987,1
-"DW HARABURDA, LLC",80203,1665 GRANT ST,DENVER,CO,239,0.7089495,1
-HAIR BY DANNI,80206,250 STEELE ST 212,DENVER,CO,328,0.6284508,1
 "ILONA, INC.",80206,3201 E 2 ND AVE STE 300,DENVER,CO,48,0.85806906,1
-PLESS LAW FIRM LLC,80206,250 FILLMORE ST,DENVER,CO,321,0.63156277,1
-"ANCIENT INDUSTRIES, INC.",80223,185 S SANTA FE DR,DENVER,CO,253,0.69685155,1
-T & H MANUFACTURING LLC,80219,581 S FEDERAL BLVD,DENVER,CO,283,0.6687842,1
-"PARTY LIFE RENTS, LLC",80239,4880 IRONTON ST,DENVER,CO,302,0.646496,1
-"QRUNCH FOODS, LLC",80216,5140 RACE CT 3,DENVER,CO,145,0.78293496,1
 "ESPLANADE CONSULTING, LLC",80211,2921 W 38 TH AVE 343,DENVER,CO,56,0.8517248,1
-LONE STAR VINO DENVER LLC,80202,1660 CHAMPA ST,DENVER,CO,252,0.69722825,1
-ALIGHT,80209,225 S BROADWAY,DENVER,CO,129,0.7916019,1
-"RIPPLE AFFECT, LLC",80211,4000 LIPAN ST,DENVER,CO,320,0.63200986,1
 APH,80223,1177 S HURON ST,DENVER,CO,59,0.8490316,1
-MERAKI MOON,80205,3070 BLAKE ST,DENVER,CO,167,0.77146256,1
 LO GROUP,80206,1111 RACE ST,DENVER,CO,34,0.8662253,1
-"REBUILDING TOGETHER METRO DENVER, INC.",80211,2839 W 44 TH AVE,DENVER,CO,161,0.7744778,1
-"REVEL AND BLOOM, LLC",80204,821 SANTA FE DR,DENVER,CO,188,0.7550833,1
-LAW OFFICE OF CASSANDRA M. KIRSCH LLC,80202,600 17 TH ST,DENVER,CO,212,0.73079896,1
-CHRISTOPHER OLSON,80211,3181 W 36 TH AVE,DENVER,CO,258,0.6900739,1
-STRANGER DESIGNS LLC,80202,2900 INCA ST 8,DENVER,CO,345,0.6179146,1
-HARMS DISTRIBUTION AND DELIVERY LLC,80209,303 S BROADWAY 200 212,DENVER,CO,186,0.75606173,1
-MEX HASS INC,80216,4770 FRST ST,DENVER,CO,148,0.7799803,1
-EPD CONCRETE LLC,80219,2573 W WESLEY AVE,DENVER,CO,270,0.6743132,1
-ZOE WHITEHORN,80205,2714 BLAKE ST,DENVER,CO,266,0.6769387,1
-CAPITAL CITY PUBLIC RELATIONS,80206,3840 E 2 ND AVE,DENVER,CO,344,0.6186542,1
-"BLUE LINDEN WEDDINGS & EVENTS, LLC",80211,2501 15 TH ST UNIT 1 B,DENVER,CO,128,0.7921538,1
-MARTINA ESPARZA,80211,2932 W 38 TH AVE,DENVER,CO,203,0.73970133,1
 DEFENESTRATE,80206,1627 VINE ST,DENVER,CO,14,0.8970897,1
-TASTE LIFE NUTRITION LLC,80211,2100 W 47 TH AVE,DENVER,CO,329,0.6282459,1
-LAWRENCE & LARIMER LLC,80206,3225 E COLFAX AVE,DENVER,CO,189,0.75385153,1
-TAMMY FRANKLIN,80212,5335 W 48 TH AVE,DENVER,CO,325,0.62854683,1
-JOY SHANK,80211,4177 IRVING ST,DENVER,CO,326,0.62854534,1
 BTW ENTERPRISES INC,80211,2921 W 38 TH AVE 335,DENVER,CO,86,0.82244235,1
-808 ENTERPRISES INC,80209,303 S BROADWAY 200 603,DENVER,CO,289,0.66368145,1
 PC TRUCK REPAIR,80229,6535 YORK ST,DENVER,CO,23,0.875675,1
-CAINS CREATIVE CAKES LLC,80219,194 S FEDERAL BLVD,DENVER,CO,346,0.61739004,1
 NEOCOM PROMO LLC,80206,1633 FILLMORE ST,DENVER,CO,115,0.8044395,1
-TYLER MAUN,80219,940 S BRYANT ST,DENVER,CO,349,0.6110866,1
-RUSCHMEYER CORPORATION,80202,999 18 TH ST,DENVER,CO,121,0.79888076,1
 BRIAN HUNTER,80216,4150 FOX ST,DENVER,CO,0,0.9464162,1
 MARK J CARROLL,80216,4320 FOX ST,DENVER,CO,95,0.81513566,1
 MAC ACQUISITION LLC,80202,1855 BLAKE ST,DENVER,CO,110,0.80593044,1
-"READY FOODS, INC.",80204,2645 W 7 TH AVE,DENVER,CO,138,0.787041,1
-"PHM BRANDS, LLC",80202,730 17 TH ST STE 600,DENVER,CO,132,0.7899334,1
 EATON METAL PRODUCTS CO.,80216,4800 YORK ST,DENVER,CO,43,0.86115783,1
 "NEW MARKETING CONCEPTS, INC.",80216,5330 FOX ST,DENVER,CO,13,0.898832,1
-"ACME MANUFACTURING COMPANY, INC.",80216,4661 MONACO ST,DENVER,CO,214,0.7305607,1
-THE DENVER WHOLESALE FLORISTS COMPANY,80216,4800 DAHLIA ST,DENVER,CO,172,0.76680255,1
-"23, LTD.",80290,1700 BROADWAY,DENVER,CO,123,0.79750216,1
 SEATTLE FISH COMPANY,80216,6211 E 42 ND AVE,DENVER,CO,67,0.8394786,1
-"BRON TAPES HOLDING, INC.",80223,875 W ELLSWORTH AVE,DENVER,CO,309,0.6421338,1
-FAMILY RESTAURANTS INC,80204,2706 W COLFAX AVE,DENVER,CO,323,0.6308904,1
-"ROTH PROPERTY MAINTENANCE, LLC",80223,1190 S CHEROKEE ST UNIT 1,DENVER,CO,307,0.6448574,1
-"BOYS AND GIRLS CLUBS OF METRO DENVER, INC.",80204,2017 W 9 TH AVE,DENVER,CO,355,0.6077356,1
-"PATTLEN ENTERPRISES, INC",80216,4700 HOLLY ST,DENVER,CO,261,0.6860386,1
-HARROW SPORTS,80223,600 W BAYAUD AVE,DENVER,CO,240,0.7074209,1
-"ZIMMERMAN METALS, INC.",80216,201 E 58 TH AVE,DENVER,CO,120,0.7990769,1
-UNITED STATES WELDING INC,80223,600 S SANTA FE DR,DENVER,CO,210,0.73212534,1
 "GATES AND SONS, INC.",80223,90 S FOX ST,DENVER,CO,11,0.89902216,1
 98-99 LLC,80206,2500 E 1 ST AVE,DENVER,CO,107,0.80799407,1
-NEVER SUMMER INDUSTRIES,80207,3838 EUDORA WAY,DENVER,CO,295,0.6528002,1
-NU STYLE LANDSCAPE & DEVELOPMENT LLC,80204,646 BRYANT ST,DENVER,CO,324,0.62981373,1
-EMPIRE STAPLE CO,80216,200 E 55 TH AVE,DENVER,CO,234,0.7141767,1
 "J. K. CONCEPTS, INC.",80216,3333 E 52 ND AVE,DENVER,CO,65,0.84224355,1
 BREKHUS TILE & STONE INC,80223,860 S JASON ST,DENVER,CO,57,0.85111815,1
 TURING SCHOOL OF SOFTWARE & DESIGN,80202,1331 17 TH ST,DENVER,CO,41,0.861925,1
-"INTEGRITY FIRE SAFETY SERVICES, LLC",80219,2695 W 3 RD AVE,DENVER,CO,130,0.7915723,1
 "INFINICEPT, INC.",80204,543 SANTA FE DR,DENVER,CO,96,0.81473863,1
-CAUSEY DEMGEN & MOORE PC,80202,1099 18 TH ST,DENVER,CO,248,0.6992554,1
 UNITED CONSTRUCTION PRODUCTS INC,80204,701 OSAGE ST,DENVER,CO,89,0.8198291,1
-MOA,80202,414 14 TH ST,DENVER,CO,350,0.6109765,1
-"TOOLS FOR BENDING, INC.",80223,194 W DAKOTA AVE,DENVER,CO,219,0.72683156,1
-GENESEE WESTER INC,80234,1250 W 124 TH AVE,DENVER,CO,176,0.76256305,1
-TEXAS FIREPLACE EXPRESS LLC,80205,3827 STEELE ST,DENVER,CO,213,0.73056984,1
-"SPRINGER & STEINBERG, P.C.",80202,1600 BROADWAY,DENVER,CO,243,0.7050503,1
-"SUSHI RAMA, LLC",80205,2660 WALNUT ST,DENVER,CO,205,0.73742455,1
 "DENVER SYRUP & BAR SUPPLY, INC.",80216,353 W 56 TH AVE,DENVER,CO,93,0.81623816,1
-SEADOG SPORTS CONSULTANTS CORPORATION,80204,621 KALAMATH ST,DENVER,CO,275,0.6733086,1
-A AND K APPLIANCE SERVICE INC,80216,5051 E 50 TH AVE,DENVER,CO,133,0.78990275,1
 MONARCH METAL MANUFACTURING,80216,550 W 53 RD PL,DENVER,CO,77,0.8278817,1
-WORLD WATERS HOLDINGS LLC,80205,3370 WALNUT ST,DENVER,CO,287,0.6660962,1
-RIO REAL ESTATE LLC,80223,200 LIPAN,DENVER,CO,246,0.7009654,1
-SEG SECURITY LLC,80223,358 S NAVAJO ST,DENVER,CO,193,0.75174934,1
 "WEBSTER ASSOCIATES, INC.",80223,2665 S SANTA FE DR,DENVER,CO,55,0.8526372,1
-BAN ELECTRIC SERVICES INC,80221,7000 BROADWAY ST,DENVER,CO,200,0.7418701,1
 GND SALES,80216,4600 GRAPE ST,DENVER,CO,76,0.8294053,1
-"DESIGN WORKS BY DAVE AND MIKE, INC",80205,3869 STEELE ST,DENVER,CO,342,0.6216829,1
-"STILLMAN WHOLESALE MEAT CO, INC.",80216,620 E 52 ND AVE,DENVER,CO,159,0.77525777,1
-"AIA INDUSTRIES, LLC",80216,290 E 56 TH AVE,DENVER,CO,215,0.72925955,1
-"GOLDEN WEST PLUMBING, HEATING & AIR CONDITIONING INC.",80216,4217 DELAWARE ST,DENVER,CO,357,0.6039199,1
 TECHNICRAFT MANUFACTURING INC,80223,901 S JASON ST,DENVER,CO,39,0.86386937,1
-"FRONTIER DRYWALL SUPPLY, LLC",80216,4700 DAHLIA ST,DENVER,CO,306,0.6449364,1
-"DECORATIVE MATERIALS INTERNATIONAL, LTD",80209,595 S BROADWAY,DENVER,CO,160,0.77459645,1
 "COPELAND ENTERPRISES, INC. DBA COPELAND PRECAST, INC.",80223,904 S LIPAN ST,DENVER,CO,45,0.8592273,1
 "CT LIGHTING AND CONTROLS - CO/WY, INC.",80223,1210 S JASON ST,DENVER,CO,85,0.82341605,1
-FREIGHTMASTERS INC DBA REP MASTERS,80229,1400 E 69 TH AVE,DENVER,CO,192,0.75220466,1
-ALFRED MANUFACTURING INC.,80216,4398 ELATI ST,DENVER,CO,156,0.77686155,1
 MOUNT SOPRIS INSTRUMENT COMPANY,80216,4975 E 41 ST AVE,DENVER,CO,112,0.8053612,1
-EDGE HOSPITALITY,80216,200 W 48 TH AVE,DENVER,CO,298,0.6504235,1
-"EAGLE ELECTRIC CO. OF LITTLETON, INC.",80219,2505 2 ND AVE W,DENVER,CO,217,0.72857445,1
 MANUFACTURER'S EDGE,80205,2650 E 40 TH AVE,DENVER,CO,83,0.82483315,1
-"COVERED INSURANCE SOLUTIONS, INC.",80204,1391 SPEER BLVD 850,DENVER,CO,265,0.67725587,1
 "PS OF DENVER, INC.",80223,730 S JASON ST UNIT 18,DENVER,CO,16,0.893352,1
-"BUSICK INSULATED GLASS, INC.",80204,585 OSAGE ST,DENVER,CO,202,0.7404006,1
-WAZEE TAP HOUSE LLC,80202,1600 15 TH ST,DENVER,CO,140,0.7863439,1
-"COBITCO, INC.",80216,5301 BANNOCK ST,DENVER,CO,308,0.64239424,1
-SLEEPING GIANT BREWING COMPANY LLC,80204,2500 W 5 TH AVE,DENVER,CO,135,0.7894129,1
-DENVER RECOVERY GROUP LLC,80206,2822 E COLFAX AVE,DENVER,CO,262,0.6847693,1
-"LITTLE PIG, LLC",80211,3316 TEJON ST 102,DENVER,CO,177,0.76218617,1
-PIVOT ADJUSTERS LLC,80209,40 S BROADWAY,DENVER,CO,354,0.60820436,1
-"JOOST INDUSTRIAL, INC",80239,5500 JOLIET ST,DENVER,CO,183,0.7578685,1
-FROZEN INC.,80216,4004 GRAPE ST,DENVER,CO,165,0.7717355,1
-BIERSTADT LAGERHAUS,80205,2875 BLAKE ST,DENVER,CO,169,0.7707861,1
-"YELLOWDOG PRINTING AND GRAPHICS, INC",80205,3881 STEELE ST,DENVER,CO,181,0.7589011,1
-"PALMETTO ENVIRONMENTAL GROUP, LLC",80216,4995 YORK ST,DENVER,CO,334,0.6251292,1
-"COLORADO JEWELRY & WATCH REPAIR, INC.",80206,3000 E 1 ST AVE,DENVER,CO,122,0.79841244,1
 QUAL ELECTRONICS CORPORATION,80211,1011 W 45 TH AVE,DENVER,CO,73,0.8330557,1
-THE HOLT GROUP LLC,80202,1675 BROADWAY STE 2100,DENVER,CO,208,0.73438025,1
-ROBINSON DISS AND CLOWDUS PC,80209,3200 CHERRY CRK S DR,DENVER,CO,182,0.7579059,1
-"5 LOGISTICS, LTD",80216,6750 E 46 TH AVE DR,DENVER,CO,158,0.77584696,1
-ACTALL CORPORATION,80205,2017 CURTIS ST,DENVER,CO,178,0.76194364,1
 "DEN DELI & SEAFOOD MARKET, LLC",80210,1501 S PEARL ST,DENVER,CO,98,0.8140981,1
-"MARRICK INDUSTRIES, LLC",80229,800 E 64 TH AVE,DENVER,CO,272,0.67418754,1
 DENVER PLASTIC SURGERY ASSOCIATES LLC,80220,4600 HALE PKWY,DENVER,CO,35,0.8657441,1
-THE GROWHAUS,80216,4751 YORK ST,DENVER,CO,333,0.62610614,1
 AMEN PACKAGING INC,80216,5285 FOX ST,DENVER,CO,8,0.90608144,1
-NEW IMAGE LEASING INC,80223,1390 W EVANS AVE 2 A,DENVER,CO,232,0.7175203,1
-THE INFINITE MONKEY THEOREM,80205,3200 LARIMER ST,DENVER,CO,288,0.66502386,1
-"JEMSU, LLC",80246,720 S COLORADO BLVD 105 A,DENVER,CO,141,0.7856343,1
-5280 FLOORS LLC,80219,2505 W 2 ND AVE,DENVER,CO,163,0.7737301,1
 "INNOVATIONS MANUFACTURING, INC.",80216,4555 GRAPE ST,DENVER,CO,66,0.84198725,1
 SILVER BULLET CONSULTING LLC,80246,501 S CHERRY ST STE 1100,DENVER,CO,49,0.8579921,1
 KULA CORP,80214,5208 W 26 TH AVE,EDGEWATER,CO,46,0.85821545,1
-CARI INC,80110,2810 S RARITAN ST,ENGLEWOOD,CO,271,0.6742891,1
-BLUE CHIP SERVICES LLC,80110,3935 S KALAMATH ST,ENGLEWOOD,CO,341,0.6219152,1
-DODD MANUFACTURING,80110,3999 S MARIPOSA ST,ENGLEWOOD,CO,175,0.7628886,1
-FRONT RANGE STONE INC,80110,2195 S RARITAN ST,ENGLEWOOD,CO,294,0.6533779,1
 JBJ ACQUISITION CO,80110,4091 S ELIOT ST,ENGLEWOOD,CO,9,0.905078,1
-IPAX INC,80110,2700 S RARITAN ST,ENGLEWOOD,CO,179,0.76138,1
-AMERICAN STAINLESS STEEL CORPORATION,80110,1600 W YALE AVE,ENGLEWOOD,CO,137,0.7875294,1
 "COLORADO LIMITED, INC.",80110,2622 S ZUNI ST,ENGLEWOOD,CO,64,0.8450227,1
 DBS INC.,80110,3195 S ZUNI ST,ENGLEWOOD,CO,1,0.93180263,1
-"RYLIND MANUFACTURING, INC.",80401,2801 YOUNGFIELD ST STE 250,GOLDEN,CO,300,0.64886385,1
-CONAL MANUFACTURING,80401,516 VIOLET ST,GOLDEN,CO,195,0.746651,1
-"PROPAGATE LAB, LLC",80401,15700 W 6 TH AVE,GOLDEN,CO,191,0.7526964,1
-DANRO LLC,80640,8777 BRIGHTON RD,HENDERSON,CO,211,0.7309873,1
-COLORADO ART RESTORATION SERVICES LLC,80215,9780 W COLFAX AVE,LAKEWOOD,CO,241,0.70741516,1
 "DR RICHARD E WINNICK DBA DR. RICHARD E. WINNICK, O.D. &AMP;",80226,7151 W ALASKA DR,LAKEWOOD,CO,70,0.8335863,1
 "MULTILIFT, INC.",80228,12410 W CEDAR DR,LAKEWOOD,CO,60,0.8471855,1
 "INDUSTRIAL COOLING SOLUTIONS, INC.",80214,1457 AMMONS ST,LAKEWOOD,CO,78,0.8278459,1
 THE REMOTE START GUYS LLC,80215,9680 W COLFAX AVE,LAKEWOOD,CO,91,0.8175232,1
 MILE HIGH LANDSCAPING LLC,80214,1125 DEPEW CT,LAKEWOOD,CO,81,0.8260743,1
 "AAA BUILDING MAINTENANCE, LLC",80214,6006 W 16 TH AVE,LAKEWOOD,CO,15,0.89529437,1
-757 LLC,80214,7355 W COLFAX AVE,LAKEWOOD,CO,268,0.6762275,1
-BROCKER LLC,80214,7225 W 9 TH AVE,LAKEWOOD,CO,327,0.62852865,1
-PANADERIA RODRIGUEZ,80226,6201 W ALAMEDA AVE,LAKEWOOD,CO,316,0.6355364,1
-FRONTIER BOLT INC,80214,7070 W 16 TH AVE,LAKEWOOD,CO,125,0.7938785,1
-ACCENT FENCE AND DESIGN LLC.,80214,1150 HARLAN,LAKEWOOD,CO,228,0.7187221,1
 THIS,80214,7055 W 16 TH AVE,LAKEWOOD,CO,5,0.91075015,1
 VAPOR SLIDE INC.,80232,1230 S REED ST,LAKEWOOD,CO,108,0.80755925,1
-CROSSFIT LAKEWOOD LLC,80214,7175 W 16 TH AVE,LAKEWOOD,CO,305,0.6450638,1
 "ACTION BEVERAGE, LLC",80214,5815 W 6 TH AVE UNIT 2 B,LAKEWOOD,CO,31,0.8682442,1
 RAE MINEAR,80226,1075 S YUKON ST,LAKEWOOD,CO,20,0.87958807,1
-SUCCESS AND COMMUNICATION LLC,80226,7475 W 5 TH AVE 312,LAKEWOOD,CO,339,0.62256247,1
-BLACK SHEEP AUDIO CO PBC,80214,747 SHERIDAN BLVD,LAKEWOOD,CO,201,0.7410929,1
-GIANNIS REPAIR CENTER,80226,6001 W ALAMEDA AVE,LAKEWOOD,CO,310,0.6403515,1
-"ELECTRO-MECHANICAL PRODUCTS, INC.",80401,897 TABOR ST,LAKEWOOD,CO,166,0.7716756,1
 THE LAKEWOOD BRICK AND TILE COMPANY,80214,1325 JAY ST,LAKEWOOD,CO,12,0.8990179,1
 BOKER USA INC,80214,1550 BALSAM ST,LAKEWOOD,CO,118,0.8035181,1
-"KEY DISTRIBUTED PRODUCTS INTERNATIONAL, INC.",80226,969 S KIPLING PKWY,LAKEWOOD,CO,315,0.63633007,1
-CEREHEALTH CORP,80120,991 SOUTHPARK DR STE 200,LITTLETON,CO,136,0.7878596,1
-BANDIMERE AUTO PERFORMANCE CENTER INC,80465,3051 S ROONEY RD,MORRISON,CO,336,0.62350154,1
 "BANKS SCHOOL SUPPLY, INC.",80233,11080 IRMA DR,NORTHGLENN,CO,105,0.81076086,1
 HUNTCO LLC,80030,3300 W 71 ST AVE,WESTMINSTER,CO,4,0.9188736,1
 COLORADO SADDLERY LLC,80030,3300 W 71 ST AVE,WESTMINSTER,CO,44,0.86037374,1
-ASPEN ELECTRONICS MANUFACTURING INC,80031,8975 MARSHALL CT UNIT 100,WESTMINSTER,CO,335,0.6238849,1
-WHEAT RIDGE POULTRY &AMP; MEATS,80214,5650 W 29 TH AVE,WHEAT RIDGE,CO,209,0.73234856,1
-"SPECTRUM, INC.",80033,6065 W 48 TH AVE,WHEAT RIDGE,CO,139,0.78703666,1
-FEASTER REALTY LLC,80212,5800 W 38 TH AVE,WHEAT RIDGE,CO,348,0.6150346,1
-JACLYN WINN & ASSOCIATES LLC,80033,6990 W 38 TH AVE 200,WHEAT RIDGE,CO,351,0.6102978,1
-"INDEPENDENT LIVING SOLUTIONS, INC.",80033,6225 W 48 TH AVE,WHEAT RIDGE,CO,227,0.71875787,1
-ANDREW CLEMENTS,80214,2700 N LAMAR ST,WHEAT RIDGE,CO,245,0.7046228,1
-TIM MCCARN,80033,6500 W 44 TH AVE,WHEAT RIDGE,CO,274,0.67348117,1
-NEREL CORP,80033,7085 W 38 TH AVE,WHEAT RIDGE,CO,359,0.6003135,1
-"JB7, LLC",80033,6990 W 38 TH AVE,WHEAT RIDGE,CO,237,0.71240485,1
-GARAGEPRO OF COLORADO LLC,80033,9500 W 49 TH AVE,WHEAT RIDGE,CO,197,0.74502873,1
 "LIQUIDYNE PROCESS TECHNOLOGIES, INC.",80033,11925 I RD N,WHEAT RIDGE,CO,18,0.88660544,1

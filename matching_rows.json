@@ -1,0 +1,3852 @@
+{
+  "77": [
+    {
+      "business_name": "Monarch Metal Manufacturing",
+      "zip": "80216",
+      "address_clean": "550 W 53rd Pl",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 77,
+      "link_score": "0.8278817",
+      "source_file": 0
+    },
+    {
+      "business_name": "KARLI J GOLLIHER-BEUCK",
+      "zip": "80101",
+      "address_clean": "35756 CR 153",
+      "city_clean": "AGATE",
+      "state_clean": "CO",
+      "cluster_id": 77,
+      "link_score": "0.8278817",
+      "source_file": 1
+    },
+    {
+      "business_name": "MONARCH METAL MANUFACTURING",
+      "zip": "80216",
+      "address_clean": "550 W 53 RD PL",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 77,
+      "link_score": "0.8278817",
+      "source_file": 1
+    }
+  ],
+  "55": [
+    {
+      "business_name": "Vella Manufacturing",
+      "zip": "80223",
+      "address_clean": "2665 S Santa Fe Dr # 5H",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 55,
+      "link_score": "0.8526372",
+      "source_file": 0
+    },
+    {
+      "business_name": "SUNBEAR CAFE LLC",
+      "zip": "81020",
+      "address_clean": "217 E MAIN ST",
+      "city_clean": "AGUILAR",
+      "state_clean": "CO",
+      "cluster_id": 55,
+      "link_score": "0.8526372",
+      "source_file": 1
+    },
+    {
+      "business_name": "WEBSTER ASSOCIATES, INC.",
+      "zip": "80223",
+      "address_clean": "2665 S SANTA FE DR",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 55,
+      "link_score": "0.8526372",
+      "source_file": 1
+    }
+  ],
+  "74": [
+    {
+      "business_name": "Whipchek Manufacturing Corporation",
+      "zip": "80002",
+      "address_clean": "4935 Allison St # 7",
+      "city_clean": "Arvada",
+      "state_clean": "Colorado",
+      "cluster_id": 74,
+      "link_score": "0.8319655",
+      "source_file": 0
+    },
+    {
+      "business_name": "JD'S QUIK STOP LLC",
+      "zip": "80720",
+      "address_clean": "352 W 1 ST ST",
+      "city_clean": "AKRON",
+      "state_clean": "CO",
+      "cluster_id": 74,
+      "link_score": "0.8319655",
+      "source_file": 1
+    },
+    {
+      "business_name": "AK SALES & ASSOCIATES LTD",
+      "zip": "80002",
+      "address_clean": "4935 ALLISON ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 74,
+      "link_score": "0.8319655",
+      "source_file": 1
+    }
+  ],
+  "85": [
+    {
+      "business_name": "Budz Butter",
+      "zip": "80223",
+      "address_clean": "1280 S Jason St",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 85,
+      "link_score": "0.82341605",
+      "source_file": 0
+    },
+    {
+      "business_name": "GLOSSON CONSTRUCTION COMPANY INC",
+      "zip": "80720",
+      "address_clean": "801 E 4 TH",
+      "city_clean": "AKRON",
+      "state_clean": "CO",
+      "cluster_id": 85,
+      "link_score": "0.82341605",
+      "source_file": 1
+    },
+    {
+      "business_name": "CT LIGHTING AND CONTROLS - CO/WY, INC.",
+      "zip": "80223",
+      "address_clean": "1210 S JASON ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 85,
+      "link_score": "0.82341605",
+      "source_file": 1
+    }
+  ],
+  "22": [
+    {
+      "business_name": "Focused Light LLC",
+      "zip": "80002",
+      "address_clean": "5533 Gray St",
+      "city_clean": "Arvada",
+      "state_clean": "Colorado",
+      "cluster_id": 22,
+      "link_score": "0.87590885",
+      "source_file": 0
+    },
+    {
+      "business_name": "AKRON DENTAL CLINIC LLC",
+      "zip": "80720",
+      "address_clean": "482 ADAMS AVE",
+      "city_clean": "AKRON",
+      "state_clean": "CO",
+      "cluster_id": 22,
+      "link_score": "0.87590885",
+      "source_file": 1
+    },
+    {
+      "business_name": "FOCUSED LIGHT LLC",
+      "zip": "80002",
+      "address_clean": "5533 GRAY ST",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 22,
+      "link_score": "0.87590885",
+      "source_file": 1
+    }
+  ],
+  "111": [
+    {
+      "business_name": "Atkins Nutritionals Inc",
+      "zip": "80202",
+      "address_clean": "1225 17th St #1000",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 111,
+      "link_score": "0.8057545",
+      "source_file": 0
+    },
+    {
+      "business_name": "MELANIE K. KRENING, PUBLIC ACCOUNTANT",
+      "zip": "80720",
+      "address_clean": "150 BENT AVE",
+      "city_clean": "AKRON",
+      "state_clean": "CO",
+      "cluster_id": 111,
+      "link_score": "0.8057545",
+      "source_file": 1
+    },
+    {
+      "business_name": "PAIA, INC",
+      "zip": "80202",
+      "address_clean": "1225 17 TH ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 111,
+      "link_score": "0.8057545",
+      "source_file": 1
+    }
+  ],
+  "40": [
+    {
+      "business_name": "AAAA Specialties, Inc. - Custom Spring Manufacturing",
+      "zip": "80202",
+      "address_clean": "3030 Huron St",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 40,
+      "link_score": "0.8631309",
+      "source_file": 0
+    },
+    {
+      "business_name": "J AND H AUTO LLC",
+      "zip": "80720",
+      "address_clean": "301 E 1 ST ST",
+      "city_clean": "AKRON",
+      "state_clean": "CO",
+      "cluster_id": 40,
+      "link_score": "0.8631309",
+      "source_file": 1
+    },
+    {
+      "business_name": "AAAA SPECIALTIES, INC.",
+      "zip": "80202",
+      "address_clean": "3030 HURON ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 40,
+      "link_score": "0.8631309",
+      "source_file": 1
+    }
+  ],
+  "23": [
+    {
+      "business_name": "AMP Manufacturing, LLC.",
+      "zip": "80229",
+      "address_clean": "6535 York St #108",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 23,
+      "link_score": "0.875675",
+      "source_file": 0
+    },
+    {
+      "business_name": "ENTRU LLC",
+      "zip": "80720",
+      "address_clean": "27662 COUNTY RD 31",
+      "city_clean": "AKRON",
+      "state_clean": "CO",
+      "cluster_id": 23,
+      "link_score": "0.875675",
+      "source_file": 1
+    },
+    {
+      "business_name": "PC TRUCK REPAIR",
+      "zip": "80229",
+      "address_clean": "6535 YORK ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 23,
+      "link_score": "0.875675",
+      "source_file": 1
+    }
+  ],
+  "102": [
+    {
+      "business_name": "Lowtemp Industries",
+      "zip": "80002",
+      "address_clean": "6395 W 56th Ave",
+      "city_clean": "Arvada",
+      "state_clean": "Colorado",
+      "cluster_id": 102,
+      "link_score": "0.8119359",
+      "source_file": 0
+    },
+    {
+      "business_name": "3 D RANCH INC.",
+      "zip": "80720",
+      "address_clean": "12001 US HWY 34",
+      "city_clean": "AKRON",
+      "state_clean": "CO",
+      "cluster_id": 102,
+      "link_score": "0.8119359",
+      "source_file": 1
+    },
+    {
+      "business_name": "TOURNAMENT KINGS, INCORPORATED",
+      "zip": "80002",
+      "address_clean": "6395 W 56 TH AVE",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 102,
+      "link_score": "0.8119359",
+      "source_file": 1
+    }
+  ],
+  "60": [
+    {
+      "business_name": "Mastertech Manufacturing",
+      "zip": "80228",
+      "address_clean": "12450 W Cedar Dr",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 60,
+      "link_score": "0.8471855",
+      "source_file": 0
+    },
+    {
+      "business_name": "BASLER BROTHERS",
+      "zip": "80720",
+      "address_clean": "33508 COUNTY RD U",
+      "city_clean": "AKRON",
+      "state_clean": "CO",
+      "cluster_id": 60,
+      "link_score": "0.8471855",
+      "source_file": 1
+    },
+    {
+      "business_name": "MULTILIFT, INC.",
+      "zip": "80228",
+      "address_clean": "12410 W CEDAR DR",
+      "city_clean": "LAKEWOOD",
+      "state_clean": "CO",
+      "cluster_id": 60,
+      "link_score": "0.8471855",
+      "source_file": 1
+    }
+  ],
+  "8": [
+    {
+      "business_name": "Amen Packaging Inc",
+      "zip": "80216",
+      "address_clean": "5285 Fox St",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 8,
+      "link_score": "0.90608144",
+      "source_file": 0
+    },
+    {
+      "business_name": "FRANK'S AUTO SERVICE INC.",
+      "zip": "80720",
+      "address_clean": "401 W 1 ST ST",
+      "city_clean": "AKRON",
+      "state_clean": "CO",
+      "cluster_id": 8,
+      "link_score": "0.90608144",
+      "source_file": 1
+    },
+    {
+      "business_name": "AMEN PACKAGING INC",
+      "zip": "80216",
+      "address_clean": "5285 FOX ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 8,
+      "link_score": "0.90608144",
+      "source_file": 1
+    }
+  ],
+  "72": [
+    {
+      "business_name": "Lane Manufacturing Inc",
+      "zip": "80231",
+      "address_clean": "8200 E Pacific Pl Suite 107",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 72,
+      "link_score": "0.8334386",
+      "source_file": 0
+    },
+    {
+      "business_name": "COREY TRAXLER",
+      "zip": "80720",
+      "address_clean": "37005 COUNTY RD V",
+      "city_clean": "AKRON",
+      "state_clean": "CO",
+      "cluster_id": 72,
+      "link_score": "0.8334386",
+      "source_file": 1
+    },
+    {
+      "business_name": "R & R LANDSCAPE MANAGEMENT CO INC.",
+      "zip": "80231",
+      "address_clean": "8200 E PACIFIC PL",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 72,
+      "link_score": "0.8334386",
+      "source_file": 1
+    }
+  ],
+  "79": [
+    {
+      "business_name": "Designtex Inc.",
+      "zip": "80205",
+      "address_clean": "2501 Blake St",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 79,
+      "link_score": "0.827701",
+      "source_file": 0
+    },
+    {
+      "business_name": "MASTERS EXCAVATING, LLC",
+      "zip": "80720",
+      "address_clean": "38534 COUNTY RD DD",
+      "city_clean": "AKRON",
+      "state_clean": "CO",
+      "cluster_id": 79,
+      "link_score": "0.827701",
+      "source_file": 1
+    },
+    {
+      "business_name": "PUBLIC REALTY COMPANY, INC.",
+      "zip": "80205",
+      "address_clean": "2501 BRUCE RANDOLPH AVE",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 79,
+      "link_score": "0.827701",
+      "source_file": 1
+    }
+  ],
+  "7": [
+    {
+      "business_name": "RPC Manufacturing Solutions, LLC",
+      "zip": "80020",
+      "address_clean": "11811 Upham St #5",
+      "city_clean": "Broomfield",
+      "state_clean": "Colorado",
+      "cluster_id": 7,
+      "link_score": "0.90693265",
+      "source_file": 0
+    },
+    {
+      "business_name": "SHOOK FARMS PARTNERSHIP",
+      "zip": "80720",
+      "address_clean": "30500 COUNTY RD BB",
+      "city_clean": "AKRON",
+      "state_clean": "CO",
+      "cluster_id": 7,
+      "link_score": "0.90693265",
+      "source_file": 1
+    },
+    {
+      "business_name": "RPS SERVICES LLC",
+      "zip": "80020",
+      "address_clean": "11811 UPHAM ST",
+      "city_clean": "BROOMFIELD",
+      "state_clean": "CO",
+      "cluster_id": 7,
+      "link_score": "0.90693265",
+      "source_file": 1
+    }
+  ],
+  "48": [
+    {
+      "business_name": "ILONA, INC.",
+      "zip": "80206",
+      "address_clean": "3201 E 2nd Ave Unit 300",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 48,
+      "link_score": "0.85806906",
+      "source_file": 0
+    },
+    {
+      "business_name": "SHAWN BRANDON",
+      "zip": "80720",
+      "address_clean": "32091 CO RD 23",
+      "city_clean": "AKRON",
+      "state_clean": "CO",
+      "cluster_id": 48,
+      "link_score": "0.85806906",
+      "source_file": 1
+    },
+    {
+      "business_name": "ILONA, INC.",
+      "zip": "80206",
+      "address_clean": "3201 E 2 ND AVE STE 300",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 48,
+      "link_score": "0.85806906",
+      "source_file": 1
+    }
+  ],
+  "43": [
+    {
+      "business_name": "Eaton Metal Products Co",
+      "zip": "80216",
+      "address_clean": "4800 York St",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 43,
+      "link_score": "0.86115783",
+      "source_file": 0
+    },
+    {
+      "business_name": "WASHINGTON COUNTY GOLF CLUB",
+      "zip": "80720",
+      "address_clean": "39469 HWY 63",
+      "city_clean": "AKRON",
+      "state_clean": "CO",
+      "cluster_id": 43,
+      "link_score": "0.86115783",
+      "source_file": 1
+    },
+    {
+      "business_name": "EATON METAL PRODUCTS CO.",
+      "zip": "80216",
+      "address_clean": "4800 YORK ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 43,
+      "link_score": "0.86115783",
+      "source_file": 1
+    }
+  ],
+  "21": [
+    {
+      "business_name": "The Flag Makers LLC",
+      "zip": "80202",
+      "address_clean": "600 17th St Suite 2800",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 21,
+      "link_score": "0.87639844",
+      "source_file": 0
+    },
+    {
+      "business_name": "GOODMAN REALTY COMPANY INC",
+      "zip": "80720",
+      "address_clean": "142 MAIN ST",
+      "city_clean": "AKRON",
+      "state_clean": "CO",
+      "cluster_id": 21,
+      "link_score": "0.87639844",
+      "source_file": 1
+    },
+    {
+      "business_name": "THE LAW OFFICES OF STEVEN J. PISANI, LLC",
+      "zip": "80202",
+      "address_clean": "600 17 TH ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 21,
+      "link_score": "0.87639844",
+      "source_file": 1
+    }
+  ],
+  "66": [
+    {
+      "business_name": "Innovations Manufacturing",
+      "zip": "80216",
+      "address_clean": "4555 Grape St #6441",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 66,
+      "link_score": "0.84198725",
+      "source_file": 0
+    },
+    {
+      "business_name": "COLORADO COMPOST LLC",
+      "zip": "80720",
+      "address_clean": "36683 HWY 63",
+      "city_clean": "AKRON",
+      "state_clean": "CO",
+      "cluster_id": 66,
+      "link_score": "0.84198725",
+      "source_file": 1
+    },
+    {
+      "business_name": "INNOVATIONS MANUFACTURING, INC.",
+      "zip": "80216",
+      "address_clean": "4555 GRAPE ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 66,
+      "link_score": "0.84198725",
+      "source_file": 1
+    }
+  ],
+  "31": [
+    {
+      "business_name": "Ouroboros Fabrication LLC",
+      "zip": "80214",
+      "address_clean": "5815 W 6th Ave",
+      "city_clean": "Lakewood",
+      "state_clean": "Colorado",
+      "cluster_id": 31,
+      "link_score": "0.8682442",
+      "source_file": 0
+    },
+    {
+      "business_name": "JONEAL YOUNG",
+      "zip": "80720",
+      "address_clean": "15778 COUNTY RD RR",
+      "city_clean": "AKRON",
+      "state_clean": "CO",
+      "cluster_id": 31,
+      "link_score": "0.8682442",
+      "source_file": 1
+    },
+    {
+      "business_name": "ACTION BEVERAGE, LLC",
+      "zip": "80214",
+      "address_clean": "5815 W 6 TH AVE UNIT 2 B",
+      "city_clean": "LAKEWOOD",
+      "state_clean": "CO",
+      "cluster_id": 31,
+      "link_score": "0.8682442",
+      "source_file": 1
+    }
+  ],
+  "9": [
+    {
+      "business_name": "Industrial Specialties Mfg. & IS Med Specialties (ISM)",
+      "zip": "80110",
+      "address_clean": "4091 S Eliot St",
+      "city_clean": "Englewood",
+      "state_clean": "Colorado",
+      "cluster_id": 9,
+      "link_score": "0.905078",
+      "source_file": 0
+    },
+    {
+      "business_name": "STRETCH'S AUTOBODY & RESTORATION LLC",
+      "zip": "80720",
+      "address_clean": "840 MAIN AVE",
+      "city_clean": "AKRON",
+      "state_clean": "CO",
+      "cluster_id": 9,
+      "link_score": "0.905078",
+      "source_file": 1
+    },
+    {
+      "business_name": "JBJ ACQUISITION CO",
+      "zip": "80110",
+      "address_clean": "4091 S ELIOT ST",
+      "city_clean": "ENGLEWOOD",
+      "state_clean": "CO",
+      "cluster_id": 9,
+      "link_score": "0.905078",
+      "source_file": 1
+    }
+  ],
+  "71": [
+    {
+      "business_name": "Plastic Creations Ltd",
+      "zip": "80223",
+      "address_clean": "1360 S Lipan St",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 71,
+      "link_score": "0.8334898",
+      "source_file": 0
+    },
+    {
+      "business_name": "KITCHENS SPECIALTIES & DESIGN INC",
+      "zip": "80720",
+      "address_clean": "575 E 1 ST ST",
+      "city_clean": "AKRON",
+      "state_clean": "CO",
+      "cluster_id": 71,
+      "link_score": "0.8334898",
+      "source_file": 1
+    },
+    {
+      "business_name": "A&W ENTERPRISES",
+      "zip": "80223",
+      "address_clean": "1360 S LIPAN ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 71,
+      "link_score": "0.8334898",
+      "source_file": 1
+    }
+  ],
+  "65": [
+    {
+      "business_name": "JK Concepts",
+      "zip": "80216",
+      "address_clean": "3333 E 52nd Ave",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 65,
+      "link_score": "0.84224355",
+      "source_file": 0
+    },
+    {
+      "business_name": "KYLE D ZIMMERMAN DBA KVK UNLIMITED SERVICES",
+      "zip": "80720",
+      "address_clean": "25722 COUNTY RD 40",
+      "city_clean": "AKRON",
+      "state_clean": "CO",
+      "cluster_id": 65,
+      "link_score": "0.84224355",
+      "source_file": 1
+    },
+    {
+      "business_name": "J. K. CONCEPTS, INC.",
+      "zip": "80216",
+      "address_clean": "3333 E 52 ND AVE",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 65,
+      "link_score": "0.84224355",
+      "source_file": 1
+    }
+  ],
+  "108": [
+    {
+      "business_name": "Shortgirlstickerz",
+      "zip": "80232",
+      "address_clean": "1130 S Reed St",
+      "city_clean": "Lakewood",
+      "state_clean": "Colorado",
+      "cluster_id": 108,
+      "link_score": "0.80755925",
+      "source_file": 0
+    },
+    {
+      "business_name": "MEHRING FARMS LLC",
+      "zip": "80720",
+      "address_clean": "46940 COUNTY RD DD",
+      "city_clean": "AKRON",
+      "state_clean": "CO",
+      "cluster_id": 108,
+      "link_score": "0.80755925",
+      "source_file": 1
+    },
+    {
+      "business_name": "VAPOR SLIDE INC.",
+      "zip": "80232",
+      "address_clean": "1230 S REED ST",
+      "city_clean": "LAKEWOOD",
+      "state_clean": "CO",
+      "cluster_id": 108,
+      "link_score": "0.80755925",
+      "source_file": 1
+    }
+  ],
+  "73": [
+    {
+      "business_name": "Nova Engineering",
+      "zip": "80211",
+      "address_clean": "1011 W 45th Ave",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 73,
+      "link_score": "0.8330557",
+      "source_file": 0
+    },
+    {
+      "business_name": "DOUBLE SLASH N INC.",
+      "zip": "80720",
+      "address_clean": "24381 COUNTY RD 55",
+      "city_clean": "AKRON",
+      "state_clean": "CO",
+      "cluster_id": 73,
+      "link_score": "0.8330557",
+      "source_file": 1
+    },
+    {
+      "business_name": "QUAL ELECTRONICS CORPORATION",
+      "zip": "80211",
+      "address_clean": "1011 W 45 TH AVE",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 73,
+      "link_score": "0.8330557",
+      "source_file": 1
+    }
+  ],
+  "64": [
+    {
+      "business_name": "Control Design & Manufacturing",
+      "zip": "80110",
+      "address_clean": "2626 S Zuni St",
+      "city_clean": "Englewood",
+      "state_clean": "Colorado",
+      "cluster_id": 64,
+      "link_score": "0.8450227",
+      "source_file": 0
+    },
+    {
+      "business_name": "GLOSSON DEVELOPMENT SERVICES LLC",
+      "zip": "80720",
+      "address_clean": "565 ASH AVE",
+      "city_clean": "AKRON",
+      "state_clean": "CO",
+      "cluster_id": 64,
+      "link_score": "0.8450227",
+      "source_file": 1
+    },
+    {
+      "business_name": "COLORADO LIMITED, INC.",
+      "zip": "80110",
+      "address_clean": "2622 S ZUNI ST",
+      "city_clean": "ENGLEWOOD",
+      "state_clean": "CO",
+      "cluster_id": 64,
+      "link_score": "0.8450227",
+      "source_file": 1
+    }
+  ],
+  "80": [
+    {
+      "business_name": "NuLine Manufacturing Inc.",
+      "zip": "80239",
+      "address_clean": "11333 E 55th Ave Unit C",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 80,
+      "link_score": "0.82767946",
+      "source_file": 0
+    },
+    {
+      "business_name": "KATHRYN BLAKE",
+      "zip": "80720",
+      "address_clean": "15656 CO RD 40",
+      "city_clean": "AKRON",
+      "state_clean": "CO",
+      "cluster_id": 80,
+      "link_score": "0.82767946",
+      "source_file": 1
+    },
+    {
+      "business_name": "NULINE MANUFACTURING INCORPORATED",
+      "zip": "80239",
+      "address_clean": "11333 E 55 TH AVE UNIT C",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 80,
+      "link_score": "0.82767946",
+      "source_file": 1
+    }
+  ],
+  "83": [
+    {
+      "business_name": "Geotech Environmental Equipment, Inc.",
+      "zip": "80205",
+      "address_clean": "2650 E 40th Ave",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 83,
+      "link_score": "0.82483315",
+      "source_file": 0
+    },
+    {
+      "business_name": "LB HOLDINGS",
+      "zip": "80720",
+      "address_clean": "222 E 1 ST ST",
+      "city_clean": "AKRON",
+      "state_clean": "CO",
+      "cluster_id": 83,
+      "link_score": "0.82483315",
+      "source_file": 1
+    },
+    {
+      "business_name": "MANUFACTURER'S EDGE",
+      "zip": "80205",
+      "address_clean": "2650 E 40 TH AVE",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 83,
+      "link_score": "0.82483315",
+      "source_file": 1
+    }
+  ],
+  "86": [
+    {
+      "business_name": "Bri-Chem Supply Corp",
+      "zip": "80211",
+      "address_clean": "2921 W 38th Ave",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 86,
+      "link_score": "0.82244235",
+      "source_file": 0
+    },
+    {
+      "business_name": "SAND DUNES RECREATION LLC",
+      "zip": "81101",
+      "address_clean": "4 SHADOW WOOD PL",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 86,
+      "link_score": "0.82244235",
+      "source_file": 1
+    },
+    {
+      "business_name": "BTW ENTERPRISES INC",
+      "zip": "80211",
+      "address_clean": "2921 W 38 TH AVE 335",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 86,
+      "link_score": "0.82244235",
+      "source_file": 1
+    }
+  ],
+  "12": [
+    {
+      "business_name": "Summit Brick Company - Lakewood Plant",
+      "zip": "80214",
+      "address_clean": "1325 Jay St",
+      "city_clean": "Lakewood",
+      "state_clean": "Colorado",
+      "cluster_id": 12,
+      "link_score": "0.8990179",
+      "source_file": 0
+    },
+    {
+      "business_name": "SOUTH-CENTRAL COLORADO SENIORS, INCORPORATED",
+      "zip": "81101",
+      "address_clean": "1116 3 RD ST",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 12,
+      "link_score": "0.8990179",
+      "source_file": 1
+    },
+    {
+      "business_name": "THE LAKEWOOD BRICK AND TILE COMPANY",
+      "zip": "80214",
+      "address_clean": "1325 JAY ST",
+      "city_clean": "LAKEWOOD",
+      "state_clean": "CO",
+      "cluster_id": 12,
+      "link_score": "0.8990179",
+      "source_file": 1
+    }
+  ],
+  "30": [
+    {
+      "business_name": "Evo-Lite",
+      "zip": "80002",
+      "address_clean": "6240 W 54th Ave",
+      "city_clean": "Arvada",
+      "state_clean": "Colorado",
+      "cluster_id": 30,
+      "link_score": "0.8691891",
+      "source_file": 0
+    },
+    {
+      "business_name": "ALLPINE TITLE, INC.",
+      "zip": "81101",
+      "address_clean": "225 E 6 TH ST",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 30,
+      "link_score": "0.8691891",
+      "source_file": 1
+    },
+    {
+      "business_name": "CEAVCO AUDIO-VISUAL COMPANY, INC.",
+      "zip": "80002",
+      "address_clean": "6240 W 54 TH AVE",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 30,
+      "link_score": "0.8691891",
+      "source_file": 1
+    }
+  ],
+  "95": [
+    {
+      "business_name": "Chemical Specialties Inc",
+      "zip": "80216",
+      "address_clean": "4920 Fox St",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 95,
+      "link_score": "0.81513566",
+      "source_file": 0
+    },
+    {
+      "business_name": "ALAMOSA NEWSPAPER, INC.",
+      "zip": "81101",
+      "address_clean": "2205 STATE AVE",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 95,
+      "link_score": "0.81513566",
+      "source_file": 1
+    },
+    {
+      "business_name": "MARK J CARROLL",
+      "zip": "80216",
+      "address_clean": "4320 FOX ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 95,
+      "link_score": "0.81513566",
+      "source_file": 1
+    }
+  ],
+  "56": [
+    {
+      "business_name": "The UPS Store",
+      "zip": "80211",
+      "address_clean": "2921 W 38th Ave",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 56,
+      "link_score": "0.8517248",
+      "source_file": 0
+    },
+    {
+      "business_name": "ALAMOSA FAMILY DENTAL, LLC",
+      "zip": "81101",
+      "address_clean": "2415 MULLINS AVE 5",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 56,
+      "link_score": "0.8517248",
+      "source_file": 1
+    },
+    {
+      "business_name": "ESPLANADE CONSULTING, LLC",
+      "zip": "80211",
+      "address_clean": "2921 W 38 TH AVE 343",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 56,
+      "link_score": "0.8517248",
+      "source_file": 1
+    }
+  ],
+  "89": [
+    {
+      "business_name": "Bison Innovative Products",
+      "zip": "80204",
+      "address_clean": "701 Osage St Ste 120",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 89,
+      "link_score": "0.8198291",
+      "source_file": 0
+    },
+    {
+      "business_name": "LA PUENTE ENTERPRISE",
+      "zip": "81101",
+      "address_clean": "911 STATE AVE",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 89,
+      "link_score": "0.8198291",
+      "source_file": 1
+    },
+    {
+      "business_name": "UNITED CONSTRUCTION PRODUCTS INC",
+      "zip": "80204",
+      "address_clean": "701 OSAGE ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 89,
+      "link_score": "0.8198291",
+      "source_file": 1
+    }
+  ],
+  "15": [
+    {
+      "business_name": "3Aclean",
+      "zip": "80214",
+      "address_clean": "6006 W 16th Ave",
+      "city_clean": "Lakewood",
+      "state_clean": "Colorado",
+      "cluster_id": 15,
+      "link_score": "0.89529437",
+      "source_file": 0
+    },
+    {
+      "business_name": "PRO SHED, LLC",
+      "zip": "81101",
+      "address_clean": "0573 W US HWY 160",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 15,
+      "link_score": "0.89529437",
+      "source_file": 1
+    },
+    {
+      "business_name": "AAA BUILDING MAINTENANCE, LLC",
+      "zip": "80214",
+      "address_clean": "6006 W 16 TH AVE",
+      "city_clean": "LAKEWOOD",
+      "state_clean": "CO",
+      "cluster_id": 15,
+      "link_score": "0.89529437",
+      "source_file": 1
+    }
+  ],
+  "113": [
+    {
+      "business_name": "Seader Custom Metal Works",
+      "zip": "80216",
+      "address_clean": "401 W 43rd Ave",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 113,
+      "link_score": "0.80516887",
+      "source_file": 0
+    },
+    {
+      "business_name": "ALAMOSA TOWN 'N' COUNTRY, INC.",
+      "zip": "81101",
+      "address_clean": "3221 MAIN ST",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 113,
+      "link_score": "0.80516887",
+      "source_file": 1
+    },
+    {
+      "business_name": "SEADER CUSTOM METAL",
+      "zip": "80216",
+      "address_clean": "401 W 43 RD AVE",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 113,
+      "link_score": "0.80516887",
+      "source_file": 1
+    }
+  ],
+  "82": [
+    {
+      "business_name": "Karl Schmidt Mfg",
+      "zip": "80022",
+      "address_clean": "3900 E 68th Ave",
+      "city_clean": "Commerce City",
+      "state_clean": "Colorado",
+      "cluster_id": 82,
+      "link_score": "0.82596594",
+      "source_file": 0
+    },
+    {
+      "business_name": "PORTER REALTY INC",
+      "zip": "81101",
+      "address_clean": "503 MAIN ST",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 82,
+      "link_score": "0.82596594",
+      "source_file": 1
+    },
+    {
+      "business_name": "KARL SCHMIDT MANUFACTURING, INC.",
+      "zip": "80022",
+      "address_clean": "3900 E 68 TH AVE",
+      "city_clean": "COMMERCE CITY",
+      "state_clean": "CO",
+      "cluster_id": 82,
+      "link_score": "0.82596594",
+      "source_file": 1
+    }
+  ],
+  "98": [
+    {
+      "business_name": "Heilan Coo",
+      "zip": "80210",
+      "address_clean": "1551 S Pearl St",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 98,
+      "link_score": "0.8140981",
+      "source_file": 0
+    },
+    {
+      "business_name": "JDT PURPLE PIG PUB LLC",
+      "zip": "81101",
+      "address_clean": "624 MAIN ST",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 98,
+      "link_score": "0.8140981",
+      "source_file": 1
+    },
+    {
+      "business_name": "DEN DELI & SEAFOOD MARKET, LLC",
+      "zip": "80210",
+      "address_clean": "1501 S PEARL ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 98,
+      "link_score": "0.8140981",
+      "source_file": 1
+    }
+  ],
+  "78": [
+    {
+      "business_name": "Molitron",
+      "zip": "80214",
+      "address_clean": "1457 Ammons St",
+      "city_clean": "Lakewood",
+      "state_clean": "Colorado",
+      "cluster_id": 78,
+      "link_score": "0.8278459",
+      "source_file": 0
+    },
+    {
+      "business_name": "WOODY'S Q SHACK LLC",
+      "zip": "81101",
+      "address_clean": "703 MAIN ST",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 78,
+      "link_score": "0.8278459",
+      "source_file": 1
+    },
+    {
+      "business_name": "INDUSTRIAL COOLING SOLUTIONS, INC.",
+      "zip": "80214",
+      "address_clean": "1457 AMMONS ST",
+      "city_clean": "LAKEWOOD",
+      "state_clean": "CO",
+      "cluster_id": 78,
+      "link_score": "0.8278459",
+      "source_file": 1
+    }
+  ],
+  "93": [
+    {
+      "business_name": "Denver Beverage",
+      "zip": "80216",
+      "address_clean": "353 W 56th Ave",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 93,
+      "link_score": "0.81623816",
+      "source_file": 0
+    },
+    {
+      "business_name": "GARRISON FENCE, INC",
+      "zip": "81101",
+      "address_clean": "6655 W US HWY 160",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 93,
+      "link_score": "0.81623816",
+      "source_file": 1
+    },
+    {
+      "business_name": "DENVER SYRUP & BAR SUPPLY, INC.",
+      "zip": "80216",
+      "address_clean": "353 W 56 TH AVE",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 93,
+      "link_score": "0.81623816",
+      "source_file": 1
+    }
+  ],
+  "36": [
+    {
+      "business_name": "Livingston Systems",
+      "zip": "80221",
+      "address_clean": "2613 W 64th Ave",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 36,
+      "link_score": "0.86427003",
+      "source_file": 0
+    },
+    {
+      "business_name": "MCCARROLL ACCOUNTING & CONSULTING INC.",
+      "zip": "81101",
+      "address_clean": "409 MAIN ST",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 36,
+      "link_score": "0.86427003",
+      "source_file": 1
+    },
+    {
+      "business_name": "LIVINGSTON SYSTEMS LLC",
+      "zip": "80221",
+      "address_clean": "2613 W 64 TH AVE UNIT A",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 36,
+      "link_score": "0.86427003",
+      "source_file": 1
+    }
+  ],
+  "35": [
+    {
+      "business_name": "Bon-nare",
+      "zip": "80220",
+      "address_clean": "4600 Hale Pkwy # 450",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 35,
+      "link_score": "0.8657441",
+      "source_file": 0
+    },
+    {
+      "business_name": "SILVER FOX JEWWLRY, INC.",
+      "zip": "81101",
+      "address_clean": "12649 S US HWY 285",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 35,
+      "link_score": "0.8657441",
+      "source_file": 1
+    },
+    {
+      "business_name": "DENVER PLASTIC SURGERY ASSOCIATES LLC",
+      "zip": "80220",
+      "address_clean": "4600 HALE PKWY",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 35,
+      "link_score": "0.8657441",
+      "source_file": 1
+    }
+  ],
+  "114": [
+    {
+      "business_name": "Regional Sales Co",
+      "zip": "80002",
+      "address_clean": "5545 W 56th Ave",
+      "city_clean": "Arvada",
+      "state_clean": "Colorado",
+      "cluster_id": 114,
+      "link_score": "0.8045356",
+      "source_file": 0
+    },
+    {
+      "business_name": "SANGRE DE CRISTO LABORATORY, INC.",
+      "zip": "81101",
+      "address_clean": "2329 LAVA LN",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 114,
+      "link_score": "0.8045356",
+      "source_file": 1
+    },
+    {
+      "business_name": "BEAUTY MARK",
+      "zip": "80002",
+      "address_clean": "5545 W 56 TH AVE",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 114,
+      "link_score": "0.8045356",
+      "source_file": 1
+    }
+  ],
+  "6": [
+    {
+      "business_name": "Green Sol Chemical Corporation",
+      "zip": "80216",
+      "address_clean": "4770 Fox St #13",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 6,
+      "link_score": "0.9089958",
+      "source_file": 0
+    },
+    {
+      "business_name": "VALLEY COLLISION & KUSTOM PAINTING, INC",
+      "zip": "81101",
+      "address_clean": "429 6 TH ST",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 6,
+      "link_score": "0.9089958",
+      "source_file": 1
+    },
+    {
+      "business_name": "R&R WINDOW SERVICE LLC",
+      "zip": "80216",
+      "address_clean": "4770 FOX ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 6,
+      "link_score": "0.9089958",
+      "source_file": 1
+    }
+  ],
+  "29": [
+    {
+      "business_name": "American Made Apparel Manufacturing., Inc.",
+      "zip": "80011",
+      "address_clean": "15607 E 17th Ave",
+      "city_clean": "Aurora",
+      "state_clean": "Colorado",
+      "cluster_id": 29,
+      "link_score": "0.8692175",
+      "source_file": 0
+    },
+    {
+      "business_name": "NETELLIGENCE LLC",
+      "zip": "81101",
+      "address_clean": "602 W AVE",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 29,
+      "link_score": "0.8692175",
+      "source_file": 1
+    },
+    {
+      "business_name": "REMOTE TELCOM LLC",
+      "zip": "80011",
+      "address_clean": "15607 E 17 TH AVE",
+      "city_clean": "AURORA",
+      "state_clean": "CO",
+      "cluster_id": 29,
+      "link_score": "0.8692175",
+      "source_file": 1
+    }
+  ],
+  "28": [
+    {
+      "business_name": "Pre Action Fire, Inc",
+      "zip": "80211",
+      "address_clean": "2921 W 38th Ave",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 28,
+      "link_score": "0.8711126",
+      "source_file": 0
+    },
+    {
+      "business_name": "JUANITO'S MEXICAN KITCHEN LLC",
+      "zip": "81101",
+      "address_clean": "1019 6 TH ST",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 28,
+      "link_score": "0.8711126",
+      "source_file": 1
+    },
+    {
+      "business_name": "PRE ACTION FIRE",
+      "zip": "80211",
+      "address_clean": "2921 W 38 TH AVE 453",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 28,
+      "link_score": "0.8711126",
+      "source_file": 1
+    }
+  ],
+  "58": [
+    {
+      "business_name": "Boykin Pearce Associates",
+      "zip": "80205",
+      "address_clean": "1875 E 27th Ave",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 58,
+      "link_score": "0.8494979",
+      "source_file": 0
+    },
+    {
+      "business_name": "MURPHY THEATERS, LLC",
+      "zip": "81101",
+      "address_clean": "3507 CARROLL ST",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 58,
+      "link_score": "0.8494979",
+      "source_file": 1
+    },
+    {
+      "business_name": "KREMER INC",
+      "zip": "80205",
+      "address_clean": "1875 E 27 TH AVE",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 58,
+      "link_score": "0.8494979",
+      "source_file": 1
+    }
+  ],
+  "11": [
+    {
+      "business_name": "Gates & Sons Inc",
+      "zip": "80223",
+      "address_clean": "90 S Fox St",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 11,
+      "link_score": "0.89902216",
+      "source_file": 0
+    },
+    {
+      "business_name": "LPL FINANCIAL",
+      "zip": "81101",
+      "address_clean": "609 MAIN ST",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 11,
+      "link_score": "0.89902216",
+      "source_file": 1
+    },
+    {
+      "business_name": "GATES AND SONS, INC.",
+      "zip": "80223",
+      "address_clean": "90 S FOX ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 11,
+      "link_score": "0.89902216",
+      "source_file": 1
+    }
+  ],
+  "32": [
+    {
+      "business_name": "Aveno Antiguo, Inc",
+      "zip": "80216",
+      "address_clean": "5140 Race Ct STE 3",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 32,
+      "link_score": "0.86779696",
+      "source_file": 0
+    },
+    {
+      "business_name": "DAREN BOLT AGENCY",
+      "zip": "81101",
+      "address_clean": "127 SANTA FE AVE",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 32,
+      "link_score": "0.86779696",
+      "source_file": 1
+    },
+    {
+      "business_name": "AVENO ANTIGUO, INC",
+      "zip": "80216",
+      "address_clean": "5140 RACE CT 3",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 32,
+      "link_score": "0.86779696",
+      "source_file": 1
+    }
+  ],
+  "59": [
+    {
+      "business_name": "Thera Cane Company",
+      "zip": "80223",
+      "address_clean": "1147 S Huron St",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 59,
+      "link_score": "0.8490316",
+      "source_file": 0
+    },
+    {
+      "business_name": "JOCELYN RUSSELL, LLC",
+      "zip": "81101",
+      "address_clean": "6820 S STATE HWY 17",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 59,
+      "link_score": "0.8490316",
+      "source_file": 1
+    },
+    {
+      "business_name": "APH",
+      "zip": "80223",
+      "address_clean": "1177 S HURON ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 59,
+      "link_score": "0.8490316",
+      "source_file": 1
+    }
+  ],
+  "76": [
+    {
+      "business_name": "RKR",
+      "zip": "80216",
+      "address_clean": "4600 Grape St",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 76,
+      "link_score": "0.8294053",
+      "source_file": 0
+    },
+    {
+      "business_name": "SCHULZ REALTY, LLC",
+      "zip": "81101",
+      "address_clean": "1123 W AVE",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 76,
+      "link_score": "0.8294053",
+      "source_file": 1
+    },
+    {
+      "business_name": "GND SALES",
+      "zip": "80216",
+      "address_clean": "4600 GRAPE ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 76,
+      "link_score": "0.8294053",
+      "source_file": 1
+    }
+  ],
+  "107": [
+    {
+      "business_name": "American Tech Support",
+      "zip": "80206",
+      "address_clean": "2500 E 1st Ave",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 107,
+      "link_score": "0.80799407",
+      "source_file": 0
+    },
+    {
+      "business_name": "HORTICULTURAL ILLUMINATIONS, LLC",
+      "zip": "81101",
+      "address_clean": "0711 W US HWY 160",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 107,
+      "link_score": "0.80799407",
+      "source_file": 1
+    },
+    {
+      "business_name": "98-99 LLC",
+      "zip": "80206",
+      "address_clean": "2500 E 1 ST AVE",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 107,
+      "link_score": "0.80799407",
+      "source_file": 1
+    }
+  ],
+  "97": [
+    {
+      "business_name": "Paramount Fabrics Inc",
+      "zip": "80003",
+      "address_clean": "5570 W 60th Ave",
+      "city_clean": "Arvada",
+      "state_clean": "Colorado",
+      "cluster_id": 97,
+      "link_score": "0.8143154",
+      "source_file": 0
+    },
+    {
+      "business_name": "GUSTAVO VALDEZ GONZALEZ",
+      "zip": "81101",
+      "address_clean": "7306 ADAMS LN 1",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 97,
+      "link_score": "0.8143154",
+      "source_file": 1
+    },
+    {
+      "business_name": "PARAMOUNT FABRICS INC",
+      "zip": "80003",
+      "address_clean": "5570 W 60 TH AVE",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 97,
+      "link_score": "0.8143154",
+      "source_file": 1
+    }
+  ],
+  "118": [
+    {
+      "business_name": "Boker USA, Inc.",
+      "zip": "80214",
+      "address_clean": "1550 Balsam St",
+      "city_clean": "Lakewood",
+      "state_clean": "Colorado",
+      "cluster_id": 118,
+      "link_score": "0.8035181",
+      "source_file": 0
+    },
+    {
+      "business_name": "EME HOLDINGS LIMITED, LLC",
+      "zip": "81101",
+      "address_clean": "504 W AVE",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 118,
+      "link_score": "0.8035181",
+      "source_file": 1
+    },
+    {
+      "business_name": "BOKER USA INC",
+      "zip": "80214",
+      "address_clean": "1550 BALSAM ST",
+      "city_clean": "LAKEWOOD",
+      "state_clean": "CO",
+      "cluster_id": 118,
+      "link_score": "0.8035181",
+      "source_file": 1
+    }
+  ],
+  "100": [
+    {
+      "business_name": "ABM Fabrication & Machining",
+      "zip": "80003",
+      "address_clean": "5880 W 59th Ave Unit D",
+      "city_clean": "Arvada",
+      "state_clean": "Colorado",
+      "cluster_id": 100,
+      "link_score": "0.8130897",
+      "source_file": 0
+    },
+    {
+      "business_name": "JOHNNY'S AUTO TRIM & ROD SHOP, INC.",
+      "zip": "81101",
+      "address_clean": "1429 ROSS AVE",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 100,
+      "link_score": "0.8130897",
+      "source_file": 1
+    },
+    {
+      "business_name": "ABM FABRICATION & MACHINING LLC",
+      "zip": "80003",
+      "address_clean": "5880 W 59 TH AVE",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 100,
+      "link_score": "0.8130897",
+      "source_file": 1
+    }
+  ],
+  "115": [
+    {
+      "business_name": "Neocom Promo LLC",
+      "zip": "80206",
+      "address_clean": "1633 Fillmore St Suite 404",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 115,
+      "link_score": "0.8044395",
+      "source_file": 0
+    },
+    {
+      "business_name": "WAYNE BROWN LLC",
+      "zip": "81101",
+      "address_clean": "1132 COUNTY RD 104 N",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 115,
+      "link_score": "0.8044395",
+      "source_file": 1
+    },
+    {
+      "business_name": "NEOCOM PROMO LLC",
+      "zip": "80206",
+      "address_clean": "1633 FILLMORE ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 115,
+      "link_score": "0.8044395",
+      "source_file": 1
+    }
+  ],
+  "2": [
+    {
+      "business_name": "The Real Dill",
+      "zip": "80223",
+      "address_clean": "33 S Fox St",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 2,
+      "link_score": "0.9247185",
+      "source_file": 0
+    },
+    {
+      "business_name": "SLV WINE AND SPIRITS, LLC",
+      "zip": "81101",
+      "address_clean": "408 DENVER AVE",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 2,
+      "link_score": "0.9247185",
+      "source_file": 1
+    },
+    {
+      "business_name": "THE REAL DILL, LLC",
+      "zip": "80223",
+      "address_clean": "33 S FOX ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 2,
+      "link_score": "0.9247185",
+      "source_file": 1
+    }
+  ],
+  "42": [
+    {
+      "business_name": "Ralph's Industrial Sewing Machine Co",
+      "zip": "80211",
+      "address_clean": "2030 Clay St",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 42,
+      "link_score": "0.8618282",
+      "source_file": 0
+    },
+    {
+      "business_name": "GLYNN'S PROCESSING",
+      "zip": "81101",
+      "address_clean": "5195 COUNTY RD 14 S",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 42,
+      "link_score": "0.8618282",
+      "source_file": 1
+    },
+    {
+      "business_name": "RALPH'S INDUSTRIAL SEWING MACHINE COMPANY",
+      "zip": "80211",
+      "address_clean": "2030 CLAY ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 42,
+      "link_score": "0.8618282",
+      "source_file": 1
+    }
+  ],
+  "105": [
+    {
+      "business_name": "Precision Metal Manufacturing Inc",
+      "zip": "80233",
+      "address_clean": "11060 Irma Dr",
+      "city_clean": "Northglenn",
+      "state_clean": "Colorado",
+      "cluster_id": 105,
+      "link_score": "0.81076086",
+      "source_file": 0
+    },
+    {
+      "business_name": "AUDREY COWAN",
+      "zip": "81101",
+      "address_clean": "3164 COUNTY RD 103",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 105,
+      "link_score": "0.81076086",
+      "source_file": 1
+    },
+    {
+      "business_name": "BANKS SCHOOL SUPPLY, INC.",
+      "zip": "80233",
+      "address_clean": "11080 IRMA DR",
+      "city_clean": "NORTHGLENN",
+      "state_clean": "CO",
+      "cluster_id": 105,
+      "link_score": "0.81076086",
+      "source_file": 1
+    }
+  ],
+  "112": [
+    {
+      "business_name": "Mount Sopris Instruments Inc.",
+      "zip": "80216",
+      "address_clean": "4975 E 41st Ave",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 112,
+      "link_score": "0.8053612",
+      "source_file": 0
+    },
+    {
+      "business_name": "KEY BUSINESS SOLUTIONS, INC.",
+      "zip": "81101",
+      "address_clean": "3143 COUNTY RD 112",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 112,
+      "link_score": "0.8053612",
+      "source_file": 1
+    },
+    {
+      "business_name": "MOUNT SOPRIS INSTRUMENT COMPANY",
+      "zip": "80216",
+      "address_clean": "4975 E 41 ST AVE",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 112,
+      "link_score": "0.8053612",
+      "source_file": 1
+    }
+  ],
+  "20": [
+    {
+      "business_name": "Update International",
+      "zip": "80226",
+      "address_clean": "1075 S Yukon St",
+      "city_clean": "Lakewood",
+      "state_clean": "Colorado",
+      "cluster_id": 20,
+      "link_score": "0.87958807",
+      "source_file": 0
+    },
+    {
+      "business_name": "JOSEPH DICKERSON",
+      "zip": "81101",
+      "address_clean": "4670 DEL VIENTO RD",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 20,
+      "link_score": "0.87958807",
+      "source_file": 1
+    },
+    {
+      "business_name": "RAE MINEAR",
+      "zip": "80226",
+      "address_clean": "1075 S YUKON ST",
+      "city_clean": "LAKEWOOD",
+      "state_clean": "CO",
+      "cluster_id": 20,
+      "link_score": "0.87958807",
+      "source_file": 1
+    }
+  ],
+  "51": [
+    {
+      "business_name": "Silver Engineering Works",
+      "zip": "80229",
+      "address_clean": "6565 Vine Ct",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 51,
+      "link_score": "0.8546646",
+      "source_file": 0
+    },
+    {
+      "business_name": "CHRISTOPHER T OFFUTT, D.P.M.",
+      "zip": "81101",
+      "address_clean": "2415 MULLINS AVE",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 51,
+      "link_score": "0.8546646",
+      "source_file": 1
+    },
+    {
+      "business_name": "SILVER ENGINEERING WORKS, LLC",
+      "zip": "80229",
+      "address_clean": "6565 VINE CT",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 51,
+      "link_score": "0.8546646",
+      "source_file": 1
+    }
+  ],
+  "68": [
+    {
+      "business_name": "Aztec Rug Binding",
+      "zip": "80204",
+      "address_clean": "1957 W 14th Ave",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 68,
+      "link_score": "0.8349292",
+      "source_file": 0
+    },
+    {
+      "business_name": "MPS MANAGEMENT LLC",
+      "zip": "81101",
+      "address_clean": "906 WEBER CT",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 68,
+      "link_score": "0.8349292",
+      "source_file": 1
+    },
+    {
+      "business_name": "AZTEC CUSTOM RUG & CARPET SRVCS",
+      "zip": "80204",
+      "address_clean": "1957 W 14 TH AVE",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 68,
+      "link_score": "0.8349292",
+      "source_file": 1
+    }
+  ],
+  "17": [
+    {
+      "business_name": "Hydraflex",
+      "zip": "80204",
+      "address_clean": "1330 Zuni St H",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 17,
+      "link_score": "0.8902671",
+      "source_file": 0
+    },
+    {
+      "business_name": "COOL SUNSHINE REALTY",
+      "zip": "81101",
+      "address_clean": "8346 COOL SUNSHINE CIR",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 17,
+      "link_score": "0.8902671",
+      "source_file": 1
+    },
+    {
+      "business_name": "STRANGE BREWING COMPANY LLC",
+      "zip": "80204",
+      "address_clean": "1330 ZUNI ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 17,
+      "link_score": "0.8902671",
+      "source_file": 1
+    }
+  ],
+  "37": [
+    {
+      "business_name": "Ink Monstr Graphics and Wraps",
+      "zip": "80204",
+      "address_clean": "2721 W Holden Pl",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 37,
+      "link_score": "0.86424416",
+      "source_file": 0
+    },
+    {
+      "business_name": "COOL SUNSHINE RV PARK, LLC",
+      "zip": "81101",
+      "address_clean": "1055 7 TH ST",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 37,
+      "link_score": "0.86424416",
+      "source_file": 1
+    },
+    {
+      "business_name": "AAS PRINTING",
+      "zip": "80204",
+      "address_clean": "2721 W HOLDEN PLACE",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 37,
+      "link_score": "0.86424416",
+      "source_file": 1
+    }
+  ],
+  "49": [
+    {
+      "business_name": "Greens Gone Wild",
+      "zip": "80246",
+      "address_clean": "501 S Cherry St Ste 1100",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 49,
+      "link_score": "0.8579921",
+      "source_file": 0
+    },
+    {
+      "business_name": "SARAH YODER",
+      "zip": "81101",
+      "address_clean": "5290 SIERRA VIS RD",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 49,
+      "link_score": "0.8579921",
+      "source_file": 1
+    },
+    {
+      "business_name": "SILVER BULLET CONSULTING LLC",
+      "zip": "80246",
+      "address_clean": "501 S CHERRY ST STE 1100",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 49,
+      "link_score": "0.8579921",
+      "source_file": 1
+    }
+  ],
+  "10": [
+    {
+      "business_name": "The Duck Company",
+      "zip": "80002",
+      "address_clean": "5601 Gray St Unit A",
+      "city_clean": "Arvada",
+      "state_clean": "Colorado",
+      "cluster_id": 10,
+      "link_score": "0.9028085",
+      "source_file": 0
+    },
+    {
+      "business_name": "3-2-1 MAINTENANCE, LLC",
+      "zip": "81101",
+      "address_clean": "823 MAIN ST",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 10,
+      "link_score": "0.9028085",
+      "source_file": 1
+    },
+    {
+      "business_name": "THE DUCK COMPANY",
+      "zip": "80002",
+      "address_clean": "5601 GRAY ST",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 10,
+      "link_score": "0.9028085",
+      "source_file": 1
+    }
+  ],
+  "109": [
+    {
+      "business_name": "Secure All Security Doors",
+      "zip": "80212",
+      "address_clean": "4300 W 38th Ave",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 109,
+      "link_score": "0.8067153",
+      "source_file": 0
+    },
+    {
+      "business_name": "LISA LUCERO",
+      "zip": "81101",
+      "address_clean": "614 11 TH ST",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 109,
+      "link_score": "0.8067153",
+      "source_file": 1
+    },
+    {
+      "business_name": "SECURE-ALL COMPANY, INC",
+      "zip": "80212",
+      "address_clean": "4300 W 38 TH AVE",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 109,
+      "link_score": "0.8067153",
+      "source_file": 1
+    }
+  ],
+  "25": [
+    {
+      "business_name": "Aspen Laser Systems, LLC",
+      "zip": "80202",
+      "address_clean": "600 17th St Suite 2800",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 25,
+      "link_score": "0.8727322",
+      "source_file": 0
+    },
+    {
+      "business_name": "SAN LUIS VALLEY MUSEUM",
+      "zip": "81101",
+      "address_clean": "401 HUNT AVE",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 25,
+      "link_score": "0.8727322",
+      "source_file": 1
+    },
+    {
+      "business_name": "IZAJULE LLC",
+      "zip": "80202",
+      "address_clean": "600 17 TH ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 25,
+      "link_score": "0.8727322",
+      "source_file": 1
+    }
+  ],
+  "101": [
+    {
+      "business_name": "Wibtech Outdoors",
+      "zip": "80216",
+      "address_clean": "321 W 45th Ave",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 101,
+      "link_score": "0.812113",
+      "source_file": 0
+    },
+    {
+      "business_name": "ANGELINA RODRIGUEZ",
+      "zip": "81101",
+      "address_clean": "12230 COUNTY RD 5 S",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 101,
+      "link_score": "0.812113",
+      "source_file": 1
+    },
+    {
+      "business_name": "FRANKS HEATING LLC DBA AIR FLOW HEATING",
+      "zip": "80216",
+      "address_clean": "321 W 45 TH AVE",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 101,
+      "link_score": "0.812113",
+      "source_file": 1
+    }
+  ],
+  "99": [
+    {
+      "business_name": "Dahl Design Denver - Showroom by Appt. Only",
+      "zip": "80223",
+      "address_clean": "280 S Santa Fe Dr",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 99,
+      "link_score": "0.81367296",
+      "source_file": 0
+    },
+    {
+      "business_name": "SUNSHINE VALLEY WELLNESS CENTER",
+      "zip": "81101",
+      "address_clean": "1105 3 RD ST 2",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 99,
+      "link_score": "0.81367296",
+      "source_file": 1
+    },
+    {
+      "business_name": "STAR TECH INC",
+      "zip": "80223",
+      "address_clean": "480 S SANTA FE DR",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 99,
+      "link_score": "0.81367296",
+      "source_file": 1
+    }
+  ],
+  "41": [
+    {
+      "business_name": "Cipher Skin",
+      "zip": "80202",
+      "address_clean": "1331 17th St",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 41,
+      "link_score": "0.861925",
+      "source_file": 0
+    },
+    {
+      "business_name": "WALL, SMITH, BATEMAN INC.",
+      "zip": "81101",
+      "address_clean": "3001 ADCOCK CIR",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 41,
+      "link_score": "0.861925",
+      "source_file": 1
+    },
+    {
+      "business_name": "TURING SCHOOL OF SOFTWARE & DESIGN",
+      "zip": "80202",
+      "address_clean": "1331 17 TH ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 41,
+      "link_score": "0.861925",
+      "source_file": 1
+    }
+  ],
+  "87": [
+    {
+      "business_name": "Direct Polymers",
+      "zip": "80216",
+      "address_clean": "3601 E 44th Ave",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 87,
+      "link_score": "0.82201564",
+      "source_file": 0
+    },
+    {
+      "business_name": "EXPO, LLC",
+      "zip": "81101",
+      "address_clean": "25199 HWY 371",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 87,
+      "link_score": "0.82201564",
+      "source_file": 1
+    },
+    {
+      "business_name": "DIRECT POLYMERS LLC",
+      "zip": "80216",
+      "address_clean": "3601 E 44 TH AVE",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 87,
+      "link_score": "0.82201564",
+      "source_file": 1
+    }
+  ],
+  "13": [
+    {
+      "business_name": "Navajo Incorporated",
+      "zip": "80216",
+      "address_clean": "5330 Fox St",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 13,
+      "link_score": "0.898832",
+      "source_file": 0
+    },
+    {
+      "business_name": "RED WILLOWS INC.",
+      "zip": "81101",
+      "address_clean": "1110 W AVE",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 13,
+      "link_score": "0.898832",
+      "source_file": 1
+    },
+    {
+      "business_name": "NEW MARKETING CONCEPTS, INC.",
+      "zip": "80216",
+      "address_clean": "5330 FOX ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 13,
+      "link_score": "0.898832",
+      "source_file": 1
+    }
+  ],
+  "62": [
+    {
+      "business_name": "YellowDog Design, Print and Marketing",
+      "zip": "80205",
+      "address_clean": "3881 Steele St Ste 1242",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 62,
+      "link_score": "0.8455561",
+      "source_file": 0
+    },
+    {
+      "business_name": "VENDOLA PLUMBING & HEATING, INC",
+      "zip": "81101",
+      "address_clean": "185 BROADWAY AVE",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 62,
+      "link_score": "0.8455561",
+      "source_file": 1
+    },
+    {
+      "business_name": "FOCUS 4 DESIGN LLC",
+      "zip": "80205",
+      "address_clean": "3881 STEELE ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 62,
+      "link_score": "0.8455561",
+      "source_file": 1
+    }
+  ],
+  "70": [
+    {
+      "business_name": "Kustomized",
+      "zip": "80226",
+      "address_clean": "7251 W Alaska Dr",
+      "city_clean": "Lakewood",
+      "state_clean": "Colorado",
+      "cluster_id": 70,
+      "link_score": "0.8335863",
+      "source_file": 0
+    },
+    {
+      "business_name": "ALPINE ELECTRIC INC",
+      "zip": "81101",
+      "address_clean": "82 CONEJOS AVE",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 70,
+      "link_score": "0.8335863",
+      "source_file": 1
+    },
+    {
+      "business_name": "DR RICHARD E WINNICK DBA DR. RICHARD E. WINNICK, O.D. &AMP;",
+      "zip": "80226",
+      "address_clean": "7151 W ALASKA DR",
+      "city_clean": "LAKEWOOD",
+      "state_clean": "CO",
+      "cluster_id": 70,
+      "link_score": "0.8335863",
+      "source_file": 1
+    }
+  ],
+  "57": [
+    {
+      "business_name": "Brekhus Tile & Stone",
+      "zip": "80223",
+      "address_clean": "860 S Jason St",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 57,
+      "link_score": "0.85111815",
+      "source_file": 0
+    },
+    {
+      "business_name": "SAN LUIS VALLEY BREWING COMPANY, LLC",
+      "zip": "81101",
+      "address_clean": "631 MAIN ST",
+      "city_clean": "ALAMOSA",
+      "state_clean": "CO",
+      "cluster_id": 57,
+      "link_score": "0.85111815",
+      "source_file": 1
+    },
+    {
+      "business_name": "BREKHUS TILE & STONE INC",
+      "zip": "80223",
+      "address_clean": "860 S JASON ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 57,
+      "link_score": "0.85111815",
+      "source_file": 1
+    }
+  ],
+  "45": [
+    {
+      "business_name": "Copeland Precast, Inc.",
+      "zip": "80223",
+      "address_clean": "904 S Lipan St",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 45,
+      "link_score": "0.8592273",
+      "source_file": 0
+    },
+    {
+      "business_name": "THE ALLENSPARK COMMUNITY CHURCH",
+      "zip": "80510",
+      "address_clean": "16 WASHINGTON ST",
+      "city_clean": "ALLENSPARK",
+      "state_clean": "CO",
+      "cluster_id": 45,
+      "link_score": "0.8592273",
+      "source_file": 1
+    },
+    {
+      "business_name": "COPELAND ENTERPRISES, INC. DBA COPELAND PRECAST, INC.",
+      "zip": "80223",
+      "address_clean": "904 S LIPAN ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 45,
+      "link_score": "0.8592273",
+      "source_file": 1
+    }
+  ],
+  "14": [
+    {
+      "business_name": "ClearView Water - Denver Water Cooler Service Office",
+      "zip": "80206",
+      "address_clean": "1627 Vine St",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 14,
+      "link_score": "0.8970897",
+      "source_file": 0
+    },
+    {
+      "business_name": "CARING HANDS, INC.",
+      "zip": "80510",
+      "address_clean": "105 WAGENER RD",
+      "city_clean": "ALLENSPARK",
+      "state_clean": "CO",
+      "cluster_id": 14,
+      "link_score": "0.8970897",
+      "source_file": 1
+    },
+    {
+      "business_name": "DEFENESTRATE",
+      "zip": "80206",
+      "address_clean": "1627 VINE ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 14,
+      "link_score": "0.8970897",
+      "source_file": 1
+    }
+  ],
+  "1": [
+    {
+      "business_name": "Advanced Cylinders Manufacturing & Repair Inc.",
+      "zip": "80110",
+      "address_clean": "3295 S Zuni St",
+      "city_clean": "Sheridan",
+      "state_clean": "Colorado",
+      "cluster_id": 1,
+      "link_score": "0.93180263",
+      "source_file": 0
+    },
+    {
+      "business_name": "HIGH COUNTRY MECHANICAL SERVICES LLC",
+      "zip": "80420",
+      "address_clean": "PO BOX 279",
+      "city_clean": "ALMA",
+      "state_clean": "CO",
+      "cluster_id": 1,
+      "link_score": "0.93180263",
+      "source_file": 1
+    },
+    {
+      "business_name": "DBS INC.",
+      "zip": "80110",
+      "address_clean": "3195 S ZUNI ST",
+      "city_clean": "ENGLEWOOD",
+      "state_clean": "CO",
+      "cluster_id": 1,
+      "link_score": "0.93180263",
+      "source_file": 1
+    }
+  ],
+  "3": [
+    {
+      "business_name": "SEGRITY LLC",
+      "zip": "80205",
+      "address_clean": "2650 E 40th Ave",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 3,
+      "link_score": "0.9218771",
+      "source_file": 0
+    },
+    {
+      "business_name": "MOUNTAIN QUALITY CONSTRUCTION INC",
+      "zip": "80424",
+      "address_clean": "387 QUARTZVILLE RD",
+      "city_clean": "ALMA",
+      "state_clean": "CO",
+      "cluster_id": 3,
+      "link_score": "0.9218771",
+      "source_file": 1
+    },
+    {
+      "business_name": "SEGRITY LLC",
+      "zip": "80205",
+      "address_clean": "2650 E 40 TH AVE",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 3,
+      "link_score": "0.9218771",
+      "source_file": 1
+    }
+  ],
+  "84": [
+    {
+      "business_name": "Denver Print Company - Banner Printing, Signs and Trade Show Printing",
+      "zip": "80204",
+      "address_clean": "1045 W 8th Ave",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 84,
+      "link_score": "0.8239972",
+      "source_file": 0
+    },
+    {
+      "business_name": "NUMBER WRANGLER INC",
+      "zip": "80420",
+      "address_clean": "PO BOX 102",
+      "city_clean": "ALMA",
+      "state_clean": "CO",
+      "cluster_id": 84,
+      "link_score": "0.8239972",
+      "source_file": 1
+    },
+    {
+      "business_name": "B & R SCREEN GRAPHICS, INC.",
+      "zip": "80204",
+      "address_clean": "1045 W 8 TH AVE",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 84,
+      "link_score": "0.8239972",
+      "source_file": 1
+    }
+  ],
+  "106": [
+    {
+      "business_name": "Foothills Custom Cabinet",
+      "zip": "80002",
+      "address_clean": "6262 W 55th Ave",
+      "city_clean": "Arvada",
+      "state_clean": "Colorado",
+      "cluster_id": 106,
+      "link_score": "0.80839777",
+      "source_file": 0
+    },
+    {
+      "business_name": "THREE RIVERS OUTFITTERS",
+      "zip": "81210",
+      "address_clean": "130 COUNTY RD 742 PO BOX 339",
+      "city_clean": "ALMONT",
+      "state_clean": "CO",
+      "cluster_id": 106,
+      "link_score": "0.80839777",
+      "source_file": 1
+    },
+    {
+      "business_name": "FOOTHILLS CUSTOM CABINET",
+      "zip": "80002",
+      "address_clean": "6262 W 55 TH AVE",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 106,
+      "link_score": "0.80839777",
+      "source_file": 1
+    }
+  ],
+  "69": [
+    {
+      "business_name": "FedEx Office Print & Ship Center",
+      "zip": "80202",
+      "address_clean": "1550 Court Pl",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 69,
+      "link_score": "0.8341283",
+      "source_file": 0
+    },
+    {
+      "business_name": "ROBERTS CORPORATION",
+      "zip": "81210",
+      "address_clean": "PO BOX 399",
+      "city_clean": "ALMONT",
+      "state_clean": "CO",
+      "cluster_id": 69,
+      "link_score": "0.8341283",
+      "source_file": 1
+    },
+    {
+      "business_name": "SOUP 4 HIM LLC",
+      "zip": "80202",
+      "address_clean": "1550 CT PL",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 69,
+      "link_score": "0.8341283",
+      "source_file": 1
+    }
+  ],
+  "91": [
+    {
+      "business_name": "RSG OFFROAD",
+      "zip": "80215",
+      "address_clean": "9680 W Colfax Ave",
+      "city_clean": "Lakewood",
+      "state_clean": "Colorado",
+      "cluster_id": 91,
+      "link_score": "0.8175232",
+      "source_file": 0
+    },
+    {
+      "business_name": "ROARING JUDY MECHANICAL LLC",
+      "zip": "81210",
+      "address_clean": "PO BOX 523",
+      "city_clean": "ALMONT",
+      "state_clean": "CO",
+      "cluster_id": 91,
+      "link_score": "0.8175232",
+      "source_file": 1
+    },
+    {
+      "business_name": "THE REMOTE START GUYS LLC",
+      "zip": "80215",
+      "address_clean": "9680 W COLFAX AVE",
+      "city_clean": "LAKEWOOD",
+      "state_clean": "CO",
+      "cluster_id": 91,
+      "link_score": "0.8175232",
+      "source_file": 1
+    }
+  ],
+  "38": [
+    {
+      "business_name": "The G Wagon",
+      "zip": "80229",
+      "address_clean": "800 E 73rd Ave",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 38,
+      "link_score": "0.8641069",
+      "source_file": 0
+    },
+    {
+      "business_name": "MENTAL HEALTH COUNCELING",
+      "zip": "80721",
+      "address_clean": "55113 CR 26",
+      "city_clean": "AMHERST",
+      "state_clean": "CO",
+      "cluster_id": 38,
+      "link_score": "0.8641069",
+      "source_file": 1
+    },
+    {
+      "business_name": "LIL'S EMBROIDERY & SILKSCREENING, INC.",
+      "zip": "80229",
+      "address_clean": "800 E 73 RD AVE 18",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 38,
+      "link_score": "0.8641069",
+      "source_file": 1
+    }
+  ],
+  "116": [
+    {
+      "business_name": "S & H Products",
+      "zip": "80003",
+      "address_clean": "5891 Nolan St # A",
+      "city_clean": "Arvada",
+      "state_clean": "Colorado",
+      "cluster_id": 116,
+      "link_score": "0.80440795",
+      "source_file": 0
+    },
+    {
+      "business_name": "ET PUMPING SERVICE LLC",
+      "zip": "80801",
+      "address_clean": "34900 COUNTY RD 12",
+      "city_clean": "ANTON",
+      "state_clean": "CO",
+      "cluster_id": 116,
+      "link_score": "0.80440795",
+      "source_file": 1
+    },
+    {
+      "business_name": "INDUSTRIAL COOLANT SYSTEMS LLC",
+      "zip": "80003",
+      "address_clean": "5891 NOLAN ST 2",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 116,
+      "link_score": "0.80440795",
+      "source_file": 1
+    }
+  ],
+  "94": [
+    {
+      "business_name": "Accurate Powder Coating, LLC",
+      "zip": "80003",
+      "address_clean": "5891 Nolan St #2",
+      "city_clean": "Arvada",
+      "state_clean": "Colorado",
+      "cluster_id": 94,
+      "link_score": "0.8160527",
+      "source_file": 0
+    },
+    {
+      "business_name": "TOLTEC GORGE CATERING, INC.",
+      "zip": "81120",
+      "address_clean": "162 PO BOX",
+      "city_clean": "ANTONITO",
+      "state_clean": "CO",
+      "cluster_id": 94,
+      "link_score": "0.8160527",
+      "source_file": 1
+    },
+    {
+      "business_name": "SLYTEK, LLC",
+      "zip": "80003",
+      "address_clean": "5891 NOLAN ST 2",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 94,
+      "link_score": "0.8160527",
+      "source_file": 1
+    }
+  ],
+  "16": [
+    {
+      "business_name": "Garb Inc",
+      "zip": "80223",
+      "address_clean": "730 S Jason St",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 16,
+      "link_score": "0.893352",
+      "source_file": 0
+    },
+    {
+      "business_name": "CONEJOS CLEAN WATER",
+      "zip": "81120",
+      "address_clean": "304 RIV ST",
+      "city_clean": "ANTONITO",
+      "state_clean": "CO",
+      "cluster_id": 16,
+      "link_score": "0.893352",
+      "source_file": 1
+    },
+    {
+      "business_name": "PS OF DENVER, INC.",
+      "zip": "80223",
+      "address_clean": "730 S JASON ST UNIT 18",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 16,
+      "link_score": "0.893352",
+      "source_file": 1
+    }
+  ],
+  "88": [
+    {
+      "business_name": "Knotty Tie Co.",
+      "zip": "80204",
+      "address_clean": "926 W 10th Ave",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 88,
+      "link_score": "0.82111907",
+      "source_file": 0
+    },
+    {
+      "business_name": "CONEJOS ANGLERS LLC",
+      "zip": "81120",
+      "address_clean": "34591 HWY 17",
+      "city_clean": "ANTONITO",
+      "state_clean": "CO",
+      "cluster_id": 88,
+      "link_score": "0.82111907",
+      "source_file": 1
+    },
+    {
+      "business_name": "KNOTTY TIE CO.",
+      "zip": "80204",
+      "address_clean": "926 W 10 TH AVE",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 88,
+      "link_score": "0.82111907",
+      "source_file": 1
+    }
+  ],
+  "27": [
+    {
+      "business_name": "Alyve Medical",
+      "zip": "80246",
+      "address_clean": "600 S Cherry St #115",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 27,
+      "link_score": "0.87163895",
+      "source_file": 0
+    },
+    {
+      "business_name": "ROBINS CONSTRUCTION, LLLP",
+      "zip": "81120",
+      "address_clean": "38767 STATE HWY 17",
+      "city_clean": "ANTONITO",
+      "state_clean": "CO",
+      "cluster_id": 27,
+      "link_score": "0.87163895",
+      "source_file": 1
+    },
+    {
+      "business_name": "COGNITIVE BEHAVIOR THERAPY ASSOCIATES OF DENVER, LLC",
+      "zip": "80246",
+      "address_clean": "600 S CHERRY ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 27,
+      "link_score": "0.87163895",
+      "source_file": 1
+    }
+  ],
+  "34": [
+    {
+      "business_name": "enlightenVue",
+      "zip": "80206",
+      "address_clean": "1111 Race St #6A",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 34,
+      "link_score": "0.8662253",
+      "source_file": 0
+    },
+    {
+      "business_name": "BONNY COMPANY INC",
+      "zip": "80804",
+      "address_clean": "221 PNE ST",
+      "city_clean": "ARRIBA",
+      "state_clean": "CO",
+      "cluster_id": 34,
+      "link_score": "0.8662253",
+      "source_file": 1
+    },
+    {
+      "business_name": "LO GROUP",
+      "zip": "80206",
+      "address_clean": "1111 RACE ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 34,
+      "link_score": "0.8662253",
+      "source_file": 1
+    }
+  ],
+  "52": [
+    {
+      "business_name": "Cinegration LLC",
+      "zip": "80002",
+      "address_clean": "6425 W 52nd Ave #1",
+      "city_clean": "Arvada",
+      "state_clean": "Colorado",
+      "cluster_id": 52,
+      "link_score": "0.85367405",
+      "source_file": 0
+    },
+    {
+      "business_name": "DAWN INDUSTRIES  INC.",
+      "zip": "80002",
+      "address_clean": "5055 58 TH AVE",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 52,
+      "link_score": "0.85367405",
+      "source_file": 1
+    },
+    {
+      "business_name": "CINEGRATION LLC",
+      "zip": "80002",
+      "address_clean": "6425 W 52 ND AVE STE 1",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 52,
+      "link_score": "0.85367405",
+      "source_file": 1
+    }
+  ],
+  "53": [
+    {
+      "business_name": "R & M Sales Co Inc",
+      "zip": "80219",
+      "address_clean": "2737 W 2nd Ave",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 53,
+      "link_score": "0.8533467",
+      "source_file": 0
+    },
+    {
+      "business_name": "ELLICE K GOLDBERG, D.O., P.C.",
+      "zip": "80004",
+      "address_clean": "12001 W 63 RD PL",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 53,
+      "link_score": "0.8533467",
+      "source_file": 1
+    },
+    {
+      "business_name": "R & M SALES CO INC",
+      "zip": "80219",
+      "address_clean": "2737 W 2 ND AVE",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 53,
+      "link_score": "0.8533467",
+      "source_file": 1
+    }
+  ],
+  "4": [
+    {
+      "business_name": "Hunter Company - American Made Leather Holsters & Accessories",
+      "zip": "80030",
+      "address_clean": "3300 W 71st Ave",
+      "city_clean": "Westminster",
+      "state_clean": "Colorado",
+      "cluster_id": 4,
+      "link_score": "0.9188736",
+      "source_file": 0
+    },
+    {
+      "business_name": "BREAD WINNERS CAFE & CATERING",
+      "zip": "80002",
+      "address_clean": "7311 GRANDVIEW AVE",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 4,
+      "link_score": "0.9188736",
+      "source_file": 1
+    },
+    {
+      "business_name": "HUNTCO LLC",
+      "zip": "80030",
+      "address_clean": "3300 W 71 ST AVE",
+      "city_clean": "WESTMINSTER",
+      "state_clean": "CO",
+      "cluster_id": 4,
+      "link_score": "0.9188736",
+      "source_file": 1
+    }
+  ],
+  "19": [
+    {
+      "business_name": "Fixture Lab",
+      "zip": "80223",
+      "address_clean": "1550 S Acoma St #100",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 19,
+      "link_score": "0.8804425",
+      "source_file": 0
+    },
+    {
+      "business_name": "BFP ENTERPRISES LLC",
+      "zip": "80002",
+      "address_clean": "7425 W 52 ND AVE",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 19,
+      "link_score": "0.8804425",
+      "source_file": 1
+    },
+    {
+      "business_name": "BLUE DOG DESIGNS LLC",
+      "zip": "80223",
+      "address_clean": "1550 S ACOMA ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 19,
+      "link_score": "0.8804425",
+      "source_file": 1
+    }
+  ],
+  "81": [
+    {
+      "business_name": "5 Star Energy",
+      "zip": "80214",
+      "address_clean": "1125 Depew Ct",
+      "city_clean": "Lakewood",
+      "state_clean": "Colorado",
+      "cluster_id": 81,
+      "link_score": "0.8260743",
+      "source_file": 0
+    },
+    {
+      "business_name": "AKSAN IA FC, LLC",
+      "zip": "80002",
+      "address_clean": "6850 W 52 ND AVE 200",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 81,
+      "link_score": "0.8260743",
+      "source_file": 1
+    },
+    {
+      "business_name": "MILE HIGH LANDSCAPING LLC",
+      "zip": "80214",
+      "address_clean": "1125 DEPEW CT",
+      "city_clean": "LAKEWOOD",
+      "state_clean": "CO",
+      "cluster_id": 81,
+      "link_score": "0.8260743",
+      "source_file": 1
+    }
+  ],
+  "26": [
+    {
+      "business_name": "Rocket Seals, Inc.",
+      "zip": "80223",
+      "address_clean": "1297 S Lipan St",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 26,
+      "link_score": "0.87264234",
+      "source_file": 0
+    },
+    {
+      "business_name": "ROCKY MOUNTAIN CONCRETE CONSTRUCTION, INC.",
+      "zip": "80005",
+      "address_clean": "11963 W 83 RD LN",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 26,
+      "link_score": "0.87264234",
+      "source_file": 1
+    },
+    {
+      "business_name": "ROCKET SEALS, INC.",
+      "zip": "80223",
+      "address_clean": "1297 S LIPAN ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 26,
+      "link_score": "0.87264234",
+      "source_file": 1
+    }
+  ],
+  "75": [
+    {
+      "business_name": "Simple Interlock",
+      "zip": "80214",
+      "address_clean": "5208 W 26th Ave",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 75,
+      "link_score": "0.83001834",
+      "source_file": 0
+    },
+    {
+      "business_name": "Paramount Press",
+      "zip": "80002",
+      "address_clean": "6440 W 56th Pl",
+      "city_clean": "Arvada",
+      "state_clean": "Colorado",
+      "cluster_id": 75,
+      "link_score": "0.83001834",
+      "source_file": 0
+    },
+    {
+      "business_name": "N&E HOLDINGS, INC",
+      "zip": "80002",
+      "address_clean": "6440 W 56 TH PL",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 75,
+      "link_score": "0.83001834",
+      "source_file": 1
+    },
+    {
+      "business_name": "ULLRICH INSURANCE AGENCY",
+      "zip": "80002",
+      "address_clean": "5310 WARD RD STE G 3",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 75,
+      "link_score": "0.83001834",
+      "source_file": 1
+    }
+  ],
+  "63": [
+    {
+      "business_name": "DEKOR Lighting",
+      "zip": "80223",
+      "address_clean": "2655 S Santa Fe Dr #4a",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 63,
+      "link_score": "0.84519297",
+      "source_file": 0
+    },
+    {
+      "business_name": "SO RADISH ARVADA, LLC",
+      "zip": "80002",
+      "address_clean": "5711 OLDE WADSWORTH BLVD",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 63,
+      "link_score": "0.84519297",
+      "source_file": 1
+    },
+    {
+      "business_name": "UNITED SPORTING GOODS WHOLESALE INC.",
+      "zip": "80223",
+      "address_clean": "2645 S SANTA FE DR",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 63,
+      "link_score": "0.84519297",
+      "source_file": 1
+    }
+  ],
+  "0": [
+    {
+      "business_name": "Pyramid Promotions INC. (DBA) AAA Wholesale Services",
+      "zip": "80216",
+      "address_clean": "4150 Fox St # A5",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 0,
+      "link_score": "0.9464162",
+      "source_file": 0
+    },
+    {
+      "business_name": "DETAILED HOME INSPECTIONS INC",
+      "zip": "80005",
+      "address_clean": "8414 PARFET CT",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 0,
+      "link_score": "0.9464162",
+      "source_file": 1
+    },
+    {
+      "business_name": "BRIAN HUNTER",
+      "zip": "80216",
+      "address_clean": "4150 FOX ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 0,
+      "link_score": "0.9464162",
+      "source_file": 1
+    }
+  ],
+  "96": [
+    {
+      "business_name": "Sherwin-Williams Commercial Paint Store",
+      "zip": "80204",
+      "address_clean": "543 Santa Fe Dr A",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 96,
+      "link_score": "0.81473863",
+      "source_file": 0
+    },
+    {
+      "business_name": "STANDARD MECHANICAL INC.",
+      "zip": "80005",
+      "address_clean": "7339 CARR ST",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 96,
+      "link_score": "0.81473863",
+      "source_file": 1
+    },
+    {
+      "business_name": "INFINICEPT, INC.",
+      "zip": "80204",
+      "address_clean": "543 SANTA FE DR",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 96,
+      "link_score": "0.81473863",
+      "source_file": 1
+    }
+  ],
+  "47": [
+    {
+      "business_name": "Renaissance Leather",
+      "zip": "80223",
+      "address_clean": "1474 S Acoma St",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 47,
+      "link_score": "0.85812056",
+      "source_file": 0
+    },
+    {
+      "business_name": "MEDIUM VOLTAGE ACCESSORY SUPPLY INC.",
+      "zip": "80002",
+      "address_clean": "5758 LAMAR ST",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 47,
+      "link_score": "0.85812056",
+      "source_file": 1
+    },
+    {
+      "business_name": "LEMON POWERS INC DBA ABACUS CABINETRY",
+      "zip": "80223",
+      "address_clean": "1474 S ACOMA ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 47,
+      "link_score": "0.85812056",
+      "source_file": 1
+    }
+  ],
+  "67": [
+    {
+      "business_name": "Seattle Fish Co.",
+      "zip": "80216",
+      "address_clean": "6211 E 42nd Ave",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 67,
+      "link_score": "0.8394786",
+      "source_file": 0
+    },
+    {
+      "business_name": "T2 CONSTRUCTION, INC.",
+      "zip": "80003",
+      "address_clean": "5435 W 59 TH AVE",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 67,
+      "link_score": "0.8394786",
+      "source_file": 1
+    },
+    {
+      "business_name": "SEATTLE FISH COMPANY",
+      "zip": "80216",
+      "address_clean": "6211 E 42 ND AVE",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 67,
+      "link_score": "0.8394786",
+      "source_file": 1
+    }
+  ],
+  "46": [
+    {
+      "business_name": "Smart Start Ignition Interlock",
+      "zip": "80214",
+      "address_clean": "5208 W 26th Ave",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 46,
+      "link_score": "0.85821545",
+      "source_file": 0
+    },
+    {
+      "business_name": "WEST BROTHERS CONSTRUCTION, INC.",
+      "zip": "80002",
+      "address_clean": "5400 WARD RD",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 46,
+      "link_score": "0.85821545",
+      "source_file": 1
+    },
+    {
+      "business_name": "KULA CORP",
+      "zip": "80214",
+      "address_clean": "5208 W 26 TH AVE",
+      "city_clean": "EDGEWATER",
+      "state_clean": "CO",
+      "cluster_id": 46,
+      "link_score": "0.85821545",
+      "source_file": 1
+    }
+  ],
+  "61": [
+    {
+      "business_name": "Envision Automation",
+      "zip": "80206",
+      "address_clean": "44 Cook St #100",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 61,
+      "link_score": "0.8463312",
+      "source_file": 0
+    },
+    {
+      "business_name": "BURNS &AMP; BURNS VENTURES INC",
+      "zip": "80004",
+      "address_clean": "12367 64 TH AVE W",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 61,
+      "link_score": "0.8463312",
+      "source_file": 1
+    },
+    {
+      "business_name": "CARDIOVASCULAR INNOVATIONS FOUNDATION",
+      "zip": "80206",
+      "address_clean": "44 COOK ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 61,
+      "link_score": "0.8463312",
+      "source_file": 1
+    }
+  ],
+  "104": [
+    {
+      "business_name": "ABC Custom Iron & Locksmith, Inc",
+      "zip": "80204",
+      "address_clean": "550 Santa Fe Dr",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 104,
+      "link_score": "0.8111116",
+      "source_file": 0
+    },
+    {
+      "business_name": "OPPMINER, LLC",
+      "zip": "80006",
+      "address_clean": "PO BOX 745242",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 104,
+      "link_score": "0.8111116",
+      "source_file": 1
+    },
+    {
+      "business_name": "ABC CUSTOM IRON & LOCKSMITH, INC.",
+      "zip": "80204",
+      "address_clean": "550 SANTA FE DR",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 104,
+      "link_score": "0.8111116",
+      "source_file": 1
+    }
+  ],
+  "54": [
+    {
+      "business_name": "Marcone Supply - Wholesale Only",
+      "zip": "80216",
+      "address_clean": "5100 Fox St # A",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 54,
+      "link_score": "0.85309625",
+      "source_file": 0
+    },
+    {
+      "business_name": "RGCS LLC",
+      "zip": "80002",
+      "address_clean": "7501 GRANDVIEW AVE",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 54,
+      "link_score": "0.85309625",
+      "source_file": 1
+    },
+    {
+      "business_name": "PEAK SALES GROUP LLC",
+      "zip": "80216",
+      "address_clean": "5160 FOX ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 54,
+      "link_score": "0.85309625",
+      "source_file": 1
+    }
+  ],
+  "103": [
+    {
+      "business_name": "Peak Stone Solutions LLC",
+      "zip": "80002",
+      "address_clean": "6390 W 56th Ave",
+      "city_clean": "Arvada",
+      "state_clean": "Colorado",
+      "cluster_id": 103,
+      "link_score": "0.8111645",
+      "source_file": 0
+    },
+    {
+      "business_name": "ARI CORP",
+      "zip": "80007",
+      "address_clean": "7762 QUAKER ST",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 103,
+      "link_score": "0.8111645",
+      "source_file": 1
+    },
+    {
+      "business_name": "PEAK PLASTERING, LLC",
+      "zip": "80002",
+      "address_clean": "6390 W 56 TH AVE",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 103,
+      "link_score": "0.8111645",
+      "source_file": 1
+    }
+  ],
+  "24": [
+    {
+      "business_name": "Da Vinci Designs",
+      "zip": "80223",
+      "address_clean": "1264 S Jason St",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 24,
+      "link_score": "0.8746134",
+      "source_file": 0
+    },
+    {
+      "business_name": "GABES BURRITO GRILL AND FRESH BLENDERS LLC",
+      "zip": "80005",
+      "address_clean": "13149 W 88 TH AVE",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 24,
+      "link_score": "0.8746134",
+      "source_file": 1
+    },
+    {
+      "business_name": "DA VINCI DESIGNS, INC.",
+      "zip": "80223",
+      "address_clean": "1264 S JASON ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 24,
+      "link_score": "0.8746134",
+      "source_file": 1
+    }
+  ],
+  "119": [
+    {
+      "business_name": "VIST Labs Colorado, LLC",
+      "zip": "80209",
+      "address_clean": "155 S Madison St",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 119,
+      "link_score": "0.80332834",
+      "source_file": 0
+    },
+    {
+      "business_name": "STWC HOLDINGS, INC",
+      "zip": "80005",
+      "address_clean": "8468 LEWIS CT",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 119,
+      "link_score": "0.80332834",
+      "source_file": 1
+    },
+    {
+      "business_name": "PARKHILL GOLF APARTMENTS LLC",
+      "zip": "80209",
+      "address_clean": "155 S MADISON ST STE 326",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 119,
+      "link_score": "0.80332834",
+      "source_file": 1
+    }
+  ],
+  "117": [
+    {
+      "business_name": "Paramount Audio Video Corp.",
+      "zip": "80219",
+      "address_clean": "2505 W 2nd Ave #10",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 117,
+      "link_score": "0.8037195",
+      "source_file": 0
+    },
+    {
+      "business_name": "SCOTT FARLEY ENTERPRISES, INC.",
+      "zip": "80002",
+      "address_clean": "6295 55 TH AVE W",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 117,
+      "link_score": "0.8037195",
+      "source_file": 1
+    },
+    {
+      "business_name": "PARAMOUNT AUDIO VIDEO CORPORATION",
+      "zip": "80219",
+      "address_clean": "2505 W 2 ND AVE UNIT 10",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 117,
+      "link_score": "0.8037195",
+      "source_file": 1
+    }
+  ],
+  "92": [
+    {
+      "business_name": "Spinelli's Market",
+      "zip": "80207",
+      "address_clean": "4621 E 23rd Ave",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 92,
+      "link_score": "0.81674606",
+      "source_file": 0
+    },
+    {
+      "business_name": "ESSENTIAL FINANCIAL MANAGEMENT LLC",
+      "zip": "80003",
+      "address_clean": "6777 WADSWORTH BLVD",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 92,
+      "link_score": "0.81674606",
+      "source_file": 1
+    },
+    {
+      "business_name": "DENVER INDEPENDANT GROCERS LLC",
+      "zip": "80207",
+      "address_clean": "4621 E 23 RD AVE",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 92,
+      "link_score": "0.81674606",
+      "source_file": 1
+    }
+  ],
+  "5": [
+    {
+      "business_name": "TH!S",
+      "zip": "80214",
+      "address_clean": "7055 W 16th Ave",
+      "city_clean": "Lakewood",
+      "state_clean": "Colorado",
+      "cluster_id": 5,
+      "link_score": "0.91075015",
+      "source_file": 0
+    },
+    {
+      "business_name": "CASA DE ADULT DAY CARE INC",
+      "zip": "80002",
+      "address_clean": "12500 W 58 TH AVE STE 103",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 5,
+      "link_score": "0.91075015",
+      "source_file": 1
+    },
+    {
+      "business_name": "THIS",
+      "zip": "80214",
+      "address_clean": "7055 W 16 TH AVE",
+      "city_clean": "LAKEWOOD",
+      "state_clean": "CO",
+      "cluster_id": 5,
+      "link_score": "0.91075015",
+      "source_file": 1
+    }
+  ],
+  "39": [
+    {
+      "business_name": "Technicraft Manufacturing Inc",
+      "zip": "80223",
+      "address_clean": "901 S Jason St Unit A",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 39,
+      "link_score": "0.86386937",
+      "source_file": 0
+    },
+    {
+      "business_name": "COMMUNICATION DESIGN INTEGRATION INC",
+      "zip": "80002",
+      "address_clean": "6425 W 52 ND AVE",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 39,
+      "link_score": "0.86386937",
+      "source_file": 1
+    },
+    {
+      "business_name": "TECHNICRAFT MANUFACTURING INC",
+      "zip": "80223",
+      "address_clean": "901 S JASON ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 39,
+      "link_score": "0.86386937",
+      "source_file": 1
+    }
+  ],
+  "110": [
+    {
+      "business_name": "Blanchard Family Wines",
+      "zip": "80202",
+      "address_clean": "1855 Blake St #120",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 110,
+      "link_score": "0.80593044",
+      "source_file": 0
+    },
+    {
+      "business_name": "NICHOLS GLASS SERVICE LLC",
+      "zip": "80004",
+      "address_clean": "9602 RALSTON RD",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 110,
+      "link_score": "0.80593044",
+      "source_file": 1
+    },
+    {
+      "business_name": "MAC ACQUISITION LLC",
+      "zip": "80202",
+      "address_clean": "1855 BLAKE ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 110,
+      "link_score": "0.80593044",
+      "source_file": 1
+    }
+  ],
+  "33": [
+    {
+      "business_name": "Oriental Rug and Carpet Clinic",
+      "zip": "80216",
+      "address_clean": "5090 Acoma St suite b",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 33,
+      "link_score": "0.8675951",
+      "source_file": 0
+    },
+    {
+      "business_name": "TOM HANSEN INC",
+      "zip": "80004",
+      "address_clean": "8386 W 69 TH DR",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 33,
+      "link_score": "0.8675951",
+      "source_file": 1
+    },
+    {
+      "business_name": "ORIENTAL RUG AND CARPET CLINIC",
+      "zip": "80216",
+      "address_clean": "5090 ACOMA ST",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 33,
+      "link_score": "0.8675951",
+      "source_file": 1
+    }
+  ],
+  "18": [
+    {
+      "business_name": "Liquidyne Process Technologies, Inc.",
+      "zip": "80033",
+      "address_clean": "11925 W Interstate 70 Frontage Rd N #700",
+      "city_clean": "Wheat Ridge",
+      "state_clean": "Colorado",
+      "cluster_id": 18,
+      "link_score": "0.88660544",
+      "source_file": 0
+    },
+    {
+      "business_name": "LEAN SIX SIGMA EXPERTS CORP",
+      "zip": "80005",
+      "address_clean": "98 WADSWORTH BLVD 127 234",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 18,
+      "link_score": "0.88660544",
+      "source_file": 1
+    },
+    {
+      "business_name": "LIQUIDYNE PROCESS TECHNOLOGIES, INC.",
+      "zip": "80033",
+      "address_clean": "11925 I RD N",
+      "city_clean": "WHEAT RIDGE",
+      "state_clean": "CO",
+      "cluster_id": 18,
+      "link_score": "0.88660544",
+      "source_file": 1
+    }
+  ],
+  "44": [
+    {
+      "business_name": "Colorado Saddlery",
+      "zip": "80030",
+      "address_clean": "3300 W 71st Ave",
+      "city_clean": "Westminster",
+      "state_clean": "Colorado",
+      "cluster_id": 44,
+      "link_score": "0.86037374",
+      "source_file": 0
+    },
+    {
+      "business_name": "NO LIMIT LOGISTICS LLC",
+      "zip": "80002",
+      "address_clean": "7905 RALSTON RD",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 44,
+      "link_score": "0.86037374",
+      "source_file": 1
+    },
+    {
+      "business_name": "COLORADO SADDLERY LLC",
+      "zip": "80030",
+      "address_clean": "3300 W 71 ST AVE",
+      "city_clean": "WESTMINSTER",
+      "state_clean": "CO",
+      "cluster_id": 44,
+      "link_score": "0.86037374",
+      "source_file": 1
+    }
+  ],
+  "50": [
+    {
+      "business_name": "Genghis Kern Letterpress & Design",
+      "zip": "80211",
+      "address_clean": "2626 W 32nd Ave",
+      "city_clean": "Denver",
+      "state_clean": "Colorado",
+      "cluster_id": 50,
+      "link_score": "0.8570959",
+      "source_file": 0
+    },
+    {
+      "business_name": "BENDING WRENCHES AUTOMOTIVE INC",
+      "zip": "80005",
+      "address_clean": "8130 W 80 TH AVE",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 50,
+      "link_score": "0.8570959",
+      "source_file": 1
+    },
+    {
+      "business_name": "GENGHIS KERN INC",
+      "zip": "80211",
+      "address_clean": "2626 W 32 ND AVE",
+      "city_clean": "DENVER",
+      "state_clean": "CO",
+      "cluster_id": 50,
+      "link_score": "0.8570959",
+      "source_file": 1
+    }
+  ],
+  "90": [
+    {
+      "business_name": "A One Stop Print Shop",
+      "zip": "80002",
+      "address_clean": "6260 W 52nd Ave # 121",
+      "city_clean": "Arvada",
+      "state_clean": "Colorado",
+      "cluster_id": 90,
+      "link_score": "0.81872946",
+      "source_file": 0
+    },
+    {
+      "business_name": "MALARA GARDENS, INC.",
+      "zip": "80004",
+      "address_clean": "7190 KIPLING ST",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 90,
+      "link_score": "0.81872946",
+      "source_file": 1
+    },
+    {
+      "business_name": "A ONE STOP PRINT SHOP INC",
+      "zip": "80002",
+      "address_clean": "6260 W 52 ND AVE STE 121",
+      "city_clean": "ARVADA",
+      "state_clean": "CO",
+      "cluster_id": 90,
+      "link_score": "0.81872946",
+      "source_file": 1
+    }
+  ]
+}
