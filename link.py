@@ -3,6 +3,10 @@ import dedupe
 import pandas as pd
 import json
 import logging
+import csv
+from csv import writer
+
+from pandas.compat import os
 
 logging.basicConfig(
     level=logging.INFO,
@@ -67,7 +71,7 @@ def combine_data(data_1, data_2):
 if __name__ == "__main__":
     output_file = "data/output/data_matching_output.csv"
     settings_file = "data/output/data_matching_learned_settings"
-    training_file = "data/output/data_matching_training.json"
+    training_file = "training_file.json"
 
     # reading data
     loans_data_file_name = "data/input/ppp_loans_state_CO.csv"
@@ -101,17 +105,77 @@ if __name__ == "__main__":
 
     combined_data = combine_data(data_1, data_2)
     logging.info("Initializing Dedupe for record linkage.")
+
     linker = dedupe.RecordLink(fields_for_matching)
+    
 
-    logging.info("Starting active learning sampling.")
-    linker.prepare_training(data_1, data_2, sample_size=5000)
+    if os.path.exists(training_file):
+        print("reading labeled examples from ", training_file)
+        with open(training_file) as tf:
+            linker.prepare_training(data_1, data_2, tf, sample_size=15000)
+    else:
+        linker.prepare_training(data_1, data_2, sample_size=5000)
 
+    print("starting active labelling...")
     dedupe.console_label(linker)
-    with open(settings_file,"wb") as sf:
-        linker.write_settings(sf)
-
-
     linker.train()
     with open(training_file, "w") as tf:
         linker.write_training(tf)
 
+    with open(settings_file, "wb") as sf:
+        linker.write_settings(sf)
+
+    print("clustering...")
+    linked_records = linker.join(data_1, data_2, 0.8)
+
+    print("# duplicate sets", len(linked_records))
+    # ## Writing Results
+
+    # Write our original data back out to a CSV with a new column called
+    # 'Cluster ID' which indicates which records refer to each other.
+
+    cluster_membership = {}
+    for cluster_id, (cluster, score) in enumerate(linked_records):
+        for record_id in cluster:
+            cluster_membership[record_id] = {
+                "cluster_id": cluster_id,
+                "link_score": score,
+            }
+    left_file = places_data_file_name
+    right_file = loans_data_file_name
+    to_write_field_names = [
+        "business_name",
+        "zip",
+        "address_clean",
+        "city_clean",
+        "state_clean",
+    ]
+    with open(output_file, mode="w", newline="", encoding="utf-8") as output_csv:
+        fieldnames = to_write_field_names + ["cluster_id", "link_score", "source_file"]
+        writer = csv.DictWriter(output_csv, fieldnames=fieldnames)
+
+        writer.writeheader()
+
+        for record_id, record_data in data_1.items():
+            output_row = {
+                field: record_data.get(field, "") for field in to_write_field_names
+            }
+
+            if record_id in cluster_membership:
+                output_row.update(cluster_membership[record_id])
+                output_row.update({"source_file": 0})
+            else:
+                continue
+            writer.writerow(output_row)
+
+        for record_id, record_data in data_2.items():
+            output_row = {
+                field: record_data.get(field, "") for field in to_write_field_names
+            }
+
+            if record_id in cluster_membership:
+                output_row.update(cluster_membership[record_id])
+                output_row.update({"source_file": 1})
+            else:
+                continue
+            writer.writerow(output_row)
