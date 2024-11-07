@@ -5888,3 +5888,89 @@
 2024-11-07 14:36:41,347 - INFO - 80000, 5.6561372 seconds
 2024-11-07 14:36:42,060 - INFO - 90000, 6.3690432 seconds
 2024-11-07 14:36:42,753 - INFO - 100000, 7.0617722 seconds
+2024-11-07 14:38:51,700 - INFO - Initializing Dedupe for record linkage.
+2024-11-07 14:38:51,702 - INFO - Predicate set:
+2024-11-07 14:38:51,703 - INFO - (SimplePredicate: (firstIntegerPredicate, address_clean), SimplePredicate: (metaphoneToken, business_name))
+2024-11-07 14:38:51,703 - INFO - SimplePredicate: (doubleMetaphone, address_clean)
+2024-11-07 14:38:51,703 - INFO - (SimplePredicate: (doubleMetaphone, business_name), SimplePredicate: (sortedAcronym, business_name))
+2024-11-07 14:38:51,703 - INFO - (SimplePredicate: (sortedAcronym, address_clean), SimplePredicate: (nearIntegersPredicate, address_clean))
+2024-11-07 14:39:15,282 - INFO - Initializing Dedupe for record linkage.
+2024-11-07 14:39:15,285 - INFO - Predicate set:
+2024-11-07 14:39:15,285 - INFO - (SimplePredicate: (firstIntegerPredicate, address_clean), SimplePredicate: (metaphoneToken, business_name))
+2024-11-07 14:39:15,285 - INFO - SimplePredicate: (doubleMetaphone, address_clean)
+2024-11-07 14:39:15,285 - INFO - (SimplePredicate: (doubleMetaphone, business_name), SimplePredicate: (sortedAcronym, business_name))
+2024-11-07 14:39:15,285 - INFO - (SimplePredicate: (sortedAcronym, address_clean), SimplePredicate: (nearIntegersPredicate, address_clean))
+2024-11-07 14:39:16,041 - INFO - 10000, 0.6900742 seconds
+2024-11-07 14:39:16,738 - INFO - 20000, 1.3872072 seconds
+2024-11-07 14:39:17,435 - INFO - 30000, 2.0842162 seconds
+2024-11-07 14:39:18,148 - INFO - 40000, 2.7970522 seconds
+2024-11-07 14:39:18,841 - INFO - 50000, 3.4899822 seconds
+2024-11-07 14:39:19,545 - INFO - 60000, 4.1943852 seconds
+2024-11-07 14:39:20,264 - INFO - 70000, 4.9130632 seconds
+2024-11-07 14:39:20,973 - INFO - 80000, 5.6220702 seconds
+2024-11-07 14:39:21,668 - INFO - 90000, 6.3174522 seconds
+2024-11-07 14:39:22,377 - INFO - 100000, 7.0266602 seconds
+2024-11-07 14:41:40,056 - INFO - Initializing Dedupe for record linkage.
+2024-11-07 14:41:40,061 - INFO - Predicate set:
+2024-11-07 14:41:40,062 - INFO - (SimplePredicate: (firstIntegerPredicate, address_clean), SimplePredicate: (metaphoneToken, business_name))
+2024-11-07 14:41:40,062 - INFO - SimplePredicate: (doubleMetaphone, address_clean)
+2024-11-07 14:41:40,062 - INFO - (SimplePredicate: (doubleMetaphone, business_name), SimplePredicate: (sortedAcronym, business_name))
+2024-11-07 14:41:40,062 - INFO - (SimplePredicate: (sortedAcronym, address_clean), SimplePredicate: (nearIntegersPredicate, address_clean))
+2024-11-07 14:41:40,838 - INFO - 10000, 0.7246202 seconds
+2024-11-07 14:41:41,575 - INFO - 20000, 1.4610442 seconds
+2024-11-07 14:41:42,339 - INFO - 30000, 2.2249042 seconds
+2024-11-07 14:41:43,065 - INFO - 40000, 2.9515902 seconds
+2024-11-07 14:41:43,775 - INFO - 50000, 3.6612202 seconds
+2024-11-07 14:41:44,496 - INFO - 60000, 4.3824372 seconds
+2024-11-07 14:41:45,219 - INFO - 70000, 5.1052312 seconds
+2024-11-07 14:41:45,963 - INFO - 80000, 5.8489402 seconds
+2024-11-07 14:41:46,681 - INFO - 90000, 6.5668092 seconds
+2024-11-07 14:41:47,397 - INFO - 100000, 7.2836592 seconds
+2024-11-07 14:42:43,818 - INFO - Initializing Dedupe for record linkage.
+2024-11-07 14:42:43,820 - INFO - Predicate set:
+2024-11-07 14:42:43,821 - INFO - (SimplePredicate: (firstIntegerPredicate, address_clean), SimplePredicate: (metaphoneToken, business_name))
+2024-11-07 14:42:43,821 - INFO - SimplePredicate: (doubleMetaphone, address_clean)
+2024-11-07 14:42:43,821 - INFO - (SimplePredicate: (doubleMetaphone, business_name), SimplePredicate: (sortedAcronym, business_name))
+2024-11-07 14:42:43,821 - INFO - (SimplePredicate: (sortedAcronym, address_clean), SimplePredicate: (nearIntegersPredicate, address_clean))
+2024-11-07 14:42:44,629 - INFO - 10000, 0.7518012 seconds
+2024-11-07 14:42:45,370 - INFO - 20000, 1.4920412 seconds
+2024-11-07 14:42:46,106 - INFO - 30000, 2.2288432 seconds
+2024-11-07 14:42:46,848 - INFO - 40000, 2.9708752 seconds
+2024-11-07 14:42:47,675 - INFO - 50000, 3.7971972 seconds
+2024-11-07 14:42:48,527 - INFO - 60000, 4.6489052 seconds
+2024-11-07 14:42:49,255 - INFO - 70000, 5.3773092 seconds
+2024-11-07 14:42:50,024 - INFO - 80000, 6.1468682 seconds
+2024-11-07 14:42:50,759 - INFO - 90000, 6.8811802 seconds
+2024-11-07 14:42:51,519 - INFO - 100000, 7.6418002 seconds
+2024-11-07 14:45:40,216 - INFO - Initializing Dedupe for record linkage.
+2024-11-07 14:45:40,220 - INFO - Predicate set:
+2024-11-07 14:45:40,221 - INFO - (SimplePredicate: (firstIntegerPredicate, address_clean), SimplePredicate: (metaphoneToken, business_name))
+2024-11-07 14:45:40,221 - INFO - SimplePredicate: (doubleMetaphone, address_clean)
+2024-11-07 14:45:40,221 - INFO - (SimplePredicate: (doubleMetaphone, business_name), SimplePredicate: (sortedAcronym, business_name))
+2024-11-07 14:45:40,221 - INFO - (SimplePredicate: (sortedAcronym, address_clean), SimplePredicate: (nearIntegersPredicate, address_clean))
+2024-11-07 14:45:41,021 - INFO - 10000, 0.7418252 seconds
+2024-11-07 14:45:41,758 - INFO - 20000, 1.4790542 seconds
+2024-11-07 14:45:42,545 - INFO - 30000, 2.2652252 seconds
+2024-11-07 14:45:43,332 - INFO - 40000, 3.0524492 seconds
+2024-11-07 14:45:44,123 - INFO - 50000, 3.8440372 seconds
+2024-11-07 14:45:44,864 - INFO - 60000, 4.5848012 seconds
+2024-11-07 14:45:45,593 - INFO - 70000, 5.3137162 seconds
+2024-11-07 14:45:46,325 - INFO - 80000, 6.0454792 seconds
+2024-11-07 14:45:47,039 - INFO - 90000, 6.7597692 seconds
+2024-11-07 14:45:47,748 - INFO - 100000, 7.4688352 seconds
+2024-11-07 14:46:20,721 - INFO - Initializing Dedupe for record linkage.
+2024-11-07 14:46:20,725 - INFO - Predicate set:
+2024-11-07 14:46:20,726 - INFO - (SimplePredicate: (firstIntegerPredicate, address_clean), SimplePredicate: (metaphoneToken, business_name))
+2024-11-07 14:46:20,726 - INFO - SimplePredicate: (doubleMetaphone, address_clean)
+2024-11-07 14:46:20,726 - INFO - (SimplePredicate: (doubleMetaphone, business_name), SimplePredicate: (sortedAcronym, business_name))
+2024-11-07 14:46:20,726 - INFO - (SimplePredicate: (sortedAcronym, address_clean), SimplePredicate: (nearIntegersPredicate, address_clean))
+2024-11-07 14:46:21,521 - INFO - 10000, 0.7329362 seconds
+2024-11-07 14:46:22,246 - INFO - 20000, 1.4584922 seconds
+2024-11-07 14:46:22,958 - INFO - 30000, 2.1706442 seconds
+2024-11-07 14:46:23,720 - INFO - 40000, 2.9323302 seconds
+2024-11-07 14:46:24,492 - INFO - 50000, 3.7039872 seconds
+2024-11-07 14:46:25,304 - INFO - 60000, 4.5160802 seconds
+2024-11-07 14:46:26,082 - INFO - 70000, 5.2941002 seconds
+2024-11-07 14:46:26,864 - INFO - 80000, 6.0765662 seconds
+2024-11-07 14:46:27,671 - INFO - 90000, 6.8833022 seconds
+2024-11-07 14:46:28,467 - INFO - 100000, 7.6793542 seconds

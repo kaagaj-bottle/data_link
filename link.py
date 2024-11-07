@@ -194,5 +194,5 @@ if __name__ == "__main__":
 
             writer.writerow(output_row)
 
-            with open("matching_rows.json", "w") as mr:
-                mr.write(json.dumps(matching_rows, indent=2))
+        with open("data/output/matching_rows.json", "w") as mr:
+            mr.write(json.dumps(matching_rows, indent=2))
