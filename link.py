@@ -106,27 +106,32 @@ if __name__ == "__main__":
     combined_data = combine_data(data_1, data_2)
     logging.info("Initializing Dedupe for record linkage.")
 
-    linker = dedupe.RecordLink(fields_for_matching)
-    
-
-    if os.path.exists(training_file):
-        print("reading labeled examples from ", training_file)
-        with open(training_file) as tf:
-            linker.prepare_training(data_1, data_2, tf, sample_size=15000)
+    linker = None
+    if os.path.exists(settings_file):
+        print(f"reading from settings file: {settings_file}")
+        with open(settings_file, "rb") as sf:
+            linker = dedupe.StaticRecordLink(sf)
     else:
-        linker.prepare_training(data_1, data_2, sample_size=5000)
+        linker = dedupe.RecordLink(fields_for_matching)
 
-    print("starting active labelling...")
-    dedupe.console_label(linker)
-    linker.train()
-    with open(training_file, "w") as tf:
-        linker.write_training(tf)
+        if os.path.exists(training_file):
+            print("reading labeled examples from ", training_file)
+            with open(training_file) as tf:
+                linker.prepare_training(data_1, data_2, tf, sample_size=15000)
+        else:
+            linker.prepare_training(data_1, data_2, sample_size=5000)
 
-    with open(settings_file, "wb") as sf:
-        linker.write_settings(sf)
+        print("starting active labelling...")
+        dedupe.console_label(linker)
+        linker.train()
+        with open(training_file, "w") as tf:
+            linker.write_training(tf)
+
+        with open(settings_file, "wb") as sf:
+            linker.write_settings(sf)
 
     print("clustering...")
-    linked_records = linker.join(data_1, data_2, 0.8)
+    linked_records = linker.join(data_1, data_2, 0.6)
 
     print("# duplicate sets", len(linked_records))
     # ## Writing Results

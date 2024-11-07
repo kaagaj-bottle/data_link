@@ -5760,3 +5760,19 @@
 2024-11-07 13:13:56,577 - INFO - 80000, 5.9225162 seconds
 2024-11-07 13:13:57,313 - INFO - 90000, 6.6582992 seconds
 2024-11-07 13:13:58,029 - INFO - 100000, 7.3742592 seconds
+2024-11-07 13:41:38,334 - INFO - Initializing Dedupe for record linkage.
+2024-11-07 13:41:38,337 - INFO - Predicate set:
+2024-11-07 13:41:38,337 - INFO - (SimplePredicate: (firstIntegerPredicate, address_clean), SimplePredicate: (metaphoneToken, business_name))
+2024-11-07 13:41:38,337 - INFO - SimplePredicate: (doubleMetaphone, address_clean)
+2024-11-07 13:41:38,337 - INFO - (SimplePredicate: (doubleMetaphone, business_name), SimplePredicate: (sortedAcronym, business_name))
+2024-11-07 13:41:38,337 - INFO - (SimplePredicate: (sortedAcronym, address_clean), SimplePredicate: (nearIntegersPredicate, address_clean))
+2024-11-07 13:41:39,084 - INFO - 10000, 0.6936162 seconds
+2024-11-07 13:41:39,786 - INFO - 20000, 1.3955352 seconds
+2024-11-07 13:41:40,484 - INFO - 30000, 2.0935512 seconds
+2024-11-07 13:41:41,196 - INFO - 40000, 2.8049182 seconds
+2024-11-07 13:41:41,889 - INFO - 50000, 3.4980002 seconds
+2024-11-07 13:41:42,595 - INFO - 60000, 4.2039902 seconds
+2024-11-07 13:41:43,300 - INFO - 70000, 4.9092562 seconds
+2024-11-07 13:41:44,014 - INFO - 80000, 5.6231062 seconds
+2024-11-07 13:41:44,714 - INFO - 90000, 6.3238272 seconds
+2024-11-07 13:41:45,419 - INFO - 100000, 7.0280042 seconds
