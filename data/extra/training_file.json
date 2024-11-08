@@ -4,7 +4,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 86477,
+          "Unnamed: 0": 86253,
           "rank": 96,
           "business_name": "ABC Custom Iron & Locksmith, Inc",
           "logo": "['https://lh6.googleusercontent.com/-qLWcD6Vjkyg/AAAAAAAAAAI/AAAAAAAAAAA/pQsMOWuqhoA/s400-p-k-no-ns-nd/photo.jpg', 'https://lh6.googleusercontent.com/-qLWcD6Vjkyg/AAAAAAAAAAI/AAAAAAAAAAA/pQsMOWuqhoA/s60-p-k-no-ns-nd/photo.jpg']",
@@ -34,11 +34,11 @@
           "website": "{'domain': 'abccustomiron.com', 'platform': None, 'url': 'https://www.abccustomiron.com/'}",
           "address_clean": "550 Santa Fe Dr",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80204
         },
         {
-          "Unnamed: 0": 86477,
+          "Unnamed: 0": 86253,
           "loan_amount": 40700.0,
           "business_name": "ABC CUSTOM IRON & LOCKSMITH, INC.",
           "address": "550 Santa Fe Drive",
@@ -69,7 +69,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 68909,
+          "Unnamed: 0": 68878,
           "rank": 78,
           "business_name": "Vexor Custom Woodworking Tools",
           "logo": "['https://lh6.googleusercontent.com/-UYjqwTrwEVA/AAAAAAAAAAI/AAAAAAAAAAA/HjdfStFBGCg/s400-p-k-no-ns-nd/photo.jpg', 'https://lh6.googleusercontent.com/-UYjqwTrwEVA/AAAAAAAAAAI/AAAAAAAAAAA/HjdfStFBGCg/s60-p-k-no-ns-nd/photo.jpg']",
@@ -99,11 +99,11 @@
           "website": "{'domain': 'vexorcwt.com', 'platform': None, 'url': 'http://www.vexorcwt.com/'}",
           "address_clean": "7162 Washington St",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80229
         },
         {
-          "Unnamed: 0": 68909,
+          "Unnamed: 0": 68878,
           "loan_amount": 161437.0,
           "business_name": "VEXOR CUSTOM WOODWORKING TOOLS INC.",
           "address": "7162 WASHINGTON ST",
@@ -134,7 +134,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 89347,
+          "Unnamed: 0": 89112,
           "rank": 98,
           "business_name": "The Infinite Monkey Theorem",
           "logo": "['https://lh4.googleusercontent.com/-n0741ND_uOI/AAAAAAAAAAI/AAAAAAAAAAA/04b7hRaGCzE/s400-p-k-no-ns-nd/photo.jpg', 'https://lh4.googleusercontent.com/-n0741ND_uOI/AAAAAAAAAAI/AAAAAAAAAAA/04b7hRaGCzE/s60-p-k-no-ns-nd/photo.jpg']",
@@ -164,11 +164,11 @@
           "website": "{'domain': 'theinfinitemonkeytheorem.com', 'platform': None, 'url': 'http://theinfinitemonkeytheorem.com/'}",
           "address_clean": "3200 Larimer St",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80205
         },
         {
-          "Unnamed: 0": 89347,
+          "Unnamed: 0": 89112,
           "loan_amount": 166500.0,
           "business_name": "THE INFINITE MONKEY THEOREM",
           "address": "3200 Larimer Street",
@@ -199,7 +199,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 90034,
+          "Unnamed: 0": 89846,
           "rank": 99,
           "business_name": "Golden West Plumbing, Heating, Air Conditioning, and Electrical",
           "logo": "['https://lh5.googleusercontent.com/-CQbpjmdcPBc/AAAAAAAAAAI/AAAAAAAAAAA/ntI7oQphGv8/s400-p-k-no-ns-nd/photo.jpg', 'https://lh5.googleusercontent.com/-CQbpjmdcPBc/AAAAAAAAAAI/AAAAAAAAAAA/ntI7oQphGv8/s60-p-k-no-ns-nd/photo.jpg']",
@@ -229,11 +229,11 @@
           "website": "{'domain': 'goldenwestph.com', 'platform': None, 'url': 'https://www.goldenwestph.com/'}",
           "address_clean": "4217 Delaware St",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80216
         },
         {
-          "Unnamed: 0": 90034,
+          "Unnamed: 0": 89846,
           "loan_amount": 392898.0,
           "business_name": "GOLDEN WEST PLUMBING, HEATING & AIR CONDITIONING INC.",
           "address": "4217 Delaware St",
@@ -264,7 +264,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 41265,
+          "Unnamed: 0": 40815,
           "rank": 52,
           "business_name": "Ralph's Industrial Sewing Machine Co",
           "logo": "['https://lh4.googleusercontent.com/-crfKw5xdc_Q/AAAAAAAAAAI/AAAAAAAAAAA/c69WRaHJAhM/s400-p-k-no-ns-nd/photo.jpg', 'https://lh4.googleusercontent.com/-crfKw5xdc_Q/AAAAAAAAAAI/AAAAAAAAAAA/c69WRaHJAhM/s60-p-k-no-ns-nd/photo.jpg']",
@@ -294,11 +294,11 @@
           "website": "{'domain': 'powersew.com', 'platform': None, 'url': 'https://powersew.com/'}",
           "address_clean": "2030 Clay St",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80211
         },
         {
-          "Unnamed: 0": 41265,
+          "Unnamed: 0": 40815,
           "loan_amount": 127500.0,
           "business_name": "RALPH'S INDUSTRIAL SEWING MACHINE COMPANY",
           "address": "2030 Clay street",
@@ -329,7 +329,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 28885,
+          "Unnamed: 0": 28752,
           "rank": 38,
           "business_name": "Busick Insulated Glass Inc",
           "logo": NaN,
@@ -359,11 +359,11 @@
           "website": "{'domain': 'busickig.com', 'platform': None, 'url': 'http://www.busickig.com/'}",
           "address_clean": "585 Osage St",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80204
         },
         {
-          "Unnamed: 0": 28885,
+          "Unnamed: 0": 28752,
           "loan_amount": 269847.0,
           "business_name": "BUSICK INSULATED GLASS, INC.",
           "address": "585 Osage Street",
@@ -394,7 +394,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 102612,
+          "Unnamed: 0": 102597,
           "rank": 111,
           "business_name": "B&B Heating & Air Conditioning, Inc.",
           "logo": "['https://lh6.googleusercontent.com/-RQSdXO6-KAg/AAAAAAAAAAI/AAAAAAAAAAA/zYOrqw0yVDs/s400-p-k-no-ns-nd/photo.jpg', 'https://lh6.googleusercontent.com/-RQSdXO6-KAg/AAAAAAAAAAI/AAAAAAAAAAA/zYOrqw0yVDs/s60-p-k-no-ns-nd/photo.jpg']",
@@ -424,11 +424,11 @@
           "website": "{'domain': 'bbheating.com', 'platform': None, 'url': 'https://www.bbheating.com/'}",
           "address_clean": "4892 Marshall St",
           "state_clean": "Colorado",
-          "city_clean": "Wheat Ridge",
+          "clean": "Wheat Ridge",
           "zip": 80033
         },
         {
-          "Unnamed: 0": 102612,
+          "Unnamed: 0": 102597,
           "loan_amount": 464000.0,
           "business_name": "B & B HEATING AND AIR CONDITIONING, INC.",
           "address": "4892 Marshall Street",
@@ -459,7 +459,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 23749,
+          "Unnamed: 0": 23554,
           "rank": 29,
           "business_name": "Aspen Electronics Manufacturing Inc.",
           "logo": NaN,
@@ -489,11 +489,11 @@
           "website": "{'domain': 'aemtronics.com', 'platform': None, 'url': 'http://aemtronics.com/'}",
           "address_clean": "8975 Marshall Ct #100",
           "state_clean": "Colorado",
-          "city_clean": "Westminster",
+          "clean": "Westminster",
           "zip": 80031
         },
         {
-          "Unnamed: 0": 23749,
+          "Unnamed: 0": 23554,
           "loan_amount": 314125.0,
           "business_name": "ASPEN ELECTRONICS MANUFACTURING INC",
           "address": "8975 Marshall Court Unit 100",
@@ -524,7 +524,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 32007,
+          "Unnamed: 0": 31724,
           "rank": 42,
           "business_name": "CVJ Axles Inc",
           "logo": "['https://lh4.googleusercontent.com/-rdQC40tYCXk/AAAAAAAAAAI/AAAAAAAAAAA/WWqx2SkYvs4/s400-p-k-no-ns-nd/photo.jpg', 'https://lh4.googleusercontent.com/-rdQC40tYCXk/AAAAAAAAAAI/AAAAAAAAAAA/WWqx2SkYvs4/s60-p-k-no-ns-nd/photo.jpg']",
@@ -554,11 +554,11 @@
           "website": "{'domain': 'cvjreman.com', 'platform': None, 'url': 'https://www.cvjreman.com/'}",
           "address_clean": "4101 Brighton Blvd",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80216
         },
         {
-          "Unnamed: 0": 32007,
+          "Unnamed: 0": 31724,
           "loan_amount": 109600.0,
           "business_name": "CVJ AXLES, INC",
           "address": "4101 BRIGHTON BLVD",
@@ -589,7 +589,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 86252,
+          "Unnamed: 0": 86028,
           "rank": 96,
           "business_name": "Hot Water Now!",
           "logo": "['https://lh5.googleusercontent.com/-3NFGVbdjYw0/AAAAAAAAAAI/AAAAAAAAAAA/SE3EdkjDEpw/s400-p-k-no-ns-nd/photo.jpg', 'https://lh5.googleusercontent.com/-3NFGVbdjYw0/AAAAAAAAAAI/AAAAAAAAAAA/SE3EdkjDEpw/s60-p-k-no-ns-nd/photo.jpg']",
@@ -619,11 +619,11 @@
           "website": "{'domain': 'hotwaternowco.com', 'platform': None, 'url': 'https://www.hotwaternowco.com/'}",
           "address_clean": "1677 Wadsworth Blvd",
           "state_clean": "Colorado",
-          "city_clean": "Lakewood",
+          "clean": "Lakewood",
           "zip": 80214
         },
         {
-          "Unnamed: 0": 86252,
+          "Unnamed: 0": 86028,
           "loan_amount": 50500.0,
           "business_name": "HOT WATER NOW LLC",
           "address": "1677 Wadsworth Blvd",
@@ -654,7 +654,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 98221,
+          "Unnamed: 0": 98212,
           "rank": 105,
           "business_name": "Oriental Rug and Carpet Clinic",
           "logo": "['https://lh5.googleusercontent.com/-FyIqh5htnts/AAAAAAAAAAI/AAAAAAAAAAA/Ld1LAnpn_Yo/s400-p-k-no-ns-nd/photo.jpg', 'https://lh5.googleusercontent.com/-FyIqh5htnts/AAAAAAAAAAI/AAAAAAAAAAA/Ld1LAnpn_Yo/s60-p-k-no-ns-nd/photo.jpg']",
@@ -684,11 +684,11 @@
           "website": "{'domain': 'rugandcarpetclinic.com', 'platform': None, 'url': 'https://rugandcarpetclinic.com/'}",
           "address_clean": "5090 Acoma St suite b",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80216
         },
         {
-          "Unnamed: 0": 98221,
+          "Unnamed: 0": 98212,
           "loan_amount": 21250.0,
           "business_name": "ORIENTAL RUG AND CARPET CLINIC",
           "address": "5090 ACOMA ST",
@@ -719,7 +719,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 89709,
+          "Unnamed: 0": 89474,
           "rank": 99,
           "business_name": "Da Vinci Designs",
           "logo": "['https://lh3.googleusercontent.com/-gKrWcQ-B8mo/AAAAAAAAAAI/AAAAAAAAAAA/LMlA2iRkmUo/s400-p-k-no-ns-nd/photo.jpg', 'https://lh3.googleusercontent.com/-gKrWcQ-B8mo/AAAAAAAAAAI/AAAAAAAAAAA/LMlA2iRkmUo/s60-p-k-no-ns-nd/photo.jpg']",
@@ -749,11 +749,11 @@
           "website": "{'domain': 'davincitandems.com', 'platform': None, 'url': 'http://www.davincitandems.com/'}",
           "address_clean": "1264 S Jason St",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80223
         },
         {
-          "Unnamed: 0": 89709,
+          "Unnamed: 0": 89474,
           "loan_amount": 38100.0,
           "business_name": "DA VINCI DESIGNS, INC.",
           "address": "1264 S JASON ST",
@@ -784,7 +784,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 32008,
+          "Unnamed: 0": 31725,
           "rank": 42,
           "business_name": "Green Sol Chemical Corporation",
           "logo": NaN,
@@ -814,11 +814,11 @@
           "website": "{'domain': 'green-sol.net', 'platform': None, 'url': 'https://green-sol.net/'}",
           "address_clean": "4770 Fox St #13",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80216
         },
         {
-          "Unnamed: 0": 32008,
+          "Unnamed: 0": 31725,
           "loan_amount": 59900.0,
           "business_name": "GREEN SOL CHEMICAL CORPORATION",
           "address": "4770 Fox St #13",
@@ -849,7 +849,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 102451,
+          "Unnamed: 0": 102436,
           "rank": 111,
           "business_name": "Mile High Laser Engraving, LLC",
           "logo": "['https://lh5.googleusercontent.com/-YB5ys1MDsD4/AAAAAAAAAAI/AAAAAAAAAAA/YV_I5kFN6YE/s400-p-k-no-ns-nd/photo.jpg', 'https://lh5.googleusercontent.com/-YB5ys1MDsD4/AAAAAAAAAAI/AAAAAAAAAAA/YV_I5kFN6YE/s60-p-k-no-ns-nd/photo.jpg']",
@@ -879,11 +879,11 @@
           "website": "{'domain': 'milehighlaserengraving.com', 'platform': None, 'url': 'https://www.milehighlaserengraving.com/'}",
           "address_clean": "7100 N Broadway Suite 3-F",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80221
         },
         {
-          "Unnamed: 0": 102451,
+          "Unnamed: 0": 102436,
           "loan_amount": 15140.0,
           "business_name": "MILE HIGH LASER ENGRAVING",
           "address": "7100 BROADWAY STE 3F",
@@ -914,7 +914,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 49077,
+          "Unnamed: 0": 48599,
           "rank": 60,
           "business_name": "Sleeping Giant Brewing Company",
           "logo": "['https://lh4.googleusercontent.com/-qam9iBfHeME/AAAAAAAAAAI/AAAAAAAAAAA/Lb_tk5gaL4Y/s400-p-k-no-ns-nd/photo.jpg', 'https://lh4.googleusercontent.com/-qam9iBfHeME/AAAAAAAAAAI/AAAAAAAAAAA/Lb_tk5gaL4Y/s60-p-k-no-ns-nd/photo.jpg']",
@@ -944,11 +944,11 @@
           "website": "{'domain': 'sleepinggiantbrewing.com', 'platform': None, 'url': 'http://www.sleepinggiantbrewing.com/'}",
           "address_clean": "2500 W 5th Ave",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80204
         },
         {
-          "Unnamed: 0": 49077,
+          "Unnamed: 0": 48599,
           "loan_amount": 260590.0,
           "business_name": "SLEEPING GIANT BREWING COMPANY LLC",
           "address": "2500 W. 5TH AVE",
@@ -979,7 +979,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 65129,
+          "Unnamed: 0": 65052,
           "rank": 73,
           "business_name": "Bonacquisti Wine Company",
           "logo": "['https://lh5.googleusercontent.com/-JxU0zUfZPjs/AAAAAAAAAAI/AAAAAAAAAAA/IcDfxgCcbxQ/s400-p-k-no-ns-nd/photo.jpg', 'https://lh5.googleusercontent.com/-JxU0zUfZPjs/AAAAAAAAAAI/AAAAAAAAAAA/IcDfxgCcbxQ/s60-p-k-no-ns-nd/photo.jpg']",
@@ -1009,11 +1009,11 @@
           "website": "{'domain': 'bonacquistiwine.com', 'platform': None, 'url': 'http://www.bonacquistiwine.com/'}",
           "address_clean": "4640 N Pecos St Unit I",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80211
         },
         {
-          "Unnamed: 0": 65129,
+          "Unnamed: 0": 65052,
           "loan_amount": 18500.0,
           "business_name": "BONACQUISTI WINE COMPANY",
           "address": "4640 PECOS ST, Unit I",
@@ -1044,7 +1044,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 65757,
+          "Unnamed: 0": 65680,
           "rank": 74,
           "business_name": "Artist Proof Collective",
           "logo": "['https://lh3.googleusercontent.com/-bwk1om82dAM/AAAAAAAAAAI/AAAAAAAAAAA/synh27puh5s/s400-p-k-no-ns-nd/photo.jpg', 'https://lh3.googleusercontent.com/-bwk1om82dAM/AAAAAAAAAAI/AAAAAAAAAAA/synh27puh5s/s60-p-k-no-ns-nd/photo.jpg']",
@@ -1074,11 +1074,11 @@
           "website": "{'domain': 'artistproofcollective.com', 'platform': None, 'url': 'https://artistproofcollective.com/'}",
           "address_clean": "760 Umatilla St",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80204
         },
         {
-          "Unnamed: 0": 65757,
+          "Unnamed: 0": 65680,
           "loan_amount": 106400.0,
           "business_name": "ARTIST PROOF COLLECTIVE LLC",
           "address": "760 UMATILLA ST",
@@ -1109,7 +1109,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 51272,
+          "Unnamed: 0": 50984,
           "rank": 62,
           "business_name": "Never Summer Industries",
           "logo": "['https://lh4.googleusercontent.com/-BRLl9fFef48/AAAAAAAAAAI/AAAAAAAAAAA/cw8aTVdyoPk/s400-p-k-no-ns-nd/photo.jpg', 'https://lh4.googleusercontent.com/-BRLl9fFef48/AAAAAAAAAAI/AAAAAAAAAAA/cw8aTVdyoPk/s60-p-k-no-ns-nd/photo.jpg']",
@@ -1139,11 +1139,11 @@
           "website": "{'domain': 'neversummer.com', 'platform': None, 'url': 'http://www.neversummer.com/'}",
           "address_clean": "3838 Eudora Way",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80207
         },
         {
-          "Unnamed: 0": 51272,
+          "Unnamed: 0": 50984,
           "loan_amount": 898300.0,
           "business_name": "NEVER SUMMER INDUSTRIES",
           "address": "3838 EUDORA WAY",
@@ -1174,7 +1174,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 113313,
+          "Unnamed: 0": 113079,
           "rank": 137,
           "business_name": "A One Stop Print Shop",
           "logo": "['https://lh3.googleusercontent.com/-ZuFQSJrv5FU/AAAAAAAAAAI/AAAAAAAAAAA/58wsXDWJIvs/s400-p-k-no-ns-nd/photo.jpg', 'https://lh3.googleusercontent.com/-ZuFQSJrv5FU/AAAAAAAAAAI/AAAAAAAAAAA/58wsXDWJIvs/s60-p-k-no-ns-nd/photo.jpg']",
@@ -1204,11 +1204,11 @@
           "website": "{'domain': 'wedecoit.com', 'platform': None, 'url': 'http://wedecoit.com/'}",
           "address_clean": "6260 W 52nd Ave # 121",
           "state_clean": "Colorado",
-          "city_clean": "Arvada",
+          "clean": "Arvada",
           "zip": 80002
         },
         {
-          "Unnamed: 0": 113313,
+          "Unnamed: 0": 113079,
           "loan_amount": 18750.0,
           "business_name": "A ONE STOP PRINT SHOP INC",
           "address": "6260 W 52ND AVE STE 121",
@@ -1239,7 +1239,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 31793,
+          "Unnamed: 0": 31509,
           "rank": 42,
           "business_name": "Rocky Mountain Food Factory",
           "logo": "['https://lh3.googleusercontent.com/-GE78-jdqV98/AAAAAAAAAAI/AAAAAAAAAAA/F1xZk-j4X9s/s400-p-k-no-ns-nd/photo.jpg', 'https://lh3.googleusercontent.com/-GE78-jdqV98/AAAAAAAAAAI/AAAAAAAAAAA/F1xZk-j4X9s/s60-p-k-no-ns-nd/photo.jpg']",
@@ -1269,11 +1269,11 @@
           "website": "{'domain': 'rockymtnfoodfactory.com', 'platform': None, 'url': 'https://www.rockymtnfoodfactory.com/'}",
           "address_clean": "2825 S Raritan St",
           "state_clean": "Colorado",
-          "city_clean": "Englewood",
+          "clean": "Englewood",
           "zip": 80110
         },
         {
-          "Unnamed: 0": 31793,
+          "Unnamed: 0": 31509,
           "loan_amount": 112270.0,
           "business_name": "ROCKY MOUNTAIN FOOD FACTORY INC",
           "address": "2825 RARITAN ST S",
@@ -1304,7 +1304,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 7979,
+          "Unnamed: 0": 7850,
           "rank": 8,
           "business_name": "RPC Manufacturing Solutions, LLC",
           "logo": "['https://lh6.googleusercontent.com/-l2Py-02k1LA/AAAAAAAAAAI/AAAAAAAAAAA/7wwxu-oZtjg/s400-p-k-no-ns-nd/photo.jpg', 'https://lh6.googleusercontent.com/-l2Py-02k1LA/AAAAAAAAAAI/AAAAAAAAAAA/7wwxu-oZtjg/s60-p-k-no-ns-nd/photo.jpg']",
@@ -1334,11 +1334,11 @@
           "website": "{'domain': 'rpcmfg.com', 'platform': None, 'url': 'https://www.rpcmfg.com/'}",
           "address_clean": "11811 Upham St #5",
           "state_clean": "Colorado",
-          "city_clean": "Broomfield",
+          "clean": "Broomfield",
           "zip": 80020
         },
         {
-          "Unnamed: 0": 7979,
+          "Unnamed: 0": 7850,
           "loan_amount": 196212.0,
           "business_name": "RPC MANUFACTURING SOLUTIONS, LLC",
           "address": "11811 UPHAM ST, Unit 5",
@@ -1369,7 +1369,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 18115,
+          "Unnamed: 0": 17775,
           "rank": 22,
           "business_name": "Electro Mechanical Products",
           "logo": "['https://lh5.googleusercontent.com/-VHT5nXx_SDg/AAAAAAAAAAI/AAAAAAAAAAA/JvCn8bL_4fo/s400-p-k-no-ns-nd/photo.jpg', 'https://lh5.googleusercontent.com/-VHT5nXx_SDg/AAAAAAAAAAI/AAAAAAAAAAA/JvCn8bL_4fo/s60-p-k-no-ns-nd/photo.jpg']",
@@ -1399,11 +1399,11 @@
           "website": "{'domain': 'electromechanicalproducts.com', 'platform': None, 'url': 'http://www.electromechanicalproducts.com/'}",
           "address_clean": "897 Tabor St",
           "state_clean": "Colorado",
-          "city_clean": "Lakewood",
+          "clean": "Lakewood",
           "zip": 80401
         },
         {
-          "Unnamed: 0": 18115,
+          "Unnamed: 0": 17775,
           "loan_amount": 1712000.0,
           "business_name": "ELECTRO-MECHANICAL PRODUCTS, INC.",
           "address": "897 Tabor Street",
@@ -1434,7 +1434,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 56571,
+          "Unnamed: 0": 56294,
           "rank": 67,
           "business_name": "Brekhus Tile & Stone",
           "logo": "['https://lh6.googleusercontent.com/-2cy1oYdIQs8/AAAAAAAAAAI/AAAAAAAAAAA/G3u9_SrqvVM/s400-p-k-no-ns-nd/photo.jpg', 'https://lh6.googleusercontent.com/-2cy1oYdIQs8/AAAAAAAAAAI/AAAAAAAAAAA/G3u9_SrqvVM/s60-p-k-no-ns-nd/photo.jpg']",
@@ -1464,11 +1464,11 @@
           "website": "{'domain': 'brekhustile.com', 'platform': None, 'url': 'http://www.brekhustile.com/'}",
           "address_clean": "860 S Jason St",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80223
         },
         {
-          "Unnamed: 0": 56571,
+          "Unnamed: 0": 56294,
           "loan_amount": 811292.5,
           "business_name": "BREKHUS TILE & STONE INC",
           "address": "860 S Jason Street",
@@ -1499,7 +1499,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 27014,
+          "Unnamed: 0": 26848,
           "rank": 36,
           "business_name": "Plateau Machinery Inc",
           "logo": NaN,
@@ -1529,11 +1529,11 @@
           "website": NaN,
           "address_clean": "527 Kalamath St",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80204
         },
         {
-          "Unnamed: 0": 27014,
+          "Unnamed: 0": 26848,
           "loan_amount": 50557.5,
           "business_name": "PLATEAU MACHINERY, INC.",
           "address": "527 Kalamath Street",
@@ -1564,7 +1564,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 38585,
+          "Unnamed: 0": 38139,
           "rank": 49,
           "business_name": "Wheat Ridge Poultry and Meats",
           "logo": "['https://lh5.googleusercontent.com/-vkfjP7ZseM0/AAAAAAAAAAI/AAAAAAAAAAA/VTAPMCtE1fM/s400-p-k-no-ns-nd/photo.jpg', 'https://lh5.googleusercontent.com/-vkfjP7ZseM0/AAAAAAAAAAI/AAAAAAAAAAA/VTAPMCtE1fM/s60-p-k-no-ns-nd/photo.jpg']",
@@ -1594,11 +1594,11 @@
           "website": "{'domain': 'wheatridgepoultry.com', 'platform': None, 'url': 'http://www.wheatridgepoultry.com/'}",
           "address_clean": "5650 W 29th Ave",
           "state_clean": "Colorado",
-          "city_clean": "Wheat Ridge",
+          "clean": "Wheat Ridge",
           "zip": 80214
         },
         {
-          "Unnamed: 0": 38585,
+          "Unnamed: 0": 38139,
           "loan_amount": 29307.0,
           "business_name": "WHEAT RIDGE POULTRY &AMP; MEATS",
           "address": "5650 West 29th Avenue",
@@ -1629,7 +1629,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 43278,
+          "Unnamed: 0": 42764,
           "rank": 54,
           "business_name": "Silver Engineering Works",
           "logo": "['https://lh6.googleusercontent.com/-GSmbtSSzF7w/AAAAAAAAAAI/AAAAAAAAAAA/D6FTmj_66NY/s400-p-k-no-ns-nd/photo.jpg', 'https://lh6.googleusercontent.com/-GSmbtSSzF7w/AAAAAAAAAAI/AAAAAAAAAAA/D6FTmj_66NY/s60-p-k-no-ns-nd/photo.jpg']",
@@ -1659,11 +1659,11 @@
           "website": "{'domain': 'silverengineeringworks.com', 'platform': None, 'url': 'http://silverengineeringworks.com/'}",
           "address_clean": "6565 Vine Ct",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80229
         },
         {
-          "Unnamed: 0": 43278,
+          "Unnamed: 0": 42764,
           "loan_amount": 102345.0,
           "business_name": "SILVER ENGINEERING WORKS, LLC",
           "address": "6565 VINE CT",
@@ -1694,7 +1694,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 18335,
+          "Unnamed: 0": 17995,
           "rank": 22,
           "business_name": "Tools For Bending Inc.",
           "logo": NaN,
@@ -1724,11 +1724,11 @@
           "website": "{'domain': 'toolsforbending.com', 'platform': None, 'url': 'http://toolsforbending.com/'}",
           "address_clean": "194 W Dakota Ave",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80223
         },
         {
-          "Unnamed: 0": 18335,
+          "Unnamed: 0": 17995,
           "loan_amount": 706200.0,
           "business_name": "TOOLS FOR BENDING, INC.",
           "address": "194 W DAKOTA AVE",
@@ -1759,7 +1759,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 28516,
+          "Unnamed: 0": 28389,
           "rank": 37,
           "business_name": "Cains Creative Cakes",
           "logo": "['https://lh4.googleusercontent.com/-veKj8FBbUZA/AAAAAAAAAAI/AAAAAAAAAAA/DOkNgRSRIx4/s400-p-k-no-ns-nd/photo.jpg', 'https://lh4.googleusercontent.com/-veKj8FBbUZA/AAAAAAAAAAI/AAAAAAAAAAA/DOkNgRSRIx4/s60-p-k-no-ns-nd/photo.jpg']",
@@ -1789,11 +1789,11 @@
           "website": "{'domain': 'cainscreativecakes.com', 'platform': None, 'url': 'http://cainscreativecakes.com/'}",
           "address_clean": "194 S Federal Blvd",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80219
         },
         {
-          "Unnamed: 0": 28516,
+          "Unnamed: 0": 28389,
           "loan_amount": 3750.0,
           "business_name": "CAINS CREATIVE CAKES LLC",
           "address": "194 S FEDERAL BLVD",
@@ -1824,7 +1824,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 60954,
+          "Unnamed: 0": 60876,
           "rank": 70,
           "business_name": "Advanced Cylinders Manufacturing & Repair Inc.",
           "logo": NaN,
@@ -1854,11 +1854,11 @@
           "website": "{'domain': 'hydrauliccylindersupply.com', 'platform': None, 'url': 'http://www.hydrauliccylindersupply.com/'}",
           "address_clean": "3295 S Zuni St",
           "state_clean": "Colorado",
-          "city_clean": "Sheridan",
+          "clean": "Sheridan",
           "zip": 80110
         },
         {
-          "Unnamed: 0": 60954,
+          "Unnamed: 0": 60876,
           "loan_amount": 48150.0,
           "business_name": "ADVANCED CYLINDERS MANUFACTURING AND REPAIR INC",
           "address": "3295 SOUTH ZUNI STREET",
@@ -1889,7 +1889,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 49523,
+          "Unnamed: 0": 49108,
           "rank": 61,
           "business_name": "Elevation Reps of the Rockies",
           "logo": "['https://lh5.googleusercontent.com/-9DcagegYxmM/AAAAAAAAAAI/AAAAAAAAAAA/jk4gam3VLIY/s400-p-k-no-ns-nd/photo.jpg', 'https://lh5.googleusercontent.com/-9DcagegYxmM/AAAAAAAAAAI/AAAAAAAAAAA/jk4gam3VLIY/s60-p-k-no-ns-nd/photo.jpg']",
@@ -1919,11 +1919,11 @@
           "website": "{'domain': 'elevationfs.com', 'platform': None, 'url': 'https://elevationfs.com/'}",
           "address_clean": "4925 38th Ave",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80207
         },
         {
-          "Unnamed: 0": 49523,
+          "Unnamed: 0": 49108,
           "loan_amount": 310000.0,
           "business_name": "ELEVATION REPS OF THE ROCKIES",
           "address": "4925 E 38TH AVE",
@@ -1954,7 +1954,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 84383,
+          "Unnamed: 0": 84221,
           "rank": 94,
           "business_name": "Renaissance Leather",
           "logo": "['https://lh6.googleusercontent.com/-dukJ7bOmhcI/AAAAAAAAAAI/AAAAAAAAAAA/r1XeR0A9zXo/s400-p-k-no-ns-nd/photo.jpg', 'https://lh6.googleusercontent.com/-dukJ7bOmhcI/AAAAAAAAAAI/AAAAAAAAAAA/r1XeR0A9zXo/s60-p-k-no-ns-nd/photo.jpg']",
@@ -1984,11 +1984,11 @@
           "website": "{'domain': 'renleather.com', 'platform': None, 'url': 'http://www.renleather.com/'}",
           "address_clean": "1474 S Acoma St",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80223
         },
         {
-          "Unnamed: 0": 84383,
+          "Unnamed: 0": 84221,
           "loan_amount": 6500.0,
           "business_name": "RENAISSANCE LEATHER",
           "address": "1474 S ACOMA ST",
@@ -2019,7 +2019,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 76002,
+          "Unnamed: 0": 75914,
           "rank": 87,
           "business_name": "Lakeside Heating & Air Conditioning",
           "logo": "['https://lh6.googleusercontent.com/-5sl8dEmtSI8/AAAAAAAAAAI/AAAAAAAAAAA/-Z5buhQPA5o/s400-p-k-no-ns-nd/photo.jpg', 'https://lh6.googleusercontent.com/-5sl8dEmtSI8/AAAAAAAAAAI/AAAAAAAAAAA/-Z5buhQPA5o/s60-p-k-no-ns-nd/photo.jpg']",
@@ -2049,11 +2049,11 @@
           "website": "{'domain': 'lakesideheating.com', 'platform': None, 'url': 'https://lakesideheating.com/'}",
           "address_clean": "6260 W 52nd Ave unit 116",
           "state_clean": "Colorado",
-          "city_clean": "Arvada",
+          "clean": "Arvada",
           "zip": 80002
         },
         {
-          "Unnamed: 0": 76002,
+          "Unnamed: 0": 75914,
           "loan_amount": 60000.0,
           "business_name": "LAKESIDE HEATING & AIR CONDITIONING INC.",
           "address": "6260 West 52nd Avenue,116",
@@ -2084,7 +2084,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 83170,
+          "Unnamed: 0": 82974,
           "rank": 93,
           "business_name": "Rock River Ranches",
           "logo": "['https://lh6.googleusercontent.com/-gvuDR9Uzt2s/AAAAAAAAAAI/AAAAAAAAAAA/LrtEYs2mwEs/s400-p-k-no-ns-nd/photo.jpg', 'https://lh6.googleusercontent.com/-gvuDR9Uzt2s/AAAAAAAAAAI/AAAAAAAAAAA/LrtEYs2mwEs/s60-p-k-no-ns-nd/photo.jpg']",
@@ -2114,11 +2114,11 @@
           "website": "{'domain': 'rockriverbison.com', 'platform': None, 'url': 'http://www.rockriverbison.com/'}",
           "address_clean": "5460 Colorado Blvd Service Rd #120",
           "state_clean": "Colorado",
-          "city_clean": "Commerce City",
+          "clean": "Commerce City",
           "zip": 80022
         },
         {
-          "Unnamed: 0": 83170,
+          "Unnamed: 0": 82974,
           "loan_amount": 20055.02,
           "business_name": "ROCK RIVER RANCHES LLC",
           "address": "5460 COLORADO BLVD UNIT #120",
@@ -2149,7 +2149,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 15711,
+          "Unnamed: 0": 15465,
           "rank": 18,
           "business_name": "Geotech Environmental Equipment, Inc.",
           "logo": "['https://lh5.googleusercontent.com/-VfomSZzfLok/AAAAAAAAAAI/AAAAAAAAAAA/ugQKHSgw2wk/s400-p-k-no-ns-nd/photo.jpg', 'https://lh5.googleusercontent.com/-VfomSZzfLok/AAAAAAAAAAI/AAAAAAAAAAA/ugQKHSgw2wk/s60-p-k-no-ns-nd/photo.jpg']",
@@ -2179,11 +2179,11 @@
           "website": "{'domain': 'geotechenv.com', 'platform': None, 'url': 'http://www.geotechenv.com/'}",
           "address_clean": "2650 E 40th Ave",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80205
         },
         {
-          "Unnamed: 0": 15711,
+          "Unnamed: 0": 15465,
           "loan_amount": 1453400.0,
           "business_name": "GEOTECH ENVIRONMENTAL EQUIPMENT, INC",
           "address": "2650 E 40th Ave",
@@ -2214,7 +2214,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 9206,
+          "Unnamed: 0": 9115,
           "rank": 10,
           "business_name": "Eaton Metal Products Co",
           "logo": NaN,
@@ -2244,11 +2244,11 @@
           "website": "{'domain': 'eatonmetal.com', 'platform': None, 'url': 'http://www.eatonmetal.com/'}",
           "address_clean": "4800 York St",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80216
         },
         {
-          "Unnamed: 0": 9206,
+          "Unnamed: 0": 9115,
           "loan_amount": 3347300.0,
           "business_name": "EATON METAL PRODUCTS CO.",
           "address": "4800 York Street",
@@ -2279,7 +2279,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 24712,
+          "Unnamed: 0": 24538,
           "rank": 30,
           "business_name": "Bierstadt Lagerhaus",
           "logo": "['https://lh5.googleusercontent.com/-vfUr-tcFk5c/AAAAAAAAAAI/AAAAAAAAAAA/emoAEmCFw7k/s400-p-k-no-ns-nd/photo.jpg', 'https://lh5.googleusercontent.com/-vfUr-tcFk5c/AAAAAAAAAAI/AAAAAAAAAAA/emoAEmCFw7k/s60-p-k-no-ns-nd/photo.jpg']",
@@ -2309,11 +2309,11 @@
           "website": "{'domain': 'bierstadtlager.com', 'platform': None, 'url': 'https://www.bierstadtlager.com/'}",
           "address_clean": "2875 Blake St",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80205
         },
         {
-          "Unnamed: 0": 24712,
+          "Unnamed: 0": 24538,
           "loan_amount": 210500.0,
           "business_name": "BIERSTADT LAGERHAUS",
           "address": "2875 BLAKE STREET",
@@ -2344,7 +2344,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 34443,
+          "Unnamed: 0": 34079,
           "rank": 45,
           "business_name": "Aveno Antiguo, Inc",
           "logo": NaN,
@@ -2374,11 +2374,11 @@
           "website": "{'domain': 'avenofoods.com', 'platform': None, 'url': 'https://www.avenofoods.com/'}",
           "address_clean": "5140 Race Ct STE 3",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80216
         },
         {
-          "Unnamed: 0": 34443,
+          "Unnamed: 0": 34079,
           "loan_amount": 51900.0,
           "business_name": "AVENO ANTIGUO, INC",
           "address": "5140 Race Court #3",
@@ -2409,7 +2409,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 99495,
+          "Unnamed: 0": 99571,
           "rank": 106,
           "business_name": "Carniceria La Guadalajara",
           "logo": "['https://lh5.googleusercontent.com/-YNyhPN5C9lE/AAAAAAAAAAI/AAAAAAAAAAA/0Ifz_PPkwQo/s400-p-k-no-ns-nd/photo.jpg', 'https://lh5.googleusercontent.com/-YNyhPN5C9lE/AAAAAAAAAAI/AAAAAAAAAAA/0Ifz_PPkwQo/s60-p-k-no-ns-nd/photo.jpg']",
@@ -2439,11 +2439,11 @@
           "website": "{'domain': 'carnicerialaguadalajara.com', 'platform': None, 'url': 'http://www.carnicerialaguadalajara.com/'}",
           "address_clean": "5185 W 1st Ave",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80219
         },
         {
-          "Unnamed: 0": 99495,
+          "Unnamed: 0": 99571,
           "loan_amount": 86600.0,
           "business_name": "CARNICERIA LA GUADALAJARA",
           "address": "5185 W 1ST AVE",
@@ -2474,7 +2474,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 6784,
+          "Unnamed: 0": 6686,
           "rank": 7,
           "business_name": "Amen Packaging Inc",
           "logo": "['https://lh4.googleusercontent.com/-zTsSryU3rGE/AAAAAAAAAAI/AAAAAAAAAAA/KXsZhzt3uHA/s400-p-k-no-ns-nd/photo.jpg', 'https://lh4.googleusercontent.com/-zTsSryU3rGE/AAAAAAAAAAI/AAAAAAAAAAA/KXsZhzt3uHA/s60-p-k-no-ns-nd/photo.jpg']",
@@ -2504,11 +2504,11 @@
           "website": "{'domain': 'amenpackaging.com', 'platform': None, 'url': 'https://amenpackaging.com/'}",
           "address_clean": "5285 Fox St",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80216
         },
         {
-          "Unnamed: 0": 6784,
+          "Unnamed: 0": 6686,
           "loan_amount": 168100.0,
           "business_name": "AMEN PACKAGING INC",
           "address": "5285 Fox St",
@@ -2539,7 +2539,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 40946,
+          "Unnamed: 0": 40472,
           "rank": 51,
           "business_name": "Ram Grinding",
           "logo": NaN,
@@ -2569,11 +2569,11 @@
           "website": NaN,
           "address_clean": "5635 Newland Way",
           "state_clean": "Colorado",
-          "city_clean": "Arvada",
+          "clean": "Arvada",
           "zip": 80002
         },
         {
-          "Unnamed: 0": 40946,
+          "Unnamed: 0": 40472,
           "loan_amount": 81787.0,
           "business_name": "RAM GRINDING INC",
           "address": "5635 NEWLAND WAY",
@@ -2604,7 +2604,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 9927,
+          "Unnamed: 0": 9758,
           "rank": 11,
           "business_name": "Industrialex Manufacturing",
           "logo": NaN,
@@ -2634,11 +2634,11 @@
           "website": "{'domain': 'industrialex.com', 'platform': None, 'url': 'http://www.industrialex.com/'}",
           "address_clean": "6250 Joyce Dr",
           "state_clean": "Colorado",
-          "city_clean": "Arvada",
+          "clean": "Arvada",
           "zip": 80403
         },
         {
-          "Unnamed: 0": 9927,
+          "Unnamed: 0": 9758,
           "loan_amount": 377992.0,
           "business_name": "INDUSTRIALEX MANUFACTURING CORP.",
           "address": "6250 Joyce Drive",
@@ -2669,7 +2669,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 67746,
+          "Unnamed: 0": 67716,
           "rank": 77,
           "business_name": "Accent Fence and Design",
           "logo": "['https://lh3.googleusercontent.com/-1dl80dxpuko/AAAAAAAAAAI/AAAAAAAAAAA/G4gK3B4WjS8/s400-p-k-no-ns-nd/photo.jpg', 'https://lh3.googleusercontent.com/-1dl80dxpuko/AAAAAAAAAAI/AAAAAAAAAAA/G4gK3B4WjS8/s60-p-k-no-ns-nd/photo.jpg']",
@@ -2699,11 +2699,11 @@
           "website": "{'domain': 'accentfenceanddesign.com', 'platform': None, 'url': 'http://www.accentfenceanddesign.com/'}",
           "address_clean": "1150 N Harlan St",
           "state_clean": "Colorado",
-          "city_clean": "Lakewood",
+          "clean": "Lakewood",
           "zip": 80214
         },
         {
-          "Unnamed: 0": 67746,
+          "Unnamed: 0": 67716,
           "loan_amount": 21833.0,
           "business_name": "ACCENT FENCE AND DESIGN LLC.",
           "address": "1150 Harlan",
@@ -2734,7 +2734,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 64128,
+          "Unnamed: 0": 64099,
           "rank": 72,
           "business_name": "Foothills Custom Cabinet",
           "logo": NaN,
@@ -2764,11 +2764,11 @@
           "website": "{'domain': 'foothillscustomcabinet.com', 'platform': None, 'url': 'https://www.foothillscustomcabinet.com/'}",
           "address_clean": "6262 W 55th Ave",
           "state_clean": "Colorado",
-          "city_clean": "Arvada",
+          "clean": "Arvada",
           "zip": 80002
         },
         {
-          "Unnamed: 0": 64128,
+          "Unnamed: 0": 64099,
           "loan_amount": 305208.0,
           "business_name": "FOOTHILLS CUSTOM CABINET",
           "address": "6262 W 55TH AVE",
@@ -2799,7 +2799,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 40342,
+          "Unnamed: 0": 39868,
           "rank": 50,
           "business_name": "ABM Fabrication & Machining",
           "logo": "['https://lh6.googleusercontent.com/-1fzsUycqzh8/AAAAAAAAAAI/AAAAAAAAAAA/ALOS11_Qs-E/s400-p-k-no-ns-nd/photo.jpg', 'https://lh6.googleusercontent.com/-1fzsUycqzh8/AAAAAAAAAAI/AAAAAAAAAAA/ALOS11_Qs-E/s60-p-k-no-ns-nd/photo.jpg']",
@@ -2829,11 +2829,11 @@
           "website": "{'domain': 'abmfab.com', 'platform': None, 'url': 'http://www.abmfab.com/'}",
           "address_clean": "5880 W 59th Ave Unit D",
           "state_clean": "Colorado",
-          "city_clean": "Arvada",
+          "clean": "Arvada",
           "zip": 80003
         },
         {
-          "Unnamed: 0": 40342,
+          "Unnamed: 0": 39868,
           "loan_amount": 49267.0,
           "business_name": "ABM FABRICATION & MACHINING LLC",
           "address": "5880 W 59TH AVE",
@@ -2864,7 +2864,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 66909,
+          "Unnamed: 0": 66877,
           "rank": 75,
           "business_name": "Carniceria La Sierra",
           "logo": NaN,
@@ -2894,11 +2894,11 @@
           "website": "{'domain': 'instagram.com', 'platform': 'instagram', 'url': 'https://instagram.com/lasierradenver'}",
           "address_clean": "3170 W Alameda Ave",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80219
         },
         {
-          "Unnamed: 0": 66909,
+          "Unnamed: 0": 66877,
           "loan_amount": 36845.0,
           "business_name": "CARNICERIA LA SIERRA INC",
           "address": "3170 ALAMEDA AVE W",
@@ -2929,7 +2929,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 17768,
+          "Unnamed: 0": 17427,
           "rank": 21,
           "business_name": "Kerr Panel Manufacturing",
           "logo": "['https://lh3.googleusercontent.com/-VmGckq43Lhk/AAAAAAAAAAI/AAAAAAAAAAA/XUODsN6OW9Y/s400-p-k-no-ns-nd/photo.jpg', 'https://lh3.googleusercontent.com/-VmGckq43Lhk/AAAAAAAAAAI/AAAAAAAAAAA/XUODsN6OW9Y/s60-p-k-no-ns-nd/photo.jpg']",
@@ -2959,11 +2959,11 @@
           "website": "{'domain': 'kerrpanel.com', 'platform': None, 'url': 'http://kerrpanel.com/'}",
           "address_clean": "6125 E 56th Ave suite c",
           "state_clean": "Colorado",
-          "city_clean": "Commerce City",
+          "clean": "Commerce City",
           "zip": 80022
         },
         {
-          "Unnamed: 0": 17768,
+          "Unnamed: 0": 17427,
           "loan_amount": 125832.0,
           "business_name": "KERR PANEL MANUFACTURING",
           "address": "6125 56TH AVE E",
@@ -2994,7 +2994,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 67745,
+          "Unnamed: 0": 67715,
           "rank": 76,
           "business_name": "S & H Products",
           "logo": "['https://lh4.googleusercontent.com/-8TpfUk7aoZo/AAAAAAAAAAI/AAAAAAAAAAA/hX0Sr3ZopYM/s400-p-k-no-ns-nd/photo.jpg', 'https://lh4.googleusercontent.com/-8TpfUk7aoZo/AAAAAAAAAAI/AAAAAAAAAAA/hX0Sr3ZopYM/s60-p-k-no-ns-nd/photo.jpg']",
@@ -3024,11 +3024,11 @@
           "website": "{'domain': 'shproductsllc.com', 'platform': None, 'url': 'http://shproductsllc.com/'}",
           "address_clean": "5891 Nolan St # A",
           "state_clean": "Colorado",
-          "city_clean": "Arvada",
+          "clean": "Arvada",
           "zip": 80003
         },
         {
-          "Unnamed: 0": 67745,
+          "Unnamed: 0": 67715,
           "loan_amount": 356396.0,
           "business_name": "S & H PRODUCTS LLC",
           "address": "5891 NOLAN ST STE A",
@@ -3059,7 +3059,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 76621,
+          "Unnamed: 0": 76608,
           "rank": 88,
           "business_name": "Rocket Seals, Inc.",
           "logo": "['https://lh6.googleusercontent.com/-6tfUicetwfg/AAAAAAAAAAI/AAAAAAAAAAA/dvuavIkRSHM/s400-p-k-no-ns-nd/photo.jpg', 'https://lh6.googleusercontent.com/-6tfUicetwfg/AAAAAAAAAAI/AAAAAAAAAAA/dvuavIkRSHM/s60-p-k-no-ns-nd/photo.jpg']",
@@ -3089,11 +3089,11 @@
           "website": "{'domain': 'rocketseals.com', 'platform': None, 'url': 'http://www.rocketseals.com/'}",
           "address_clean": "1297 S Lipan St",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80223
         },
         {
-          "Unnamed: 0": 76621,
+          "Unnamed: 0": 76608,
           "loan_amount": 99300.0,
           "business_name": "ROCKET SEALS, INC.",
           "address": "1297 S LIPAN ST",
@@ -3124,7 +3124,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 93976,
+          "Unnamed: 0": 93872,
           "rank": 102,
           "business_name": "Technicraft Manufacturing Inc",
           "logo": NaN,
@@ -3154,11 +3154,11 @@
           "website": NaN,
           "address_clean": "901 S Jason St Unit A",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80223
         },
         {
-          "Unnamed: 0": 93976,
+          "Unnamed: 0": 93872,
           "loan_amount": 388900.0,
           "business_name": "TECHNICRAFT MANUFACTURING INC",
           "address": "901 S. Jason St",
@@ -3189,7 +3189,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 439,
+          "Unnamed: 0": 389,
           "rank": 1,
           "business_name": "T & H Manufacturing LLC",
           "logo": "['https://lh3.googleusercontent.com/-J8gjzn-kJwM/AAAAAAAAAAI/AAAAAAAAAAA/hgi2OYLUAQ8/s400-p-k-no-ns-nd/photo.jpg', 'https://lh3.googleusercontent.com/-J8gjzn-kJwM/AAAAAAAAAAI/AAAAAAAAAAA/hgi2OYLUAQ8/s60-p-k-no-ns-nd/photo.jpg']",
@@ -3219,11 +3219,11 @@
           "website": NaN,
           "address_clean": "581 S Federal Blvd",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80219
         },
         {
-          "Unnamed: 0": 439,
+          "Unnamed: 0": 389,
           "loan_amount": 14900.0,
           "business_name": "T & H MANUFACTURING LLC",
           "address": "581 S. Federal Blvd",
@@ -3254,7 +3254,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 3002,
+          "Unnamed: 0": 2910,
           "rank": 3,
           "business_name": "Focused Light LLC",
           "logo": "['https://lh4.googleusercontent.com/-MSr3tS4pBAc/AAAAAAAAAAI/AAAAAAAAAAA/IQYZl5Gp07A/s400-p-k-no-ns-nd/photo.jpg', 'https://lh4.googleusercontent.com/-MSr3tS4pBAc/AAAAAAAAAAI/AAAAAAAAAAA/IQYZl5Gp07A/s60-p-k-no-ns-nd/photo.jpg']",
@@ -3284,11 +3284,11 @@
           "website": NaN,
           "address_clean": "5533 Gray St",
           "state_clean": "Colorado",
-          "city_clean": "Arvada",
+          "clean": "Arvada",
           "zip": 80002
         },
         {
-          "Unnamed: 0": 3002,
+          "Unnamed: 0": 2910,
           "loan_amount": 34995.0,
           "business_name": "FOCUSED LIGHT LLC",
           "address": "5533 Gray St",
@@ -3319,7 +3319,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 438,
+          "Unnamed: 0": 388,
           "rank": 1,
           "business_name": "Monarch Metal Manufacturing",
           "logo": "['https://lh3.googleusercontent.com/-_PpgEGbfGfc/AAAAAAAAAAI/AAAAAAAAAAA/nqYPdK0vuVE/s400-p-k-no-ns-nd/photo.jpg', 'https://lh3.googleusercontent.com/-_PpgEGbfGfc/AAAAAAAAAAI/AAAAAAAAAAA/nqYPdK0vuVE/s60-p-k-no-ns-nd/photo.jpg']",
@@ -3349,11 +3349,11 @@
           "website": "{'domain': 'monarchmetalmfg.com', 'platform': None, 'url': 'http://monarchmetalmfg.com/index.html'}",
           "address_clean": "550 W 53rd Pl",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80216
         },
         {
-          "Unnamed: 0": 438,
+          "Unnamed: 0": 388,
           "loan_amount": 505810.0,
           "business_name": "MONARCH METAL MANUFACTURING",
           "address": "550 W. 53rd Pl.",
@@ -3384,7 +3384,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 25938,
+          "Unnamed: 0": 25769,
           "rank": 33,
           "business_name": "Bron Tapes",
           "logo": "['https://lh5.googleusercontent.com/-KCX2BBHVvOc/AAAAAAAAAAI/AAAAAAAAAAA/NPIeHF0rPI0/s400-p-k-no-ns-nd/photo.jpg', 'https://lh5.googleusercontent.com/-KCX2BBHVvOc/AAAAAAAAAAI/AAAAAAAAAAA/NPIeHF0rPI0/s60-p-k-no-ns-nd/photo.jpg']",
@@ -3414,11 +3414,11 @@
           "website": "{'domain': 'brontapes.com', 'platform': None, 'url': 'https://www.brontapes.com/'}",
           "address_clean": "875 W Ellsworth Ave",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80223
         },
         {
-          "Unnamed: 0": 25938,
+          "Unnamed: 0": 25769,
           "loan_amount": 2093700.0,
           "business_name": "BRON TAPES HOLDING, INC.",
           "address": "875 W Ellsworth Ave",
@@ -3449,7 +3449,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 40527,
+          "Unnamed: 0": 40053,
           "rank": 51,
           "business_name": "The Real Dill",
           "logo": "['https://lh6.googleusercontent.com/-2US1jvvguHU/AAAAAAAAAAI/AAAAAAAAAAA/Ltzvb5F8SBE/s400-p-k-no-ns-nd/photo.jpg', 'https://lh6.googleusercontent.com/-2US1jvvguHU/AAAAAAAAAAI/AAAAAAAAAAA/Ltzvb5F8SBE/s60-p-k-no-ns-nd/photo.jpg']",
@@ -3479,11 +3479,11 @@
           "website": "{'domain': 'therealdill.com', 'platform': None, 'url': 'http://therealdill.com/'}",
           "address_clean": "33 S Fox St",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80223
         },
         {
-          "Unnamed: 0": 40527,
+          "Unnamed: 0": 40053,
           "loan_amount": 137340.0,
           "business_name": "THE REAL DILL, LLC",
           "address": "33 S FOX ST",
@@ -3514,7 +3514,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 26232,
+          "Unnamed: 0": 26051,
           "rank": 34,
           "business_name": "Harrow Sports",
           "logo": NaN,
@@ -3544,11 +3544,11 @@
           "website": "{'domain': 'harrowsports.com', 'platform': None, 'url': 'https://www.harrowsports.com/'}",
           "address_clean": "600 W Bayaud Ave",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80223
         },
         {
-          "Unnamed: 0": 26232,
+          "Unnamed: 0": 26051,
           "loan_amount": 1443000.0,
           "business_name": "HARROW SPORTS",
           "address": "600 w BAYAUD AVE",
@@ -3579,7 +3579,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 40156,
+          "Unnamed: 0": 39682,
           "rank": 50,
           "business_name": "Boker USA, Inc.",
           "logo": NaN,
@@ -3609,11 +3609,11 @@
           "website": "{'domain': 'bokerusa.com', 'platform': None, 'url': 'http://www.bokerusa.com/'}",
           "address_clean": "1550 Balsam St",
           "state_clean": "Colorado",
-          "city_clean": "Lakewood",
+          "clean": "Lakewood",
           "zip": 80214
         },
         {
-          "Unnamed: 0": 40156,
+          "Unnamed: 0": 39682,
           "loan_amount": 224000.0,
           "business_name": "BOKER USA INC",
           "address": "1550 BALSAM ST",
@@ -3644,7 +3644,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 14395,
+          "Unnamed: 0": 14232,
           "rank": 17,
           "business_name": "NuLine Manufacturing Inc.",
           "logo": "['https://lh6.googleusercontent.com/-hNCVY2eeqwA/AAAAAAAAAAI/AAAAAAAAAAA/vpkanYh2QDg/s400-p-k-no-ns-nd/photo.jpg', 'https://lh6.googleusercontent.com/-hNCVY2eeqwA/AAAAAAAAAAI/AAAAAAAAAAA/vpkanYh2QDg/s60-p-k-no-ns-nd/photo.jpg']",
@@ -3674,11 +3674,11 @@
           "website": "{'domain': 'nuline.com', 'platform': None, 'url': 'http://nuline.com/'}",
           "address_clean": "11333 E 55th Ave Unit C",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80239
         },
         {
-          "Unnamed: 0": 14395,
+          "Unnamed: 0": 14232,
           "loan_amount": 128191.0,
           "business_name": "NULINE MANUFACTURING INCORPORATED",
           "address": "11333 E 55TH AVE UNIT C",
@@ -3709,7 +3709,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 6992,
+          "Unnamed: 0": 6896,
           "rank": 8,
           "business_name": "Acme Manufacturing Company",
           "logo": "['https://lh5.googleusercontent.com/-BQsQRONysrY/AAAAAAAAAAI/AAAAAAAAAAA/nGfrT4yo9Lw/s400-p-k-no-ns-nd/photo.jpg', 'https://lh5.googleusercontent.com/-BQsQRONysrY/AAAAAAAAAAI/AAAAAAAAAAA/nGfrT4yo9Lw/s60-p-k-no-ns-nd/photo.jpg']",
@@ -3739,11 +3739,11 @@
           "website": "{'domain': 'acmemfgco.com', 'platform': None, 'url': 'http://www.acmemfgco.com/'}",
           "address_clean": "4661 Monaco St",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80216
         },
         {
-          "Unnamed: 0": 6992,
+          "Unnamed: 0": 6896,
           "loan_amount": 2929500.0,
           "business_name": "ACME MANUFACTURING COMPANY, INC.",
           "address": "4661 Monaco St.",
@@ -3774,7 +3774,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 57932,
+          "Unnamed: 0": 57677,
           "rank": 68,
           "business_name": "Copeland Precast, Inc.",
           "logo": "['https://lh6.googleusercontent.com/-RHPKbHGiQKQ/AAAAAAAAAAI/AAAAAAAAAAA/-5dgojdo2mE/s400-p-k-no-ns-nd/photo.jpg', 'https://lh6.googleusercontent.com/-RHPKbHGiQKQ/AAAAAAAAAAI/AAAAAAAAAAA/-5dgojdo2mE/s60-p-k-no-ns-nd/photo.jpg']",
@@ -3804,11 +3804,11 @@
           "website": "{'domain': 'copelandprecast.com', 'platform': None, 'url': 'http://copelandprecast.com/'}",
           "address_clean": "904 S Lipan St",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80223
         },
         {
-          "Unnamed: 0": 57932,
+          "Unnamed: 0": 57677,
           "loan_amount": 385077.0,
           "business_name": "COPELAND ENTERPRISES, INC. DBA COPELAND PRECAST, INC.",
           "address": "904 S LIPAN ST",
@@ -3839,7 +3839,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 53432,
+          "Unnamed: 0": 53202,
           "rank": 64,
           "business_name": "Pro Cabinet Solutions",
           "logo": "['https://lh4.googleusercontent.com/-fYJGD3pj1j4/AAAAAAAAAAI/AAAAAAAAAAA/rh6M0Nn5gfo/s400-p-k-no-ns-nd/photo.jpg', 'https://lh4.googleusercontent.com/-fYJGD3pj1j4/AAAAAAAAAAI/AAAAAAAAAAA/rh6M0Nn5gfo/s60-p-k-no-ns-nd/photo.jpg']",
@@ -3869,11 +3869,11 @@
           "website": "{'domain': 'procabinetsolutions.com', 'platform': None, 'url': 'http://www.procabinetsolutions.com/'}",
           "address_clean": "1367 N Harlan St",
           "state_clean": "Colorado",
-          "city_clean": "Lakewood",
+          "clean": "Lakewood",
           "zip": 80214
         },
         {
-          "Unnamed: 0": 53432,
+          "Unnamed: 0": 53202,
           "loan_amount": 240900.0,
           "business_name": "PRO CABINET SOLUTIONS INC",
           "address": "1367 Harlan St",
@@ -3904,7 +3904,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 70833,
+          "Unnamed: 0": 70837,
           "rank": 80,
           "business_name": "Metal Roofing Solutions",
           "logo": NaN,
@@ -3934,11 +3934,11 @@
           "website": "{'domain': 'metalroofingsolutions.net', 'platform': None, 'url': 'http://metalroofingsolutions.net/'}",
           "address_clean": "6225 W 48th Ave",
           "state_clean": "Colorado",
-          "city_clean": "Wheat Ridge",
+          "clean": "Wheat Ridge",
           "zip": 80033
         },
         {
-          "Unnamed: 0": 70833,
+          "Unnamed: 0": 70837,
           "loan_amount": 68750.0,
           "business_name": "METAL ROOFING SOLUTIONS LLC",
           "address": "6225 48TH AVE W",
@@ -3969,7 +3969,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 72249,
+          "Unnamed: 0": 72303,
           "rank": 83,
           "business_name": "R & M Sales Co Inc",
           "logo": NaN,
@@ -3999,11 +3999,11 @@
           "website": "{'domain': 'r-and-msales.com', 'platform': None, 'url': 'https://r-and-msales.com/'}",
           "address_clean": "2737 W 2nd Ave",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80219
         },
         {
-          "Unnamed: 0": 72249,
+          "Unnamed: 0": 72303,
           "loan_amount": 35800.0,
           "business_name": "R & M SALES CO INC",
           "address": "2737 W 2nd Ave",
@@ -4034,7 +4034,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 56349,
+          "Unnamed: 0": 56028,
           "rank": 67,
           "business_name": "Integrity Fire Safety Services",
           "logo": "['https://lh4.googleusercontent.com/-T1Wb5YXF8Po/AAAAAAAAAAI/AAAAAAAAAAA/7KB4XuEmp6A/s400-p-k-no-ns-nd/photo.jpg', 'https://lh4.googleusercontent.com/-T1Wb5YXF8Po/AAAAAAAAAAI/AAAAAAAAAAA/7KB4XuEmp6A/s60-p-k-no-ns-nd/photo.jpg']",
@@ -4064,11 +4064,11 @@
           "website": "{'domain': 'integrityfiresafetyservices.com', 'platform': None, 'url': 'https://www.integrityfiresafetyservices.com/'}",
           "address_clean": "2695 W 3rd Ave",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80219
         },
         {
-          "Unnamed: 0": 56349,
+          "Unnamed: 0": 56028,
           "loan_amount": 798758.0,
           "business_name": "INTEGRITY FIRE SAFETY SERVICES, LLC",
           "address": "2695 W.   3RD AVE",
@@ -4099,7 +4099,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 37570,
+          "Unnamed: 0": 37128,
           "rank": 48,
           "business_name": "Paramount Fabrics Inc",
           "logo": "['https://lh6.googleusercontent.com/-_1P67LvIX-g/AAAAAAAAAAI/AAAAAAAAAAA/gtr2-h1h5W4/s400-p-k-no-ns-nd/photo.jpg', 'https://lh6.googleusercontent.com/-_1P67LvIX-g/AAAAAAAAAAI/AAAAAAAAAAA/gtr2-h1h5W4/s60-p-k-no-ns-nd/photo.jpg']",
@@ -4129,11 +4129,11 @@
           "website": "{'domain': 'paramountfabrics.com', 'platform': None, 'url': 'http://www.paramountfabrics.com/'}",
           "address_clean": "5570 W 60th Ave",
           "state_clean": "Colorado",
-          "city_clean": "Arvada",
+          "clean": "Arvada",
           "zip": 80003
         },
         {
-          "Unnamed: 0": 37570,
+          "Unnamed: 0": 37128,
           "loan_amount": 265607.5,
           "business_name": "PARAMOUNT FABRICS INC",
           "address": "5570 W 60TH AVE",
@@ -4164,7 +4164,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 32696,
+          "Unnamed: 0": 32425,
           "rank": 43,
           "business_name": "Rylind Manufacturing, Inc",
           "logo": "['https://lh4.googleusercontent.com/-7jEnJIn9g40/AAAAAAAAAAI/AAAAAAAAAAA/sYsoZVFWgUs/s400-p-k-no-ns-nd/photo.jpg', 'https://lh4.googleusercontent.com/-7jEnJIn9g40/AAAAAAAAAAI/AAAAAAAAAAA/sYsoZVFWgUs/s60-p-k-no-ns-nd/photo.jpg']",
@@ -4194,11 +4194,11 @@
           "website": "{'domain': 'rylind.com', 'platform': None, 'url': 'http://www.rylind.com/'}",
           "address_clean": "2801 Youngfield St",
           "state_clean": "Colorado",
-          "city_clean": "Golden",
+          "clean": "Golden",
           "zip": 80401
         },
         {
-          "Unnamed: 0": 32696,
+          "Unnamed: 0": 32425,
           "loan_amount": 126000.0,
           "business_name": "RYLIND MANUFACTURING, INC.",
           "address": "2801 Youngfield St, Ste 250",
@@ -4259,7 +4259,7 @@
           "website": "{'domain': 'uniquemm.com', 'platform': None, 'url': 'http://uniquemm.com/'}",
           "address_clean": "5752 N Lamar St",
           "state_clean": "Colorado",
-          "city_clean": "Arvada",
+          "clean": "Arvada",
           "zip": 80002
         },
         {
@@ -4294,7 +4294,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 13428,
+          "Unnamed: 0": 13193,
           "rank": 16,
           "business_name": "Control Design & Manufacturing",
           "logo": NaN,
@@ -4324,11 +4324,11 @@
           "website": "{'domain': 'controldesignmfg.com', 'platform': None, 'url': 'http://www.controldesignmfg.com/'}",
           "address_clean": "2626 S Zuni St",
           "state_clean": "Colorado",
-          "city_clean": "Englewood",
+          "clean": "Englewood",
           "zip": 80110
         },
         {
-          "Unnamed: 0": 13428,
+          "Unnamed: 0": 13193,
           "loan_amount": 206182.0,
           "business_name": "CONTROL DESIGN &AMP; MANUFACTURING, INC.",
           "address": "2624 ZUNI ST S",
@@ -4359,7 +4359,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 78656,
+          "Unnamed: 0": 78593,
           "rank": 89,
           "business_name": "Sincerely Yours",
           "logo": "['https://lh3.googleusercontent.com/-MwS8z5-9Sr4/AAAAAAAAAAI/AAAAAAAAAAA/hRwAUdhtAlM/s400-p-k-no-ns-nd/photo.jpg', 'https://lh3.googleusercontent.com/-MwS8z5-9Sr4/AAAAAAAAAAI/AAAAAAAAAAA/hRwAUdhtAlM/s60-p-k-no-ns-nd/photo.jpg']",
@@ -4389,11 +4389,11 @@
           "website": "{'domain': 'sincerelyyourspromos.com', 'platform': None, 'url': 'http://www.sincerelyyourspromos.com/'}",
           "address_clean": "3113 E 3rd Ave #206",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80206
         },
         {
-          "Unnamed: 0": 78656,
+          "Unnamed: 0": 78593,
           "loan_amount": 36699.0,
           "business_name": "SINCERELY YOURS",
           "address": "3113 E 3rd Avenue Suite 206",
@@ -4424,7 +4424,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 63574,
+          "Unnamed: 0": 63589,
           "rank": 72,
           "business_name": "Denver Restaurant Equipment Corp.",
           "logo": "['https://lh6.googleusercontent.com/--_N7m1tKAVc/AAAAAAAAAAI/AAAAAAAAAAA/ScNVvt0L-iI/s400-p-k-no-ns-nd/photo.jpg', 'https://lh6.googleusercontent.com/--_N7m1tKAVc/AAAAAAAAAAI/AAAAAAAAAAA/ScNVvt0L-iI/s60-p-k-no-ns-nd/photo.jpg']",
@@ -4454,11 +4454,11 @@
           "website": "{'domain': 'denverrestaurantequipment.net', 'platform': None, 'url': 'https://www.denverrestaurantequipment.net/'}",
           "address_clean": "4900-a Acoma St",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80216
         },
         {
-          "Unnamed: 0": 63574,
+          "Unnamed: 0": 63589,
           "loan_amount": 48000.0,
           "business_name": "DENVER RESTAURANT EQUIPMENT",
           "address": "4900 Acoma st unit a",
@@ -4489,7 +4489,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 34442,
+          "Unnamed: 0": 34078,
           "rank": 45,
           "business_name": "Gates & Sons Inc",
           "logo": "['https://lh6.googleusercontent.com/-A9N3YZxH1Q4/AAAAAAAAAAI/AAAAAAAAAAA/gaJFUJCVQ10/s400-p-k-no-ns-nd/photo.jpg', 'https://lh6.googleusercontent.com/-A9N3YZxH1Q4/AAAAAAAAAAI/AAAAAAAAAAA/gaJFUJCVQ10/s60-p-k-no-ns-nd/photo.jpg']",
@@ -4519,11 +4519,11 @@
           "website": "{'domain': 'gatesconcreteforms.com', 'platform': None, 'url': 'http://gatesconcreteforms.com/'}",
           "address_clean": "90 S Fox St",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80223
         },
         {
-          "Unnamed: 0": 34442,
+          "Unnamed: 0": 34078,
           "loan_amount": 1006900.0,
           "business_name": "GATES AND SONS, INC.",
           "address": "90 S FOX ST",
@@ -4554,7 +4554,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 40492,
+          "Unnamed: 0": 40018,
           "rank": 50,
           "business_name": "Neocom Promo LLC",
           "logo": "['https://lh3.googleusercontent.com/-FwlFi6NyjoE/AAAAAAAAAAI/AAAAAAAAAAA/Rx8vQSmMEq0/s400-p-k-no-ns-nd/photo.jpg', 'https://lh3.googleusercontent.com/-FwlFi6NyjoE/AAAAAAAAAAI/AAAAAAAAAAA/Rx8vQSmMEq0/s60-p-k-no-ns-nd/photo.jpg']",
@@ -4584,11 +4584,11 @@
           "website": "{'domain': 'neocompromo.com', 'platform': None, 'url': 'https://www.neocompromo.com/'}",
           "address_clean": "1633 Fillmore St Suite 404",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80206
         },
         {
-          "Unnamed: 0": 40492,
+          "Unnamed: 0": 40018,
           "loan_amount": 3714.0,
           "business_name": "NEOCOM PROMO LLC",
           "address": "1633 FILLMORE STREET",
@@ -4619,7 +4619,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 61382,
+          "Unnamed: 0": 61328,
           "rank": 70,
           "business_name": "Sportique Scooters",
           "logo": "['https://lh5.googleusercontent.com/-eH_-98HFMwM/AAAAAAAAAAI/AAAAAAAAAAA/BB23bAPY5LU/s400-p-k-no-ns-nd/photo.jpg', 'https://lh5.googleusercontent.com/-eH_-98HFMwM/AAAAAAAAAAI/AAAAAAAAAAA/BB23bAPY5LU/s60-p-k-no-ns-nd/photo.jpg']",
@@ -4649,11 +4649,11 @@
           "website": "{'domain': 'sportiquescooters.com', 'platform': None, 'url': 'http://sportiquescooters.com/'}",
           "address_clean": "160 S Broadway",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80209
         },
         {
-          "Unnamed: 0": 61382,
+          "Unnamed: 0": 61328,
           "loan_amount": 85977.0,
           "business_name": "SPORTIQUE SCOOTERS, LLC",
           "address": "160 S Broadway",
@@ -4714,7 +4714,7 @@
           "website": "{'domain': 'alfredmfg.com', 'platform': None, 'url': 'https://www.alfredmfg.com/'}",
           "address_clean": "4398 Elati St",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80216
         },
         {
@@ -4749,7 +4749,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 57627,
+          "Unnamed: 0": 57322,
           "rank": 68,
           "business_name": "Columbine Paper & Maintenance",
           "logo": "['https://lh5.googleusercontent.com/-M7QwJsh6pdM/AAAAAAAAAAI/AAAAAAAAAAA/NDBslLdacRE/s400-p-k-no-ns-nd/photo.jpg', 'https://lh5.googleusercontent.com/-M7QwJsh6pdM/AAAAAAAAAAI/AAAAAAAAAAA/NDBslLdacRE/s60-p-k-no-ns-nd/photo.jpg']",
@@ -4779,11 +4779,11 @@
           "website": "{'domain': 'columbinepaper.com', 'platform': None, 'url': 'http://www.columbinepaper.com/'}",
           "address_clean": "1300 N Lamar St",
           "state_clean": "Colorado",
-          "city_clean": "Lakewood",
+          "clean": "Lakewood",
           "zip": 80214
         },
         {
-          "Unnamed: 0": 57627,
+          "Unnamed: 0": 57322,
           "loan_amount": 82900.0,
           "business_name": "COLUMBINE PAPER & MAINTENANCE SUPPLY CO., INC",
           "address": "1300 Lamar Street",
@@ -4814,7 +4814,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 48387,
+          "Unnamed: 0": 47873,
           "rank": 58,
           "business_name": "The Duck Company",
           "logo": NaN,
@@ -4844,11 +4844,11 @@
           "website": "{'domain': 'duckco.com', 'platform': None, 'url': 'https://www.duckco.com/'}",
           "address_clean": "5601 Gray St Unit A",
           "state_clean": "Colorado",
-          "city_clean": "Arvada",
+          "clean": "Arvada",
           "zip": 80002
         },
         {
-          "Unnamed: 0": 48387,
+          "Unnamed: 0": 47873,
           "loan_amount": 812437.0,
           "business_name": "THE DUCK COMPANY",
           "address": "5601 Gray Street",
@@ -4879,7 +4879,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 69261,
+          "Unnamed: 0": 69229,
           "rank": 79,
           "business_name": "Knotty Tie Co.",
           "logo": "['https://lh5.googleusercontent.com/-VJiSHnzdyno/AAAAAAAAAAI/AAAAAAAAAAA/NpijhtKBi6I/s400-p-k-no-ns-nd/photo.jpg', 'https://lh5.googleusercontent.com/-VJiSHnzdyno/AAAAAAAAAAI/AAAAAAAAAAA/NpijhtKBi6I/s60-p-k-no-ns-nd/photo.jpg']",
@@ -4909,11 +4909,11 @@
           "website": "{'domain': 'knottytie.com', 'platform': None, 'url': 'http://www.knottytie.com/'}",
           "address_clean": "926 W 10th Ave",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80204
         },
         {
-          "Unnamed: 0": 69261,
+          "Unnamed: 0": 69229,
           "loan_amount": 138800.0,
           "business_name": "KNOTTY TIE CO.",
           "address": "926 W 10TH AVE",
@@ -4944,7 +4944,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 26913,
+          "Unnamed: 0": 26747,
           "rank": 35,
           "business_name": "Fabrications Unlimited",
           "logo": "['https://lh5.googleusercontent.com/-1MCTz367KsA/AAAAAAAAAAI/AAAAAAAAAAA/KEyxTgFGmDE/s400-p-k-no-ns-nd/photo.jpg', 'https://lh5.googleusercontent.com/-1MCTz367KsA/AAAAAAAAAAI/AAAAAAAAAAA/KEyxTgFGmDE/s60-p-k-no-ns-nd/photo.jpg']",
@@ -4974,11 +4974,11 @@
           "website": NaN,
           "address_clean": "5440 Marshall St Ste 4",
           "state_clean": "Colorado",
-          "city_clean": "Arvada",
+          "clean": "Arvada",
           "zip": 80002
         },
         {
-          "Unnamed: 0": 26913,
+          "Unnamed: 0": 26747,
           "loan_amount": 67100.0,
           "business_name": "FABRICATIONS UNLIMITED INC",
           "address": "5440 MARSHALL ST",
@@ -5009,7 +5009,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 12995,
+          "Unnamed: 0": 12690,
           "rank": 15,
           "business_name": "Wanco Inc.",
           "logo": "['https://lh4.googleusercontent.com/-Cg9sdyEyD18/AAAAAAAAAAI/AAAAAAAAAAA/qVxLDVQM9Y4/s400-p-k-no-ns-nd/photo.jpg', 'https://lh4.googleusercontent.com/-Cg9sdyEyD18/AAAAAAAAAAI/AAAAAAAAAAA/qVxLDVQM9Y4/s60-p-k-no-ns-nd/photo.jpg']",
@@ -5039,11 +5039,11 @@
           "website": "{'domain': 'wanco.com', 'platform': None, 'url': 'https://www.wanco.com/'}",
           "address_clean": "5870 Tennyson St",
           "state_clean": "Colorado",
-          "city_clean": "Arvada",
+          "clean": "Arvada",
           "zip": 80003
         },
         {
-          "Unnamed: 0": 12995,
+          "Unnamed: 0": 12690,
           "loan_amount": 4099944.65,
           "business_name": "WANCO INC",
           "address": "5870 Tennyson St",
@@ -5074,7 +5074,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 30095,
+          "Unnamed: 0": 29930,
           "rank": 40,
           "business_name": "Zimmerman Metals, Inc.",
           "logo": "['https://lh3.googleusercontent.com/-VYgs2I4gNck/AAAAAAAAAAI/AAAAAAAAAAA/il4_qOs8V-s/s400-p-k-no-ns-nd/photo.jpg', 'https://lh3.googleusercontent.com/-VYgs2I4gNck/AAAAAAAAAAI/AAAAAAAAAAA/il4_qOs8V-s/s60-p-k-no-ns-nd/photo.jpg']",
@@ -5104,11 +5104,11 @@
           "website": "{'domain': 'zimmerman-metals.com', 'platform': None, 'url': 'https://zimmerman-metals.com/'}",
           "address_clean": "201 E 58th Ave",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80216
         },
         {
-          "Unnamed: 0": 30095,
+          "Unnamed: 0": 29930,
           "loan_amount": 1442251.0,
           "business_name": "ZIMMERMAN METALS, INC.",
           "address": "201 E 58TH AVE",
@@ -5139,7 +5139,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 2987,
+          "Unnamed: 0": 2895,
           "rank": 3,
           "business_name": "Cobitco Inc",
           "logo": NaN,
@@ -5169,11 +5169,11 @@
           "website": "{'domain': 'cobitco.com', 'platform': None, 'url': 'http://cobitco.com/'}",
           "address_clean": "5301 Bannock St",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80216
         },
         {
-          "Unnamed: 0": 2987,
+          "Unnamed: 0": 2895,
           "loan_amount": 261000.0,
           "business_name": "COBITCO, INC.",
           "address": "5301 Bannock Street",
@@ -5204,7 +5204,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 47921,
+          "Unnamed: 0": 47390,
           "rank": 58,
           "business_name": "Flink Supply Co",
           "logo": "['https://lh4.googleusercontent.com/-qA6TYG2_szU/AAAAAAAAAAI/AAAAAAAAAAA/N1H1FL_3Eok/s400-p-k-no-ns-nd/photo.jpg', 'https://lh4.googleusercontent.com/-qA6TYG2_szU/AAAAAAAAAAI/AAAAAAAAAAA/N1H1FL_3Eok/s60-p-k-no-ns-nd/photo.jpg']",
@@ -5234,11 +5234,11 @@
           "website": "{'domain': 'flinksupply.com', 'platform': None, 'url': 'http://flinksupply.com/'}",
           "address_clean": "58 S Galapago St",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80223
         },
         {
-          "Unnamed: 0": 47921,
+          "Unnamed: 0": 47390,
           "loan_amount": 49285.0,
           "business_name": "FLINK SUPPLY COMPANY, LLC",
           "address": "58 South Galapago Street",
@@ -5269,7 +5269,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 22769,
+          "Unnamed: 0": 22524,
           "rank": 27,
           "business_name": "Genesee Biomedical Inc",
           "logo": "['https://lh6.googleusercontent.com/-URItm2st7xE/AAAAAAAAAAI/AAAAAAAAAAA/TUnvKut-eB4/s400-p-k-no-ns-nd/photo.jpg', 'https://lh6.googleusercontent.com/-URItm2st7xE/AAAAAAAAAAI/AAAAAAAAAAA/TUnvKut-eB4/s60-p-k-no-ns-nd/photo.jpg']",
@@ -5299,11 +5299,11 @@
           "website": "{'domain': 'geneseebiomedical.com', 'platform': None, 'url': 'http://www.geneseebiomedical.com/'}",
           "address_clean": "700 W Mississippi Ave d5",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80223
         },
         {
-          "Unnamed: 0": 22769,
+          "Unnamed: 0": 22524,
           "loan_amount": 270200.0,
           "business_name": "GENESEE BIOMEDICAL, INC.",
           "address": "700 W Mississippi Ave, Unit D-5",
@@ -5334,7 +5334,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 17295,
+          "Unnamed: 0": 16978,
           "rank": 19,
           "business_name": "Right Stuff Equipment",
           "logo": "['https://lh6.googleusercontent.com/-y_V6G83IXbY/AAAAAAAAAAI/AAAAAAAAAAA/MZBYmYfUQPs/s400-p-k-no-ns-nd/photo.jpg', 'https://lh6.googleusercontent.com/-y_V6G83IXbY/AAAAAAAAAAI/AAAAAAAAAAA/MZBYmYfUQPs/s60-p-k-no-ns-nd/photo.jpg']",
@@ -5364,11 +5364,11 @@
           "website": "{'domain': 'rightstuffequipment.com', 'platform': None, 'url': 'http://www.rightstuffequipment.com/'}",
           "address_clean": "1605 E 69th Ave",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80229
         },
         {
-          "Unnamed: 0": 17295,
+          "Unnamed: 0": 16978,
           "loan_amount": 304864.0,
           "business_name": "RIGHT STUFF EQUIPMENT SUPPLY LLC",
           "address": "1605 69TH AVE E",
@@ -5399,7 +5399,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 50088,
+          "Unnamed: 0": 49715,
           "rank": 61,
           "business_name": "Dairy Engineering Company",
           "logo": "['https://lh5.googleusercontent.com/-WWu8N6r1B60/AAAAAAAAAAI/AAAAAAAAAAA/slMQyaQunXs/s400-p-k-no-ns-nd/photo.jpg', 'https://lh5.googleusercontent.com/-WWu8N6r1B60/AAAAAAAAAAI/AAAAAAAAAAA/slMQyaQunXs/s60-p-k-no-ns-nd/photo.jpg']",
@@ -5429,11 +5429,11 @@
           "website": "{'domain': 'dairyengineering.com', 'platform': None, 'url': 'https://dairyengineering.com/'}",
           "address_clean": "5783 Sheridan Boulevard",
           "state_clean": "Colorado",
-          "city_clean": "Arvada",
+          "clean": "Arvada",
           "zip": 80002
         },
         {
-          "Unnamed: 0": 50088,
+          "Unnamed: 0": 49715,
           "loan_amount": 784972.0,
           "business_name": "DAIRY ENGINEERING COMPANY",
           "address": "5783 Sheridan Frontage Road",
@@ -5464,7 +5464,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 92799,
+          "Unnamed: 0": 92632,
           "rank": 101,
           "business_name": "Paramount Audio Video Corp.",
           "logo": "['https://lh4.googleusercontent.com/-FLhjAF8GdvQ/AAAAAAAAAAI/AAAAAAAAAAA/4SxnCj9kn2c/s400-p-k-no-ns-nd/photo.jpg', 'https://lh4.googleusercontent.com/-FLhjAF8GdvQ/AAAAAAAAAAI/AAAAAAAAAAA/4SxnCj9kn2c/s60-p-k-no-ns-nd/photo.jpg']",
@@ -5494,11 +5494,11 @@
           "website": "{'domain': 'paramountav.com', 'platform': None, 'url': 'http://www.paramountav.com/'}",
           "address_clean": "2505 W 2nd Ave #10",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80219
         },
         {
-          "Unnamed: 0": 92799,
+          "Unnamed: 0": 92632,
           "loan_amount": 85800.0,
           "business_name": "PARAMOUNT AUDIO VIDEO CORPORATION",
           "address": "2505 W 2nd Ave., Unit 10",
@@ -5529,7 +5529,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 54050,
+          "Unnamed: 0": 53754,
           "rank": 64,
           "business_name": "Direct Polymers",
           "logo": "['https://lh3.googleusercontent.com/-tIETwu584fg/AAAAAAAAAAI/AAAAAAAAAAA/rO7nW2-Yt7s/s400-p-k-no-ns-nd/photo.jpg', 'https://lh3.googleusercontent.com/-tIETwu584fg/AAAAAAAAAAI/AAAAAAAAAAA/rO7nW2-Yt7s/s60-p-k-no-ns-nd/photo.jpg']",
@@ -5559,11 +5559,11 @@
           "website": "{'domain': 'directpolymers.com', 'platform': None, 'url': 'http://www.directpolymers.com/'}",
           "address_clean": "3601 E 44th Ave",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80216
         },
         {
-          "Unnamed: 0": 54050,
+          "Unnamed: 0": 53754,
           "loan_amount": 36250.0,
           "business_name": "DIRECT POLYMERS LLC",
           "address": "3601 E 44TH AVE",
@@ -5594,7 +5594,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 55356,
+          "Unnamed: 0": 55081,
           "rank": 66,
           "business_name": "Maglin Corporation",
           "logo": "['https://lh6.googleusercontent.com/-h-7pBMO2iF0/AAAAAAAAAAI/AAAAAAAAAAA/sscf0_f1_fM/s400-p-k-no-ns-nd/photo.jpg', 'https://lh6.googleusercontent.com/-h-7pBMO2iF0/AAAAAAAAAAI/AAAAAAAAAAA/sscf0_f1_fM/s60-p-k-no-ns-nd/photo.jpg']",
@@ -5624,11 +5624,11 @@
           "website": "{'domain': 'maglin.com', 'platform': None, 'url': 'https://www.maglin.com/'}",
           "address_clean": "999 18th St UNIT 3000",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80202
         },
         {
-          "Unnamed: 0": 55356,
+          "Unnamed: 0": 55081,
           "loan_amount": 59200.0,
           "business_name": "MAGLIN CORPORATION",
           "address": "999 18th Street Ste 3000",
@@ -5659,7 +5659,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 14389,
+          "Unnamed: 0": 14226,
           "rank": 17,
           "business_name": "PHM Brands",
           "logo": "['https://lh6.googleusercontent.com/-L-d3_MLNZPs/AAAAAAAAAAI/AAAAAAAAAAA/5hyjlybufq8/s400-p-k-no-ns-nd/photo.jpg', 'https://lh6.googleusercontent.com/-L-d3_MLNZPs/AAAAAAAAAAI/AAAAAAAAAAA/5hyjlybufq8/s60-p-k-no-ns-nd/photo.jpg']",
@@ -5689,11 +5689,11 @@
           "website": "{'domain': 'phmbrands.com', 'platform': None, 'url': 'http://phmbrands.com/'}",
           "address_clean": "730 17th St #600",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80202
         },
         {
-          "Unnamed: 0": 14389,
+          "Unnamed: 0": 14226,
           "loan_amount": 3640390.0,
           "business_name": "PHM BRANDS, LLC",
           "address": "730 17th Street Suite 600",
@@ -5724,7 +5724,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 15083,
+          "Unnamed: 0": 14854,
           "rank": 17,
           "business_name": "Arvada Pump Company",
           "logo": "['https://lh5.googleusercontent.com/-Ws-S0QoH93w/AAAAAAAAAAI/AAAAAAAAAAA/THVKN9Xb9bY/s400-p-k-no-ns-nd/photo.jpg', 'https://lh5.googleusercontent.com/-Ws-S0QoH93w/AAAAAAAAAAI/AAAAAAAAAAA/THVKN9Xb9bY/s60-p-k-no-ns-nd/photo.jpg']",
@@ -5754,11 +5754,11 @@
           "website": "{'domain': 'arvadapump.com', 'platform': None, 'url': 'https://arvadapump.com/'}",
           "address_clean": "5695 N Lamar St",
           "state_clean": "Colorado",
-          "city_clean": "Arvada",
+          "clean": "Arvada",
           "zip": 80002
         },
         {
-          "Unnamed: 0": 15083,
+          "Unnamed: 0": 14854,
           "loan_amount": 153459.0,
           "business_name": "ARVADA PUMP CO. INC",
           "address": "5695 Lamar St",
@@ -5789,7 +5789,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 74100,
+          "Unnamed: 0": 74027,
           "rank": 85,
           "business_name": "Old Western Paint Co Inc",
           "logo": "['https://lh4.googleusercontent.com/-xh5tqKgPOzQ/AAAAAAAAAAI/AAAAAAAAAAA/0bMCIs6bvaw/s400-p-k-no-ns-nd/photo.jpg', 'https://lh4.googleusercontent.com/-xh5tqKgPOzQ/AAAAAAAAAAI/AAAAAAAAAAA/0bMCIs6bvaw/s60-p-k-no-ns-nd/photo.jpg']",
@@ -5819,11 +5819,11 @@
           "website": "{'domain': 'oldwesternpaint.com', 'platform': None, 'url': 'http://www.oldwesternpaint.com/'}",
           "address_clean": "2001 W Barberry Pl",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80204
         },
         {
-          "Unnamed: 0": 74100,
+          "Unnamed: 0": 74027,
           "loan_amount": 120000.0,
           "business_name": "OLD WESTERN PAINTS, INC.",
           "address": "2001 W. Barberry Place",
@@ -5854,7 +5854,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 8200,
+          "Unnamed: 0": 8071,
           "rank": 9,
           "business_name": "Ready Foods Inc",
           "logo": "['https://lh3.googleusercontent.com/-eHvJNYYXvYE/AAAAAAAAAAI/AAAAAAAAAAA/cAxngDCYjX4/s400-p-k-no-ns-nd/photo.jpg', 'https://lh3.googleusercontent.com/-eHvJNYYXvYE/AAAAAAAAAAI/AAAAAAAAAAA/cAxngDCYjX4/s60-p-k-no-ns-nd/photo.jpg']",
@@ -5884,11 +5884,11 @@
           "website": "{'domain': 'readyfoods.biz', 'platform': None, 'url': 'http://www.readyfoods.biz/'}",
           "address_clean": "2645 W 7th Ave",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80204
         },
         {
-          "Unnamed: 0": 8200,
+          "Unnamed: 0": 8071,
           "loan_amount": 3700290.0,
           "business_name": "READY FOODS, INC.",
           "address": "2645 West 7th Ave",
@@ -5919,7 +5919,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 25939,
+          "Unnamed: 0": 25770,
           "rank": 33,
           "business_name": "Karl Schmidt Mfg",
           "logo": "['https://lh4.googleusercontent.com/-ABYV43ELgck/AAAAAAAAAAI/AAAAAAAAAAA/19XtZTBB0zA/s400-p-k-no-ns-nd/photo.jpg', 'https://lh4.googleusercontent.com/-ABYV43ELgck/AAAAAAAAAAI/AAAAAAAAAAA/19XtZTBB0zA/s60-p-k-no-ns-nd/photo.jpg']",
@@ -5949,11 +5949,11 @@
           "website": "{'domain': 'karlschmidt.com', 'platform': None, 'url': 'http://karlschmidt.com/'}",
           "address_clean": "3900 E 68th Ave",
           "state_clean": "Colorado",
-          "city_clean": "Commerce City",
+          "clean": "Commerce City",
           "zip": 80022
         },
         {
-          "Unnamed: 0": 25939,
+          "Unnamed: 0": 25770,
           "loan_amount": 133590.0,
           "business_name": "KARL SCHMIDT MANUFACTURING, INC.",
           "address": "3900 E  68TH AVE",
@@ -5984,7 +5984,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 33466,
+          "Unnamed: 0": 33186,
           "rank": 43,
           "business_name": "Pre Action Fire, Inc",
           "logo": NaN,
@@ -6014,11 +6014,11 @@
           "website": "{'domain': 'preactionfire.com', 'platform': None, 'url': 'http://www.preactionfire.com/contact-us.html'}",
           "address_clean": "2921 W 38th Ave",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80211
         },
         {
-          "Unnamed: 0": 33466,
+          "Unnamed: 0": 33186,
           "loan_amount": 69145.0,
           "business_name": "PRE ACTION FIRE",
           "address": "2921 West 38th Avenue #453",
@@ -6049,7 +6049,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 72025,
+          "Unnamed: 0": 72100,
           "rank": 82,
           "business_name": "Cinegration LLC",
           "logo": "['https://lh3.googleusercontent.com/-KDO5VtZu75Y/AAAAAAAAAAI/AAAAAAAAAAA/3RFJ_AAJZPI/s400-p-k-no-ns-nd/photo.jpg', 'https://lh3.googleusercontent.com/-KDO5VtZu75Y/AAAAAAAAAAI/AAAAAAAAAAA/3RFJ_AAJZPI/s60-p-k-no-ns-nd/photo.jpg']",
@@ -6079,11 +6079,11 @@
           "website": "{'domain': 'cinegration.com', 'platform': None, 'url': 'https://www.cinegration.com/'}",
           "address_clean": "6425 W 52nd Ave #1",
           "state_clean": "Colorado",
-          "city_clean": "Arvada",
+          "clean": "Arvada",
           "zip": 80002
         },
         {
-          "Unnamed: 0": 72025,
+          "Unnamed: 0": 72100,
           "loan_amount": 166250.0,
           "business_name": "CINEGRATION LLC",
           "address": "6425 W 52ND AVE STE 1",
@@ -6114,7 +6114,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 25937,
+          "Unnamed: 0": 25768,
           "rank": 32,
           "business_name": "Seader Custom Metal Works",
           "logo": NaN,
@@ -6144,11 +6144,11 @@
           "website": "{'domain': 'seadercustommetalworks.com', 'platform': None, 'url': 'http://seadercustommetalworks.com/'}",
           "address_clean": "401 W 43rd Ave",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80216
         },
         {
-          "Unnamed: 0": 25937,
+          "Unnamed: 0": 25768,
           "loan_amount": 81000.0,
           "business_name": "SEADER CUSTOM METAL",
           "address": "401 w 43rd ave",
@@ -6179,7 +6179,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 56959,
+          "Unnamed: 0": 56663,
           "rank": 67,
           "business_name": "Talnua Distillery",
           "logo": "['https://lh4.googleusercontent.com/-Z5KHjNOeWwI/AAAAAAAAAAI/AAAAAAAAAAA/qZ1TcXftdG4/s400-p-k-no-ns-nd/photo.jpg', 'https://lh4.googleusercontent.com/-Z5KHjNOeWwI/AAAAAAAAAAI/AAAAAAAAAAA/qZ1TcXftdG4/s60-p-k-no-ns-nd/photo.jpg']",
@@ -6209,11 +6209,11 @@
           "website": "{'domain': 'talnua.com', 'platform': None, 'url': 'https://www.talnua.com/'}",
           "address_clean": "5405 W 56th Ave Unit C",
           "state_clean": "Colorado",
-          "city_clean": "Arvada",
+          "clean": "Arvada",
           "zip": 80002
         },
         {
-          "Unnamed: 0": 56959,
+          "Unnamed: 0": 56663,
           "loan_amount": 19332.0,
           "business_name": "TALNUA, LLC",
           "address": "5405 W 56TH AVE UNIT C",
@@ -6244,7 +6244,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 43932,
+          "Unnamed: 0": 43440,
           "rank": 55,
           "business_name": "Medical Creations Inc",
           "logo": NaN,
@@ -6274,11 +6274,11 @@
           "website": "{'domain': 'xtremity.com', 'platform': None, 'url': 'https://xtremity.com/'}",
           "address_clean": "1668 Lafayette St",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80218
         },
         {
-          "Unnamed: 0": 43932,
+          "Unnamed: 0": 43440,
           "loan_amount": 257500.0,
           "business_name": "MEDICAL CREATIONS INC",
           "address": "1660 N LAFAYETTE ST",
@@ -6309,7 +6309,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 4903,
+          "Unnamed: 0": 4818,
           "rank": 6,
           "business_name": "AAAA Specialties, Inc. - Custom Spring Manufacturing",
           "logo": "['https://lh4.googleusercontent.com/-1kR3RVsK9Do/AAAAAAAAAAI/AAAAAAAAAAA/ZrYzguZFaRI/s400-p-k-no-ns-nd/photo.jpg', 'https://lh4.googleusercontent.com/-1kR3RVsK9Do/AAAAAAAAAAI/AAAAAAAAAAA/ZrYzguZFaRI/s60-p-k-no-ns-nd/photo.jpg']",
@@ -6339,11 +6339,11 @@
           "website": "{'domain': 'aaaaspecialties.com', 'platform': None, 'url': 'http://www.aaaaspecialties.com/'}",
           "address_clean": "3030 Huron St",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80202
         },
         {
-          "Unnamed: 0": 4903,
+          "Unnamed: 0": 4818,
           "loan_amount": 36940.0,
           "business_name": "AAAA SPECIALTIES, INC.",
           "address": "3030 HURON ST",
@@ -6374,7 +6374,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 68907,
+          "Unnamed: 0": 68876,
           "rank": 78,
           "business_name": "Actall Corporation",
           "logo": "['https://lh6.googleusercontent.com/-qWjQGNnjIFU/AAAAAAAAAAI/AAAAAAAAAAA/KfgAu-_pm5I/s400-p-k-no-ns-nd/photo.jpg', 'https://lh6.googleusercontent.com/-qWjQGNnjIFU/AAAAAAAAAAI/AAAAAAAAAAA/KfgAu-_pm5I/s60-p-k-no-ns-nd/photo.jpg']",
@@ -6404,11 +6404,11 @@
           "website": "{'domain': 'actall.com', 'platform': None, 'url': 'http://www.actall.com/'}",
           "address_clean": "2017 Curtis Street",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80205
         },
         {
-          "Unnamed: 0": 68907,
+          "Unnamed: 0": 68876,
           "loan_amount": 179200.0,
           "business_name": "ACTALL CORPORATION",
           "address": "2017 CURTIS ST",
@@ -6439,7 +6439,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 104053,
+          "Unnamed: 0": 104032,
           "rank": 114,
           "business_name": "Colorado Saddlery",
           "logo": "['https://lh5.googleusercontent.com/-JaQgq4s_660/AAAAAAAAAAI/AAAAAAAAAAA/9JhXc_pE1q4/s400-p-k-no-ns-nd/photo.jpg', 'https://lh5.googleusercontent.com/-JaQgq4s_660/AAAAAAAAAAI/AAAAAAAAAAA/9JhXc_pE1q4/s60-p-k-no-ns-nd/photo.jpg']",
@@ -6469,11 +6469,11 @@
           "website": "{'domain': 'coloradosaddlery.com', 'platform': None, 'url': 'http://www.coloradosaddlery.com/'}",
           "address_clean": "3300 W 71st Ave",
           "state_clean": "Colorado",
-          "city_clean": "Westminster",
+          "clean": "Westminster",
           "zip": 80030
         },
         {
-          "Unnamed: 0": 104053,
+          "Unnamed: 0": 104032,
           "loan_amount": 46300.0,
           "business_name": "COLORADO SADDLERY LLC",
           "address": "3300 W 71ST AVE",
@@ -6504,7 +6504,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 10820,
+          "Unnamed: 0": 10616,
           "rank": 13,
           "business_name": "Innovations Manufacturing",
           "logo": "['https://lh4.googleusercontent.com/-OvtSzhMa1Bo/AAAAAAAAAAI/AAAAAAAAAAA/Qi5-Mw8DtLg/s400-p-k-no-ns-nd/photo.jpg', 'https://lh4.googleusercontent.com/-OvtSzhMa1Bo/AAAAAAAAAAI/AAAAAAAAAAA/Qi5-Mw8DtLg/s60-p-k-no-ns-nd/photo.jpg']",
@@ -6534,11 +6534,11 @@
           "website": "{'domain': 'im-inc.com', 'platform': None, 'url': 'http://www.im-inc.com/'}",
           "address_clean": "4555 Grape St #6441",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80216
         },
         {
-          "Unnamed: 0": 10820,
+          "Unnamed: 0": 10616,
           "loan_amount": 154627.0,
           "business_name": "INNOVATIONS MANUFACTURING, INC.",
           "address": "4555 GRAPE ST",
@@ -6569,7 +6569,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 40165,
+          "Unnamed: 0": 39691,
           "rank": 50,
           "business_name": "Denver Distillery",
           "logo": "['https://lh3.googleusercontent.com/-9omv6-6Xuz8/AAAAAAAAAAI/AAAAAAAAAAA/ez2YM0q_G1U/s400-p-k-no-ns-nd/photo.jpg', 'https://lh3.googleusercontent.com/-9omv6-6Xuz8/AAAAAAAAAAI/AAAAAAAAAAA/ez2YM0q_G1U/s60-p-k-no-ns-nd/photo.jpg']",
@@ -6599,11 +6599,11 @@
           "website": "{'domain': 'denverdistillery.com', 'platform': None, 'url': 'http://denverdistillery.com/'}",
           "address_clean": "244 S Broadway",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80209
         },
         {
-          "Unnamed: 0": 40165,
+          "Unnamed: 0": 39691,
           "loan_amount": 38800.0,
           "business_name": "DENVER DISTILLERY, LLC",
           "address": "244 S BROADWAY",
@@ -6634,7 +6634,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 2806,
+          "Unnamed: 0": 2714,
           "rank": 3,
           "business_name": "Whipchek Manufacturing Corporation",
           "logo": NaN,
@@ -6664,11 +6664,11 @@
           "website": NaN,
           "address_clean": "4935 Allison St # 7",
           "state_clean": "Colorado",
-          "city_clean": "Arvada",
+          "clean": "Arvada",
           "zip": 80002
         },
         {
-          "Unnamed: 0": 2806,
+          "Unnamed: 0": 2714,
           "loan_amount": 26702.0,
           "business_name": "WHIPCHEK MFG CO",
           "address": "4935 ALLISON ST STE 7",
@@ -6699,7 +6699,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 49524,
+          "Unnamed: 0": 49109,
           "rank": 61,
           "business_name": "Republic Manufacturing (formerly Joost Industrial)",
           "logo": "['https://lh4.googleusercontent.com/-Vokzv21HWfg/AAAAAAAAAAI/AAAAAAAAAAA/ZFPZKHGs_FM/s400-p-k-no-ns-nd/photo.jpg', 'https://lh4.googleusercontent.com/-Vokzv21HWfg/AAAAAAAAAAI/AAAAAAAAAAA/ZFPZKHGs_FM/s60-p-k-no-ns-nd/photo.jpg']",
@@ -6729,11 +6729,11 @@
           "website": "{'domain': 'republic-mfg.com', 'platform': None, 'url': 'https://republic-mfg.com/'}",
           "address_clean": "5500 Joliet St",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80239
         },
         {
-          "Unnamed: 0": 49524,
+          "Unnamed: 0": 49109,
           "loan_amount": 214005.0,
           "business_name": "JOOST INDUSTRIAL, INC",
           "address": "5500 JOLIET ST",
@@ -6764,7 +6764,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 98797,
+          "Unnamed: 0": 98831,
           "rank": 105,
           "business_name": "Liquidyne Process Technologies, Inc.",
           "logo": "['https://lh4.googleusercontent.com/-rIeNkpVq5s4/AAAAAAAAAAI/AAAAAAAAAAA/vu56PNBpix0/s400-p-k-no-ns-nd/photo.jpg', 'https://lh4.googleusercontent.com/-rIeNkpVq5s4/AAAAAAAAAAI/AAAAAAAAAAA/vu56PNBpix0/s60-p-k-no-ns-nd/photo.jpg']",
@@ -6794,11 +6794,11 @@
           "website": "{'domain': 'liquidyneusa.com', 'platform': None, 'url': 'https://liquidyneusa.com/'}",
           "address_clean": "11925 W Interstate 70 Frontage Rd N #700",
           "state_clean": "Colorado",
-          "city_clean": "Wheat Ridge",
+          "clean": "Wheat Ridge",
           "zip": 80033
         },
         {
-          "Unnamed: 0": 98797,
+          "Unnamed: 0": 98831,
           "loan_amount": 204382.0,
           "business_name": "SEEQUS, INC",
           "address": "11925 W Interstate 70 Frontage Rd. N",
@@ -6829,7 +6829,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 84852,
+          "Unnamed: 0": 84643,
           "rank": 95,
           "business_name": "Hoff Miller Ltd",
           "logo": "['https://lh4.googleusercontent.com/-03G8989nK3g/AAAAAAAAAAI/AAAAAAAAAAA/kjvyTP4iQRc/s400-p-k-no-ns-nd/photo.jpg', 'https://lh4.googleusercontent.com/-03G8989nK3g/AAAAAAAAAAI/AAAAAAAAAAA/kjvyTP4iQRc/s60-p-k-no-ns-nd/photo.jpg']",
@@ -6859,11 +6859,11 @@
           "website": "{'domain': 'hoffmiller.com', 'platform': None, 'url': 'https://www.hoffmiller.com/'}",
           "address_clean": "595 S Broadway # 106E",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80209
         },
         {
-          "Unnamed: 0": 84852,
+          "Unnamed: 0": 84643,
           "loan_amount": 112582.0,
           "business_name": "HOFF MILLER, LTD.",
           "address": "595 S. Broadway Suite 106e",
@@ -6894,7 +6894,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 41530,
+          "Unnamed: 0": 41100,
           "rank": 52,
           "business_name": "SomePlace Else Brewery",
           "logo": "['https://lh4.googleusercontent.com/-kqMCAdKemcA/AAAAAAAAAAI/AAAAAAAAAAA/39iPBQWfLZg/s400-p-k-no-ns-nd/photo.jpg', 'https://lh4.googleusercontent.com/-kqMCAdKemcA/AAAAAAAAAAI/AAAAAAAAAAA/39iPBQWfLZg/s60-p-k-no-ns-nd/photo.jpg']",
@@ -6924,11 +6924,11 @@
           "website": "{'domain': 'someplaceelse.beer', 'platform': None, 'url': 'http://www.someplaceelse.beer/'}",
           "address_clean": "6425 W 52nd Ave #6",
           "state_clean": "Colorado",
-          "city_clean": "Arvada",
+          "clean": "Arvada",
           "zip": 80002
         },
         {
-          "Unnamed: 0": 41530,
+          "Unnamed: 0": 41100,
           "loan_amount": 18600.0,
           "business_name": "SOMEPLACE ELSE LLC",
           "address": "6425 W 52ND AVE",
@@ -6959,7 +6959,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 106034,
+          "Unnamed: 0": 105899,
           "rank": 116,
           "business_name": "Genghis Kern Letterpress & Design",
           "logo": "['https://lh5.googleusercontent.com/-hhzlNlmpW3g/AAAAAAAAAAI/AAAAAAAAAAA/y45_nheL6CM/s400-p-k-no-ns-nd/photo.jpg', 'https://lh5.googleusercontent.com/-hhzlNlmpW3g/AAAAAAAAAAI/AAAAAAAAAAA/y45_nheL6CM/s60-p-k-no-ns-nd/photo.jpg']",
@@ -6989,11 +6989,11 @@
           "website": "{'domain': 'genghiskern.com', 'platform': None, 'url': 'http://www.genghiskern.com/'}",
           "address_clean": "2626 W 32nd Ave",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80211
         },
         {
-          "Unnamed: 0": 106034,
+          "Unnamed: 0": 105899,
           "loan_amount": 33137.0,
           "business_name": "GENGHIS KERN INC",
           "address": "2626 W. 32nd Avenue",
@@ -7024,7 +7024,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 56823,
+          "Unnamed: 0": 56527,
           "rank": 67,
           "business_name": "Hydro Rocky Mountain",
           "logo": "['https://lh5.googleusercontent.com/-wKooAQiZqC0/AAAAAAAAAAI/AAAAAAAAAAA/XTYY22VxaZ8/s400-p-k-no-ns-nd/photo.jpg', 'https://lh5.googleusercontent.com/-wKooAQiZqC0/AAAAAAAAAAI/AAAAAAAAAAA/XTYY22VxaZ8/s60-p-k-no-ns-nd/photo.jpg']",
@@ -7054,11 +7054,11 @@
           "website": "{'domain': 'hydroinc.com', 'platform': None, 'url': 'http://www.hydroinc.com/'}",
           "address_clean": "115 W 56th Ave",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80216
         },
         {
-          "Unnamed: 0": 56823,
+          "Unnamed: 0": 56527,
           "loan_amount": 309157.5,
           "business_name": "HYDRO ROCKY MOUNTAIN, INC.",
           "address": "115 56TH AVE",
@@ -7089,7 +7089,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 64927,
+          "Unnamed: 0": 64850,
           "rank": 73,
           "business_name": "Rio Grande Co Design Center",
           "logo": "['https://lh4.googleusercontent.com/-Kv9YPIWP-1c/AAAAAAAAAAI/AAAAAAAAAAA/Q91W2kkrFsc/s400-p-k-no-ns-nd/photo.jpg', 'https://lh4.googleusercontent.com/-Kv9YPIWP-1c/AAAAAAAAAAI/AAAAAAAAAAA/Q91W2kkrFsc/s60-p-k-no-ns-nd/photo.jpg']",
@@ -7119,11 +7119,11 @@
           "website": "{'domain': 'riograndeco.com', 'platform': None, 'url': 'http://www.riograndeco.com/'}",
           "address_clean": "123 Santa Fe Dr",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80223
         },
         {
-          "Unnamed: 0": 64927,
+          "Unnamed: 0": 64850,
           "loan_amount": 2776513.0,
           "business_name": "RIO GRANDE CO.",
           "address": "201 SANTA FE DRIVE",
@@ -7154,7 +7154,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 85396,
+          "Unnamed: 0": 85124,
           "rank": 95,
           "business_name": "Seattle Fish Co.",
           "logo": "['https://lh3.googleusercontent.com/-yjbeWhcH13M/AAAAAAAAAAI/AAAAAAAAAAA/ffd3teAH5VM/s400-p-k-no-ns-nd/photo.jpg', 'https://lh3.googleusercontent.com/-yjbeWhcH13M/AAAAAAAAAAI/AAAAAAAAAAA/ffd3teAH5VM/s60-p-k-no-ns-nd/photo.jpg']",
@@ -7184,11 +7184,11 @@
           "website": "{'domain': 'seattlefish.com', 'platform': None, 'url': 'http://www.seattlefish.com/'}",
           "address_clean": "6211 E 42nd Ave",
           "state_clean": "Colorado",
-          "city_clean": "Denver",
+          "clean": "Denver",
           "zip": 80216
         },
         {
-          "Unnamed: 0": 85396,
+          "Unnamed: 0": 85124,
           "loan_amount": 2205500.0,
           "business_name": "SEATTLE FISH COMPANY",
           "address": "6211 E. 42nd Ave.",
@@ -7219,7 +7219,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 17819,
+          "Unnamed: 0": 17478,
           "rank": 21,
           "business_name": "Summit Brick Company - Lakewood Plant",
           "logo": "['https://lh5.googleusercontent.com/-9CM01onjvHQ/AAAAAAAAAAI/AAAAAAAAAAA/KJk8_YBrazA/s400-p-k-no-ns-nd/photo.jpg', 'https://lh5.googleusercontent.com/-9CM01onjvHQ/AAAAAAAAAAI/AAAAAAAAAAA/KJk8_YBrazA/s60-p-k-no-ns-nd/photo.jpg']",
@@ -7249,11 +7249,11 @@
           "website": "{'domain': 'summitbrick.com', 'platform': None, 'url': 'https://www.summitbrick.com/'}",
           "address_clean": "1325 Jay St",
           "state_clean": "Colorado",
-          "city_clean": "Lakewood",
+          "clean": "Lakewood",
           "zip": 80214
         },
         {
-          "Unnamed: 0": 17819,
+          "Unnamed: 0": 17478,
           "loan_amount": 353262.0,
           "business_name": "THE LAKEWOOD BRICK AND TILE COMPANY",
           "address": "1325 JAY ST",
@@ -7284,7 +7284,7 @@
       "__class__": "tuple",
       "__value__": [
         {
-          "Unnamed: 0": 31489,
+          "Unnamed: 0": 31207,
           "rank": 41,
           "business_name": "Regional Sales Co",
           "logo": NaN,
@@ -7314,11 +7314,11 @@
           "website": "{'domain': 'regionalsalescompany.com', 'platform': None, 'url': 'http://regionalsalescompany.com/'}",
           "address_clean": "5545 W 56th Ave",
           "state_clean": "Colorado",
-          "city_clean": "Arvada",
+          "clean": "Arvada",
           "zip": 80002
         },
         {
-          "Unnamed: 0": 31489,
+          "Unnamed: 0": 31207,
           "loan_amount": 83600.0,
           "business_name": "REGIONAL SALES COMPANY",
           "address": "5511 W. 56th Ave",
@@ -7342,6 +7342,1241 @@
           "address_clean": "5511 W 56 TH AVE",
           "state_clean": "CO",
           "city_clean": "ARVADA"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "Unnamed: 0": 61968,
+          "rank": 70,
+          "business_name": "SEGRITY LLC",
+          "logo": "['https://lh5.googleusercontent.com/-zlhxRWOFcYU/AAAAAAAAAAI/AAAAAAAAAAA/tevvKGX9OHo/s400-p-k-no-ns-nd/photo.jpg', 'https://lh5.googleusercontent.com/-zlhxRWOFcYU/AAAAAAAAAAI/AAAAAAAAAAA/tevvKGX9OHo/s60-p-k-no-ns-nd/photo.jpg']",
+          "description": NaN,
+          "address": "{'street': '2650 E 40th Ave', 'postcode': '80205', 'city': 'Denver', 'adm1': 'Colorado', 'country': 'US'}",
+          "location": "{'lat': 39.7717951, 'lng': -104.95523999999999}",
+          "reviews": NaN,
+          "category": "{'items': ['Manufacturer', 'Engineering consultant'], 'primary': None}",
+          "timezone": "America/Denver",
+          "price_range": NaN,
+          "language": NaN,
+          "is_claimed": true,
+          "extra": "{'from_the_business': ['Identifies as women-owned'], 'accessibility': ['Wheelchair-accessible car park']}",
+          "identity": "['Identifies as women-owned']",
+          "opening_hours": NaN,
+          "status": 1,
+          "media": "{'items': [], 'count': 0, 'types': []}",
+          "activity": "{'min': None, 'max': None}",
+          "devices": "[]",
+          "external_id": "ChIJQ6rCFm55bIcRnekTFzdKesM",
+          "feature_id": "0x876c796e16c2aa43:0xc37a4a371713e99d",
+          "gkg_id": "/g/11f3scnglk",
+          "owner": "{'external_id': '110722384396492666454', 'url': 'https://www.google.com/maps/contrib/110722384396492666454'}",
+          "phone": "[{'raw': '+1 303-293-5939', 'area_code': '303', 'type': 'FIXED_LINE_OR_MOBILE', 'country': 'US', 'country_code': '1', 'number': '+13032935939', 'local': '(303) 293-5939', 'location': 'Denver, CO', 'carrier': None, 'exchange': 'DENVER', 'company': 'QWEST CORPORATION', 'adm1': 'CO'}]",
+          "url": "https://www.google.com/maps/place/SEGRITY+LLC/@39.7717951,-104.95523999999999,17z/data=!3m1!4b1!4m5!3m4!1s0x876c796e16c2aa43:0xc37a4a371713e99d!8m2!3d39.7717951!4d-104.95523999999999",
+          "appointment": NaN,
+          "website": "{'domain': 'segrity.com', 'platform': None, 'url': 'https://www.segrity.com/'}",
+          "address_clean": "2650 E 40th Ave",
+          "state_clean": "Colorado",
+          "clean": "Denver",
+          "zip": 80205
+        },
+        {
+          "Unnamed: 0": 61968,
+          "loan_amount": 64900.0,
+          "business_name": "SEGRITY LLC",
+          "address": "2650 E 40th Ave",
+          "city": "Denver",
+          "state": "CO",
+          "zip": 80205.0,
+          "naics_code": 541330.0,
+          "business_type": "Limited  Liability Company(LLC)",
+          "race_ethnicity": "Unanswered",
+          "gender": "Unanswered",
+          "veteran": "Unanswered",
+          "non_profit": false,
+          "jobs_reported": 6.0,
+          "date_approved": "2020-04-27",
+          "lender": "Zions Bank, A Division of",
+          "cd": "CO-01",
+          "source_file": "01 PPP sub 150k through 112420.csv",
+          "na_flag": false,
+          "dupe_flag": false,
+          "year_approved": 2020,
+          "address_clean": "2650 E 40 TH AVE",
+          "state_clean": "CO",
+          "city_clean": "DENVER"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "Unnamed: 0": 55462,
+          "rank": 66,
+          "business_name": "Barber-Nichols",
+          "logo": "['https://lh5.googleusercontent.com/-uDqWVCdB3ws/AAAAAAAAAAI/AAAAAAAAAAA/h2pnfFlHJps/s400-p-k-no-ns-nd/photo.jpg', 'https://lh5.googleusercontent.com/-uDqWVCdB3ws/AAAAAAAAAAI/AAAAAAAAAAA/h2pnfFlHJps/s60-p-k-no-ns-nd/photo.jpg']",
+          "description": NaN,
+          "address": "{'street': '6350 W 56th Ave', 'postcode': '80002', 'city': 'Arvada', 'adm1': 'Colorado', 'country': 'US'}",
+          "location": "{'lat': 39.7982174, 'lng': -105.0660874}",
+          "reviews": "{'rating': 4.2, 'count': 5, 'spread': [0, 0, 1, 2, 2]}",
+          "category": "{'items': ['Manufacturer', 'Engineer', 'Machine shop', 'Aerospace company'], 'primary': None}",
+          "timezone": "America/Denver",
+          "price_range": 0.0,
+          "language": NaN,
+          "is_claimed": true,
+          "extra": "{'accessibility': ['Wheelchair-accessible car park', 'Wheelchair-accessible entrance']}",
+          "identity": NaN,
+          "opening_hours": NaN,
+          "status": 1,
+          "media": "{'items': [{'url': 'https://lh5.googleusercontent.com/p/AF1QipP61DBSz6hgUiUDJRVFWVu9CRA8wHbsJLThgrlD=w1024-h682-k-no', 'type': 'photo', 'created_at': '2022-04-01 21:00:00', 'caption': None}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipP2cPD0PNxdDgWipO5T_NBFcbv5WCrvAkebTh21=w1024-h682-k-no', 'type': 'photo', 'created_at': '2022-03-14 22:00:00', 'caption': None}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipMZ0pgnpUjX7C8bOlAAVCSwMb0TCjY0L6Y89Ojg=w1024-h576-k-no', 'type': 'video', 'created_at': '2021-12-20 18:00:00', 'caption': 'Barber-Nichols'}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipNSgW5hViIzlhduVCrOkqVJvVrsMFsgokruvJiM=w1024-h576-k-no', 'type': 'photo', 'created_at': '2020-10-14 06:00:00', 'caption': None}], 'count': 3, 'types': ['photo', 'video']}",
+          "activity": "{'min': '2020-10-14 06:00:00', 'max': '2022-04-01 21:00:00'}",
+          "devices": "['bizbuilder:gmb_api', 'bizbuilder:gmb_web']",
+          "external_id": "ChIJ9x_ZZcWHa4cRgWulBgyvmPE",
+          "feature_id": "0x876b87c565d91ff7:0xf198af0c06a56b81",
+          "gkg_id": "/g/1ths9vkt",
+          "owner": "{'external_id': '110010315489441415248', 'url': 'https://www.google.com/maps/contrib/110010315489441415248'}",
+          "phone": "[{'raw': '+1 303-421-8111', 'area_code': '303', 'type': 'FIXED_LINE_OR_MOBILE', 'country': 'US', 'country_code': '1', 'number': '+13034218111', 'local': '(303) 421-8111', 'location': 'Colorado', 'carrier': None, 'exchange': 'DENVER', 'company': 'QWEST CORPORATION', 'adm1': 'CO'}]",
+          "url": "https://www.google.com/maps/place/Barber-Nichols/@39.7982174,-105.0660874,17z/data=!3m1!4b1!4m5!3m4!1s0x876b87c565d91ff7:0xf198af0c06a56b81!8m2!3d39.7982174!4d-105.0660874",
+          "appointment": NaN,
+          "website": "{'domain': 'barber-nichols.com', 'platform': None, 'url': 'https://barber-nichols.com/'}",
+          "address_clean": "6350 W 56th Ave",
+          "state_clean": "Colorado",
+          "clean": "Arvada",
+          "zip": 80002
+        },
+        {
+          "Unnamed: 0": 55462,
+          "loan_amount": 2246000.0,
+          "business_name": "BARBER-NICHOLS INC.",
+          "address": "W. 55th Ave.",
+          "city": "ARVADA",
+          "state": "CO",
+          "zip": 80002.0,
+          "naics_code": 333611.0,
+          "business_type": "Sole Proprietorship",
+          "race_ethnicity": "Unanswered",
+          "gender": "Unanswered",
+          "veteran": "Unanswered",
+          "non_profit": false,
+          "jobs_reported": 0.0,
+          "date_approved": "2020-04-06",
+          "lender": "UMB Bank, National Association",
+          "cd": "CO-07",
+          "source_file": "150k plus PPP through 112420.csv",
+          "na_flag": false,
+          "dupe_flag": false,
+          "year_approved": 2020,
+          "address_clean": "W 55 TH AVE",
+          "state_clean": "CO",
+          "city_clean": "ARVADA"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "Unnamed: 0": 12315,
+          "rank": 14,
+          "business_name": "Choice Manufacturing",
+          "logo": "['https://lh5.googleusercontent.com/-59EC10gqlzA/AAAAAAAAAAI/AAAAAAAAAAA/VRTC8yI7wU0/s400-p-k-no-ns-nd/photo.jpg', 'https://lh5.googleusercontent.com/-59EC10gqlzA/AAAAAAAAAAI/AAAAAAAAAAA/VRTC8yI7wU0/s60-p-k-no-ns-nd/photo.jpg']",
+          "description": NaN,
+          "address": "{'street': '5598 Monaco St Unit C', 'postcode': '80022', 'city': 'Commerce City', 'adm1': 'Colorado', 'country': 'US'}",
+          "location": "{'lat': 39.798202599999996, 'lng': -104.9131951}",
+          "reviews": NaN,
+          "category": "{'items': ['Manufacturer'], 'primary': None}",
+          "timezone": "America/Denver",
+          "price_range": NaN,
+          "language": NaN,
+          "is_claimed": true,
+          "extra": NaN,
+          "identity": NaN,
+          "opening_hours": NaN,
+          "status": 1,
+          "media": "{'items': [{'url': 'https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dkSoirkMOhWMsHkeAN1Mwg&cb_client=search.gws-prod.gps&w=1024&h=768&yaw=204.32462&pitch=0&thumbfov=100', 'type': 'street_view', 'created_at': '2024-11-01 07:00:00', 'caption': 'Choice Manufacturing'}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipM00_9nh77mQsv8E1dq8xgXo61KPN3hMmfDYzJc=w416-h267-k-no', 'type': 'photo', 'created_at': '2024-08-26 15:00:00', 'caption': None}], 'count': 2, 'types': ['photo', 'street_view']}",
+          "activity": "{'min': '2024-08-26 15:00:00', 'max': '2024-08-26 15:00:00'}",
+          "devices": "['bizbuilder:gmb_onboarding_web', 'launch']",
+          "external_id": "ChIJy4da3vR7bIcR0LX4YP2CrS4",
+          "feature_id": "0x876c7bf4de5a87cb:0x2ead82fd60f8b5d0",
+          "gkg_id": "/g/11w8dlt6j6",
+          "owner": "{'external_id': '103338935609078273182', 'url': 'https://www.google.com/maps/contrib/103338935609078273182'}",
+          "phone": "[{'raw': '+1 630-699-0379', 'area_code': '630', 'type': 'FIXED_LINE_OR_MOBILE', 'country': 'US', 'country_code': '1', 'number': '+16306990379', 'local': '(630) 699-0379', 'location': 'Illinois', 'carrier': None, 'exchange': 'NAPERVILLE', 'company': 'NEW CINGULAR WIRELESS PCS, LLC - IL', 'adm1': 'IL'}]",
+          "url": "https://www.google.com/maps/place/Choice+Manufacturing/@39.798202599999996,-104.9131951,17z/data=!3m1!4b1!4m5!3m4!1s0x876c7bf4de5a87cb:0x2ead82fd60f8b5d0!8m2!3d39.798202599999996!4d-104.9131951",
+          "appointment": NaN,
+          "website": "{'domain': 'choicemfg.com', 'platform': None, 'url': 'https://www.choicemfg.com/'}",
+          "address_clean": "5598 Monaco St Unit C",
+          "state_clean": "Colorado",
+          "clean": "Commerce City",
+          "zip": 80022
+        },
+        {
+          "Unnamed: 0": 12315,
+          "loan_amount": 6250.0,
+          "business_name": "CHOICE CHEMICAL COMPANY, A COL",
+          "address": "5598 MONACO ST UNIT C",
+          "city": "COMMERCE CITY",
+          "state": "CO",
+          "zip": 80022.0,
+          "naics_code": 333999.0,
+          "business_type": "Corporation",
+          "race_ethnicity": "White",
+          "gender": "Unanswered",
+          "veteran": "Unanswered",
+          "non_profit": false,
+          "jobs_reported": 1.0,
+          "date_approved": "2020-04-14",
+          "lender": "FirstBank",
+          "cd": "CO-07",
+          "source_file": "01 PPP sub 150k through 112420.csv",
+          "na_flag": false,
+          "dupe_flag": false,
+          "year_approved": 2020,
+          "address_clean": "5598 MONACO ST UNIT C",
+          "state_clean": "CO",
+          "city_clean": "COMMERCE CITY"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "Unnamed: 0": 41931,
+          "rank": 53,
+          "business_name": "Mount Sopris Instruments Inc.",
+          "logo": "['https://lh4.googleusercontent.com/-F4HTj4ESc0Y/AAAAAAAAAAI/AAAAAAAAAAA/PSpPyAg6-DY/s400-p-k-no-ns-nd/photo.jpg', 'https://lh4.googleusercontent.com/-F4HTj4ESc0Y/AAAAAAAAAAI/AAAAAAAAAAA/PSpPyAg6-DY/s60-p-k-no-ns-nd/photo.jpg']",
+          "description": NaN,
+          "address": "{'street': '4975 E 41st Ave', 'postcode': '80216', 'city': 'Denver', 'adm1': 'Colorado', 'country': 'US'}",
+          "location": "{'lat': 39.774167, 'lng': -104.92937099999999}",
+          "reviews": "{'rating': 5, 'count': 1, 'spread': [0, 0, 0, 0, 1]}",
+          "category": "{'items': ['Manufacturer', 'Drilling contractor', 'Drilling equipment supplier', 'Geological service', 'Mining consultant', 'Mining equipment', 'Tool manufacturer', 'Well drilling contractor'], 'primary': None}",
+          "timezone": "America/Denver",
+          "price_range": 0.0,
+          "language": NaN,
+          "is_claimed": true,
+          "extra": "{'accessibility': ['Wheelchair-accessible car park', 'Wheelchair-accessible entrance'], 'payments': ['Debit cards', 'Credit cards']}",
+          "identity": NaN,
+          "opening_hours": NaN,
+          "status": 1,
+          "media": "{'items': [{'url': 'https://lh5.googleusercontent.com/p/AF1QipMV5lPd8pGOafS69KzIVJgnV0yX433KBoWOtBxS=w1024-h682-k-no', 'type': 'photo', 'created_at': '2017-08-31 22:00:00', 'caption': None}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipM1AxyeGsoZF6AmMCss0dt6a9SyGwjf6yEH0UqI=w1024-h682-k-no', 'type': 'photo', 'created_at': '2017-08-31 22:00:00', 'caption': None}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipPFPCFV5jCVz2lJCQiFJ4RvfR2Uv52811Dz0mDh=w1000-h500-k-no', 'type': 'photo', 'created_at': '2016-05-25 18:00:00', 'caption': None}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipNixZl-uQ5FaYfXnQJbN4Y0xvKJfMX1FXCE9sep=w1024-h680-k-no', 'type': 'photo', 'created_at': '2016-05-25 18:00:00', 'caption': None}], 'count': 80, 'types': ['photo']}",
+          "activity": "{'min': '2016-05-25 18:00:00', 'max': '2017-08-31 22:00:00'}",
+          "devices": "['bizbuilder', 'bizbuilder:gmb_web', 'photos:legacy_innerspace']",
+          "external_id": "ChIJy7p08Np7bIcRnFjjGMSJaHY",
+          "feature_id": "0x876c7bdaf074bacb:0x766889c418e3589c",
+          "gkg_id": "/g/1tpn31h8",
+          "owner": "{'external_id': '107634762281136453568', 'url': 'https://www.google.com/maps/contrib/107634762281136453568'}",
+          "phone": "[{'raw': '+1 303-279-3211', 'area_code': '303', 'type': 'FIXED_LINE_OR_MOBILE', 'country': 'US', 'country_code': '1', 'number': '+13032793211', 'local': '(303) 279-3211', 'location': 'Golden, CO', 'carrier': None, 'exchange': 'DENVER', 'company': 'QWEST CORPORATION', 'adm1': 'CO'}]",
+          "url": "https://www.google.com/maps/place/Mount+Sopris+Instruments+Inc./@39.774167,-104.92937099999999,17z/data=!3m1!4b1!4m5!3m4!1s0x876c7bdaf074bacb:0x766889c418e3589c!8m2!3d39.774167!4d-104.92937099999999",
+          "appointment": NaN,
+          "website": "{'domain': 'mountsopris.com', 'platform': None, 'url': 'http://mountsopris.com/'}",
+          "address_clean": "4975 E 41st Ave",
+          "state_clean": "Colorado",
+          "clean": "Denver",
+          "zip": 80216
+        },
+        {
+          "Unnamed: 0": 41931,
+          "loan_amount": 336786.0,
+          "business_name": "MOUNT SOPRIS INSTRUMENT COMPANY",
+          "address": "4975 E. 41ST AVENUE",
+          "city": "DENVER",
+          "state": "CO",
+          "zip": 80216.0,
+          "naics_code": 334519.0,
+          "business_type": "Corporation",
+          "race_ethnicity": "Unanswered",
+          "gender": "Unanswered",
+          "veteran": "Unanswered",
+          "non_profit": false,
+          "jobs_reported": NaN,
+          "date_approved": "2020-05-01",
+          "lender": "Wells Fargo Bank, National Association",
+          "cd": "CO-01",
+          "source_file": "150k plus PPP through 112420.csv",
+          "na_flag": false,
+          "dupe_flag": false,
+          "year_approved": 2020,
+          "address_clean": "4975 E 41 ST AVE",
+          "state_clean": "CO",
+          "city_clean": "DENVER"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "Unnamed: 0": 8926,
+          "rank": 10,
+          "business_name": "ILONA, INC.",
+          "logo": "['https://lh6.googleusercontent.com/-JlMBpCLfVKA/AAAAAAAAAAI/AAAAAAAAAAA/Rfc4zYZeDW4/s400-p-k-no-ns-nd/photo.jpg', 'https://lh6.googleusercontent.com/-JlMBpCLfVKA/AAAAAAAAAAI/AAAAAAAAAAA/Rfc4zYZeDW4/s60-p-k-no-ns-nd/photo.jpg']",
+          "description": NaN,
+          "address": "{'street': '3201 E 2nd Ave Unit 300', 'postcode': '80206', 'city': 'Denver', 'adm1': 'Colorado', 'country': 'US'}",
+          "location": "{'lat': 39.7196061, 'lng': -104.9494898}",
+          "reviews": "{'rating': 5, 'count': 2, 'spread': [0, 0, 0, 0, 2]}",
+          "category": "{'items': ['Cosmetic products manufacturer', 'Beauty product supplier'], 'primary': None}",
+          "timezone": "America/Denver",
+          "price_range": 0.0,
+          "language": NaN,
+          "is_claimed": true,
+          "extra": "{'accessibility': ['Wheelchair-accessible car park', 'Wheelchair-accessible entrance'], 'payments': ['Debit cards', 'Credit cards']}",
+          "identity": NaN,
+          "opening_hours": NaN,
+          "status": 1,
+          "media": "{'items': [{'url': 'https://lh5.googleusercontent.com/p/AF1QipPaG5O7xIgJFi_BkKlOdWQzpZaG9ycndPYwHFf3=w1024-h610-k-no', 'type': 'photo', 'created_at': '2020-10-22 13:00:00', 'caption': None}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipPmxbkvDGRBUketR_q3WHytbOJ7E35X3k2mYDoT=w385-h423-k-no', 'type': 'photo', 'created_at': '2020-09-05 08:00:00', 'caption': None}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipM2faOtMyvAa5wEorMLpPz2JYQyCMMSmrfMWo52=w1024-h1024-k-no', 'type': 'photo', 'created_at': '2020-09-05 08:00:00', 'caption': None}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipNwEoD2nUnXWBG_OSI3gmZ6lx9TaCTs4fUjDonj=w800-h1066-k-no', 'type': 'photo', 'created_at': '2020-09-05 08:00:00', 'caption': None}], 'count': 4, 'types': ['photo']}",
+          "activity": "{'min': '2020-09-05 08:00:00', 'max': '2020-10-22 13:00:00'}",
+          "devices": "['bizbuilder:gmb_api']",
+          "external_id": "ChIJib6Bxpl-bIcRGh0NbqNOhoU",
+          "feature_id": "0x876c7e99c681be89:0x85864ea36e0d1d1a",
+          "gkg_id": "/g/1tzlzg0x",
+          "owner": "{'external_id': '110563042433495129438', 'url': 'https://www.google.com/maps/contrib/110563042433495129438'}",
+          "phone": "[{'raw': '+1 303-322-3000', 'area_code': '303', 'type': 'FIXED_LINE_OR_MOBILE', 'country': 'US', 'country_code': '1', 'number': '+13033223000', 'local': '(303) 322-3000', 'location': 'Denver, CO', 'carrier': None, 'exchange': 'DENVER', 'company': 'QWEST CORPORATION', 'adm1': 'CO'}]",
+          "url": "https://www.google.com/maps/place/ILONA%2C+INC./@39.7196061,-104.9494898,17z/data=!3m1!4b1!4m5!3m4!1s0x876c7e99c681be89:0x85864ea36e0d1d1a!8m2!3d39.7196061!4d-104.9494898",
+          "appointment": NaN,
+          "website": "{'domain': 'ilona.com', 'platform': None, 'url': 'http://www.ilona.com/'}",
+          "address_clean": "3201 E 2nd Ave Unit 300",
+          "state_clean": "Colorado",
+          "clean": "Denver",
+          "zip": 80206
+        },
+        {
+          "Unnamed: 0": 8926,
+          "loan_amount": 16558.0,
+          "business_name": "ILONA, INC.",
+          "address": "3201 E 2ND AVE STE 300",
+          "city": "DENVER",
+          "state": "CO",
+          "zip": 80206.0,
+          "naics_code": 446120.0,
+          "business_type": "Subchapter S Corporation",
+          "race_ethnicity": "Unanswered",
+          "gender": "Unanswered",
+          "veteran": "Unanswered",
+          "non_profit": false,
+          "jobs_reported": 1.0,
+          "date_approved": "2020-04-15",
+          "lender": "Bank of Colorado",
+          "cd": "CO-01",
+          "source_file": "01 PPP sub 150k through 112420.csv",
+          "na_flag": false,
+          "dupe_flag": false,
+          "year_approved": 2020,
+          "address_clean": "3201 E 2 ND AVE STE 300",
+          "state_clean": "CO",
+          "city_clean": "DENVER"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "Unnamed: 0": 86027,
+          "rank": 96,
+          "business_name": "Green Vine Marketing",
+          "logo": NaN,
+          "description": NaN,
+          "address": "{'street': '600 17th St #2810', 'postcode': '80202', 'city': 'Denver', 'adm1': 'Colorado', 'country': 'US'}",
+          "location": "{'lat': 39.7453023, 'lng': -104.99080839999999}",
+          "reviews": "{'rating': 4.2, 'count': 13, 'spread': [2, 0, 0, 2, 9]}",
+          "category": "{'items': ['Internet marketing service', 'Advertising agency', 'Commercial printer', 'Graphic designer', 'Marketing agency', 'Marketing consultant', 'Print shop', 'Video production service', 'Website designer'], 'primary': None}",
+          "timezone": "America/Denver",
+          "price_range": 0.0,
+          "language": NaN,
+          "is_claimed": false,
+          "extra": "{'accessibility': ['Wheelchair-accessible car park']}",
+          "identity": NaN,
+          "opening_hours": NaN,
+          "status": 1,
+          "media": "{'items': [{'url': 'https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZMhKLSyaawZvMwd6XzdfYw&cb_client=search.gws-prod.gps&w=1024&h=768&yaw=322.33917&pitch=0&thumbfov=100', 'type': 'street_view', 'created_at': '2024-11-01 22:00:00', 'caption': 'Green Vine Marketing'}], 'count': 0, 'types': ['street_view']}",
+          "activity": "{'min': None, 'max': None}",
+          "devices": "['launch']",
+          "external_id": "ChIJ7ey7J9d4bIcRxWgSNOlHYdo",
+          "feature_id": "0x876c78d727bbeced:0xda6147e9341268c5",
+          "gkg_id": "/g/1pp2tl8rs",
+          "owner": NaN,
+          "phone": "[{'raw': '+1 720-295-8463', 'area_code': '720', 'type': 'FIXED_LINE_OR_MOBILE', 'country': 'US', 'country_code': '1', 'number': '+17202958463', 'local': '(720) 295-8463', 'location': 'Colorado', 'carrier': None, 'exchange': 'DENVER', 'company': 'BANDWIDTH.COM CLEC, LLC - CO', 'adm1': 'CO'}]",
+          "url": "https://www.google.com/maps/place/Green+Vine+Marketing/@39.7453023,-104.99080839999999,17z/data=!3m1!4b1!4m5!3m4!1s0x876c78d727bbeced:0xda6147e9341268c5!8m2!3d39.7453023!4d-104.99080839999999",
+          "appointment": NaN,
+          "website": "{'domain': 'greenvinemarketing.com', 'platform': None, 'url': 'http://greenvinemarketing.com/'}",
+          "address_clean": "600 17th St #2810",
+          "state_clean": "Colorado",
+          "clean": "Denver",
+          "zip": 80202
+        },
+        {
+          "Unnamed: 0": 86027,
+          "loan_amount": 22099.0,
+          "business_name": "GREEN VINE MARKETING LLC",
+          "address": "600 17th St",
+          "city": "Denver",
+          "state": "CO",
+          "zip": 80202.0,
+          "naics_code": 541613.0,
+          "business_type": "Limited  Liability Company(LLC)",
+          "race_ethnicity": "Unanswered",
+          "gender": "Unanswered",
+          "veteran": "Unanswered",
+          "non_profit": false,
+          "jobs_reported": 2.0,
+          "date_approved": "2020-05-01",
+          "lender": "Cross River Bank",
+          "cd": "CO-01",
+          "source_file": "01 PPP sub 150k through 112420.csv",
+          "na_flag": false,
+          "dupe_flag": false,
+          "year_approved": 2020,
+          "address_clean": "600 17 TH ST",
+          "state_clean": "CO",
+          "city_clean": "DENVER"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "Unnamed: 0": 10485,
+          "rank": 13,
+          "business_name": "Joaquin Manufacturing",
+          "logo": NaN,
+          "description": NaN,
+          "address": "{'street': '6900 Elm Dr', 'postcode': '80022', 'city': 'Commerce City', 'adm1': 'Colorado', 'country': 'US'}",
+          "location": "{'lat': 39.8226466, 'lng': -104.9282564}",
+          "reviews": "{'rating': 3.7, 'count': 7, 'spread': [2, 0, 0, 1, 4]}",
+          "category": "{'items': ['Portable building manufacturer', 'Metal fabricator'], 'primary': None}",
+          "timezone": "America/Denver",
+          "price_range": 0.0,
+          "language": NaN,
+          "is_claimed": false,
+          "extra": "{'accessibility': ['Wheelchair-accessible car park', 'Wheelchair-accessible entrance']}",
+          "identity": NaN,
+          "opening_hours": NaN,
+          "status": 1,
+          "media": "{'items': [{'url': 'https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Q4JFEApX9IzQ22NCqvWZFQ&cb_client=search.gws-prod.gps&w=1024&h=768&yaw=116.473785&pitch=0&thumbfov=100', 'type': 'street_view', 'created_at': '2024-11-01 12:00:00', 'caption': 'Joaquin Manufacturing'}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipO_flMSdpXumsbFIXc61QylhLG_Ff4zgZ3vt-su=w1024-h1981-k-no', 'type': 'video', 'created_at': '2021-08-24 18:00:00', 'caption': 'Joaquin Manufacturing'}], 'count': 0, 'types': ['street_view', 'video']}",
+          "activity": "{'min': '2021-08-24 18:00:00', 'max': '2021-08-24 18:00:00'}",
+          "devices": "['launch', 'photos:gmm_android']",
+          "external_id": "ChIJ-xpvFgZ6bIcRQeU_Hu8UCLk",
+          "feature_id": "0x876c7a06166f1afb:0xb90814ef1e3fe541",
+          "gkg_id": "/g/1w4vkf4c",
+          "owner": NaN,
+          "phone": "[{'raw': '+1 303-286-7060', 'area_code': '303', 'type': 'FIXED_LINE_OR_MOBILE', 'country': 'US', 'country_code': '1', 'number': '+13032867060', 'local': '(303) 286-7060', 'location': 'Colorado', 'carrier': None, 'exchange': 'DENVER', 'company': 'QWEST CORPORATION', 'adm1': 'CO'}]",
+          "url": "https://www.google.com/maps/place/Joaquin+Manufacturing/@39.8226466,-104.9282564,17z/data=!3m1!4b1!4m5!3m4!1s0x876c7a06166f1afb:0xb90814ef1e3fe541!8m2!3d39.8226466!4d-104.9282564",
+          "appointment": NaN,
+          "website": "{'domain': 'joaquinmc.com', 'platform': None, 'url': 'http://www.joaquinmc.com/'}",
+          "address_clean": "6900 Elm Dr",
+          "state_clean": "Colorado",
+          "clean": "Commerce City",
+          "zip": 80022
+        },
+        {
+          "Unnamed: 0": 10485,
+          "loan_amount": 609190.0,
+          "business_name": "JOAQUIN MFG CORP",
+          "address": "6900 Elm Street",
+          "city": "COMMERCE CITY",
+          "state": "CO",
+          "zip": 80022.0,
+          "naics_code": 541330.0,
+          "business_type": "Corporation",
+          "race_ethnicity": "Unanswered",
+          "gender": "Male Owned",
+          "veteran": "Non-Veteran",
+          "non_profit": false,
+          "jobs_reported": 67.0,
+          "date_approved": "2020-04-15",
+          "lender": "KeyBank National Association",
+          "cd": "CO-07",
+          "source_file": "150k plus PPP through 112420.csv",
+          "na_flag": false,
+          "dupe_flag": false,
+          "year_approved": 2020,
+          "address_clean": "6900 ELM ST",
+          "state_clean": "CO",
+          "city_clean": "COMMERCE CITY"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "Unnamed: 0": 8792,
+          "rank": 9,
+          "business_name": "Dawn Industries",
+          "logo": "['https://lh6.googleusercontent.com/-0SG8CqhhRHA/AAAAAAAAAAI/AAAAAAAAAAA/ZJeFkckJL7k/s400-p-k-no-ns-nd/photo.jpg', 'https://lh6.googleusercontent.com/-0SG8CqhhRHA/AAAAAAAAAAI/AAAAAAAAAAA/ZJeFkckJL7k/s60-p-k-no-ns-nd/photo.jpg']",
+          "description": NaN,
+          "address": "{'street': '5055 W 58th Ave', 'postcode': '80002', 'city': 'Arvada', 'adm1': 'Colorado', 'country': 'US'}",
+          "location": "{'lat': 39.8024171, 'lng': -105.05051209999999}",
+          "reviews": "{'rating': 1, 'count': 1, 'spread': [1, 0, 0, 0, 0]}",
+          "category": "{'items': ['Plastic fabrication company'], 'primary': None}",
+          "timezone": "America/Denver",
+          "price_range": 0.0,
+          "language": NaN,
+          "is_claimed": true,
+          "extra": "{'accessibility': ['Wheelchair-accessible car park', 'Wheelchair-accessible entrance']}",
+          "identity": NaN,
+          "opening_hours": NaN,
+          "status": 1,
+          "media": "{'items': [{'url': 'https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Gl1na_ar4FanYxXZlgfzkA&cb_client=search.gws-prod.gps&w=1024&h=768&yaw=88.10112&pitch=0&thumbfov=100', 'type': 'street_view', 'created_at': '2024-11-01 18:00:00', 'caption': 'Dawn Industries'}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipNMt6XX-kowkTAIuOi1LzGEJJP0O5YBrwjrdIU-=w1024-h448-k-no', 'type': 'photo', 'created_at': '2020-06-08 20:00:00', 'caption': None}], 'count': 2, 'types': ['photo', 'street_view']}",
+          "activity": "{'min': '2020-06-08 20:00:00', 'max': '2020-06-08 20:00:00'}",
+          "devices": "['bizbuilder:gmb_web', 'launch']",
+          "external_id": "ChIJgfVIe-aHa4cRhMjvGbVi8sg",
+          "feature_id": "0x876b87e67b48f581:0xc8f262b519efc884",
+          "gkg_id": "/g/1tg2dzz2",
+          "owner": "{'external_id': '117331457912093667099', 'url': 'https://www.google.com/maps/contrib/117331457912093667099'}",
+          "phone": "[{'raw': '+1 800-321-7246', 'area_code': None, 'type': 'TOLL_FREE', 'country': 'US', 'country_code': '1', 'number': '+18003217246', 'local': '(800) 321-7246', 'location': None, 'carrier': None, 'exchange': None, 'company': None, 'adm1': None}]",
+          "url": "https://www.google.com/maps/place/Dawn+Industries/@39.8024171,-105.05051209999999,17z/data=!3m1!4b1!4m5!3m4!1s0x876b87e67b48f581:0xc8f262b519efc884!8m2!3d39.8024171!4d-105.05051209999999",
+          "appointment": NaN,
+          "website": "{'domain': 'dawnindustries.com', 'platform': None, 'url': 'http://www.dawnindustries.com/'}",
+          "address_clean": "5055 W 58th Ave",
+          "state_clean": "Colorado",
+          "clean": "Arvada",
+          "zip": 80002
+        },
+        {
+          "Unnamed: 0": 8792,
+          "loan_amount": 143400.0,
+          "business_name": "DAWN INDUSTRIES  INC.",
+          "address": "5055 58TH AVE",
+          "city": "ARVADA",
+          "state": "CO",
+          "zip": 80002.0,
+          "naics_code": 221310.0,
+          "business_type": "Corporation",
+          "race_ethnicity": "Unanswered",
+          "gender": "Unanswered",
+          "veteran": "Unanswered",
+          "non_profit": false,
+          "jobs_reported": 33.0,
+          "date_approved": "2020-04-08",
+          "lender": "FirstBank",
+          "cd": "CO-07",
+          "source_file": "01 PPP sub 150k through 112420.csv",
+          "na_flag": false,
+          "dupe_flag": false,
+          "year_approved": 2020,
+          "address_clean": "5055 58 TH AVE",
+          "state_clean": "CO",
+          "city_clean": "ARVADA"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "Unnamed: 0": 73802,
+          "rank": 84,
+          "business_name": "Tops of Rockies",
+          "logo": NaN,
+          "description": NaN,
+          "address": "{'street': '5777 W 52nd Ave #7502', 'postcode': '80212', 'city': 'Denver', 'adm1': 'Colorado', 'country': 'US'}",
+          "location": "{'lat': 39.7913068, 'lng': -105.05841129999999}",
+          "reviews": "{'rating': 5, 'count': 2, 'spread': [0, 0, 0, 0, 2]}",
+          "category": "{'items': ['Promotional products supplier', 'Store'], 'primary': None}",
+          "timezone": "America/Denver",
+          "price_range": 0.0,
+          "language": NaN,
+          "is_claimed": false,
+          "extra": "{'accessibility': ['Wheelchair-accessible car park', 'Wheelchair-accessible entrance'], 'payments': ['Debit cards', 'Credit cards']}",
+          "identity": NaN,
+          "opening_hours": NaN,
+          "status": 1,
+          "media": "{'items': [{'url': 'https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9GCoggkh_bQlwG5txdqQUw&cb_client=search.gws-prod.gps&w=1024&h=768&yaw=353.08435&pitch=0&thumbfov=100', 'type': 'street_view', 'created_at': '2024-11-01 04:00:00', 'caption': 'Tops of Rockies'}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipP7IbJt0YjVeJGnVGd085nHSMsKrzAwIXmrNoEv=w1024-h1820-k-no', 'type': 'video', 'created_at': '2024-09-22 15:00:00', 'caption': 'Tops of Rockies'}], 'count': 0, 'types': ['street_view', 'video']}",
+          "activity": "{'min': '2024-09-22 15:00:00', 'max': '2024-09-22 15:00:00'}",
+          "devices": "['launch', 'photos:gmm_android']",
+          "external_id": "ChIJW6HD28CHa4cRj751qYFMszA",
+          "feature_id": "0x876b87c0dbc3a15b:0x30b34c81a975be8f",
+          "gkg_id": "/g/1wnbyhn6",
+          "owner": NaN,
+          "phone": "[{'raw': '+1 303-424-0114', 'area_code': '303', 'type': 'FIXED_LINE_OR_MOBILE', 'country': 'US', 'country_code': '1', 'number': '+13034240114', 'local': '(303) 424-0114', 'location': 'Colorado', 'carrier': None, 'exchange': 'DENVER', 'company': 'QWEST CORPORATION', 'adm1': 'CO'}]",
+          "url": "https://www.google.com/maps/place/Tops+of+Rockies/@39.7913068,-105.05841129999999,17z/data=!3m1!4b1!4m5!3m4!1s0x876b87c0dbc3a15b:0x30b34c81a975be8f!8m2!3d39.7913068!4d-105.05841129999999",
+          "appointment": NaN,
+          "website": "{'domain': 'topsofrockies.com', 'platform': None, 'url': 'http://www.topsofrockies.com/'}",
+          "address_clean": "5777 W 52nd Ave #7502",
+          "state_clean": "Colorado",
+          "clean": "Denver",
+          "zip": 80212
+        },
+        {
+          "Unnamed: 0": 73802,
+          "loan_amount": 55660.0,
+          "business_name": "TOPS OF ROCKIES MARKETING, INC.",
+          "address": "5777 52ND AVE W",
+          "city": "DENVER",
+          "state": "CO",
+          "zip": 80212.0,
+          "naics_code": 423990.0,
+          "business_type": "Subchapter S Corporation",
+          "race_ethnicity": "Unanswered",
+          "gender": "Unanswered",
+          "veteran": "Unanswered",
+          "non_profit": false,
+          "jobs_reported": 3.0,
+          "date_approved": "2020-04-15",
+          "lender": "U.S. Bank, National Association",
+          "cd": "CO-01",
+          "source_file": "01 PPP sub 150k through 112420.csv",
+          "na_flag": false,
+          "dupe_flag": false,
+          "year_approved": 2020,
+          "address_clean": "5777 52 ND AVE W",
+          "state_clean": "CO",
+          "city_clean": "DENVER"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "Unnamed: 0": 29888,
+          "rank": 39,
+          "business_name": "Livingston Systems",
+          "logo": "['https://lh5.googleusercontent.com/-kIdwR5lwot4/AAAAAAAAAAI/AAAAAAAAAAA/yZZRUhPXIxY/s400-p-k-no-ns-nd/photo.jpg', 'https://lh5.googleusercontent.com/-kIdwR5lwot4/AAAAAAAAAAI/AAAAAAAAAAA/yZZRUhPXIxY/s60-p-k-no-ns-nd/photo.jpg']",
+          "description": NaN,
+          "address": "{'street': '2613 W 64th Ave', 'postcode': '80221', 'city': 'Denver', 'adm1': 'Colorado', 'country': 'US'}",
+          "location": "{'lat': 39.8132468, 'lng': -105.0193177}",
+          "reviews": "{'rating': 4, 'count': 4, 'spread': [1, 0, 0, 0, 3]}",
+          "category": "{'items': ['Manufacturer'], 'primary': None}",
+          "timezone": "America/Denver",
+          "price_range": 0.0,
+          "language": NaN,
+          "is_claimed": true,
+          "extra": "{'accessibility': ['Wheelchair-accessible car park', 'Wheelchair-accessible entrance'], 'payments': ['Debit cards', 'Credit cards']}",
+          "identity": NaN,
+          "opening_hours": NaN,
+          "status": 1,
+          "media": "{'items': [{'url': 'https://lh5.googleusercontent.com/p/AF1QipPdKkLfZPONEFeIkUPBKIZc6pzN2ZhE0xH7dtnD=w640-h426-k-no', 'type': 'photo', 'created_at': '2020-11-03 08:00:00', 'caption': None}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipPP2R3Tq_XW-cFe_ttdw2YhasskibIIFCJD_kpX=w1024-h683-k-no', 'type': 'photo', 'created_at': '2020-11-03 08:00:00', 'caption': None}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipPI4RfjLXYqgRBDLXRNaVtdYNg_N6BDJW-a8h7V=w570-h340-k-no', 'type': 'photo', 'created_at': '2020-11-03 08:00:00', 'caption': None}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipNroz5WLJQ3anet4lKPtwEVTs8K7Ggr-cvCbLiz=w1024-h559-k-no', 'type': 'photo', 'created_at': '2020-11-03 08:00:00', 'caption': None}], 'count': 4, 'types': ['photo']}",
+          "activity": "{'min': '2020-11-03 08:00:00', 'max': '2020-11-03 08:00:00'}",
+          "devices": "['bizbuilder:gmb_api']",
+          "external_id": "ChIJYzwWLJh2bIcRfOMaEnIAKHc",
+          "feature_id": "0x876c76982c163c63:0x77280072121ae37c",
+          "gkg_id": "/g/1hc1bz07z",
+          "owner": "{'external_id': '103845932581556317193', 'url': 'https://www.google.com/maps/contrib/103845932581556317193'}",
+          "phone": "[{'raw': '+1 303-457-8700', 'area_code': '303', 'type': 'FIXED_LINE_OR_MOBILE', 'country': 'US', 'country_code': '1', 'number': '+13034578700', 'local': '(303) 457-8700', 'location': 'Colorado', 'carrier': None, 'exchange': 'DENVER', 'company': 'QWEST CORPORATION', 'adm1': 'CO'}]",
+          "url": "https://www.google.com/maps/place/Livingston+Systems/@39.8132468,-105.0193177,17z/data=!3m1!4b1!4m5!3m4!1s0x876c76982c163c63:0x77280072121ae37c!8m2!3d39.8132468!4d-105.0193177",
+          "appointment": NaN,
+          "website": "{'domain': 'livingstonsystems.com', 'platform': None, 'url': 'http://www.livingstonsystems.com/'}",
+          "address_clean": "2613 W 64th Ave",
+          "state_clean": "Colorado",
+          "clean": "Denver",
+          "zip": 80221
+        },
+        {
+          "Unnamed: 0": 29888,
+          "loan_amount": 58552.0,
+          "business_name": "LIVINGSTON SYSTEMS LLC",
+          "address": "2613 W 64TH AVE UNIT A",
+          "city": "DENVER",
+          "state": "CO",
+          "zip": 80221.0,
+          "naics_code": 323113.0,
+          "business_type": "Limited  Liability Company(LLC)",
+          "race_ethnicity": "Unanswered",
+          "gender": "Male Owned",
+          "veteran": "Non-Veteran",
+          "non_profit": false,
+          "jobs_reported": 5.0,
+          "date_approved": "2020-05-01",
+          "lender": "Bank of America, National Association",
+          "cd": "CO-07",
+          "source_file": "01 PPP sub 150k through 112420.csv",
+          "na_flag": false,
+          "dupe_flag": false,
+          "year_approved": 2020,
+          "address_clean": "2613 W 64 TH AVE UNIT A",
+          "state_clean": "CO",
+          "city_clean": "DENVER"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "Unnamed: 0": 33809,
+          "rank": 44,
+          "business_name": "Majestic Metals by Fathom Manufacturing",
+          "logo": "['https://lh5.googleusercontent.com/-7-jRdB6O0L0/AAAAAAAAAAI/AAAAAAAAAAA/FjQ4sSHa4dQ/s400-p-k-no-ns-nd/photo.jpg', 'https://lh5.googleusercontent.com/-7-jRdB6O0L0/AAAAAAAAAAI/AAAAAAAAAAA/FjQ4sSHa4dQ/s60-p-k-no-ns-nd/photo.jpg']",
+          "description": NaN,
+          "address": "{'street': '7770 Washington St', 'postcode': '80229', 'city': 'Denver', 'adm1': 'Colorado', 'country': 'US'}",
+          "location": "{'lat': 39.836683799999996, 'lng': -104.9769175}",
+          "reviews": "{'rating': 3.3, 'count': 12, 'spread': [4, 1, 1, 0, 6]}",
+          "category": "{'items': ['Metal fabricator'], 'primary': None}",
+          "timezone": "America/Denver",
+          "price_range": 0.0,
+          "language": NaN,
+          "is_claimed": true,
+          "extra": "{'accessibility': ['Wheelchair-accessible car park', 'Wheelchair-accessible entrance'], 'payments': ['Debit cards', 'Credit cards']}",
+          "identity": NaN,
+          "opening_hours": NaN,
+          "status": 1,
+          "media": "{'items': [{'url': 'https://lh5.googleusercontent.com/p/AF1QipObjAPBocTJ-mV0qC8woMQPkfRoWD4J5qFf59Pr=w1024-h473-k-no', 'type': 'photo', 'created_at': '2023-08-28 13:00:00', 'caption': None}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipOjY2sj2z_gUg5YmBm5u1QSnPULM5I9gBe12-IH=w1024-h473-k-no', 'type': 'photo', 'created_at': '2023-08-28 13:00:00', 'caption': None}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipO-4owFCxcVBQnoSnxAExTEnOnn5wxxdomKNn08=w1024-h473-k-no', 'type': 'photo', 'created_at': '2023-08-25 12:00:00', 'caption': None}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipOiSCAlWv6qIdduSPeTP0BCbxc0BMjPXP-Y8Of_=w1024-h1365-k-no', 'type': 'photo', 'created_at': '2016-10-07 17:00:00', 'caption': None}], 'count': 4, 'types': ['photo']}",
+          "activity": "{'min': '2016-10-07 17:00:00', 'max': '2023-08-28 13:00:00'}",
+          "devices": "['bizbuilder:gmb_on_local_universal_desktop', 'bizbuilder:gmb_on_tactile', 'photos:gmm_android']",
+          "external_id": "ChIJaa9FNnJ3bIcRWCdEpbK2Ap4",
+          "feature_id": "0x876c77723645af69:0x9e02b6b2a5442758",
+          "gkg_id": "/g/1vp6_p07",
+          "owner": "{'external_id': '116076196353910479639', 'url': 'https://www.google.com/maps/contrib/116076196353910479639'}",
+          "phone": "[{'raw': '+1 303-288-6855', 'area_code': '303', 'type': 'FIXED_LINE_OR_MOBILE', 'country': 'US', 'country_code': '1', 'number': '+13032886855', 'local': '(303) 288-6855', 'location': 'Colorado', 'carrier': None, 'exchange': 'DENVER', 'company': 'QWEST CORPORATION', 'adm1': 'CO'}]",
+          "url": "https://www.google.com/maps/place/Majestic+Metals+by+Fathom+Manufacturing/@39.836683799999996,-104.9769175,17z/data=!3m1!4b1!4m5!3m4!1s0x876c77723645af69:0x9e02b6b2a5442758!8m2!3d39.836683799999996!4d-104.9769175",
+          "appointment": NaN,
+          "website": "{'domain': 'fathommfg.com', 'platform': None, 'url': 'https://fathommfg.com/majestic-metals'}",
+          "address_clean": "7770 Washington St",
+          "state_clean": "Colorado",
+          "clean": "Denver",
+          "zip": 80229
+        },
+        {
+          "Unnamed: 0": 33809,
+          "loan_amount": 1609600.0,
+          "business_name": "MAJESTIC METALS, LLC",
+          "address": "7770 N Washington St",
+          "city": "DENVER",
+          "state": "CO",
+          "zip": 80229.0,
+          "naics_code": 332322.0,
+          "business_type": "Limited  Liability Company(LLC)",
+          "race_ethnicity": "Unanswered",
+          "gender": "Unanswered",
+          "veteran": "Unanswered",
+          "non_profit": false,
+          "jobs_reported": 143.0,
+          "date_approved": "2020-04-04",
+          "lender": "BOKF, National Association",
+          "cd": "CO-07",
+          "source_file": "150k plus PPP through 112420.csv",
+          "na_flag": false,
+          "dupe_flag": false,
+          "year_approved": 2020,
+          "address_clean": "7770 N WASHINGTON ST",
+          "state_clean": "CO",
+          "city_clean": "DENVER"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "Unnamed: 0": 27355,
+          "rank": 36,
+          "business_name": "Oribi Composites",
+          "logo": "['https://lh4.googleusercontent.com/-52vlk-i_p1Y/AAAAAAAAAAI/AAAAAAAAAAA/FOs2LzcPuZA/s400-p-k-no-ns-nd/photo.jpg', 'https://lh4.googleusercontent.com/-52vlk-i_p1Y/AAAAAAAAAAI/AAAAAAAAAAA/FOs2LzcPuZA/s60-p-k-no-ns-nd/photo.jpg']",
+          "description": NaN,
+          "address": "{'street': '5850 E 56th Ave', 'postcode': '80022', 'city': 'Commerce City', 'adm1': 'Colorado', 'country': 'US'}",
+          "location": "{'lat': 39.7974335, 'lng': -104.92046359999999}",
+          "reviews": "{'rating': 4.7, 'count': 3, 'spread': [0, 0, 0, 1, 2]}",
+          "category": "{'items': ['Manufacturer'], 'primary': None}",
+          "timezone": "America/Denver",
+          "price_range": 0.0,
+          "language": NaN,
+          "is_claimed": true,
+          "extra": "{'accessibility': ['Wheelchair-accessible car park', 'Wheelchair-accessible entrance']}",
+          "identity": NaN,
+          "opening_hours": NaN,
+          "status": 1,
+          "media": "{'items': [{'url': 'https://lh5.googleusercontent.com/p/AF1QipNYnqRPLWKeCFXO8x0u9zTvBIyaZ-QeQ1loM20=w1024-h768-k-no', 'type': 'photo', 'created_at': '2021-11-23 22:00:00', 'caption': None}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipNH-EVsfGL5kP0x5Ssk0Ib12D-O0gp72hRN8YD8=w1024-h512-k-no-pi-0-ya44.999996-ro-0-fo100', 'type': 'street_view', 'created_at': '2021-09-09 15:00:00', 'caption': None}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipO9AmZNLefStbEMPAcBOAPkNGjr6roQg7y8KMU=w1024-h576-k-no', 'type': 'video', 'created_at': '2021-09-09 15:00:00', 'caption': 'Oribi Composites'}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipNTlRaUeEKmQgdTc4ZHQcpYP1nNK1kYGXu0EHs=w1024-h768-k-no', 'type': 'photo', 'created_at': '2021-01-26 15:00:00', 'caption': None}], 'count': 3, 'types': ['photo', 'street_view', 'video']}",
+          "activity": "{'min': '2021-01-26 15:00:00', 'max': '2021-11-23 22:00:00'}",
+          "devices": "['bizbuilder:gmb_onboarding_web', 'bizbuilder:gmb_web', 'photos:street_view_ios']",
+          "external_id": "ChIJleL14jl6bIcRhUULSSwr_3I",
+          "feature_id": "0x876c7a39e2f5e295:0x72ff2b2c490b4585",
+          "gkg_id": "/g/11bwcd6z7s",
+          "owner": "{'external_id': '100971099785182947037', 'url': 'https://www.google.com/maps/contrib/100971099785182947037'}",
+          "phone": "[{'raw': '+1 303-376-9430', 'area_code': '303', 'type': 'FIXED_LINE_OR_MOBILE', 'country': 'US', 'country_code': '1', 'number': '+13033769430', 'local': '(303) 376-9430', 'location': 'Denver, CO', 'carrier': None, 'exchange': 'DENVER', 'company': 'LEVEL 3 COMMUNICATIONS, LLC - CO', 'adm1': 'CO'}]",
+          "url": "https://www.google.com/maps/place/Oribi+Composites/@39.7974335,-104.92046359999999,17z/data=!3m1!4b1!4m5!3m4!1s0x876c7a39e2f5e295:0x72ff2b2c490b4585!8m2!3d39.7974335!4d-104.92046359999999",
+          "appointment": NaN,
+          "website": "{'domain': 'oribicomposites.com', 'platform': None, 'url': 'http://oribicomposites.com/'}",
+          "address_clean": "5850 E 56th Ave",
+          "state_clean": "Colorado",
+          "clean": "Commerce City",
+          "zip": 80022
+        },
+        {
+          "Unnamed: 0": 27355,
+          "loan_amount": 471200.0,
+          "business_name": "ORIBI MANUFACTURING LLC",
+          "address": "5850 E 56TH AVE",
+          "city": "COMMERCE CITY",
+          "state": "CO",
+          "zip": 80022.0,
+          "naics_code": 326199.0,
+          "business_type": "Limited  Liability Company(LLC)",
+          "race_ethnicity": "Unanswered",
+          "gender": "Unanswered",
+          "veteran": "Unanswered",
+          "non_profit": false,
+          "jobs_reported": 61.0,
+          "date_approved": "2020-04-12",
+          "lender": "PNC Bank, National Association",
+          "cd": "CO-07",
+          "source_file": "150k plus PPP through 112420.csv",
+          "na_flag": false,
+          "dupe_flag": false,
+          "year_approved": 2020,
+          "address_clean": "5850 E 56 TH AVE",
+          "state_clean": "CO",
+          "city_clean": "COMMERCE CITY"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "Unnamed: 0": 13930,
+          "rank": 16,
+          "business_name": "Odyssey Beerwerks Brewery & Taproom",
+          "logo": "['https://lh5.googleusercontent.com/-7O_QWP3HaSI/AAAAAAAAAAI/AAAAAAAAAAA/eeb1c9d8Rbc/s400-p-k-no-ns-nd/photo.jpg', 'https://lh5.googleusercontent.com/-7O_QWP3HaSI/AAAAAAAAAAI/AAAAAAAAAAA/eeb1c9d8Rbc/s60-p-k-no-ns-nd/photo.jpg']",
+          "description": "Happening brewery features a taproom with microbrews on tap, live music, sports TVs & food trucks.",
+          "address": "{'street': '5535 W 56th Ave #107', 'postcode': '80002', 'city': 'Arvada', 'adm1': 'Colorado', 'country': 'US'}",
+          "location": "{'lat': 39.800697299999996, 'lng': -105.058876}",
+          "reviews": "{'rating': 4.6, 'count': 386, 'spread': [24, 5, 6, 37, 314]}",
+          "category": "{'items': ['Brewery', 'Beer distributor', 'Brewpub', 'Restaurant'], 'primary': None}",
+          "timezone": "America/Denver",
+          "price_range": 1.0,
+          "language": NaN,
+          "is_claimed": true,
+          "extra": "{'service_options': ['Kerbside pickup', 'On-site services', 'Delivery'], 'accessibility': ['Wheelchair-accessible car park', 'Wheelchair-accessible entrance', 'Wheelchair-accessible seating', 'Wheelchair-accessible toilet'], 'offerings': ['Alcohol', 'Beer'], 'amenities': ['Bar on site'], 'crowd': ['LGBTQ+ friendly', 'Transgender safe space'], 'payments': ['Credit cards', 'Debit cards'], 'parking': ['Free of charge street parking', 'Free parking lot']}",
+          "identity": "['LGBTQ+ friendly']",
+          "opening_hours": "[{'day': 1, 'hours': [14, 21]}, {'day': 2, 'hours': [14, 21]}, {'day': 3, 'hours': [14, 21]}, {'day': 4, 'hours': [14, 22]}, {'day': 5, 'hours': [12, 22]}, {'day': 6, 'hours': [12, 22]}, {'day': 7, 'hours': [12, 20]}]",
+          "status": 1,
+          "media": "{'items': [{'url': 'https://lh5.googleusercontent.com/p/AF1QipN1ILJtnCwq0che3lwxZCAZIRiMeh7EhoboGhpS=w1024-h768-k-no', 'type': 'photo', 'created_at': '2023-02-20 14:00:00', 'caption': None}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipPP1C4h3BK2B7bqmk4X9rWgUm-iszAdFVcAdbOp=w1024-h1360-k-no', 'type': 'photo', 'created_at': '2022-11-28 15:00:00', 'caption': None}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipOAWyIguJtBTVZrfnv7KQ-3AVHKZQc8u49btBpx=w1024-h768-k-no', 'type': 'photo', 'created_at': '2022-07-09 00:00:00', 'caption': None}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipPbNpeJOFY0WNh-QYnj6m49s5EWrdO59jkhoXk=w1024-h682-k-no', 'type': 'photo', 'created_at': '2020-05-18 04:00:00', 'caption': None}], 'count': 151, 'types': ['photo']}",
+          "activity": "{'min': '2020-05-18 04:00:00', 'max': '2023-02-20 14:00:00'}",
+          "devices": "['bizbuilder:gmb_web', 'photos:gmm_android_review_post', 'photos:gmm_ios_review_post']",
+          "external_id": "ChIJm40EpcKHa4cR6VCHoHMScHU",
+          "feature_id": "0x876b87c2a5048d9b:0x75701273a08750e9",
+          "gkg_id": "/g/12hnyw71w",
+          "owner": "{'external_id': '115584801573249987685', 'url': 'https://www.google.com/maps/contrib/115584801573249987685'}",
+          "phone": "[{'raw': '+1 303-421-0772', 'area_code': '303', 'type': 'FIXED_LINE_OR_MOBILE', 'country': 'US', 'country_code': '1', 'number': '+13034210772', 'local': '(303) 421-0772', 'location': 'Colorado', 'carrier': None, 'exchange': 'DENVER', 'company': 'QWEST CORPORATION', 'adm1': 'CO'}]",
+          "url": "https://www.google.com/maps/place/Odyssey+Beerwerks+Brewery+%26+Taproom/@39.800697299999996,-105.058876,17z/data=!3m1!4b1!4m5!3m4!1s0x876b87c2a5048d9b:0x75701273a08750e9!8m2!3d39.800697299999996!4d-105.058876",
+          "appointment": NaN,
+          "website": "{'domain': 'odysseybeerwerks.com', 'platform': None, 'url': 'https://www.odysseybeerwerks.com/'}",
+          "address_clean": "5535 W 56th Ave #107",
+          "state_clean": "Colorado",
+          "clean": "Arvada",
+          "zip": 80002
+        },
+        {
+          "Unnamed: 0": 13930,
+          "loan_amount": 73000.0,
+          "business_name": "ODYSSEY BEERWERKS, LLC",
+          "address": "5535 W 56th Ave,",
+          "city": "ARVADA",
+          "state": "CO",
+          "zip": 80002.0,
+          "naics_code": 312120.0,
+          "business_type": "Limited  Liability Company(LLC)",
+          "race_ethnicity": "White",
+          "gender": "Unanswered",
+          "veteran": "Unanswered",
+          "non_profit": false,
+          "jobs_reported": 8.0,
+          "date_approved": "2020-04-29",
+          "lender": "Colorado Enterprise Fund",
+          "cd": "CO-07",
+          "source_file": "01 PPP sub 150k through 112420.csv",
+          "na_flag": false,
+          "dupe_flag": false,
+          "year_approved": 2020,
+          "address_clean": "5535 W 56 TH AVE",
+          "state_clean": "CO",
+          "city_clean": "ARVADA"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "Unnamed: 0": 66715,
+          "rank": 75,
+          "business_name": "Infinite Harvest Inc",
+          "logo": "['https://lh4.googleusercontent.com/-mRO4K7wJZ8E/AAAAAAAAAAI/AAAAAAAAAAA/hmRYx8TMuoc/s400-p-k-no-ns-nd/photo.jpg', 'https://lh4.googleusercontent.com/-mRO4K7wJZ8E/AAAAAAAAAAI/AAAAAAAAAAA/hmRYx8TMuoc/s60-p-k-no-ns-nd/photo.jpg']",
+          "description": NaN,
+          "address": "{'street': '5825 W 6th Ave Frontage Rd N', 'postcode': '80214', 'city': 'Lakewood', 'adm1': 'Colorado', 'country': 'US'}",
+          "location": "{'lat': 39.7269733, 'lng': -105.0605617}",
+          "reviews": "{'rating': 4.8, 'count': 5, 'spread': [0, 0, 0, 1, 4]}",
+          "category": "{'items': ['Farm', 'Agricultural service', 'Restaurant supply store'], 'primary': None}",
+          "timezone": "America/Denver",
+          "price_range": 0.0,
+          "language": NaN,
+          "is_claimed": true,
+          "extra": "{'service_options': ['On-site services'], 'accessibility': ['Wheelchair-accessible car park', 'Wheelchair-accessible entrance']}",
+          "identity": NaN,
+          "opening_hours": NaN,
+          "status": 1,
+          "media": "{'items': [{'url': 'https://lh5.googleusercontent.com/p/AF1QipO-Mf-S6rCuGt9IVIUoPhVmBqDPy_0Z1bSDJkkv=w1024-h1279-k-no', 'type': 'photo', 'created_at': '2021-04-14 23:00:00', 'caption': None}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipN7Gvi1W5mqw9rHxnDcle5DuUL_iGH27F2wSv5j=w1024-h1279-k-no', 'type': 'photo', 'created_at': '2021-04-14 23:00:00', 'caption': None}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipPTZWmMuE2v5l5KoFLO-kFAUFuw5z2KMgZ2w-cr=w1024-h682-k-no', 'type': 'photo', 'created_at': '2020-08-29 22:00:00', 'caption': None}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipPQYTI9apv_5Qg3hFnxbCe6mptd2p5KXmpOCSEN=w1024-h731-k-no', 'type': 'photo', 'created_at': '2020-07-23 23:00:00', 'caption': None}], 'count': 54, 'types': ['photo']}",
+          "activity": "{'min': '2020-07-23 23:00:00', 'max': '2021-04-14 23:00:00'}",
+          "devices": "['bizbuilder:gmb_web']",
+          "external_id": "ChIJxbmWkLZ2bIcR2bcmrMirIyA",
+          "feature_id": "0x876c76b69096b9c5:0x2023abc8ac26b7d9",
+          "gkg_id": "/g/11cmbrl_7_",
+          "owner": "{'external_id': '117826655973908576242', 'url': 'https://www.google.com/maps/contrib/117826655973908576242'}",
+          "phone": "[{'raw': '+1 303-232-1850', 'area_code': '303', 'type': 'FIXED_LINE_OR_MOBILE', 'country': 'US', 'country_code': '1', 'number': '+13032321850', 'local': '(303) 232-1850', 'location': 'Lakewood, CO', 'carrier': None, 'exchange': 'DENVER', 'company': 'QWEST CORPORATION', 'adm1': 'CO'}]",
+          "url": "https://www.google.com/maps/place/Infinite+Harvest+Inc/@39.7269733,-105.0605617,17z/data=!3m1!4b1!4m5!3m4!1s0x876c76b69096b9c5:0x2023abc8ac26b7d9!8m2!3d39.7269733!4d-105.0605617",
+          "appointment": NaN,
+          "website": "{'domain': 'infinite-harvest.com', 'platform': None, 'url': 'https://infinite-harvest.com/'}",
+          "address_clean": "5825 W 6th Ave Frontage Rd N",
+          "state_clean": "Colorado",
+          "clean": "Lakewood",
+          "zip": 80214
+        },
+        {
+          "Unnamed: 0": 66715,
+          "loan_amount": 115100.0,
+          "business_name": "INFINITE HARVEST, INC.",
+          "address": "5825 West 6th Avenue; Unit 3B",
+          "city": "Lakewood",
+          "state": "CO",
+          "zip": 80214.0,
+          "naics_code": 111419.0,
+          "business_type": "Corporation",
+          "race_ethnicity": "Unanswered",
+          "gender": "Unanswered",
+          "veteran": "Unanswered",
+          "non_profit": false,
+          "jobs_reported": 15.0,
+          "date_approved": "2020-04-11",
+          "lender": "Solera National Bank",
+          "cd": "CO-07",
+          "source_file": "01 PPP sub 150k through 112420.csv",
+          "na_flag": false,
+          "dupe_flag": false,
+          "year_approved": 2020,
+          "address_clean": "5825 W 6 TH AVE UNIT 3 B",
+          "state_clean": "CO",
+          "city_clean": "LAKEWOOD"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "Unnamed: 0": 88651,
+          "rank": 98,
+          "business_name": "Seeley International Americas",
+          "logo": "['https://lh4.googleusercontent.com/-AFB8ohwql5M/AAAAAAAAAAI/AAAAAAAAAAA/9Bj1enwyW_E/s400-p-k-no-ns-nd/photo.jpg', 'https://lh4.googleusercontent.com/-AFB8ohwql5M/AAAAAAAAAAI/AAAAAAAAAAA/9Bj1enwyW_E/s60-p-k-no-ns-nd/photo.jpg']",
+          "description": NaN,
+          "address": "{'street': '4430 Glencoe St', 'postcode': '80216', 'city': 'Denver', 'adm1': 'Colorado', 'country': 'US'}",
+          "location": "{'lat': 39.778385, 'lng': -104.9253667}",
+          "reviews": "{'rating': 3, 'count': 3, 'spread': [1, 0, 0, 2, 0]}",
+          "category": "{'items': ['Air conditioning system supplier', 'Manufacturer'], 'primary': None}",
+          "timezone": "America/Denver",
+          "price_range": 0.0,
+          "language": NaN,
+          "is_claimed": true,
+          "extra": "{'accessibility': ['Wheelchair-accessible car park', 'Wheelchair-accessible entrance']}",
+          "identity": NaN,
+          "opening_hours": NaN,
+          "status": 1,
+          "media": "{'items': [{'url': 'https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sms7BidqrRZc0Db6jbzAzA&cb_client=search.gws-prod.gps&w=1024&h=768&yaw=197.20393&pitch=0&thumbfov=100', 'type': 'street_view', 'created_at': '2024-11-01 05:00:00', 'caption': 'Seeley International Americas'}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipPvz_CQ4_PEEP_0hIRWrCViEi8wR72TX3SQsaE5=w1024-h768-k-no', 'type': 'photo', 'created_at': '2020-12-18 17:00:00', 'caption': None}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipMgp-KZUUp4DsirrniZixrKLXw3G5WMo7hOf2Pf=w1024-h768-k-no', 'type': 'photo', 'created_at': '2020-12-18 17:00:00', 'caption': None}], 'count': 3, 'types': ['photo', 'street_view']}",
+          "activity": "{'min': '2020-12-18 17:00:00', 'max': '2020-12-18 17:00:00'}",
+          "devices": "['launch', 'photos:local_universal_rap_on_boq']",
+          "external_id": "ChIJU-t6yqN7bIcR2la-xTSvY18",
+          "feature_id": "0x876c7ba3ca7aeb53:0x5f63af34c5be56da",
+          "gkg_id": "/g/1tf36fz7",
+          "owner": "{'external_id': '102867571022658922632', 'url': 'https://www.google.com/maps/contrib/102867571022658922632'}",
+          "phone": "[{'raw': '+1 303-375-0878', 'area_code': '303', 'type': 'FIXED_LINE_OR_MOBILE', 'country': 'US', 'country_code': '1', 'number': '+13033750878', 'local': '(303) 375-0878', 'location': 'Denver, CO', 'carrier': None, 'exchange': 'DENVER', 'company': 'QWEST CORPORATION', 'adm1': 'CO'}]",
+          "url": "https://www.google.com/maps/place/Seeley+International+Americas/@39.778385,-104.9253667,17z/data=!3m1!4b1!4m5!3m4!1s0x876c7ba3ca7aeb53:0x5f63af34c5be56da!8m2!3d39.778385!4d-104.9253667",
+          "appointment": NaN,
+          "website": "{'domain': 'seeleyinternational.com', 'platform': None, 'url': 'https://www.seeleyinternational.com/us/find-a-breezair-contractor/'}",
+          "address_clean": "4430 Glencoe St",
+          "state_clean": "Colorado",
+          "clean": "Denver",
+          "zip": 80216
+        },
+        {
+          "Unnamed: 0": 88651,
+          "loan_amount": 144204.0,
+          "business_name": "SEELEY INTERNATIONAL ACQUISITION CO., LTD.",
+          "address": "4430 Glencoe st",
+          "city": "DENVER",
+          "state": "CO",
+          "zip": 80216.0,
+          "naics_code": 333415.0,
+          "business_type": "Corporation",
+          "race_ethnicity": "Unanswered",
+          "gender": "Unanswered",
+          "veteran": "Unanswered",
+          "non_profit": false,
+          "jobs_reported": 8.0,
+          "date_approved": "2020-05-01",
+          "lender": "JPMorgan Chase Bank, National Association",
+          "cd": "CO-01",
+          "source_file": "01 PPP sub 150k through 112420.csv",
+          "na_flag": false,
+          "dupe_flag": false,
+          "year_approved": 2020,
+          "address_clean": "4430 GLENCOE ST",
+          "state_clean": "CO",
+          "city_clean": "DENVER"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "Unnamed: 0": 10172,
+          "rank": 12,
+          "business_name": "Acro Manufacturing Corporation",
+          "logo": NaN,
+          "description": NaN,
+          "address": "{'street': '3999 S Mariposa St', 'postcode': '80110', 'city': 'Englewood', 'adm1': 'Colorado', 'country': 'US'}",
+          "location": "{'lat': 39.6441381, 'lng': -105.0030719}",
+          "reviews": NaN,
+          "category": "{'items': ['Machine shop'], 'primary': None}",
+          "timezone": "America/Denver",
+          "price_range": NaN,
+          "language": NaN,
+          "is_claimed": false,
+          "extra": "{'accessibility': ['Wheelchair-accessible car park']}",
+          "identity": NaN,
+          "opening_hours": NaN,
+          "status": 1,
+          "media": "{'items': [{'url': 'https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=A5F2vyi-kai4SqB6-xH4mg&cb_client=search.gws-prod.gps&w=1024&h=768&yaw=218.90009&pitch=0&thumbfov=100', 'type': 'street_view', 'created_at': '2024-10-29 03:00:00', 'caption': 'Acro Manufacturing Corporation'}], 'count': 0, 'types': ['street_view']}",
+          "activity": "{'min': None, 'max': None}",
+          "devices": "['launch']",
+          "external_id": "ChIJzR0m4m2AbIcRlKQRGVBKjb0",
+          "feature_id": "0x876c806de2261dcd:0xbd8d4a501911a494",
+          "gkg_id": "/g/1tk4rn8f",
+          "owner": NaN,
+          "phone": "[{'raw': '+1 303-761-0565', 'area_code': '303', 'type': 'FIXED_LINE_OR_MOBILE', 'country': 'US', 'country_code': '1', 'number': '+13037610565', 'local': '(303) 761-0565', 'location': 'Colorado', 'carrier': None, 'exchange': 'DENVER', 'company': 'QWEST CORPORATION', 'adm1': 'CO'}]",
+          "url": "https://www.google.com/maps/place/Acro+Manufacturing+Corporation/@39.6441381,-105.0030719,17z/data=!3m1!4b1!4m5!3m4!1s0x876c806de2261dcd:0xbd8d4a501911a494!8m2!3d39.6441381!4d-105.0030719",
+          "appointment": NaN,
+          "website": NaN,
+          "address_clean": "3999 S Mariposa St",
+          "state_clean": "Colorado",
+          "clean": "Englewood",
+          "zip": 80110
+        },
+        {
+          "Unnamed: 0": 10172,
+          "loan_amount": 18535.0,
+          "business_name": "DODD MANUFACTURING",
+          "address": "3999 S MARIPOSA ST",
+          "city": "ENGLEWOOD",
+          "state": "CO",
+          "zip": 80110.0,
+          "naics_code": 332710.0,
+          "business_type": "Limited  Liability Company(LLC)",
+          "race_ethnicity": "Unanswered",
+          "gender": "Unanswered",
+          "veteran": "Unanswered",
+          "non_profit": false,
+          "jobs_reported": 4.0,
+          "date_approved": "2020-05-01",
+          "lender": "JPMorgan Chase Bank, National Association",
+          "cd": "CO-01",
+          "source_file": "01 PPP sub 150k through 112420.csv",
+          "na_flag": false,
+          "dupe_flag": false,
+          "year_approved": 2020,
+          "address_clean": "3999 S MARIPOSA ST",
+          "state_clean": "CO",
+          "city_clean": "ENGLEWOOD"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "Unnamed: 0": 101092,
+          "rank": 109,
+          "business_name": "The Knife Guys",
+          "logo": "['https://lh3.googleusercontent.com/-JQQhsK7nCeE/AAAAAAAAAAI/AAAAAAAAAAA/uXwDmIAWaDA/s400-p-k-no-ns-nd/photo.jpg', 'https://lh3.googleusercontent.com/-JQQhsK7nCeE/AAAAAAAAAAI/AAAAAAAAAAA/uXwDmIAWaDA/s60-p-k-no-ns-nd/photo.jpg']",
+          "description": NaN,
+          "address": "{'street': '11 Kalamath St', 'postcode': '80223', 'city': 'Denver', 'adm1': 'Colorado', 'country': 'US'}",
+          "location": "{'lat': 39.7167512, 'lng': -105.0007468}",
+          "reviews": "{'rating': 4.6, 'count': 80, 'spread': [4, 3, 0, 4, 69]}",
+          "category": "{'items': ['Sharpening service', 'Cutlery store', 'Restaurant supply store', 'Uniform store'], 'primary': None}",
+          "timezone": "America/Denver",
+          "price_range": 0.0,
+          "language": NaN,
+          "is_claimed": true,
+          "extra": "{'accessibility': ['Wheelchair-accessible car park', 'Wheelchair-accessible entrance']}",
+          "identity": NaN,
+          "opening_hours": NaN,
+          "status": 1,
+          "media": "{'items': [{'url': 'https://lh5.googleusercontent.com/p/AF1QipO-LbA8TGEb1Zoptg1pGro_a-g6w0fPdTls2r_o=w1024-h460-k-no', 'type': 'photo', 'created_at': '2022-01-18 01:00:00', 'caption': None}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipM7z5waoFpzLYS5DrcDa4gnB0dbytssTm-9Zvhh=w1024-h460-k-no', 'type': 'photo', 'created_at': '2022-01-18 01:00:00', 'caption': None}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipO6CwmytF7KsWylUAmI5QWEYTqDC31wIDq924Ba=w1024-h460-k-no', 'type': 'photo', 'created_at': '2022-01-18 01:00:00', 'caption': None}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipNBJU7p8I6w-zirpqkrXGJjFiCE1JkOZopPLN7b=w1024-h460-k-no', 'type': 'photo', 'created_at': '2022-01-18 01:00:00', 'caption': None}], 'count': 4, 'types': ['photo']}",
+          "activity": "{'min': '2022-01-18 01:00:00', 'max': '2022-01-18 01:00:00'}",
+          "devices": "['photos:gmm_android']",
+          "external_id": "ChIJc75igz1_bIcRAKrxgAgkLps",
+          "feature_id": "0x876c7f3d8362be73:0x9b2e240880f1aa00",
+          "gkg_id": "/g/1tdj4q0c",
+          "owner": "{'external_id': '111394675145634436850', 'url': 'https://www.google.com/maps/contrib/111394675145634436850'}",
+          "phone": "[{'raw': '+1 303-693-0032', 'area_code': '303', 'type': 'FIXED_LINE_OR_MOBILE', 'country': 'US', 'country_code': '1', 'number': '+13036930032', 'local': '(303) 693-0032', 'location': 'Aurora, CO', 'carrier': None, 'exchange': 'DENVER', 'company': 'QWEST CORPORATION', 'adm1': 'CO'}]",
+          "url": "https://www.google.com/maps/place/The+Knife+Guys/@39.7167512,-105.0007468,17z/data=!3m1!4b1!4m5!3m4!1s0x876c7f3d8362be73:0x9b2e240880f1aa00!8m2!3d39.7167512!4d-105.0007468",
+          "appointment": NaN,
+          "website": "{'domain': 'theknifeguys.com', 'platform': None, 'url': 'https://theknifeguys.com/'}",
+          "address_clean": "11 Kalamath St",
+          "state_clean": "Colorado",
+          "clean": "Denver",
+          "zip": 80223
+        },
+        {
+          "Unnamed: 0": 101092,
+          "loan_amount": 91037.0,
+          "business_name": "THE KNIFE GUYS, INC.DBA ROLLING SHARPENI NG STONE",
+          "address": "11 KALAMATH ST",
+          "city": "DENVER",
+          "state": "CO",
+          "zip": 80223.0,
+          "naics_code": 811411.0,
+          "business_type": "Corporation",
+          "race_ethnicity": "Unanswered",
+          "gender": "Male Owned",
+          "veteran": "Non-Veteran",
+          "non_profit": false,
+          "jobs_reported": 7.0,
+          "date_approved": "2020-05-01",
+          "lender": "JPMorgan Chase Bank, National Association",
+          "cd": "CO-01",
+          "source_file": "01 PPP sub 150k through 112420.csv",
+          "na_flag": false,
+          "dupe_flag": false,
+          "year_approved": 2020,
+          "address_clean": "11 KALAMATH ST",
+          "state_clean": "CO",
+          "city_clean": "DENVER"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "Unnamed: 0": 21983,
+          "rank": 27,
+          "business_name": "Red Arrow Manufacturing",
+          "logo": "['https://lh6.googleusercontent.com/-_-8LfD9QtQ0/AAAAAAAAAAI/AAAAAAAAAAA/o7IFZlXpn7E/s400-p-k-no-ns-nd/photo.jpg', 'https://lh6.googleusercontent.com/-_-8LfD9QtQ0/AAAAAAAAAAI/AAAAAAAAAAA/o7IFZlXpn7E/s60-p-k-no-ns-nd/photo.jpg']",
+          "description": NaN,
+          "address": "{'street': '1761 E 64th Ave', 'postcode': '80229', 'city': 'Denver', 'adm1': 'Colorado', 'country': 'US'}",
+          "location": "{'lat': 39.813367299999996, 'lng': -104.9664466}",
+          "reviews": NaN,
+          "category": "{'items': ['Chemical manufacturer'], 'primary': None}",
+          "timezone": "America/Denver",
+          "price_range": NaN,
+          "language": NaN,
+          "is_claimed": true,
+          "extra": "{'accessibility': ['Wheelchair-accessible car park'], 'payments': ['Debit cards', 'Credit cards']}",
+          "identity": NaN,
+          "opening_hours": NaN,
+          "status": 1,
+          "media": "{'items': [{'url': 'https://lh5.googleusercontent.com/p/AF1QipOaRccBmb001ZYBiZm-smNB_AYsdmfqGcCNFCpo=w1024-h1536-k-no', 'type': 'photo', 'created_at': '2017-01-30 22:00:00', 'caption': None}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipNFj7j57L1OE2nbStFHrUcX_wISXmveeQtJOIhV=w1024-h682-k-no', 'type': 'photo', 'created_at': '2017-01-30 22:00:00', 'caption': None}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipMTFIjiN-ATej7rfWFwvldlClQC2C6hwlQlTFds=w914-h458-k-no', 'type': 'photo', 'created_at': '2017-01-27 15:00:00', 'caption': None}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipPsoY0vqxbvX13kkhTpYvbKyY9xuX-H-wlJ-YtN=w1000-h1000-k-no', 'type': 'photo', 'created_at': '2016-10-31 14:00:00', 'caption': None}], 'count': 4, 'types': ['photo']}",
+          "activity": "{'min': '2016-10-31 14:00:00', 'max': '2017-01-30 22:00:00'}",
+          "devices": "['bizbuilder:gmb_web']",
+          "external_id": "ChIJbQNpjdx5bIcREKr7HrBecNM",
+          "feature_id": "0x876c79dc8d69036d:0xd3705eb01efbaa10",
+          "gkg_id": "/g/1v4pthb8",
+          "owner": "{'external_id': '114710083993102576181', 'url': 'https://www.google.com/maps/contrib/114710083993102576181'}",
+          "phone": "[{'raw': '+1 303-375-0908', 'area_code': '303', 'type': 'FIXED_LINE_OR_MOBILE', 'country': 'US', 'country_code': '1', 'number': '+13033750908', 'local': '(303) 375-0908', 'location': 'Denver, CO', 'carrier': None, 'exchange': 'DENVER', 'company': 'QWEST CORPORATION', 'adm1': 'CO'}]",
+          "url": "https://www.google.com/maps/place/Red+Arrow+Manufacturing/@39.813367299999996,-104.9664466,17z/data=!3m1!4b1!4m5!3m4!1s0x876c79dc8d69036d:0xd3705eb01efbaa10!8m2!3d39.813367299999996!4d-104.9664466",
+          "appointment": NaN,
+          "website": "{'domain': 'redarrowmfg.com', 'platform': None, 'url': 'https://redarrowmfg.com/'}",
+          "address_clean": "1761 E 64th Ave",
+          "state_clean": "Colorado",
+          "clean": "Denver",
+          "zip": 80229
+        },
+        {
+          "Unnamed: 0": 21983,
+          "loan_amount": 64700.0,
+          "business_name": "RED ARROW CORPORATION",
+          "address": "1761 3 64TH AVE",
+          "city": "DENVER",
+          "state": "CO",
+          "zip": 80229.0,
+          "naics_code": 333999.0,
+          "business_type": "Corporation",
+          "race_ethnicity": "Unanswered",
+          "gender": "Male Owned",
+          "veteran": "Non-Veteran",
+          "non_profit": false,
+          "jobs_reported": 4.0,
+          "date_approved": "2020-04-29",
+          "lender": "Citywide Banks",
+          "cd": "CO-07",
+          "source_file": "01 PPP sub 150k through 112420.csv",
+          "na_flag": false,
+          "dupe_flag": false,
+          "year_approved": 2020,
+          "address_clean": "1761 3 64 TH AVE",
+          "state_clean": "CO",
+          "city_clean": "DENVER"
+        }
+      ]
+    },
+    {
+      "__class__": "tuple",
+      "__value__": [
+        {
+          "Unnamed: 0": 70839,
+          "rank": 81,
+          "business_name": "Meier Skis",
+          "logo": "['https://lh3.googleusercontent.com/-hbKRUjVGyUQ/AAAAAAAAAAI/AAAAAAAAAAA/jDJwKDNsRU0/s400-p-k-no-ns-nd/photo.jpg', 'https://lh3.googleusercontent.com/-hbKRUjVGyUQ/AAAAAAAAAAI/AAAAAAAAAAA/jDJwKDNsRU0/s60-p-k-no-ns-nd/photo.jpg']",
+          "description": NaN,
+          "address": "{'street': '1775 S Broadway', 'postcode': '80210', 'city': 'Denver', 'adm1': 'Colorado', 'country': 'US'}",
+          "location": "{'lat': 39.684396299999996, 'lng': -104.98796139999999}",
+          "reviews": "{'rating': 4.9, 'count': 126, 'spread': [0, 2, 1, 4, 119]}",
+          "category": "{'items': ['Manufacturer', 'Event venue', 'Ski shop', 'Ski repair service', 'Snowboard shop', 'Tourist attraction'], 'primary': None}",
+          "timezone": "America/Denver",
+          "price_range": 0.0,
+          "language": NaN,
+          "is_claimed": true,
+          "extra": "{'from_the_business': ['Small Business'], 'service_options': ['Delivery', 'In-store pick-up', 'In-store shopping', 'On-site services'], 'accessibility': ['Wheelchair-accessible entrance', 'Wheelchair-accessible toilet'], 'amenities': ['Wi-Fi'], 'planning': ['Quick visit'], 'payments': ['Credit cards', 'Debit cards'], 'parking': ['Free of charge street parking', 'Free parking lot', 'On-site parking']}",
+          "identity": NaN,
+          "opening_hours": "[{'day': 1, 'hours': [10, 18]}, {'day': 2, 'hours': [10, 18]}, {'day': 3, 'hours': [10, 18]}, {'day': 4, 'hours': [10, 18]}, {'day': 5, 'hours': [10, 18]}, {'day': 6, 'hours': [10, 18]}, {'day': 7, 'hours': [10, 17]}]",
+          "status": 1,
+          "media": "{'items': [{'url': 'https://lh5.googleusercontent.com/p/AF1QipP4QC7VudgL40roOJz-J9NwT1Ml6sAC33l8qYXw=w1024-h1365-k-no', 'type': 'photo', 'created_at': '2024-09-26 16:00:00', 'caption': None}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipOsT7n9c2paR5XL3l_akz-WajGn_UZzdkoCelDr=w1024-h639-k-no', 'type': 'photo', 'created_at': '2024-09-16 22:00:00', 'caption': None}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipMGPG4zLqkHH8dUI-kgU9e9CwQqivreBB6ppBOD=w1024-h576-k-no', 'type': 'photo', 'created_at': '2021-08-31 17:00:00', 'caption': None}, {'url': 'https://lh5.googleusercontent.com/p/AF1QipMipmFkwNVc0q3LclXVMF3CMq2eie0RPMDTrU08=w1024-h682-k-no', 'type': 'photo', 'created_at': '2020-11-08 08:00:00', 'caption': None}], 'count': 136, 'types': ['photo']}",
+          "activity": "{'min': '2020-11-08 08:00:00', 'max': '2024-09-26 16:00:00'}",
+          "devices": "['bizbuilder:gmb_api', 'bizbuilder:gmb_ios', 'bizbuilder:gmb_onboarding_web']",
+          "external_id": "ChIJAQCwT3oJQYcRKS8aKoc5udk",
+          "feature_id": "0x8741097a4fb00001:0xd9b939872a1a2f29",
+          "gkg_id": "/g/11b6bj4gl2",
+          "owner": "{'external_id': '115891135824087169922', 'url': 'https://www.google.com/maps/contrib/115891135824087169922'}",
+          "phone": "[{'raw': '+1 844-966-3754', 'area_code': None, 'type': 'TOLL_FREE', 'country': 'US', 'country_code': '1', 'number': '+18449663754', 'local': '(844) 966-3754', 'location': None, 'carrier': None, 'exchange': None, 'company': None, 'adm1': None}]",
+          "url": "https://www.google.com/maps/place/Meier+Skis/@39.684396299999996,-104.98796139999999,17z/data=!3m1!4b1!4m5!3m4!1s0x8741097a4fb00001:0xd9b939872a1a2f29!8m2!3d39.684396299999996!4d-104.98796139999999",
+          "appointment": "{'platform': None, 'url': 'https://meierskis.com/products/happy-hour-tours'}",
+          "website": "{'domain': 'meierskis.com', 'platform': None, 'url': 'https://www.meierskis.com/'}",
+          "address_clean": "1775 S Broadway",
+          "state_clean": "Colorado",
+          "clean": "Denver",
+          "zip": 80210
+        },
+        {
+          "Unnamed: 0": 70839,
+          "loan_amount": 58500.0,
+          "business_name": "MEIER LLC",
+          "address": "1775 S BROADWAY",
+          "city": "DENVER",
+          "state": "CO",
+          "zip": 80210.0,
+          "naics_code": 238220.0,
+          "business_type": "Limited  Liability Company(LLC)",
+          "race_ethnicity": "Unanswered",
+          "gender": "Unanswered",
+          "veteran": "Unanswered",
+          "non_profit": false,
+          "jobs_reported": 12.0,
+          "date_approved": "2020-04-08",
+          "lender": "FirstBank",
+          "cd": "CO-01",
+          "source_file": "01 PPP sub 150k through 112420.csv",
+          "na_flag": false,
+          "dupe_flag": false,
+          "year_approved": 2020,
+          "address_clean": "1775 S BROADWAY",
+          "state_clean": "CO",
+          "city_clean": "DENVER"
         }
       ]
     }

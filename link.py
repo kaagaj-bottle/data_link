@@ -1,12 +1,13 @@
-from typing import Dict, List, Optional, Tuple
+from typing import Dict, List, Optional
 import dedupe
 import pandas as pd
 import json
 import logging
 import csv
 from csv import writer
-
-from pandas.compat import os
+import namevariable
+import addressvariable
+import os
 
 logging.basicConfig(
     level=logging.INFO,
@@ -68,20 +69,26 @@ def combine_data(data_1, data_2):
     return combined_data
 
 
+def process_state_clean(state):
+    if isinstance(state, str) and state.lower() == "colorado":
+        return "CO"
+    else:
+        return state
+    
 if __name__ == "__main__":
     output_file = "data/output/data_matching_output.csv"
     settings_file = "data/output/data_matching_learned_settings"
-    training_file = "training_file.json"
+    training_file = "data/input/training_file.json"
 
     # reading data
     loans_data_file_name = "data/input/ppp_loans_state_CO.csv"
     places_data_file_name = "data/input/places.json"
 
     loans_df_gov = pd.read_csv(loans_data_file_name).astype(str)
-    loans_df_gov["zip"] = loans_df_gov["zip"].astype(str).apply(strip_str)
+    loans_df_gov["zip"] = loans_df_gov["zip"].apply(strip_str)
 
     places_df_audit_city = pd.DataFrame(read_json(places_data_file_name)["data"])
-    places_df_audit_city["business_name"] = places_df_audit_city["name"]
+    places_df_audit_city.rename(columns={"name": "business_name"}, inplace=True)
 
     old_fields = ["street", "city", "adm1", "postcode"]
     new_fields = ["address_clean", "city_clean", "state_clean", "zip"]
@@ -90,15 +97,15 @@ if __name__ == "__main__":
     places_df_audit_city = restructure_common_fields(
         places_df_audit_city, old_fields, new_fields, df_dict_key
     )
+    places_df_audit_city["state_clean"]=places_df_audit_city["state_clean"].apply(process_state_clean)
 
     fields_for_matching = [
-        dedupe.variables.String("business_name"),
+        namevariable.WesternName("business_name"),
         dedupe.variables.Exact("zip"),
-        dedupe.variables.String("address_clean"),
-        dedupe.variables.String("city_clean"),
-        dedupe.variables.String("state_clean"),
+        addressvariable.USAddress("address_clean"),
+        dedupe.variables.ShortString("city_clean"),
+        dedupe.variables.Exact("state_clean"),
     ]
-
     # transforming pandas DataFrame to python dictionary
     data_1 = places_df_audit_city.to_dict(orient="index")
     data_2 = loans_df_gov.to_dict(orient="index")
@@ -112,12 +119,11 @@ if __name__ == "__main__":
         with open(settings_file, "rb") as sf:
             linker = dedupe.StaticRecordLink(sf)
     else:
-        linker = dedupe.RecordLink(fields_for_matching)
-
+        linker = dedupe.RecordLink(fields_for_matching, constraint="one-to-one")
         if os.path.exists(training_file):
             print("reading labeled examples from ", training_file)
             with open(training_file) as tf:
-                linker.prepare_training(data_1, data_2, tf, sample_size=15000)
+                linker.prepare_training(data_1, data_2, tf, sample_size=5000)
         else:
             linker.prepare_training(data_1, data_2, sample_size=5000)
 
@@ -170,7 +176,8 @@ if __name__ == "__main__":
                 output_row.update(cluster_membership[record_id])
                 output_row.update({"source_file": 0})
                 matching_rows[cluster_membership[record_id]["cluster_id"]] = (
-                    matching_rows.get(cluster_membership[record_id]["cluster_id"], []) + [output_row]
+                    matching_rows.get(cluster_membership[record_id]["cluster_id"], [])
+                    + [output_row]
                 )
 
             else:
@@ -187,7 +194,8 @@ if __name__ == "__main__":
                 output_row.update({"source_file": 1})
 
                 matching_rows[cluster_membership[record_id]["cluster_id"]] = (
-                    matching_rows.get(cluster_membership[record_id]["cluster_id"], []) + [output_row]
+                    matching_rows.get(cluster_membership[record_id]["cluster_id"], [])
+                    + [output_row]
                 )
             else:
                 continue
